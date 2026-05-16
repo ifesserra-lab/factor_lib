@@ -1,6 +1,6 @@
 # Backlog — factor_lib
 
-**Última atualização**: 2026-05-16
+**Última atualização**: 2026-05-16 | **Constituição**: v1.1.0
 
 ---
 

@@ -1,8 +1,8 @@
 # Arquitetura de Software — factor_lib
 
-**Versão**: 1.0.0
-**Data**: 2026-05-16
-**Constituição**: [constitution.md](../.specify/memory/constitution.md)
+**Versão**: 1.1.0
+**Atualizado**: 2026-05-16
+**Constituição**: [constitution.md](../.specify/memory/constitution.md) v1.1.0
 
 ---
 
@@ -19,11 +19,12 @@ listagem de projetos, scraping de detalhes e exportação de dados em JSON.
 
 | Princípio | Aplicação |
 |-----------|-----------|
-| TDD (Test-First) | Todo código de produção precedido por teste que falha |
-| OO + Design Patterns | POM, Strategy, Facade, Factory aplicados |
+| TDD (Test-First) — NON-NEGOTIABLE | Commit Red (teste falho) ANTES do commit Green (impl); `pytest` obrigatório |
+| Pirâmide de testes | `tests/unit/` → `tests/integration/` → `tests/e2e/`; todos obrigatórios |
+| OO + Design Patterns | POM, Strategy, Facade, Factory, Value Object — tabela de patterns obrigatórios |
 | Zero Anti-Patterns | Sem God Objects, singletons, spaghetti, duplicação |
-| Playwright E2E | POM obrigatório; mocking via `page.route()` em testes |
-| Python idiomático | PEP 8, type hints, dataclasses, `pyproject.toml` |
+| Playwright E2E | `pytest-playwright`; POM obrigatório; `page.route()` para mocking |
+| Python idiomático | Python 3.11+, PEP 8, type hints, dataclasses, `pyproject.toml` |
 
 ---
 
