@@ -1,104 +1,92 @@
-# Implementation Plan: [FEATURE]
+# Implementation Plan: CSV Export to JSON Processor
 
-**Branch**: `[###-feature-name]` | **Date**: [DATE] | **Spec**: [link]
-**Input**: Feature specification from `/specs/[###-feature-name]/spec.md`
-
-**Note**: This template is filled in by the `/speckit-plan` command. See `.specify/templates/plan-template.md` for the execution workflow.
+**Branch**: `002-csv-export-to-json` | **Date**: 2026-05-16 | **Spec**: [spec.md](spec.md)
+**Input**: Feature specification from `specs/002-csv-export-to-json/spec.md`
 
 ## Summary
 
-[Extract from feature spec: primary requirement + technical approach from research]
+Python module `factor_lib.export` that automates CSV data export from the Facto
+transparency portal's project detail page. Uses Playwright to click "Exportar em CSV",
+downloads the resulting ZIP to a library-managed temp dir, parses all CSVs inside
+(with encoding fallback), and saves structured records to JSON. Packaged inside the
+existing `factor_lib` package — reuses `save_to_json` and `BrowserFactory` from core.
+Built TDD-first with pytest + pytest-playwright; OO with Strategy, Facade, Value Object.
 
 ## Technical Context
 
-<!--
-  ACTION REQUIRED: Replace the content in this section with the technical details
-  for the project. The structure here is presented in advisory capacity to guide
-  the iteration process.
--->
+**Language/Version**: Python 3.11+
+**Primary Dependencies**: `playwright` (sync API), `pytest`, `pytest-playwright`,
+  `mypy`, `ruff` — all stdlib for ZIP/CSV: `zipfile`, `csv`, `tempfile`, `io`
+**Storage**: JSON files (local filesystem); temp dir auto-deleted after parse
+**Testing**: `pytest` (unit/integration) + `pytest-playwright` (E2E); POM pattern
+**Target Platform**: Linux / macOS headless — CI compatible
+**Project Type**: library module (`factor_lib.export`) inside existing package
+**Performance Goals**: 60-second download timeout (configurable); sequential processing
+**Constraints**: No auth; temp dir lifecycle managed by library; no live portal in CI
+**Scale/Scope**: Per-project export; single ZIP; hundreds of CSV rows; single-process
 
-**Language/Version**: [e.g., Python 3.11, Swift 5.9, Rust 1.75 or NEEDS CLARIFICATION]  
-**Primary Dependencies**: [e.g., FastAPI, UIKit, LLVM or NEEDS CLARIFICATION]  
-**Storage**: [if applicable, e.g., PostgreSQL, CoreData, files or N/A]  
-**Testing**: [e.g., pytest, XCTest, cargo test or NEEDS CLARIFICATION]  
-**Target Platform**: [e.g., Linux server, iOS 15+, WASM or NEEDS CLARIFICATION]
-**Project Type**: [e.g., library/cli/web-service/mobile-app/compiler/desktop-app or NEEDS CLARIFICATION]  
-**Performance Goals**: [domain-specific, e.g., 1000 req/s, 10k lines/sec, 60 fps or NEEDS CLARIFICATION]  
-**Constraints**: [domain-specific, e.g., <200ms p95, <100MB memory, offline-capable or NEEDS CLARIFICATION]  
-**Scale/Scope**: [domain-specific, e.g., 10k users, 1M LOC, 50 screens or NEEDS CLARIFICATION]
+## Constitution Check (v1.1.0)
 
-## Constitution Check
+*GATE: Must pass before Phase 0. Re-check after Phase 1.*
 
-*GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
+| Principle | Status | Evidence |
+|-----------|--------|----------|
+| §I TDD (NON-NEGOTIABLE) | ✅ PASS | All tasks.md test tasks precede impl tasks; Red commit → Green commit enforced |
+| §I Test pyramid | ✅ PASS | `tests/unit/export/`, `tests/integration/export/`, `tests/e2e/export/` — all three levels |
+| §II Python 3.11+ | ✅ PASS | stdlib only for ZIP/CSV; no new deps beyond playwright already required |
+| §III OO + Patterns | ✅ PASS | Strategy (csv_parser), Facade (exporter), Factory (browser shared), Value Object (CsvRecord) |
+| §IV Zero Anti-Patterns | ✅ PASS | DI for page/browser; `save_to_json` reused (DRY); no singletons |
+| §V Playwright E2E | ✅ PASS | `pytest-playwright`; POM via `TransparencyPortalPage`; `page.route()` mocking |
 
-[Gates determined based on constitution file]
+**Gate result**: All principles satisfied. Proceeding to Phase 0.
 
 ## Project Structure
 
 ### Documentation (this feature)
 
 ```text
-specs/[###-feature]/
-├── plan.md              # This file (/speckit-plan command output)
-├── research.md          # Phase 0 output (/speckit-plan command)
-├── data-model.md        # Phase 1 output (/speckit-plan command)
-├── quickstart.md        # Phase 1 output (/speckit-plan command)
-├── contracts/           # Phase 1 output (/speckit-plan command)
-└── tasks.md             # Phase 2 output (/speckit-tasks command - NOT created by /speckit-plan)
+specs/002-csv-export-to-json/
+├── plan.md              # This file
+├── research.md          # Phase 0 output
+├── data-model.md        # Phase 1 output
+├── quickstart.md        # Phase 1 output
+├── contracts/
+│   └── public-api.md    # Phase 1 output
+└── tasks.md             # Already generated (/speckit-tasks)
 ```
 
-### Source Code (repository root)
-<!--
-  ACTION REQUIRED: Replace the placeholder tree below with the concrete layout
-  for this feature. Delete unused options and expand the chosen structure with
-  real paths (e.g., apps/admin, packages/something). The delivered plan must
-  not include Option labels.
--->
+### Source Code — new files for this feature
 
 ```text
-# [REMOVE IF UNUSED] Option 1: Single project (DEFAULT)
 src/
-├── models/
-├── services/
-├── cli/
-└── lib/
+  factor_lib/
+    export/
+      __init__.py          # public re-exports for factor_lib.export
+      downloader.py        # download_csv_export() — Playwright download + temp dir
+      csv_parser.py        # parse_zip_csv() — ZIP extraction + CSV parsing (Strategy)
+      exporter.py          # export_project_csv_to_json() — Facade
+      models.py            # CsvRecord, ExportResult frozen dataclasses (Value Object)
+      exceptions.py        # ExportError hierarchy
 
 tests/
-├── contract/
-├── integration/
-└── unit/
-
-# [REMOVE IF UNUSED] Option 2: Web application (when "frontend" + "backend" detected)
-backend/
-├── src/
-│   ├── models/
-│   ├── services/
-│   └── api/
-└── tests/
-
-frontend/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   └── services/
-└── tests/
-
-# [REMOVE IF UNUSED] Option 3: Mobile + API (when "iOS/Android" detected)
-api/
-└── [same as backend above]
-
-ios/ or android/
-└── [platform-specific structure: feature modules, UI flows, platform tests]
+  unit/export/
+    test_models.py
+    test_downloader.py
+    test_csv_parser.py
+    test_exporter.py
+  integration/export/
+    test_save.py
+    test_export_flow.py
+  e2e/export/
+    conftest.py            # Playwright fixtures + route mocking helpers
+    test_csv_export.py     # Full E2E with page.route() ZIP mock
+    fixtures/
+      sample_export.zip    # Recorded ZIP fixture (real portal structure)
 ```
 
-**Structure Decision**: [Document the selected structure and reference the real
-directories captured above]
+**Structure Decision**: Module added to existing `src/factor_lib/` tree.
+Shared utilities (`save_to_json`, `BrowserFactory`) reused from feature 001 — no duplication.
 
 ## Complexity Tracking
 
-> **Fill ONLY if Constitution Check has violations that must be justified**
-
-| Violation | Why Needed | Simpler Alternative Rejected Because |
-|-----------|------------|-------------------------------------|
-| [e.g., 4th project] | [current need] | [why 3 projects insufficient] |
-| [e.g., Repository pattern] | [specific problem] | [why direct DB access insufficient] |
+> No constitution violations. Table left intentionally empty.
