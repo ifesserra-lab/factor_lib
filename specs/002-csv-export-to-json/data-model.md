@@ -75,36 +75,46 @@ Each subclass carries `stage: str` and `reason: str` attributes for clear error 
 
 ## State Transitions
 
-```text
-Detail page loaded
-    │
-    ▼ click "Exportar em CSV" (follow redirects if needed)
-    │
-    ├─ button not found → raise ButtonNotFoundError
-    │
-    ▼ Playwright download event triggered
-    │
-    ├─ timeout > 60s → raise DownloadTimeoutError
-    │
-    ▼ ZIP saved to TemporaryDirectory
-    │
-    ▼ ZipFile.open() → enumerate .csv members
-    │
-    ├─ no CSVs → return ExportResult(records=(), files_processed=0)
-    │
-    ▼ for each CSV: decode UTF-8 → fallback Latin-1 → DictReader
-    │
-    ├─ both encodings fail → raise ParseError
-    │
-    ▼ skip empty rows (log count) → build CsvRecord list
-    │
-    ▼ TemporaryDirectory.__exit__() → ZIP deleted
-    │
-    ▼ ExportResult assembled
-    │
-    ▼ save_to_json(records, output_path)
-    │
-    ▼ JSON file written
+```mermaid
+stateDiagram-v2
+    [*] --> DetailPageLoaded : caller navigates (feature 001)
+    note right of DetailPageLoaded
+        Path: homepage → Buscar
+        → table → Detalhes
+    end note
+
+    DetailPageLoaded --> ClickExport : download_csv_export(page)
+    ClickExport --> ButtonNotFoundError : button absent
+    ButtonNotFoundError --> [*] : raise ButtonNotFoundError
+
+    ClickExport --> DownloadTriggered : button found & clicked
+    DownloadTriggered --> DownloadTimeoutError : > 60s elapsed
+    DownloadTimeoutError --> [*] : raise DownloadTimeoutError
+
+    DownloadTriggered --> ZipInTempDir : Playwright download complete
+    ZipInTempDir --> ZipBytesReturned : read bytes
+    ZipBytesReturned --> TempDirDeleted : TemporaryDirectory.__exit__()
+
+    TempDirDeleted --> OpenZip : parse_zip_csv(zip_bytes)
+    OpenZip --> NoCsvs : ZIP has no .csv members
+    NoCsvs --> EmptyList : return []
+
+    OpenZip --> DecodeEachCsv : .csv members found
+    DecodeEachCsv --> TryUtf8 : decode attempt
+    TryUtf8 --> ParsedCsv : UTF-8 success
+    TryUtf8 --> TryLatin1 : UnicodeDecodeError
+    TryLatin1 --> ParsedCsv : Latin-1 success
+    TryLatin1 --> ParseError : both fail
+    ParseError --> [*] : raise ParseError
+
+    ParsedCsv --> SkipEmpty : DictReader rows
+    SkipEmpty --> CsvRecordList : build CsvRecord per row
+
+    CsvRecordList --> ExportResult : export_project_csv_to_json assembles
+    EmptyList --> ExportResult
+
+    ExportResult --> JsonFile : save_to_json(records, output_path)
+    JsonFile --> [*]
 ```
 
 ---

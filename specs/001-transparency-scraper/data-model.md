@@ -86,35 +86,29 @@ Aggregate output of a full scraping run.
 
 ## State Transitions
 
-```text
-Portal URL loaded
-    │
-    ▼
-[Consultar clicked]
-    │
-    ▼
-ProjectListingRecord[] extracted
-    │
-    ├─ for each record:
-    │       │
-    │       ▼
-    │   [lupa clicked]
-    │       │
-    │   ┌───┴───────────────────────────┐
-    │   │ Success                       │ Failure
-    │   ▼                               ▼
-    │  fields extracted          _error set, fields={}
-    │   │                               │
-    │   └───────────┬───────────────────┘
-    │               │
-    │               ▼
-    │       ProjectDetailRecord
-    │
-    ▼
-ScrapeResult assembled
-    │
-    ▼
-[save_to_json] → JSON file written
+```mermaid
+stateDiagram-v2
+    [*] --> PortalLoaded : page.goto(url)
+
+    PortalLoaded --> ListingVisible : click "Consultar"
+    ListingVisible --> ListingError : Consultar button not found
+    ListingError --> [*] : raise PortalNavigationError
+
+    ListingVisible --> ScrapingDetail : for each ProjectListingRecord
+    note right of ScrapingDetail
+        Iterates each row:
+        click lupa → load detail page
+    end note
+
+    ScrapingDetail --> DetailSuccess : fields extracted
+    ScrapingDetail --> DetailFailure : scraping error per project
+
+    DetailSuccess --> ProjectDetailRecord : _error = None
+    DetailFailure --> ProjectDetailRecord : _error = message\nfields = {}
+
+    ProjectDetailRecord --> ScrapeResult : all records assembled
+    ScrapeResult --> JsonFile : save_to_json()
+    JsonFile --> [*]
 ```
 
 ---

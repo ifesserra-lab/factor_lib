@@ -26,9 +26,9 @@ feature 001). Shared utilities (`save_to_json`, `BrowserFactory`) reused from co
 
 **Purpose**: Create module skeleton and test infrastructure
 
-- [ ] T001 Create directory structure: `src/factor_lib/export/`, `tests/unit/export/`, `tests/integration/export/`, `tests/e2e/export/fixtures/`
-- [ ] T002 [P] Create empty `__init__.py` files in each new package directory
-- [ ] T003 [P] Add `tests/e2e/export/fixtures/sample_export.zip` — record a real ZIP fixture from the portal (or create minimal valid ZIP with one CSV for mocking)
+- [x] T001 Create directory structure: `src/factor_lib/export/`, `tests/unit/export/`, `tests/integration/export/`, `tests/e2e/export/fixtures/`
+- [x] T002 [P] Create empty `__init__.py` files in each new package directory
+- [x] T003 [P] Add `tests/e2e/export/fixtures/sample_export.zip` — record a real ZIP fixture from the portal (or create minimal valid ZIP with one CSV for mocking)
 
 ---
 
@@ -38,12 +38,12 @@ feature 001). Shared utilities (`save_to_json`, `BrowserFactory`) reused from co
 
 **⚠️ CRITICAL**: No user story work begins until this phase is complete
 
-- [ ] T004 Write failing test for CsvRecord dataclass fields and frozen immutability in `tests/unit/export/test_models.py`
-- [ ] T005 [P] Write failing test for ExportResult dataclass fields and invariants in `tests/unit/export/test_models.py`
-- [ ] T006 [P] Write failing test for ExportError hierarchy (inherits from FactoLibError) in `tests/unit/export/test_models.py`
-- [ ] T007 Implement `CsvRecord` and `ExportResult` dataclasses in `src/factor_lib/export/models.py`
-- [ ] T008 [P] Implement `ExportError` exception class in `src/factor_lib/export/exceptions.py`
-- [ ] T009 Wire public re-exports in `src/factor_lib/export/__init__.py`: `ExportError`, `CsvRecord`, `ExportResult`, `download_csv_export`, `parse_zip_csv`, `export_project_csv_to_json`
+- [x] T004 Write failing test for CsvRecord dataclass fields and frozen immutability in `tests/unit/export/test_models.py`
+- [x] T005 [P] Write failing test for ExportResult dataclass fields and invariants in `tests/unit/export/test_models.py`
+- [x] T006 [P] Write failing test for ExportError hierarchy (inherits from FactoLibError) in `tests/unit/export/test_models.py`
+- [x] T007 Implement `CsvRecord` and `ExportResult` dataclasses in `src/factor_lib/export/models.py`
+- [x] T008 [P] Implement `ExportError` exception class in `src/factor_lib/export/exceptions.py`
+- [x] T009 Wire public re-exports in `src/factor_lib/export/__init__.py`: `ExportError`, `CsvRecord`, `ExportResult`, `download_csv_export`, `parse_zip_csv`, `export_project_csv_to_json`
 
 **Checkpoint**: Models and exceptions green — user story work may begin
 
@@ -59,14 +59,14 @@ bytes returned and no temp files left on disk after call.
 
 ### Tests for User Story 1 ⚠️ Write FIRST — must FAIL before T014
 
-- [ ] T010 [P] [US1] Write failing unit test: `download_csv_export` raises `ExportError` when "Exportar em CSV" button not found in `tests/unit/export/test_downloader.py`
-- [ ] T011 [P] [US1] Write failing unit test: `download_csv_export` raises `ExportError` on timeout (mock download taking >60s) in `tests/unit/export/test_downloader.py`
-- [ ] T012 [P] [US1] Write failing unit test: `download_csv_export` follows redirect and downloads from final URL in `tests/unit/export/test_downloader.py`
-- [ ] T013 [P] [US1] Write failing E2E test: `download_csv_export` with `page.route()` mock intercepting ZIP download, assert temp dir cleaned up after call in `tests/e2e/export/test_csv_export.py`
+- [x] T010 [P] [US1] Write failing unit test: `download_csv_export` raises `ExportError` when "Exportar em CSV" button not found in `tests/unit/export/test_downloader.py`
+- [x] T011 [P] [US1] Write failing unit test: `download_csv_export` raises `ExportError` on timeout (mock download taking >60s) in `tests/unit/export/test_downloader.py`
+- [x] T012 [P] [US1] Write failing unit test: `download_csv_export` follows redirect and downloads from final URL in `tests/unit/export/test_downloader.py`
+- [x] T013 [P] [US1] Write failing E2E test: `download_csv_export` with `page.route()` mock intercepting ZIP download, assert temp dir cleaned up after call in `tests/e2e/export/test_csv_export.py`
 
 ### Implementation for User Story 1
 
-- [ ] T014 [US1] Implement `download_csv_export(page, *, timeout: int = 60_000) -> bytes` in `src/factor_lib/export/downloader.py`:
+- [x] T014 [US1] Implement `download_csv_export(page, *, timeout: int = 60_000) -> bytes` in `src/factor_lib/export/downloader.py`:
   - Locate "Exportar em CSV" button; raise `ExportError` if not found
   - Use Playwright download event; follow redirects automatically
   - Download ZIP to `tempfile.TemporaryDirectory()` (context manager)
@@ -87,16 +87,16 @@ encoding fallbacks, skip empty rows, tag multi-file records with source filename
 
 ### Tests for User Story 2 ⚠️ Write FIRST — must FAIL before T022
 
-- [ ] T015 [P] [US2] Write failing unit test: `parse_zip_csv` with single-CSV ZIP returns list of dicts, keys = CSV headers in `tests/unit/export/test_csv_parser.py`
-- [ ] T016 [P] [US2] Write failing unit test: `parse_zip_csv` with multi-CSV ZIP merges rows, each record has `_source_file` in `tests/unit/export/test_csv_parser.py`
-- [ ] T017 [P] [US2] Write failing unit test: `parse_zip_csv` with ZIP containing no CSVs returns `[]` and logs warning in `tests/unit/export/test_csv_parser.py`
-- [ ] T018 [P] [US2] Write failing unit test: `parse_zip_csv` with Latin-1 CSV falls back from UTF-8 and parses correctly in `tests/unit/export/test_csv_parser.py`
-- [ ] T019 [P] [US2] Write failing unit test: empty rows skipped silently; mismatched-column rows get `""` for missing fields in `tests/unit/export/test_csv_parser.py`
-- [ ] T020 [P] [US2] Write failing unit test: each record includes `_extracted_at` (ISO 8601) and `_source_file` metadata in `tests/unit/export/test_csv_parser.py`
+- [x] T015 [P] [US2] Write failing unit test: `parse_zip_csv` with single-CSV ZIP returns list of dicts, keys = CSV headers in `tests/unit/export/test_csv_parser.py`
+- [x] T016 [P] [US2] Write failing unit test: `parse_zip_csv` with multi-CSV ZIP merges rows, each record has `_source_file` in `tests/unit/export/test_csv_parser.py`
+- [x] T017 [P] [US2] Write failing unit test: `parse_zip_csv` with ZIP containing no CSVs returns `[]` and logs warning in `tests/unit/export/test_csv_parser.py`
+- [x] T018 [P] [US2] Write failing unit test: `parse_zip_csv` with Latin-1 CSV falls back from UTF-8 and parses correctly in `tests/unit/export/test_csv_parser.py`
+- [x] T019 [P] [US2] Write failing unit test: empty rows skipped silently; mismatched-column rows get `""` for missing fields in `tests/unit/export/test_csv_parser.py`
+- [x] T020 [P] [US2] Write failing unit test: each record includes `_extracted_at` (ISO 8601) and `_source_file` metadata in `tests/unit/export/test_csv_parser.py`
 
 ### Implementation for User Story 2
 
-- [ ] T021 [P] [US2] Implement `parse_zip_csv(zip_bytes: bytes) -> list[CsvRecord]` in `src/factor_lib/export/csv_parser.py`:
+- [x] T021 [P] [US2] Implement `parse_zip_csv(zip_bytes: bytes) -> list[CsvRecord]` in `src/factor_lib/export/csv_parser.py`:
   - Open ZIP from bytes with `zipfile.ZipFile`
   - Enumerate members; filter to `.csv` extension only (ignore others silently)
   - For each CSV: try UTF-8 decode; fallback to Latin-1/ISO-8859-1 on `UnicodeDecodeError`
@@ -119,13 +119,13 @@ JSON array with same record count.
 
 ### Tests for User Story 3 ⚠️ Write FIRST — must FAIL before T025
 
-- [ ] T022 [P] [US3] Write failing integration test: `save_to_json` with `CsvRecord` list creates valid JSON file in `tests/integration/export/test_save.py`
-- [ ] T023 [P] [US3] Write failing integration test: `save_to_json` overwrites existing file in `tests/integration/export/test_save.py`
-- [ ] T024 [P] [US3] Write failing integration test: `save_to_json` creates missing parent directories in `tests/integration/export/test_save.py`
+- [x] T022 [P] [US3] Write failing integration test: `save_to_json` with `CsvRecord` list creates valid JSON file in `tests/integration/export/test_save.py`
+- [x] T023 [P] [US3] Write failing integration test: `save_to_json` overwrites existing file in `tests/integration/export/test_save.py`
+- [x] T024 [P] [US3] Write failing integration test: `save_to_json` creates missing parent directories in `tests/integration/export/test_save.py`
 
 ### Implementation for User Story 3
 
-- [ ] T025 [US3] Verify `save_to_json` from `src/factor_lib/serializers/json_serializer.py` (feature 001) handles `CsvRecord` dataclasses correctly via `default=str`. Add `CsvRecord` serialization test to existing serializer tests if needed. No new implementation — reuse core.
+- [x] T025 [US3] Verify `save_to_json` from `src/factor_lib/serializers/json_serializer.py` (feature 001) handles `CsvRecord` dataclasses correctly via `default=str`. Add `CsvRecord` serialization test to existing serializer tests if needed. No new implementation — reuse core.
 
 **Checkpoint**: US1 + US2 + US3 independently functional
 
@@ -142,20 +142,20 @@ Playwright mock → `output/test.json` exists and contains expected records.
 
 ### Tests for User Story 4 ⚠️ Write FIRST — must FAIL before T029
 
-- [ ] T026 [P] [US4] Write failing integration test: `export_project_csv_to_json` produces valid JSON file with all records from fixture ZIP in `tests/integration/export/test_export_flow.py`
-- [ ] T027 [P] [US4] Write failing unit test: download failure raises `ExportError` with message "download stage failed: <reason>" in `tests/unit/export/test_exporter.py`
-- [ ] T028 [P] [US4] Write failing unit test: parse failure raises `ExportError` with message "parse stage failed: <reason>" in `tests/unit/export/test_exporter.py`
-- [ ] T029 [P] [US4] Write failing E2E test: full flow with `page.route()` mock produces JSON file in `tests/e2e/export/test_csv_export.py`
+- [x] T026 [P] [US4] Write failing integration test: `export_project_csv_to_json` produces valid JSON file with all records from fixture ZIP in `tests/integration/export/test_export_flow.py`
+- [x] T027 [P] [US4] Write failing unit test: download failure raises `ExportError` with message "download stage failed: <reason>" in `tests/unit/export/test_exporter.py`
+- [x] T028 [P] [US4] Write failing unit test: parse failure raises `ExportError` with message "parse stage failed: <reason>" in `tests/unit/export/test_exporter.py`
+- [x] T029 [P] [US4] Write failing E2E test: full flow with `page.route()` mock produces JSON file in `tests/e2e/export/test_csv_export.py`
 
 ### Implementation for User Story 4
 
-- [ ] T030 [US4] Implement `export_project_csv_to_json(page, output_path, *, timeout: int = 60_000) -> ExportResult` in `src/factor_lib/export/exporter.py`:
+- [x] T030 [US4] Implement `export_project_csv_to_json(page, output_path, *, timeout: int = 60_000) -> ExportResult` in `src/factor_lib/export/exporter.py`:
   - Call `download_csv_export(page, timeout=timeout)` → ZIP bytes
   - Call `parse_zip_csv(zip_bytes)` → list of CsvRecord
   - Call `save_to_json(records, output_path)`
   - Wrap each stage in try/except; re-raise as `ExportError(f"<stage> stage failed: {e}")`
   - Return `ExportResult(records=..., total=..., ...)`
-- [ ] T031 [US4] Update `src/factor_lib/export/__init__.py` — confirm all public symbols exported correctly
+- [x] T031 [US4] Update `src/factor_lib/export/__init__.py` — confirm all public symbols exported correctly
 
 **Checkpoint**: All 4 user stories independently functional and tested
 
@@ -163,11 +163,11 @@ Playwright mock → `output/test.json` exists and contains expected records.
 
 ## Phase N: Polish & Cross-Cutting Concerns
 
-- [ ] T032 [P] Run `mypy --strict src/factor_lib/export/` — fix all type errors
-- [ ] T033 [P] Run `ruff check src/factor_lib/export/ tests/unit/export/ tests/integration/export/ tests/e2e/export/` — fix all warnings
-- [ ] T034 [P] Verify no anti-patterns present: God Objects, magic strings, Singleton abuse, copy-paste (constitution §IV review)
-- [ ] T035 Run `pytest tests/unit/export tests/integration/export tests/e2e/export` — confirm all green
-- [ ] T036 Update `docs/backlog.md` — mark feature 002 US status as Concluído ✅
+- [x] T032 [P] Run `mypy --strict src/factor_lib/export/` — fix all type errors
+- [x] T033 [P] Run `ruff check src/factor_lib/export/ tests/unit/export/ tests/integration/export/ tests/e2e/export/` — fix all warnings
+- [x] T034 [P] Verify no anti-patterns present: God Objects, magic strings, Singleton abuse, copy-paste (constitution §IV review)
+- [x] T035 Run `pytest tests/unit/export tests/integration/export tests/e2e/export` — confirm all green
+- [x] T036 Update `docs/backlog.md` — mark feature 002 US status as Concluído ✅
 
 ---
 

@@ -5,6 +5,26 @@
 **Status**: Draft
 **Input**: User description: "na pagina de detalhes clique em exportar em csv. baixar o arquivo zip abrir e processar e salvar tudo em json"
 
+## Navigation Flow (updated 2026-05-16)
+
+The complete navigation path from portal homepage to downloaded ZIP is:
+
+```
+1. Navigate to https://facto.conveniar.com.br/portaltransparencia/
+2. Click "Buscar" (search/consult) → project listing table appears
+3. For each project row in the table: click "Detalhes" (detail link/icon)
+4. On the project detail page: click "Exportar em CSV" (or "Download CSV")
+5. Playwright intercepts the download → ZIP saved to library-managed temp dir
+6. Parse all CSVs from ZIP → list[CsvRecord]
+7. Save list[CsvRecord] to JSON at caller-specified path
+```
+
+**Handoff with feature 001**: Feature 001 handles steps 1–3 (navigation,
+listing, and detail page access). Feature 002 handles steps 4–7 (download,
+parse, save). The caller is responsible for navigating to the detail page
+before invoking `download_csv_export(page)` — or using the combined facade
+`export_project_csv_to_json(page, output_path)` which assumes step 3 is complete.
+
 ## Clarifications
 
 ### Session 2026-05-16
@@ -15,28 +35,38 @@
 - Q: If export button triggers redirect instead of direct download, what should library do? → A: Follow redirect and attempt download from final destination URL
 - Q: Should CSV export be packaged inside `factor_lib` or as a separate library? → A: Same `factor_lib` package — `from factor_lib.export import export_project_csv_to_json`
 
+### Session 2026-05-16 (navigation update)
+
+- Q: What is the full navigation path from portal homepage to the "Exportar em CSV" button? → A: Navigate to portal → click "Buscar" → project listing table visible → click "Detalhes" for target project → detail page loaded → click "Exportar em CSV" (or "Download CSV"). The export button may use either label.
+
 ## User Scenarios & Testing *(mandatory)*
 
-### User Story 1 - Trigger CSV Export Download (Priority: P1)
+### User Story 1 - Navigate to Project Detail and Trigger CSV Download (Priority: P1)
 
-A developer uses the library while on a project detail page. The library locates and
-clicks the "Exportar em CSV" button, waits for the download to complete, and returns
-the path to the downloaded ZIP file.
+A developer (or the library itself, via the facade) arrives at the project detail page
+by first opening the portal, clicking "Buscar" to load the project listing table, then
+clicking "Detalhes" for a specific project. From the detail page, the library clicks
+"Exportar em CSV" (also labelled "Download CSV"), waits for the download, and returns
+the ZIP bytes.
 
-**Why this priority**: Without successfully downloading the ZIP, no processing is
-possible. This is the entry point for the entire export flow.
+**Why this priority**: Without successfully navigating to the detail page and
+downloading the ZIP, no processing is possible. The navigation path
+(Buscar → Detalhes → Download CSV) is the mandatory entry sequence.
 
-**Independent Test**: Call `download_csv_export(page)` while on a detail page and
-assert that a ZIP file is present at the returned path and is non-zero in size.
+**Independent Test**: Call `download_csv_export(page)` while on a detail page
+(arrived via Buscar → Detalhes) and assert non-empty bytes returned.
 
 **Acceptance Scenarios**:
 
-1. **Given** the detail page is loaded and the "Exportar em CSV" button is visible,
+1. **Given** the user is on the portal homepage, **When** `page.goto(url)` is called
+   followed by clicking "Buscar", **Then** the project listing table becomes visible
+   with at least one project row.
+2. **Given** the project listing table is visible, **When** "Detalhes" is clicked for
+   a specific project row, **Then** the browser navigates to that project's detail page.
+3. **Given** the detail page is loaded and the "Exportar em CSV" button is visible,
    **When** `download_csv_export(page)` is called, **Then** the button is clicked
-   and a ZIP file is downloaded to a known local path.
-2. **Given** the download is triggered, **When** the download completes,
-   **Then** the returned path points to a file that exists and has size > 0.
-3. **Given** the "Exportar em CSV" button is not present on the page,
+   and ZIP bytes are returned (size > 0).
+4. **Given** the "Exportar em CSV" button is not present on the page,
    **When** `download_csv_export(page)` is called, **Then** an informative error
    is raised without crashing the process.
 
@@ -199,6 +229,11 @@ the output JSON file is created and contains the expected records from that proj
   under the `factor_lib.export` module. Callers import via
   `from factor_lib.export import export_project_csv_to_json`. Shared utilities
   (browser lifecycle, `save_to_json`) are reused from `factor_lib` core.
-- The caller is responsible for navigating to the correct detail page before
-  invoking the export functions.
+- The caller (or feature 001 library) is responsible for navigating through
+  Buscar → project listing table → Detalhes to reach the detail page before
+  invoking `download_csv_export(page)`. The complete portal navigation path is:
+  homepage → click "Buscar" → table visible → click "Detalhes" for a project →
+  detail page loaded → call `download_csv_export(page)`.
+- The export button on the detail page may be labelled "Exportar em CSV" or
+  "Download CSV" — both must be recognized by the locator.
 - Parallel processing of multiple projects' CSV exports is out of scope for v1.
