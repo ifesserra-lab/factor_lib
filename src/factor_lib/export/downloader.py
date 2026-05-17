@@ -1,4 +1,4 @@
-"""Download the 'Exportar em CSV' ZIP from the Facto portal detail page."""
+"""Download the CSV ZIP from the Facto portal detail page."""
 from __future__ import annotations
 
 import tempfile
@@ -9,20 +9,21 @@ from playwright.sync_api import TimeoutError as PlaywrightTimeoutError
 
 from factor_lib.export.exceptions import ButtonNotFoundError, DownloadTimeoutError
 
-_EXPORT_BUTTON_TEXT = "Exportar em CSV"
+# Stable element ID for the CSV export link on the detail page
+_EXPORT_CSV_SEL = "#ctl00_ContentPlaceHolder1_ProjetosUserControl1_InformacoesProjetoUserControl_lnkExportarProjetoCsv"
 
 
 def download_csv_export(page: Page, *, timeout: int = 60_000) -> bytes:
-    """Click 'Exportar em CSV', download resulting ZIP, return its bytes.
+    """Click the CSV export link, download resulting ZIP, return its bytes.
 
     Caller must already be on the project detail page.
     Temp dir is managed and deleted by this function regardless of outcome.
     """
-    button = page.locator(f"text={_EXPORT_BUTTON_TEXT}")
+    button = page.locator(_EXPORT_CSV_SEL)
     if button.count() == 0:
         raise ButtonNotFoundError(
             stage="download",
-            reason=f"'{_EXPORT_BUTTON_TEXT}' button not found on current page",
+            reason="CSV export link not found on current page (project may be restricted)",
         )
 
     with tempfile.TemporaryDirectory() as tmp_dir:
