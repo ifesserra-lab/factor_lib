@@ -1,6 +1,6 @@
 # Arquitetura de Software — factor_lib
 
-**Versão**: 1.1.0
+**Versão**: 1.2.0
 **Atualizado**: 2026-05-16
 **Constituição**: [constitution.md](../.specify/memory/constitution.md) v1.1.0
 
@@ -36,31 +36,52 @@ factor_lib/                          # raiz do repositório
 ├── src/
 │   └── factor_lib/
 │       ├── __init__.py              # re-exports públicos
-│       ├── api.py                   # Facade — API de alto nível (feature 001)
-│       ├── browser.py               # BrowserFactory + ciclo de vida do contexto
+│       ├── api.py                   # Facade — API de alto nível (feature 001) ⏳
+│       ├── browser.py               # BrowserFactory + ciclo de vida do contexto ⏳
+│       ├── exceptions.py            # FactoLibError, PortalNavigationError, DomainParseError
 │       ├── pages/
-│       │   ├── base_page.py         # BasePage — helpers de espera (POM base)
-│       │   └── portal_page.py       # TransparencyPortalPage (POM concreto)
+│       │   ├── base_page.py         # BasePage — helpers de espera (POM base) ⏳
+│       │   └── portal_page.py       # TransparencyPortalPage (POM concreto) ⏳
 │       ├── scrapers/
-│       │   ├── base_scraper.py      # AbstractScraper (interface Strategy)
-│       │   ├── listing_scraper.py   # ListingScraper (Strategy — listagem)
-│       │   └── detail_scraper.py    # DetailScraper  (Strategy — detalhes)
-│       ├── export/
-│       │   ├── __init__.py
-│       │   └── csv_export.py        # Módulo de exportação CSV→JSON (feature 002)
+│       │   ├── base_scraper.py      # AbstractScraper (interface Strategy) ⏳
+│       │   ├── listing_scraper.py   # ListingScraper (Strategy — listagem) ⏳
+│       │   └── detail_scraper.py    # DetailScraper  (Strategy — detalhes) ⏳
+│       ├── export/                  # feature 002 ✅ CONCLUÍDO
+│       │   ├── csv_parser.py        # parse_zip_csv — extrai CSV do ZIP
+│       │   ├── downloader.py        # download_csv_export — clique + download
+│       │   ├── exporter.py          # export_project_csv_to_json — Facade
+│       │   └── models.py            # CsvRecord, ExportResult
+│       ├── domain/                  # feature 003 ✅ CONCLUÍDO
+│       │   ├── models.py            # 8 dataclasses frozen (Value Objects)
+│       │   ├── exceptions.py        # DomainParseError
+│       │   ├── builder.py           # build_projeto() — Facade principal
+│       │   └── parsers/
+│       │       ├── _utils.py        # _clean, _parse_money, _parse_date, _parse_ref
+│       │       ├── projeto_info.py  # parse_project_info → ProjetoInfo
+│       │       ├── equipe.py        # parse_equipe → list[MembroEquipe]
+│       │       ├── pagamentos.py    # parse_pagamentos → list[Pagamento]
+│       │       ├── plano_trabalho.py # parse_plano_trabalho → list[ItemPlanoTrabalho]
+│       │       ├── recursos.py      # parse_recursos → list[RecursoRubrica]
+│       │       ├── documentos.py    # parse_documentos → list[Documento]
+│       │       └── prestacoes_contas.py # parse_prestacoes_contas → list[PrestacaoContas]
 │       ├── models/
-│       │   ├── project.py           # ProjectListingRecord, ProjectDetailRecord
-│       │   └── result.py            # ScrapeResult, ExportResult
+│       │   ├── project.py           # ProjectListingRecord, ProjectDetailRecord ⏳
+│       │   └── result.py            # ScrapeResult ⏳
 │       └── serializers/
-│           └── json_serializer.py   # save_to_json
+│           └── json_serializer.py   # save_to_json ✅
 └── tests/
     ├── conftest.py                  # fixtures compartilhadas
     ├── unit/                        # sem I/O externo
+    │   ├── export/                  # ✅
+    │   └── domain/                  # ✅
     ├── integration/                 # filesystem real
+    │   ├── export/                  # ✅
+    │   └── domain/                  # ✅
     └── e2e/
-        ├── conftest.py              # fixtures Playwright + snapshots gravados
-        └── test_portal.py           # testes E2E com mocking via page.route()
+        ├── conftest.py              # fixtures Playwright + snapshots gravados ⏳
+        └── test_portal.py           # testes E2E com mocking via page.route() ⏳
 ```
+**Legenda**: ✅ implementado | ⏳ pendente (feature 001)
 
 ---
 
@@ -134,11 +155,38 @@ Detail Page (Playwright Page object)
 ZIP download → temp dir (gerenciado pela lib)
     │
     ▼ extrai CSV(s)
-CSV rows → list[dict]  (linhas vazias ignoradas; encoding fallback Latin-1)
+CSV rows → list[CsvRecord]  (linhas vazias ignoradas; encoding fallback Latin-1)
     │
     ▼ save_to_json()
 output.json          (temp dir deletado automaticamente)
 ```
+
+## Fluxo de Dados — Feature 003 (Modelo de Domínio) ✅
+
+```
+list[CsvRecord]   (saída de parse_zip_csv)
+    │
+    ├─ parse_project_info()   → ProjetoInfo
+    ├─ parse_equipe()         → list[MembroEquipe]
+    ├─ parse_pagamentos()     → list[Pagamento]
+    ├─ parse_plano_trabalho() → list[ItemPlanoTrabalho]
+    ├─ parse_recursos()       → list[RecursoRubrica]
+    ├─ parse_documentos()     → list[Documento]
+    └─ parse_prestacoes_contas() → list[PrestacaoContas]
+            │
+            ▼ build_projeto() — Facade
+        ProjetoCompleto { info, equipe, documentos, pagamentos,
+                          plano_trabalho, recursos, prestacoes_contas }
+            │
+            ▼ dataclasses.asdict() + save_to_json()
+        output/projeto_NNN.json
+```
+
+**Decisões chave do domínio**:
+- Matching de arquivo por substring ASCII ("informa", "equipe", "pagamento"...) — tolera filenames CP437/Latin-1 em ZIPs
+- `Decimal` para valores monetários brasileiros (`3.722.800,00` → `Decimal("3722800.00")`)
+- `\xa0` (non-breaking space) normalizado para `None` via `_clean()`
+- Todos os dataclasses são `frozen=True` (Value Objects imutáveis)
 
 ---
 

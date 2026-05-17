@@ -135,6 +135,79 @@ pelo portal, complementando os dados scraped do ÉPICO 1.
 
 ---
 
+## ÉPICO 3 — Modelo de Domínio Estruturado
+
+**Objetivo**: Converter os registros CSV brutos exportados do portal em um modelo de
+domínio tipado e validado, pronto para análise financeira e relatórios.
+
+**Entrega de valor**: Transforma dicts genéricos em dataclasses Python fortemente
+tipadas com `Decimal` para valores monetários, `datetime.date` para datas e `None`
+para campos ausentes — eliminando parsing ad-hoc no código downstream.
+
+**Status**: Concluído ✅ — `factor_lib.domain` implementado e testado (146/146 testes passando).
+
+---
+
+### US3-01 — Parsear Informações do Projeto (P1 · MVP)
+
+**Como** desenvolvedor,
+**Quero** chamar `parse_project_info(records)` com os registros CSV brutos,
+**Para** obter um objeto `ProjetoInfo` com campos tipados (datas, Decimal, strings normalizadas).
+
+**Critérios de Aceitação**:
+1. `ProjetoInfo.referencia` extrai apenas o número antes do " — " (ex.: "372 - Estudos" → "372").
+2. Campos de data são `datetime.date`; campos monetários são `Decimal` sem separador de milhar.
+3. Campos opcionais (`data_encerramento`, `departamento`, `processo`) retornam `None` quando valor é `\xa0` ou vazio.
+4. Lança `DomainParseError` se nenhum registro do arquivo "informações do projeto" for encontrado.
+5. Matching do arquivo de origem é por substring ("informa") para tolerar encoding CP437/Latin-1 nos ZIPs.
+
+**Teste independente**: `parse_project_info([record_with_full_fields])` retorna `ProjetoInfo` com `referencia == "372"` e `valor_aprovado == Decimal("3722800.00")`.
+
+---
+
+### US3-02 — Parsear Entidades de Projeto (P2)
+
+**Como** desenvolvedor,
+**Quero** chamar parsers específicos para cada CSV exportado (equipe, pagamentos, plano de trabalho, recursos, documentos, prestações de contas),
+**Para** obter listas de dataclasses tipadas para cada entidade do projeto.
+
+**Entidades e parsers**:
+
+| Parser | Entidade | Arquivo fonte (keyword) |
+|--------|----------|------------------------|
+| `parse_equipe` | `MembroEquipe` | "equipe" |
+| `parse_pagamentos` | `Pagamento` | "pagamento" |
+| `parse_plano_trabalho` | `ItemPlanoTrabalho` | "plano" |
+| `parse_recursos` | `RecursoRubrica` | "recurso" |
+| `parse_documentos` | `Documento` | "documento" |
+| `parse_prestacoes_contas` | `PrestacaoContas` | "presta" |
+
+**Critérios de Aceitação**:
+1. Cada parser filtra por keyword no nome do arquivo fonte (`source_file`).
+2. Campos monetários são `Decimal`; datas são `datetime.date`; valores `\xa0` → `None`.
+3. Registros sem correspondência de arquivo retornam lista vazia (sem erro).
+4. `Pagamento.tipo_favorecido` é derivado do nome do arquivo ("pessoa" → `"pessoa_fisica"`, default → `"servidor"`).
+
+**Teste independente**: `parse_recursos([matching_record, non_matching_record])` retorna exatamente 1 `RecursoRubrica`.
+
+---
+
+### US3-03 — Construir Modelo Completo via Facade (P3)
+
+**Como** desenvolvedor,
+**Quero** chamar `build_projeto(records)` com todos os registros CSV de um projeto,
+**Para** obter um único `ProjetoCompleto` com todas as entidades já parseadas e tipadas.
+
+**Critérios de Aceitação**:
+1. `ProjetoCompleto` agrega `ProjetoInfo` + 6 tuples de entidades via chamada única.
+2. Todos os campos são imutáveis (`frozen=True` em todos os dataclasses).
+3. `ProjetoCompleto` é serializável via `dataclasses.asdict()` para JSON.
+4. Lança `DomainParseError` apenas se `ProjetoInfo` não puder ser extraído.
+
+**Teste independente**: `build_projeto(real_records_from_projeto_372)` retorna `ProjetoCompleto.info.referencia == "372"` com equipe e pagamentos populados.
+
+---
+
 ## Mapa de Dependências
 
 ```
@@ -146,4 +219,9 @@ US2-01 (Download CSV)                         │
     └─► US2-02 (Parsear CSV)                  │
             └─► US2-03 (Salvar JSON) ─────────┘
                     └─► US2-04 (End-to-end)
+                              │
+                              ▼ (records brutos)
+                        US3-01 (parse_project_info)
+                        US3-02 (parsers por entidade) [P]
+                              └─► US3-03 (build_projeto Facade) ✅ CONCLUÍDO
 ```
