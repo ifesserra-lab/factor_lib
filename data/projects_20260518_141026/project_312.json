@@ -1,0 +1,754 @@
+{
+  "id": "312",
+  "name": "COMPED PIÚMA 2025.",
+  "csv": {
+    "Projeto_312/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "Coordenador": "SILVIO JOSÉ TRINDADE ALVIM",
+        "Financiadora": "Instituto Federal de Educação Ciência e Tecnologia do Espirito Santo - Campus Piuma",
+        "Data de início": "10/01/2025",
+        "Data de vigência": "31/07/2025",
+        "Data de encerramento": "30/09/2025",
+        "Tipo de Projeto": "Processo Seletivo",
+        "Instituição executora": "Instituto Federal de Educação Ciência e Tecnologia do Espirito Santo - Campus Piuma",
+        "Departamento": "Coordenadoria de Extensão",
+        "Processo e sub-processo": "23185.001841/2024-02 ",
+        "Valor aprovado": "17.943,15",
+        "Objetivo/Objeto/Título": "1.1 Constitui objeto deste instrumento a contratação de prestação de serviços técnicos especializados de atividades de apoio, visando a gestão administrativa e financeira e as etapas de operacionalização, o monitoramento, o controle, execução e o encerramento do Processo Seletivo de alunos no Curso de Complementação Pedagógica  modalidade a distância, do Instituto Federal do Espírito Santo, descritas na proposta anexa, parte integrante deste contrato.1.2 A criação do Curso de Complementação Pedagógica  modalidade a distância está em conformidade com os objetivos do Plano de Desenvolvimento Institucional (PDI) do Ifes (2019/2 a 2024/1), aprovado pela Resolução do Conselho Superior n48/2019, de 6 de dezembro de 2019, que busca ministrar ensino superior de graduação e de pós-graduação lato e stricto sensu, visando à formação de profissionais e especialistas na área tecnológica."
+      }
+    ],
+    "Projeto_312/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "1.000,00",
+        "Liberado": "0,00",
+        "Executado": "-765,98",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "3.000,68",
+        "Liberado": "0,00",
+        "Executado": "-3.000,68",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Encargos Pessoa Física (SPPF)",
+        "Aprovado": "1.990,41",
+        "Liberado": "0,00",
+        "Executado": "-439,05",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Física",
+        "Aprovado": "9.952,06",
+        "Liberado": "0,00",
+        "Executado": "-11.975,13",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "2.000,00",
+        "Liberado": "0,00",
+        "Executado": "-2.000,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas de Taxa de Inscrição",
+        "Aprovado": "0,00",
+        "Liberado": "21.660,00",
+        "Executado": "21.660,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "775,41",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "Tipo da Rubrica": "Devoluções de Recursos",
+        "Rubrica": "Devoluções de Recursos",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "-4.254,57",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_312/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "31/01/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "13,80"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/02/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "400,00"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "28/02/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "19,20"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "8,98"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "1,71"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "13/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "3,35"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "16/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CNPJ": "03.832.178/0001-97",
+        "Nome do Favorecido": "FACTO - Fundação de Apoio ao Desenvolvimento da Ciência e Tecnologia",
+        "Data do Pagamento": "31/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "275,27"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CNPJ": "10.823.473/0001-42",
+        "Nome do Favorecido": "IMPACTA SOLUÇÕES WEB LTDA ME",
+        "Data do Pagamento": "13/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CNPJ": "10.838.653/0019-27",
+        "Nome do Favorecido": "Instituto Federal de Educação Ciência e Tecnologia do Espirito Santo - Campus Piuma",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "4.254,57"
+      }
+    ],
+    "Projeto_312/Pagamento de pessoa física.csv": [
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.731.487-**",
+        "Nome do Favorecido": "Cassia Aparecida Gobeti Dos Santos",
+        "Tipo de Pagamento": "RPA",
+        "Data do Pagamento": "16/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "550,44"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.731.487-**",
+        "Nome do Favorecido": "Cassia Aparecida Gobeti Dos Santos Lovati",
+        "Tipo de Pagamento": "INSS - Encargo Empresarial",
+        "Data do Pagamento": "20/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "131,05"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.731.487-**",
+        "Nome do Favorecido": "Cassia Aparecida Gobeti Dos Santos Lovati",
+        "Tipo de Pagamento": "INSS - Retenção Pessoa Física",
+        "Data do Pagamento": "20/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "72,08"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.731.487-**",
+        "Nome do Favorecido": "Cassia Aparecida Gobeti Dos Santos Lovati",
+        "Tipo de Pagamento": "ISSQN",
+        "Data do Pagamento": "08/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "32,76"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.953.697-**",
+        "Nome do Favorecido": "Eduardo Almeida Santos Oliveira",
+        "Tipo de Pagamento": "INSS - Encargo Empresarial",
+        "Data do Pagamento": "18/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "245,72"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.953.697-**",
+        "Nome do Favorecido": "Eduardo Almeida Santos Oliveira",
+        "Tipo de Pagamento": "INSS - Retenção Pessoa Física",
+        "Data do Pagamento": "18/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "135,14"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.953.697-**",
+        "Nome do Favorecido": "Eduardo Almeida Santos Oliveira",
+        "Tipo de Pagamento": "ISSQN",
+        "Data do Pagamento": "10/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "61,43"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.953.697-**",
+        "Nome do Favorecido": "Eduardo Almeida Santos Oliveira",
+        "Tipo de Pagamento": "RPA",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "1.032,03"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.812.187-**",
+        "Nome do Favorecido": "GESIANE CABRAL DE FREITAS",
+        "Tipo de Pagamento": "INSS - Encargo Empresarial",
+        "Data do Pagamento": "18/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "131,05"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.812.187-**",
+        "Nome do Favorecido": "GESIANE CABRAL DE FREITAS",
+        "Tipo de Pagamento": "INSS - Retenção Pessoa Física",
+        "Data do Pagamento": "18/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "72,08"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.812.187-**",
+        "Nome do Favorecido": "GESIANE CABRAL DE FREITAS",
+        "Tipo de Pagamento": "ISSQN",
+        "Data do Pagamento": "10/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "32,76"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.812.187-**",
+        "Nome do Favorecido": "GESIANE CABRAL DE FREITAS",
+        "Tipo de Pagamento": "RPA",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "550,44"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.405.437-**",
+        "Nome do Favorecido": "IVAN ALMEIDA ROZARIO JUNIOR",
+        "Tipo de Pagamento": "INSS - Encargo Empresarial",
+        "Data do Pagamento": "18/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "131,05"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.405.437-**",
+        "Nome do Favorecido": "IVAN ALMEIDA ROZARIO JUNIOR",
+        "Tipo de Pagamento": "INSS - Retenção Pessoa Física",
+        "Data do Pagamento": "18/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "72,08"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.405.437-**",
+        "Nome do Favorecido": "IVAN ALMEIDA ROZARIO JUNIOR",
+        "Tipo de Pagamento": "ISSQN",
+        "Data do Pagamento": "10/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "32,76"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.405.437-**",
+        "Nome do Favorecido": "IVAN ALMEIDA ROZARIO JUNIOR",
+        "Tipo de Pagamento": "RPA",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "1.100,88"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.068.987-**",
+        "Nome do Favorecido": "Júlia Virgínia Garcia Da Silva",
+        "Tipo de Pagamento": "INSS - Encargo Empresarial",
+        "Data do Pagamento": "18/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "131,05"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.068.987-**",
+        "Nome do Favorecido": "Júlia Virgínia Garcia Da Silva",
+        "Tipo de Pagamento": "INSS - Retenção Pessoa Física",
+        "Data do Pagamento": "18/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "72,08"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.068.987-**",
+        "Nome do Favorecido": "Júlia Virgínia Garcia Da Silva",
+        "Tipo de Pagamento": "ISSQN",
+        "Data do Pagamento": "10/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "32,76"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.068.987-**",
+        "Nome do Favorecido": "Júlia Virgínia Garcia Da Silva",
+        "Tipo de Pagamento": "RPA",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "550,44"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.674.447-**",
+        "Nome do Favorecido": "Rosiane Nascimento do Santissimo",
+        "Tipo de Pagamento": "INSS - Encargo Empresarial",
+        "Data do Pagamento": "18/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "131,05"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.674.447-**",
+        "Nome do Favorecido": "Rosiane Nascimento do Santissimo",
+        "Tipo de Pagamento": "INSS - Retenção Pessoa Física",
+        "Data do Pagamento": "18/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "72,08"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.674.447-**",
+        "Nome do Favorecido": "Rosiane Nascimento do Santissimo",
+        "Tipo de Pagamento": "ISSQN",
+        "Data do Pagamento": "10/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "32,76"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.674.447-**",
+        "Nome do Favorecido": "Rosiane Nascimento do Santissimo",
+        "Tipo de Pagamento": "RPA",
+        "Data do Pagamento": "13/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "550,44"
+      }
+    ],
+    "Projeto_312/Pagamento de servidores ou agentes públicos.csv": [
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.171.619-**",
+        "Nome do Favorecido": "CARLOS EDUARDO DE ARAÚJO BARBOSA",
+        "Tipo de Pagamento": "INSS - Encargo Empresarial",
+        "Data do Pagamento": "18/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "131,05"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.171.619-**",
+        "Nome do Favorecido": "CARLOS EDUARDO DE ARAÚJO BARBOSA",
+        "Tipo de Pagamento": "INSS - Retenção Pessoa Física",
+        "Data do Pagamento": "18/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "72,08"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.171.619-**",
+        "Nome do Favorecido": "CARLOS EDUARDO DE ARAÚJO BARBOSA",
+        "Tipo de Pagamento": "ISSQN",
+        "Data do Pagamento": "10/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "32,76"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.171.619-**",
+        "Nome do Favorecido": "CARLOS EDUARDO DE ARAÚJO BARBOSA",
+        "Tipo de Pagamento": "RPA",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "550,44"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.877.624-**",
+        "Nome do Favorecido": "DANIELLE CRISTINE MORAES DE AZEVEDO",
+        "Tipo de Pagamento": "INSS - Encargo Empresarial",
+        "Data do Pagamento": "18/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "131,05"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.877.624-**",
+        "Nome do Favorecido": "DANIELLE CRISTINE MORAES DE AZEVEDO",
+        "Tipo de Pagamento": "INSS - Retenção Pessoa Física",
+        "Data do Pagamento": "18/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "72,08"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.877.624-**",
+        "Nome do Favorecido": "DANIELLE CRISTINE MORAES DE AZEVEDO",
+        "Tipo de Pagamento": "ISSQN",
+        "Data do Pagamento": "10/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "32,76"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.877.624-**",
+        "Nome do Favorecido": "DANIELLE CRISTINE MORAES DE AZEVEDO",
+        "Tipo de Pagamento": "RPA",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "550,44"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.167.267-**",
+        "Nome do Favorecido": "Humberto Silveira Gonçalves Filho ",
+        "Tipo de Pagamento": "INSS - Encargo Empresarial",
+        "Data do Pagamento": "18/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "131,05"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.167.267-**",
+        "Nome do Favorecido": "Humberto Silveira Gonçalves Filho ",
+        "Tipo de Pagamento": "INSS - Retenção Pessoa Física",
+        "Data do Pagamento": "18/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "72,08"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.167.267-**",
+        "Nome do Favorecido": "Humberto Silveira Gonçalves Filho ",
+        "Tipo de Pagamento": "ISSQN",
+        "Data do Pagamento": "10/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "32,76"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.167.267-**",
+        "Nome do Favorecido": "Humberto Silveira Gonçalves Filho ",
+        "Tipo de Pagamento": "RPA",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "550,44"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.025.847-**",
+        "Nome do Favorecido": "Leonardo Calixto Antoniolli",
+        "Tipo de Pagamento": "INSS - Encargo Empresarial",
+        "Data do Pagamento": "18/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "131,05"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.025.847-**",
+        "Nome do Favorecido": "Leonardo Calixto Antoniolli",
+        "Tipo de Pagamento": "ISSQN",
+        "Data do Pagamento": "10/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "32,76"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.025.847-**",
+        "Nome do Favorecido": "Leonardo Calixto Antoniolli",
+        "Tipo de Pagamento": "RPA",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "550,44"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.859.536-**",
+        "Nome do Favorecido": "Péricles José Ferreira",
+        "Tipo de Pagamento": "INSS - Encargo Empresarial",
+        "Data do Pagamento": "18/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "131,05"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.859.536-**",
+        "Nome do Favorecido": "Péricles José Ferreira",
+        "Tipo de Pagamento": "INSS - Retenção Pessoa Física",
+        "Data do Pagamento": "18/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "72,08"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.859.536-**",
+        "Nome do Favorecido": "Péricles José Ferreira",
+        "Tipo de Pagamento": "ISSQN",
+        "Data do Pagamento": "10/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "32,76"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.859.536-**",
+        "Nome do Favorecido": "Péricles José Ferreira",
+        "Tipo de Pagamento": "RPA",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "550,44"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.850.626-**",
+        "Nome do Favorecido": "SILVIO JOSÉ TRINDADE ALVIM",
+        "Tipo de Pagamento": "INSS - Encargo Empresarial",
+        "Data do Pagamento": "18/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "491,46"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.850.626-**",
+        "Nome do Favorecido": "SILVIO JOSÉ TRINDADE ALVIM",
+        "Tipo de Pagamento": "INSS - Retenção Pessoa Física",
+        "Data do Pagamento": "18/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "270,30"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.850.626-**",
+        "Nome do Favorecido": "SILVIO JOSÉ TRINDADE ALVIM",
+        "Tipo de Pagamento": "ISSQN",
+        "Data do Pagamento": "10/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "122,87"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "CPF": "***.850.626-**",
+        "Nome do Favorecido": "SILVIO JOSÉ TRINDADE ALVIM",
+        "Tipo de Pagamento": "RPA",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "2.064,13"
+      }
+    ],
+    "Projeto_312/Equipe.csv": [
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "Nome": "SILVIO JOSÉ TRINDADE ALVIM",
+        "Função": "Coordenador",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Sim"
+      }
+    ],
+    "Projeto_312/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Tarifas Bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.000,00",
+        "Valor total aprovado": "1.000,00",
+        "Valor executado": "752,18"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Física",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenação e Planejamento ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "2.457,30",
+        "Valor total aprovado": "2.457,30",
+        "Valor executado": "2.064,13"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Física",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Apoio TI",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.228,60",
+        "Valor total aprovado": "1.228,60",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Física",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Banca - Avaliação",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "7.371,90",
+        "Valor total aprovado": "7.371,90",
+        "Valor executado": "1.310,56"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Física",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Banca - Recursos",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "2.703,06",
+        "Valor total aprovado": "2.703,06",
+        "Valor executado": "550,44"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Física",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Ajuste",
+        "Justificativa": " ",
+        "Qtde aprovada": "50,00",
+        "Valor unitário": "100,00",
+        "Valor total aprovado": "5.000,00",
+        "Valor executado": "7.119,56"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Sistema de Inscrição",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "2.000,00",
+        "Valor total aprovado": "2.000,00",
+        "Valor executado": "2.000,00"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "Agrupamento": "",
+        "Rubrica": "Encargos Pessoa Física (SPPF)",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "INSS Patronal",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.990,41",
+        "Valor total aprovado": "1.990,41",
+        "Valor executado": "2.047,68"
+      },
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "DOA FACTO",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "3.000,68",
+        "Valor total aprovado": "3.000,68",
+        "Valor executado": "3.000,68"
+      }
+    ],
+    "Projeto_312/Documentos.csv": [
+      {
+        "Referência do projeto": "312 - COMPED PIÚMA 2025",
+        "Título do Arquivo": "CONTRATO 01/2025",
+        "Descrição": " "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T14:13:35",
+  "_error": null
+}

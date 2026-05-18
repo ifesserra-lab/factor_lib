@@ -1,0 +1,2576 @@
+{
+  "id": "238",
+  "name": "Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES.",
+  "csv": {
+    "Projeto_238/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Coordenador": "Marize Lyra Silva Passos",
+        "Financiadora": "Häme University of Applied Sciences",
+        "Data de início": "03/07/2023",
+        "Data de vigência": "03/07/2026",
+        "Data de encerramento": "03/09/2026",
+        "Tipo de Projeto": "Pesquisa",
+        "Instituição executora": "Instituto Federal De Educação Ciencia E Tecnologia Do Espirito Santo - Reitoria",
+        "Departamento": "",
+        "Processo e sub-processo": "23147.004682/2023-65",
+        "Valor aprovado": "569.614,61",
+        "Objetivo/Objeto/Título": "Constitui objeto deste instrumento a contratação de Fundação de Apoio ao Desenvolvimento da Ciência e Tecnologia  Facto, para apoio à gestão administrativa financeira de recursos destinados à execução do projeto intitulado Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE que tem como objeto a execução do Projeto de Pesquisa submetido e aprovado pelo programa ERASMUS-EDU-2022-CBHE-STRAND-2, sendo o Ifes a instituição apoiada. O Projeto disponibilizará apoio ao desenvolvimento profissional de 25 professores que organizarão módulos conjuntos de aprendizagem on-line, desenvolvendo MOOCs para 300 professores. "
+      }
+    ],
+    "Projeto_238/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Bolsas",
+        "Aprovado": "286.060,00",
+        "Liberado": "0,00",
+        "Executado": "-260.060,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "230,03",
+        "Liberado": "0,00",
+        "Executado": "-240,39",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Diária Internacional",
+        "Aprovado": "119.761,60",
+        "Liberado": "0,00",
+        "Executado": "-129.196,60",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Diária Nacional",
+        "Aprovado": "14.085,35",
+        "Liberado": "0,00",
+        "Executado": "-16.365,35",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "46.770,00",
+        "Liberado": "0,00",
+        "Executado": "-46.770,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Passagens",
+        "Aprovado": "67.207,26",
+        "Liberado": "0,00",
+        "Executado": "-62.319,33",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Física",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "35.500,17",
+        "Liberado": "0,00",
+        "Executado": "-33.523,75",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "558.318,42",
+        "Executado": "558.318,42",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "16.667,76",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_238/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "08.646.158/0001-45",
+        "Nome do Favorecido": "AQUARELA PERSONAL PRINT LTDA",
+        "Data do Pagamento": "18/08/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "560,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "08.646.158/0001-45",
+        "Nome do Favorecido": "AQUARELA PERSONAL PRINT LTDA",
+        "Data do Pagamento": "25/08/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "560,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "23/08/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "2,68"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "25/08/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "2,68"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "30/08/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "11,82"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "01/09/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "2,68"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/09/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "5,36"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "13/09/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "0,55"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/10/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "11,82"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "18/10/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "9,14"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/11/2023",
+        "Mês de Competência": "11/2023",
+        "Valor": "20,41"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "12/2023",
+        "Valor": "7,56"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/01/2024",
+        "Mês de Competência": "01/2024",
+        "Valor": "4,88"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/02/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "1,10"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "7,01"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/04/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "4,33"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "1,10"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "2,20"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "26/06/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "8,04"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "1,10"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "26/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "1,14"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/09/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "1,14"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/10/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "1,14"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "11/10/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "8,98"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/12/2024",
+        "Mês de Competência": "12/2024",
+        "Valor": "6,70"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/12/2024",
+        "Mês de Competência": "12/2024",
+        "Valor": "1,14"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "5,06"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "3,92"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "3,92"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "21/03/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "3,92"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "3,92"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "6,70"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "3,92"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "4,12"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "3,52"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "24/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "3,52"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "4,12"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "4,12"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "11,16"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "7,64"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "28/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "30/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "7,64"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "7,64"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "7,64"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "5,32"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "29/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "3,52"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "4,12"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "18.836.118/0001-10",
+        "Nome do Favorecido": "COOPERATIVA DE TRANSPORTE ESCOLAR, FRETAMENTO E TURISMO DO ESPIRITO SANTO - COOPTRANS",
+        "Data do Pagamento": "30/08/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "15.384.607/0001-90",
+        "Nome do Favorecido": "DANILO ALVES NASCIMENTO 12457648700",
+        "Data do Pagamento": "30/08/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "6.900,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "24.231.451/0001-06",
+        "Nome do Favorecido": "DOUGLAS DE SOUZA CORRENTE 07225161776",
+        "Data do Pagamento": "01/09/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "46.449.681/0001-70",
+        "Nome do Favorecido": "FUTURE PUBLISHERS GROUP LTDA - EPP",
+        "Data do Pagamento": "06/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "580,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "46.449.681/0001-70",
+        "Nome do Favorecido": "FUTURE PUBLISHERS GROUP LTDA - EPP",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "290,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "07.933.551/0001-57",
+        "Nome do Favorecido": "I.L. BARRETO REPRESENTACOES LTDA",
+        "Data do Pagamento": "28/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2.970,70"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "14.933.951/0001-28",
+        "Nome do Favorecido": "MARTA BUFFET LTDA",
+        "Data do Pagamento": "25/08/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "2.775,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "14.933.951/0001-28",
+        "Nome do Favorecido": "MARTA BUFFET LTDA",
+        "Data do Pagamento": "06/09/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "2.775,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "09.215.207/0001-58",
+        "Nome do Favorecido": "MERU VIAGENS LTDA",
+        "Data do Pagamento": "26/06/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "24.123,69"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "09.215.207/0001-58",
+        "Nome do Favorecido": "MERU VIAGENS LTDA",
+        "Data do Pagamento": "26/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "4.887,93"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "09.215.207/0001-58",
+        "Nome do Favorecido": "MERU VIAGENS LTDA",
+        "Data do Pagamento": "11/10/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "1.335,15"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "49.033.187/0001-19",
+        "Nome do Favorecido": "Nave Turismo Pedagógico e Negócios Ltda",
+        "Data do Pagamento": "06/09/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "16.212,55"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "49.033.187/0001-19",
+        "Nome do Favorecido": "Nave Turismo Pedagógico e Negócios Ltda",
+        "Data do Pagamento": "13/09/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "8.675,40"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "49.033.187/0001-19",
+        "Nome do Favorecido": "Nave Turismo Pedagógico e Negócios Ltda",
+        "Data do Pagamento": "27/09/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "8.252,90"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CNPJ": "31.697.576/0001-83",
+        "Nome do Favorecido": "PAPAGUTH COMERCIAL LTDA",
+        "Data do Pagamento": "23/08/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "11.045,00"
+      }
+    ],
+    "Projeto_238/Pagamento de pessoa física.csv": [
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.204.537-**",
+        "Nome do Favorecido": "Eduardo Moura da Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.204.537-**",
+        "Nome do Favorecido": "Eduardo Moura da Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.204.537-**",
+        "Nome do Favorecido": "Eduardo Moura da Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/04/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.781.167-**",
+        "Nome do Favorecido": "Elton Vinícius Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.781.167-**",
+        "Nome do Favorecido": "Elton Vinícius Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.781.167-**",
+        "Nome do Favorecido": "Elton Vinícius Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/04/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.781.167-**",
+        "Nome do Favorecido": "Elton Vinícius Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.781.167-**",
+        "Nome do Favorecido": "Elton Vinícius Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.781.167-**",
+        "Nome do Favorecido": "Elton Vinícius Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.728.687-**",
+        "Nome do Favorecido": "Juliana Cristina dos Santos de Andrade",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.728.687-**",
+        "Nome do Favorecido": "Juliana Cristina dos Santos de Andrade",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.728.687-**",
+        "Nome do Favorecido": "Juliana Cristina dos Santos de Andrade",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.728.687-**",
+        "Nome do Favorecido": "Juliana Cristina dos Santos de Andrade",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.728.687-**",
+        "Nome do Favorecido": "Juliana Cristina dos Santos de Andrade",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "06/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "10.501,40"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.728.687-**",
+        "Nome do Favorecido": "Juliana Cristina dos Santos de Andrade",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2.125,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.728.687-**",
+        "Nome do Favorecido": "Juliana Cristina dos Santos de Andrade",
+        "Tipo de Pagamento": "Pagamento de Reembolso",
+        "Data do Pagamento": "04/12/2024",
+        "Mês de Competência": "12/2024",
+        "Valor": "219,89"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.481.737-**",
+        "Nome do Favorecido": "Lodovico Ortlieb Faria",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "1.700,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.481.737-**",
+        "Nome do Favorecido": "Lodovico Ortlieb Faria",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "18/10/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "9.730,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.435.637-**",
+        "Nome do Favorecido": "Marcos Vinicius Forecchi Accioly",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.435.637-**",
+        "Nome do Favorecido": "Marcos Vinicius Forecchi Accioly",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "1.500,00"
+      }
+    ],
+    "Projeto_238/Pagamento de servidores ou agentes públicos.csv": [
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.772.818-**",
+        "Nome do Favorecido": "André Romero da Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/11/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "1.700,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.772.818-**",
+        "Nome do Favorecido": "André Romero da Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "1.700,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.772.818-**",
+        "Nome do Favorecido": "André Romero da Silva",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "18/10/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "9.730,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.229.906-**",
+        "Nome do Favorecido": "Guilherme Augusto dos Santos Póvoa",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "30/08/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "150,45"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/10/2023",
+        "Mês de Competência": "07/2023",
+        "Valor": "1.680,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/10/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "1.680,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/10/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "1.680,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/11/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "1.680,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "11/2023",
+        "Valor": "1.680,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "05/01/2024",
+        "Mês de Competência": "12/2023",
+        "Valor": "1.680,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/02/2024",
+        "Mês de Competência": "01/2024",
+        "Valor": "1.680,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "1.680,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "05/04/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "1.680,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "1.680,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "1.680,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "1.680,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "1.680,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/09/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "1.680,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "04/10/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "1.680,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/11/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "1.680,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/12/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "1.680,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "1.680,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "1.680,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "1.680,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "1.680,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "1.680,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "1.680,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "1.680,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "1.680,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "1.680,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "1.680,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "1.680,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.348.697-**",
+        "Nome do Favorecido": "HENARA SIMOES COLA HOLZ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.614.457-**",
+        "Nome do Favorecido": "Igor Carlos Pulini ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/10/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.614.457-**",
+        "Nome do Favorecido": "Igor Carlos Pulini ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/11/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.614.457-**",
+        "Nome do Favorecido": "Igor Carlos Pulini ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "11/2023",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.614.457-**",
+        "Nome do Favorecido": "Igor Carlos Pulini ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "05/01/2024",
+        "Mês de Competência": "12/2023",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.614.457-**",
+        "Nome do Favorecido": "Igor Carlos Pulini ",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "30/08/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "752,25"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.614.457-**",
+        "Nome do Favorecido": "Igor Carlos Pulini ",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "06/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "10.501,40"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.614.457-**",
+        "Nome do Favorecido": "Igor Carlos Pulini ",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2.125,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.614.457-**",
+        "Nome do Favorecido": "Igor Carlos Pulini ",
+        "Tipo de Pagamento": "Pagamento de Reembolso",
+        "Data do Pagamento": "04/12/2024",
+        "Mês de Competência": "12/2024",
+        "Valor": "117,57"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.153.707-**",
+        "Nome do Favorecido": "LUIS CARLOS LOSS LOPES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/10/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.153.707-**",
+        "Nome do Favorecido": "LUIS CARLOS LOSS LOPES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/11/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.153.707-**",
+        "Nome do Favorecido": "LUIS CARLOS LOSS LOPES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "11/2023",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.153.707-**",
+        "Nome do Favorecido": "LUIS CARLOS LOSS LOPES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "05/01/2024",
+        "Mês de Competência": "12/2023",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.153.707-**",
+        "Nome do Favorecido": "LUIS CARLOS LOSS LOPES",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "30/08/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "752,25"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "06/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "10.501,40"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2.125,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Reembolso",
+        "Data do Pagamento": "04/12/2024",
+        "Mês de Competência": "12/2024",
+        "Valor": "227,48"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.223.397-**",
+        "Nome do Favorecido": "Mariella Berger Andrade",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "18/10/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.223.397-**",
+        "Nome do Favorecido": "Mariella Berger Andrade",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/11/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.223.397-**",
+        "Nome do Favorecido": "Mariella Berger Andrade",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "11/2023",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.223.397-**",
+        "Nome do Favorecido": "Mariella Berger Andrade",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "05/01/2024",
+        "Mês de Competência": "12/2023",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/10/2023",
+        "Mês de Competência": "07/2023",
+        "Valor": "2.040,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/10/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "2.040,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/10/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "2.040,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/11/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "3.740,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "11/2023",
+        "Valor": "2.040,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "05/01/2024",
+        "Mês de Competência": "12/2023",
+        "Valor": "2.040,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/02/2024",
+        "Mês de Competência": "01/2024",
+        "Valor": "2.040,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "2.040,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "05/04/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "2.040,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "2.040,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "2.040,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "2.040,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "2.040,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/09/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "2.040,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "04/10/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "2.040,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/11/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "2.040,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/12/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "2.040,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "2.040,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "2.040,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "2.040,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "2.040,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "2.040,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "2.040,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "2.040,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "2.040,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "2.040,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "2.040,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "2.040,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "18/10/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "9.730,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "06/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "10.501,40"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "24/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "14.167,30"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2.125,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "29/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2.280,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Reembolso",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "103,08"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.070.957-**",
+        "Nome do Favorecido": "Marize Lyra Silva Passos",
+        "Tipo de Pagamento": "Pagamento de Reembolso",
+        "Data do Pagamento": "30/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2.738,75"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.865.517-**",
+        "Nome do Favorecido": "Mayelli Caldas de Castro",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "06/09/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "150,45"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.146.906-**",
+        "Nome do Favorecido": "Nágila de Fátima Rabelo Moraes",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/10/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "1.600,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.146.906-**",
+        "Nome do Favorecido": "Nágila de Fátima Rabelo Moraes",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/11/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "1.600,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.146.906-**",
+        "Nome do Favorecido": "Nágila de Fátima Rabelo Moraes",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.146.906-**",
+        "Nome do Favorecido": "Nágila de Fátima Rabelo Moraes",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "30/08/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "1.654,95"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.715.777-**",
+        "Nome do Favorecido": "Rosinéa Manzini de Souza",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/10/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "1.600,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.715.777-**",
+        "Nome do Favorecido": "Rosinéa Manzini de Souza",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/11/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "1.600,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.797.747-**",
+        "Nome do Favorecido": "Vanessa Battestin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/11/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "1.700,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.797.747-**",
+        "Nome do Favorecido": "Vanessa Battestin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.797.747-**",
+        "Nome do Favorecido": "Vanessa Battestin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.797.747-**",
+        "Nome do Favorecido": "Vanessa Battestin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.797.747-**",
+        "Nome do Favorecido": "Vanessa Battestin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.797.747-**",
+        "Nome do Favorecido": "Vanessa Battestin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.797.747-**",
+        "Nome do Favorecido": "Vanessa Battestin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.797.747-**",
+        "Nome do Favorecido": "Vanessa Battestin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.797.747-**",
+        "Nome do Favorecido": "Vanessa Battestin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.797.747-**",
+        "Nome do Favorecido": "Vanessa Battestin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.797.747-**",
+        "Nome do Favorecido": "Vanessa Battestin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.797.747-**",
+        "Nome do Favorecido": "Vanessa Battestin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.797.747-**",
+        "Nome do Favorecido": "Vanessa Battestin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.797.747-**",
+        "Nome do Favorecido": "Vanessa Battestin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.797.747-**",
+        "Nome do Favorecido": "Vanessa Battestin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.797.747-**",
+        "Nome do Favorecido": "Vanessa Battestin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.797.747-**",
+        "Nome do Favorecido": "Vanessa Battestin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.797.747-**",
+        "Nome do Favorecido": "Vanessa Battestin",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "18/10/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "9.730,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.797.747-**",
+        "Nome do Favorecido": "Vanessa Battestin",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "06/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "10.501,40"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.797.747-**",
+        "Nome do Favorecido": "Vanessa Battestin",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "24/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "14.167,30"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.797.747-**",
+        "Nome do Favorecido": "Vanessa Battestin",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2.125,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.797.747-**",
+        "Nome do Favorecido": "Vanessa Battestin",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "29/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "9.435,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "CPF": "***.797.747-**",
+        "Nome do Favorecido": "Vanessa Battestin",
+        "Tipo de Pagamento": "Pagamento de Reembolso",
+        "Data do Pagamento": "04/12/2024",
+        "Mês de Competência": "12/2024",
+        "Valor": "80,92"
+      }
+    ],
+    "Projeto_238/Equipe.csv": [
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Nome": "André Romero da Silva",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Federal do Espírito Santo",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": "2 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Nome": "Eduardo Moura da Silva",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Analfabeto, inclusive o que, embora tenha recebido instrução, não se alfabetizou",
+        "Carga horária": "02 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Nome": "Elton Vinícius Silva",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Ensino Médio completo",
+        "Carga horária": "02 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Nome": "HENARA SIMOES COLA HOLZ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "IFES",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": "2 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Nome": "HENARA SIMOES COLA HOLZ",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "IFES",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Nome": "Igor Carlos Pulini ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": "2 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Nome": "Juliana Cristina dos Santos de Andrade",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Nome": "Lodovico Ortlieb Faria",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": "2 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Nome": "LUIS CARLOS LOSS LOPES",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "IFES",
+        "Vínculo com a instituição": "EFETIVO",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": "2 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Nome": "Marcelo Queiroz Schimidt",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "IFES",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Nome": "Marcos Vinicius Forecchi Accioly",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": "02 horas /semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Nome": "Mariella Berger Andrade",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Federal do Espírito Santo - Ifes",
+        "Vínculo com a instituição": "DOCENTE",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": "2 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Nome": "Marize Lyra Silva Passos",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "IFES",
+        "Vínculo com a instituição": "DOCENTE",
+        "Grau de instrução": " ",
+        "Carga horária": "2 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Nome": "Marize Lyra Silva Passos",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "IFES",
+        "Vínculo com a instituição": "DOCENTE",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Nome": "Nágila de Fátima Rabelo Moraes",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Federal do Espírito Santo Campus São Mateus",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": "2 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Nome": "Rosinéa Manzini de Souza",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Federal do Espírito Santo - Ifes",
+        "Vínculo com a instituição": "Técnico administrativo",
+        "Grau de instrução": " ",
+        "Carga horária": "2 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Nome": "Vanessa Battestin",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Ifes",
+        "Vínculo com a instituição": "Professora",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": "4 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      }
+    ],
+    "Projeto_238/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenadora",
+        "Justificativa": " ",
+        "Qtde aprovada": "28,00",
+        "Valor unitário": "2.040,00",
+        "Valor total aprovado": "57.120,00",
+        "Valor executado": "57.120,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Especialista",
+        "Justificativa": " ",
+        "Qtde aprovada": "5,00",
+        "Valor unitário": "1.700,00",
+        "Valor total aprovado": "8.500,00",
+        "Valor executado": "8.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Apoio ao Projeto",
+        "Justificativa": " ",
+        "Qtde aprovada": "32,00",
+        "Valor unitário": "1.500,00",
+        "Valor total aprovado": "48.000,00",
+        "Valor executado": "48.000,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Apoio à coordenadação",
+        "Justificativa": " ",
+        "Qtde aprovada": "28,00",
+        "Valor unitário": "1.680,00",
+        "Valor total aprovado": "47.040,00",
+        "Valor executado": "47.040,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Apoio",
+        "Justificativa": " ",
+        "Qtde aprovada": "4,00",
+        "Valor unitário": "1.600,00",
+        "Valor total aprovado": "6.400,00",
+        "Valor executado": "6.400,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Apoio ao Projeto",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.500,00",
+        "Valor total aprovado": "1.500,00",
+        "Valor executado": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Apoio ao Projeto",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.500,00",
+        "Valor total aprovado": "1.500,00",
+        "Valor executado": "1.500,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Apoio ao Projeto",
+        "Justificativa": " ",
+        "Qtde aprovada": "4,00",
+        "Valor unitário": "1.500,00",
+        "Valor total aprovado": "6.000,00",
+        "Valor executado": "6.000,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Apoio ao Projeto",
+        "Justificativa": " ",
+        "Qtde aprovada": "4,00",
+        "Valor unitário": "1.500,00",
+        "Valor total aprovado": "6.000,00",
+        "Valor executado": "6.000,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "518,91",
+        "Valor total aprovado": "518,91",
+        "Valor executado": "240,39"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Diária Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Diárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "16.365,35",
+        "Valor total aprovado": "16.365,35",
+        "Valor executado": "16.365,35"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Passagens",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Passagens",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "62.319,33",
+        "Valor total aprovado": "62.319,33",
+        "Valor executado": "62.319,33"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Serviços de Terceiros - Pessoa Jurídica",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "33.523,75",
+        "Valor total aprovado": "33.523,75",
+        "Valor executado": "33.523,75"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesa Operacional e Administrativa - Facto",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "46.770,00",
+        "Valor total aprovado": "46.770,00",
+        "Valor executado": "46.770,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Diária Internacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Diárias Internacionais ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "129.196,60",
+        "Valor total aprovado": "129.196,60",
+        "Valor executado": "129.196,60"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Agrupamento": "Aditivo - usado R$ 11.295,99 de rendimento",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenadora",
+        "Justificativa": " ",
+        "Qtde aprovada": "8,00",
+        "Valor unitário": "5.000,00",
+        "Valor total aprovado": "40.000,00",
+        "Valor executado": "45.000,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Agrupamento": "Aditivo - usado R$ 11.295,99 de rendimento",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Apoio ao Projeto",
+        "Justificativa": " ",
+        "Qtde aprovada": "8,00",
+        "Valor unitário": "5.000,00",
+        "Valor total aprovado": "40.000,00",
+        "Valor executado": "40.000,00"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Agrupamento": "Aditivo - usado R$ 11.295,99 de rendimento",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Apoio à coordenadação",
+        "Justificativa": " ",
+        "Qtde aprovada": "8,00",
+        "Valor unitário": "3.000,00",
+        "Valor total aprovado": "24.000,00",
+        "Valor executado": "27.000,00"
+      }
+    ],
+    "Projeto_238/Documentos.csv": [
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Título do Arquivo": "Contrato 30/2023",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Título do Arquivo": "238_Contrato_03.07.2024_LAI",
+        "Descrição": "CONTRATO Nº 13 / 2023 - REI-CGC (11.02.37.11.04.01)Nº do Protocolo: NÃO PROTOCOLADOVitória-ES, 23 de junho de 2023.CONTRATO Nº 13/2023 QUE ENTRE SI CELEBRAM O INSTITUTO FEDERAL DO ESPÍRITO SANTO - IFES, E AFUNDAÇÃO DE APOIO AO DESENVOLVIMENTO DA CIÊNC"
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Título do Arquivo": "238_Contrato.M00.V00_LAI",
+        "Descrição": "Acordo de Parceria ",
+        "null": [
+          " EMBRACE projeto, GA No 101083111Acordo de ParceriaERASMUS-EDU-2022-CBHEModernização da Educação Brazil, Colombia, Europe - a nova era de coperação no/de ensinosuperior digital. (EMBRACE"
+        ]
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Título do Arquivo": "P 238_Aditivo 1",
+        "Descrição": " "
+      }
+    ],
+    "Projeto_238/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Título do Arquivo": "Certidão LGPD",
+        "Descrição": "CERTIDÃO DE DOCUMENTAÇÃO DE PROCEDIMENTO DE PRESTAÇÃO DE CONTAS AMPARADA PELO SIGILO EM RAZÃO DA LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS",
+        "Data início": "03/07/2023 ",
+        "Data final": "31/03/2025 "
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Título do Arquivo": "Prestação de Contas Parcial 03.07.2023 a 31.03.2025",
+        "Descrição": "Prestação de contas parcial",
+        "Data início": "03/07/2023 ",
+        "Data final": "31/03/2025 "
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Título do Arquivo": "Prestação de Contas Parcial 01.04.2025 a 30.04.2025",
+        "Descrição": "Prestação de Contas Parcial",
+        "Data início": "01/04/2025 ",
+        "Data final": "30/04/2025 "
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Título do Arquivo": "Prestação de contas parcial",
+        "Descrição": "01.05.2025 a 31.05.2025",
+        "Data início": "01/05/2025 ",
+        "Data final": "31/05/2025 "
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Título do Arquivo": "Prestação de contas parcial - 01.06 a 30.06.2025",
+        "Descrição": "Prestação de Contas Parcial",
+        "Data início": "01/06/2025 ",
+        "Data final": "30/06/2025 "
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Título do Arquivo": "Prestação de Contas Parcial 01.07 a 31.07.25",
+        "Descrição": "Prestação de contas parcial",
+        "Data início": "01/07/2025 ",
+        "Data final": "31/07/2025 "
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Título do Arquivo": "238 - Prestação_de_contas_parcial_Agosto_ 2025",
+        "Descrição": "238 - Prestação_de_contas_parcial_Agosto_ 2025",
+        "Data início": "01/08/2025 ",
+        "Data final": "31/08/2025 "
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Título do Arquivo": "Prestação de contas parcial setembro",
+        "Descrição": "Prestação de contas parcial setembro",
+        "Data início": "01/09/2025 ",
+        "Data final": "30/09/2025 "
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Título do Arquivo": "prestação de contas parcial outubro",
+        "Descrição": "prestação de contas parcial outubro",
+        "Data início": "01/10/2025 ",
+        "Data final": "31/10/2025 "
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Título do Arquivo": "Prestação de contas parcial - Novembro",
+        "Descrição": "Prestação de contas parcial - Novembro",
+        "Data início": "01/11/2025 ",
+        "Data final": "30/11/2025 "
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Título do Arquivo": "Prestação de contas parcial - Dezembro",
+        "Descrição": "Prestação de contas parcial - Dezembro",
+        "Data início": "01/12/2025 ",
+        "Data final": "31/12/2025 "
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Título do Arquivo": "Prestação de contas parcial - Janeiro",
+        "Descrição": "Prestação de contas parcial - Janeiro",
+        "Data início": "01/01/2026 ",
+        "Data final": "31/01/2026 "
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Título do Arquivo": "Prestação de contas parcial - Fevereiro",
+        "Descrição": "Prestação de contas parcial - Fevereiro",
+        "Data início": "01/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Título do Arquivo": "Prestação de contas parcial - Março",
+        "Descrição": "Prestação de contas parcial - Março",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      },
+      {
+        "Referência do projeto": "238 - Education Modernization Brazil, Colombia, Europe - the new era of digital higher education cooperation - EMBRACE - IFES",
+        "Título do Arquivo": "Prestação de contas parcial - Abril",
+        "Descrição": "Prestação de contas parcial - Abril",
+        "Data início": "01/04/2026 ",
+        "Data final": "30/04/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T14:12:00",
+  "_error": null
+}

@@ -1,0 +1,1391 @@
+{
+  "id": "333",
+  "name": "Termo de Execução Descentralizada - CAPES-PROFEPT.",
+  "csv": {
+    "Projeto_333/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Coordenador": "Pollyana Santos",
+        "Financiadora": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - CAPES",
+        "Data de início": "19/08/2024",
+        "Data de vigência": "19/08/2029",
+        "Data de encerramento": "19/10/2029",
+        "Tipo de Projeto": "Ensino",
+        "Instituição executora": "Instituto Federal De Educação Ciencia E Tecnologia Do Espirito Santo - Reitoria",
+        "Departamento": "",
+        "Processo e sub-processo": "23147.004212/2024-82",
+        "Valor aprovado": "3.879.991,20",
+        "Objetivo/Objeto/Título": "Gestão administrativa e financeira de recursos destinados à execução do Termo de Execução Descentralizada (TED) N 13446/2024 estabelecido entre a Diretoria de Educação a Distância/CAPES e o Programa de Pós-Graduação em Educação Profissional e Tecnológica (ProfEPT)."
+      }
+    ],
+    "Projeto_333/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Auxílio Estudantil",
+        "Aprovado": "159.000,00",
+        "Liberado": "0,00",
+        "Executado": "-17.000,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "500,00",
+        "Liberado": "0,00",
+        "Executado": "-94,81",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Diária Nacional",
+        "Aprovado": "891.141,76",
+        "Liberado": "0,00",
+        "Executado": "-56.732,50",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "581.998,68",
+        "Liberado": "0,00",
+        "Executado": "-275.338,08",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Materiais de Expediente",
+        "Aprovado": "619,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Passagens",
+        "Aprovado": "2.243.000,00",
+        "Liberado": "0,00",
+        "Executado": "-95.461,56",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Reembolso",
+        "Aprovado": "200,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "1.881,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "1.065.766,93",
+        "Executado": "1.065.766,93",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "28.093,44",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_333/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "24/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "3,52"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "17/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "3,81"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "02/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "15/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "8,24"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "29/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "19/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "28/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "3,88"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "13/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "57,76"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "23/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "7,04"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "11/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CNPJ": "07.933.551/0001-57",
+        "Nome do Favorecido": "I.L. BARRETO REPRESENTACOES LTDA",
+        "Data do Pagamento": "13/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "91.263,57"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CNPJ": "07.933.551/0001-57",
+        "Nome do Favorecido": "I.L. BARRETO REPRESENTACOES LTDA",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "4.197,99"
+      }
+    ],
+    "Projeto_333/Pagamento de pessoa física.csv": [
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.130.447-**",
+        "Nome do Favorecido": "ADJOVANES THADEU SILVA DE ALMEIDA",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "570,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.218.251-**",
+        "Nome do Favorecido": "AIRTON JOSE VINHOLI JUNIOR",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.330,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.688.111-**",
+        "Nome do Favorecido": "ALESSANDRO SILVA DE OLIVEIRA",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "950,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.505.604-**",
+        "Nome do Favorecido": "ALLYSSON MACARIO DE ARAUJO CALDAS",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.330,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.548.062-**",
+        "Nome do Favorecido": "ANA MARIA LEITE LOBATO",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.330,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.131.522-**",
+        "Nome do Favorecido": "ARGEMIRO MIDONES BASTOS",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.330,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.675.624-**",
+        "Nome do Favorecido": "BRUNO FERREIRA DA SILVA SANTOS",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "15/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.668.101-**",
+        "Nome do Favorecido": "CLAUDIO NEI NASCIMENTO DA SILVA",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.330,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.707.569-**",
+        "Nome do Favorecido": "CRISLAINE GRUBER",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.330,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.012.340-**",
+        "Nome do Favorecido": "CRISTIANE AYALA DE OLIVEIRA",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.330,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.413.205-**",
+        "Nome do Favorecido": "Daiane Castor Braz",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "15/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.399.501-**",
+        "Nome do Favorecido": "DANIELA FILGUEIRA COSTA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "19/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "1.125,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.942.100-**",
+        "Nome do Favorecido": "Daniela Medeiros de Azevedo Prates",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "950,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.455.192-**",
+        "Nome do Favorecido": "Dayellen Fonseca Conde Filgueiras",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "02/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "2.250,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.347.876-**",
+        "Nome do Favorecido": "DEBORA LEITE SILVANO",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "950,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.652.452-**",
+        "Nome do Favorecido": "DULCIRENE DOS SANTOS ALHADEF",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "17/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "2.250,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.697.364-**",
+        "Nome do Favorecido": "Edilma Gomes Santos ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "15/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.062.874-**",
+        "Nome do Favorecido": "ELÍZIA SOARES SILVA DA GUIA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "15/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.641.449-**",
+        "Nome do Favorecido": "Geandro Chiarelli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "24/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "2.250,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.414.686-**",
+        "Nome do Favorecido": "IZA MANUELLA AIRES COTRIM GUIMARAES",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "950,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.366.982-**",
+        "Nome do Favorecido": "JALVA LILIA RABELO DE SOUSA",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.710,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.447.199-**",
+        "Nome do Favorecido": "JARBAS MAURICIO GOMES",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.330,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.770.172-**",
+        "Nome do Favorecido": "JOSE JULIO CESAR DO NASCIMENTO ARAUJO",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "950,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.835.401-**",
+        "Nome do Favorecido": "JOSE VINICIUS DA COSTA FILHO",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.330,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.527.219-**",
+        "Nome do Favorecido": "JOYCE LUCIANE CORREIA MUZI",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.330,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.856.247-**",
+        "Nome do Favorecido": "Karina Hernandes Neves",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "23/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.330,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.684.604-**",
+        "Nome do Favorecido": "LIDIA MARIA DA SILVA SANTOS",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "24/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.518.684-**",
+        "Nome do Favorecido": "LUCIO ANGELO VIDAL",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.330,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.415.177-**",
+        "Nome do Favorecido": "LUIZ MAURICIO BENTIM DA ROCHA MENEZES",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.330,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.536.040-**",
+        "Nome do Favorecido": "MARCELO RYTHOWEM",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "950,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.550.462-**",
+        "Nome do Favorecido": "MARCIA BRAZAO E SILVA BRANDAO",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.330,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.757.678-**",
+        "Nome do Favorecido": "NEMESIO FREITAS DUARTE FILHO",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "23/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.330,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.404.106-**",
+        "Nome do Favorecido": "PABLO MENEZES E OLIVEIRA",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "950,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.731.390-**",
+        "Nome do Favorecido": "Patricia Grasel Da Silva",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "950,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.968.144-**",
+        "Nome do Favorecido": "Rafaela Carla Ambrósio Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "15/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.154.854-**",
+        "Nome do Favorecido": "Tatiana Maria da Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "15/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1.000,00"
+      }
+    ],
+    "Projeto_333/Pagamento de servidores ou agentes públicos.csv": [
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.995.170-**",
+        "Nome do Favorecido": "ADAO CARON CAMBRAIA",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.710,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.469.761-**",
+        "Nome do Favorecido": "Alessandra Rodrigues Lima",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "28/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "1.125,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.684.882-**",
+        "Nome do Favorecido": "Ana Cláudia Ribeiro de Souza",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "23/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.330,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.687.095-**",
+        "Nome do Favorecido": "ANGELO FRANCKLIN PITANGA ",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.330,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.955.147-**",
+        "Nome do Favorecido": "DANIELLE PIONTKOVSKY",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "11/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.062,50"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.014.245-**",
+        "Nome do Favorecido": "DAVI SILVA DA COSTA",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.330,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.239.584-**",
+        "Nome do Favorecido": "DEYSE MORGANA DAS NEVES CORREIA",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.330,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.831.076-**",
+        "Nome do Favorecido": "EMERSON DE SOUSA COSTA",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "950,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.067.640-**",
+        "Nome do Favorecido": "FABIANA LETICIA SBARAINI",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "23/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "950,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.609.064-**",
+        "Nome do Favorecido": "Fábio Alexandre Araújo dos Santos",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.330,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.433.923-**",
+        "Nome do Favorecido": "Francisco Jose Alves De Aquino",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "950,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.972.364-**",
+        "Nome do Favorecido": "Josélia Fontenele Batista",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.330,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.821.859-**",
+        "Nome do Favorecido": "Leandro Rafael Pinto",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "570,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.758.695-**",
+        "Nome do Favorecido": "Leonardo Rangel dos Reis ",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.330,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.804.240-**",
+        "Nome do Favorecido": "Liliane Madruga Prestes",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "950,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.861.056-**",
+        "Nome do Favorecido": "Lorena Temponi Boechat",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "950,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.998.864-**",
+        "Nome do Favorecido": "MARCIANA BARROS CORREIA DE SOUZA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "15/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.330.478-**",
+        "Nome do Favorecido": "Marcus Fernandes Marcusso",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "950,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.607.656-**",
+        "Nome do Favorecido": "MARIA ADÉLIA DA COSTA",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.330,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.050.920-**",
+        "Nome do Favorecido": "Maria Cristina Caminha De Castilhos França",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "950,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.808.201-**",
+        "Nome do Favorecido": "Mirelle Amaral de São Bernardo",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.330,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.815.704-**",
+        "Nome do Favorecido": "NATALIA CONCEICAO SILVA BARROS CAVALCANTI",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.330,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.672.423-**",
+        "Nome do Favorecido": "PAULA FRANCINETI DE ARAUJO TAVARES",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.330,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.287.119-**",
+        "Nome do Favorecido": "REGINALDO LEANDRO PLACIDO",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "950,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "CPF": "***.442.899-**",
+        "Nome do Favorecido": "ROBERTA PASQUALLI",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.330,00"
+      }
+    ],
+    "Projeto_333/Equipe.csv": [
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Nome": "Alessandra Rodrigues Lima",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Federal de Goiás",
+        "Vínculo com a instituição": "Técnica em Assuntos Educacionais",
+        "Grau de instrução": "Pós-Graduação completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Nome": "ARTENIA FRANCISCA COSTA MARTINS",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Nome": "ARTENIA FRANCISCA COSTA MARTINS",
+        "Função": "Coordenador",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Nome": "BRUNO FERREIRA DA SILVA SANTOS",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "INSTITUTO FEDERAL DE ALAGOAS (IFAL)",
+        "Vínculo com a instituição": "INSTITUTO FEDERAL DE ALAGOAS (IFAL)",
+        "Grau de instrução": "Pós-Graduação completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Nome": "Daiane Castor Braz",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Ict Repensar ",
+        "Vínculo com a instituição": "Ifal",
+        "Grau de instrução": "Educação Superior completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Nome": "DANIELA FILGUEIRA COSTA",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "SECRETARIA DE ESTADO DE EDUCAÇÃO DO DISTRITO FEDERAL",
+        "Vínculo com a instituição": "SERVIDORA PÚBLICA",
+        "Grau de instrução": "Educação Superior completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Nome": "Dayellen Fonseca Conde Filgueiras",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Escola Recriança",
+        "Vínculo com a instituição": "prestador de serviços educacionais PJ",
+        "Grau de instrução": "Educação Superior completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Nome": "DULCIRENE DOS SANTOS ALHADEF",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Nome": "Edilma Gomes Santos ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Sesau ",
+        "Vínculo com a instituição": "Estatutário",
+        "Grau de instrução": "Pós-Graduação completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Nome": "ELÍZIA SOARES SILVA DA GUIA",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "INSTITUTO FEDERAL DE ALAGOAS",
+        "Vínculo com a instituição": "ESTUDANTE DE MESTRADO - PROFEPT",
+        "Grau de instrução": "Pós-Graduação completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Nome": "Geandro Chiarelli",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Secretaria de Estado de Segurança Pública",
+        "Vínculo com a instituição": "Servidor Efetivo",
+        "Grau de instrução": "Pós-Graduação completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Nome": "Geandro Chiarelli",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "Secretaria de Estado de Segurança Pública",
+        "Vínculo com a instituição": "Servidor Efetivo",
+        "Grau de instrução": "Pós-Graduação completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Nome": "LIDIA MARIA DA SILVA SANTOS",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Secretaria de Estado da Educação de Alagoas",
+        "Vínculo com a instituição": "Servidora/ Estatutario",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Nome": "LIDIA MARIA DA SILVA SANTOS",
+        "Função": "Cursista",
+        "Instituição de trabalho": "Secretaria de Estado da Educação de Alagoas",
+        "Vínculo com a instituição": "Servidora/ Estatutario",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Nome": "MARCIANA BARROS CORREIA DE SOUZA",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "INSTITUTO FEDERAL DE ALAGOAS",
+        "Vínculo com a instituição": "TÉCNICO EM ASSUNTOS EDUCACIONAIS",
+        "Grau de instrução": "Pós-Graduação completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Nome": "Pollyana Santos",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "IFES",
+        "Vínculo com a instituição": "DOCENTE",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Nome": "Rafaela Carla Ambrósio Silva",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Ifal ",
+        "Vínculo com a instituição": "Estudante",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Nome": "Tatiana Maria da Silva",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Secretaria de Educação de Pernambuco",
+        "Vínculo com a instituição": "Professora",
+        "Grau de instrução": "Pós-Graduação completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      }
+    ],
+    "Projeto_333/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Agrupamento": "Ano 1",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Tarifas bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "500,00",
+        "Valor total aprovado": "500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Agrupamento": "Ano 1",
+        "Rubrica": "Diária Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Diárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "220.651,76",
+        "Valor total aprovado": "220.651,76",
+        "Valor executado": "1.330,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Agrupamento": "Ano 1",
+        "Rubrica": "Passagens",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Passagens",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "552.000,00",
+        "Valor total aprovado": "552.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Agrupamento": "Ano 1",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Material gráfico",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.881,00",
+        "Valor total aprovado": "1.881,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Agrupamento": "Ano 1",
+        "Rubrica": "Reembolso",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Reembolso de bagagem",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "200,00",
+        "Valor total aprovado": "200,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Agrupamento": "Ano 1",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "DOA ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "152.673,84",
+        "Valor total aprovado": "152.673,84",
+        "Valor executado": "152.673,84"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Agrupamento": "Ano 1",
+        "Rubrica": "Auxílio Estudantil",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Auxílio a discentes",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "90.000,00",
+        "Valor total aprovado": "90.000,00",
+        "Valor executado": "10.375,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Agrupamento": "Ano 1",
+        "Rubrica": "Materiais de Expediente",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Material de expediente",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "619,00",
+        "Valor total aprovado": "619,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Agrupamento": "Ano 2",
+        "Rubrica": "Diária Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Diárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "191.530,00",
+        "Valor total aprovado": "191.530,00",
+        "Valor executado": "55.402,50"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Agrupamento": "Ano 2",
+        "Rubrica": "Passagens",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Passagens",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "480.000,00",
+        "Valor total aprovado": "480.000,00",
+        "Valor executado": "95.461,56"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Agrupamento": "Ano 2",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "DOA",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "122.664,24",
+        "Valor total aprovado": "122.664,24",
+        "Valor executado": "122.664,24"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Agrupamento": "Ano 2",
+        "Rubrica": "Auxílio Estudantil",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Auxílio a discentes",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "23.000,00",
+        "Valor total aprovado": "23.000,00",
+        "Valor executado": "5.625,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Agrupamento": "Ano 2",
+        "Rubrica": "Materiais de Expediente",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Material de expediente",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "567,36",
+        "Valor total aprovado": "567,36",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Agrupamento": "Ano 3",
+        "Rubrica": "Diária Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Diárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "191.530,00",
+        "Valor total aprovado": "191.530,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Agrupamento": "Ano 3",
+        "Rubrica": "Passagens",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Passagens",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "480.000,00",
+        "Valor total aprovado": "480.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Agrupamento": "Ano 3",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "DOA",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "122.664,24",
+        "Valor total aprovado": "122.664,24",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Agrupamento": "Ano 3",
+        "Rubrica": "Auxílio Estudantil",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Auxílio a discentes",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "23.000,00",
+        "Valor total aprovado": "23.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Agrupamento": "Ano 3",
+        "Rubrica": "Materiais de Expediente",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Material de expediente\t",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "567,36",
+        "Valor total aprovado": "567,36",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Agrupamento": "Ano 4",
+        "Rubrica": "Diária Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Diárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "191.530,00",
+        "Valor total aprovado": "191.530,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Agrupamento": "Ano 4",
+        "Rubrica": "Passagens",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Passagens",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "480.000,00",
+        "Valor total aprovado": "480.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Agrupamento": "Ano 4",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "DOA",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "122.664,24",
+        "Valor total aprovado": "122.664,24",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Agrupamento": "Ano 4",
+        "Rubrica": "Auxílio Estudantil",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Auxílio a discentes",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "23.000,00",
+        "Valor total aprovado": "23.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Agrupamento": "Ano 4",
+        "Rubrica": "Materiais de Expediente",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Material de expediente",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "567,36",
+        "Valor total aprovado": "567,36",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Agrupamento": "Ano 5",
+        "Rubrica": "Diária Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Diárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "95.900,00",
+        "Valor total aprovado": "95.900,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Agrupamento": "Ano 5",
+        "Rubrica": "Passagens",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Passagens",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "251.000,00",
+        "Valor total aprovado": "251.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Agrupamento": "Ano 5",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "DOA",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "61.332,12",
+        "Valor total aprovado": "61.332,12",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Agrupamento": "Ano 5",
+        "Rubrica": "Materiais de Expediente",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Material de expediente",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "648,68",
+        "Valor total aprovado": "648,68",
+        "Valor executado": "0,00"
+      }
+    ],
+    "Projeto_333/Documentos.csv": [
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Título do Arquivo": "CONTRATO Nº 19 / 2024",
+        "Descrição": " "
+      }
+    ],
+    "Projeto_333/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Título do Arquivo": "Certidão LGPD",
+        "Descrição": "CERTIDÃO DE DOCUMENTAÇÃO DE PROCEDIMENTO DE PRESTAÇÃO DE CONTAS AMPARADA PELO SIGILO EM RAZÃO DA LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS.",
+        "Data início": "01/08/2025 ",
+        "Data final": "31/10/2025 "
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Título do Arquivo": "Prestação de Conta Parcial - Agosto a Outubro",
+        "Descrição": "Prestar contas ao Ifes sempre que solicitado, e ao final do projeto no prazo de 60 (sessenta) dias, de todos os valores utilizados na execução do projeto.",
+        "Data início": "01/08/2025 ",
+        "Data final": "31/10/2025 "
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Título do Arquivo": "Prestação de Conta Parcial - Julho",
+        "Descrição": "Prestar contas ao Ifes sempre que solicitado, e ao final do projeto no prazo de 60 (sessenta) dias, de todos os valores utilizados na execução do projeto.",
+        "Data início": "01/07/2025 ",
+        "Data final": "31/07/2025 "
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Título do Arquivo": "P333 - Prestação de Conta Parcial - 11.2025",
+        "Descrição": "Prestar contas ao Ifes sempre que solicitado, e ao final do projeto no prazo de 60 (sessenta) dias, de todos os valores utilizados na execução do projeto.",
+        "Data início": "01/11/2025 ",
+        "Data final": "30/11/2025 "
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Título do Arquivo": "P333 - Prestação de Conta Parcial - 12.2025",
+        "Descrição": "Prestar contas ao Ifes sempre que solicitado, e ao final do projeto no prazo de 60 (sessenta) dias, de todos os valores utilizados na execução do projeto.",
+        "Data início": "01/12/2025 ",
+        "Data final": "31/12/2025 "
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Título do Arquivo": "P333 - Prestação de Conta Parcial - 01.2026",
+        "Descrição": "Prestação de contas parcial referente 01/01 a 31/01.",
+        "Data início": "01/01/2026 ",
+        "Data final": "31/01/2026 "
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Título do Arquivo": "P333 - Prestação de Conta Parcial - 02.2026",
+        "Descrição": "P333 - Prestação de Conta Parcial - 02.2026",
+        "Data início": "01/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Título do Arquivo": "P333 - Prestação de Conta Parcial - 03.2026",
+        "Descrição": "P333 - Prestação de Conta Parcial - 03.2026",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      },
+      {
+        "Referência do projeto": "333 - Termo de Execução Descentralizada - CAPES-PROFEPT",
+        "Título do Arquivo": "P333 - Prestação de Conta Parcial - 04.2026",
+        "Descrição": "P333 - Prestação de Conta Parcial - 04.2026",
+        "Data início": "01/04/2026 ",
+        "Data final": "30/04/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T14:14:14",
+  "_error": null
+}

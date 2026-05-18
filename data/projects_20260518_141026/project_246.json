@@ -1,0 +1,1761 @@
+{
+  "id": "246",
+  "name": "IFES e MPT: Segurança e Saúde nas Escolas.",
+  "csv": {
+    "Projeto_246/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Coordenador": "ALCIARES MELLO DOS SANTOS",
+        "Financiadora": "Ministério Público do Trabalho - MPT/ES",
+        "Data de início": "19/09/2023",
+        "Data de vigência": "20/12/2026",
+        "Data de encerramento": "20/02/2026",
+        "Tipo de Projeto": "Pesquisa, Desenvolvimento e Inovação",
+        "Instituição executora": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo- Campus Vitória",
+        "Departamento": "",
+        "Processo e sub-processo": "23148.005734/2023- 19",
+        "Valor aprovado": "234.171,57",
+        "Objetivo/Objeto/Título": "Constitui objeto deste instrumento regular a cooperação entre os PARTÍCIPES, visando à execução técnica de projeto de extensão IFES E MPT: SEGURANÇA E SAÚDE NAS ESCOLAS, na forma do Plano de Trabalho em Anexo e em respeito às atribuições específicas definidas neste instrumento para cada PARTE."
+      }
+    ],
+    "Projeto_246/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Bolsas",
+        "Aprovado": "121.860,00",
+        "Liberado": "0,00",
+        "Executado": "-101.460,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "1.000,00",
+        "Liberado": "0,00",
+        "Executado": "-191,54",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "27.608,19",
+        "Liberado": "0,00",
+        "Executado": "-27.608,19",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Aprovado": "77.035,44",
+        "Liberado": "0,00",
+        "Executado": "-76.048,42",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "15.663,98",
+        "Liberado": "0,00",
+        "Executado": "-16.651,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "234.171,57",
+        "Executado": "234.171,57",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "13.373,85",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_246/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "12.134.879/0001-43",
+        "Nome do Favorecido": "Aiq Ferrementas e Instrumentos Ltda - Epp",
+        "Data do Pagamento": "08/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "16.105,85"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "46.345.842/0001-86",
+        "Nome do Favorecido": "ASG LOCAÇÃO E SERVIÇOS INDUSTRIAIS LTDA",
+        "Data do Pagamento": "08/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "987,02"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "22/11/2023",
+        "Mês de Competência": "11/2023",
+        "Valor": "0,55"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "12/2023",
+        "Valor": "3,23"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/01/2024",
+        "Mês de Competência": "01/2024",
+        "Valor": "3,23"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/02/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "6,72"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "12,89"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/04/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "12,89"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "12,89"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "17/05/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "0,55"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "22/05/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "2,68"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "24/05/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "0,55"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "10,21"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "12/06/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "3,23"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "24,16"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "12/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "2,68"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "21,71"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/09/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "14,74"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/10/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "11,96"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "5,56"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "1,14"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "22/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "27/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "22/01/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "21/05/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "11/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "16/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "43.287.805/0001-70",
+        "Nome do Favorecido": "E CAMPREGUER COMEX LTDA",
+        "Data do Pagamento": "16/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "1.700,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "40.172.916/0001-43",
+        "Nome do Favorecido": "ELITE COMERCIO DE FERRAMENTAS E EPI'S LTDA",
+        "Data do Pagamento": "27/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "6.792,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "27.276.163/0001-58",
+        "Nome do Favorecido": "EMANIA FOTO E VIDEO LTDA",
+        "Data do Pagamento": "10/04/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "555,57"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "20.949.657/0001-07",
+        "Nome do Favorecido": "GRAFICA IGUACU LTDA",
+        "Data do Pagamento": "22/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "9.750,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "34.514.779/0001-85",
+        "Nome do Favorecido": "INSTRULABOR LICITAÇÃO LTDA",
+        "Data do Pagamento": "22/01/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "38.670,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "34.514.779/0001-85",
+        "Nome do Favorecido": "INSTRULABOR LICITAÇÃO LTDA",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "12.225,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CNPJ": "26.464.902/0001-72",
+        "Nome do Favorecido": "LANTYX TECNOLOGIA E PUBLICIDADE LTDA",
+        "Data do Pagamento": "22/05/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "5.913,98"
+      }
+    ],
+    "Projeto_246/Pagamento de pessoa física.csv": [
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.021.287-**",
+        "Nome do Favorecido": "Alciares Mello dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "2.700,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.021.287-**",
+        "Nome do Favorecido": "Alciares Mello dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "11/2023",
+        "Valor": "2.700,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.021.287-**",
+        "Nome do Favorecido": "Alciares Mello dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/01/2024",
+        "Mês de Competência": "12/2023",
+        "Valor": "2.700,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.021.287-**",
+        "Nome do Favorecido": "Alciares Mello dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/02/2024",
+        "Mês de Competência": "01/2024",
+        "Valor": "2.700,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.021.287-**",
+        "Nome do Favorecido": "Alciares Mello dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "2.700,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.021.287-**",
+        "Nome do Favorecido": "Alciares Mello dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/04/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "2.700,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.021.287-**",
+        "Nome do Favorecido": "Alciares Mello dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "2.700,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.021.287-**",
+        "Nome do Favorecido": "Alciares Mello dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "2.700,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.021.287-**",
+        "Nome do Favorecido": "Alciares Mello dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "2.700,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.021.287-**",
+        "Nome do Favorecido": "Alciares Mello dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "2.700,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.021.287-**",
+        "Nome do Favorecido": "Alciares Mello dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/09/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "2.700,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.021.287-**",
+        "Nome do Favorecido": "Alciares Mello dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "04/10/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "2.700,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.021.287-**",
+        "Nome do Favorecido": "ALCIARES MELLO DOS SANTOS",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.021.287-**",
+        "Nome do Favorecido": "ALCIARES MELLO DOS SANTOS",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.021.287-**",
+        "Nome do Favorecido": "ALCIARES MELLO DOS SANTOS",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.021.287-**",
+        "Nome do Favorecido": "ALCIARES MELLO DOS SANTOS",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "11/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.021.287-**",
+        "Nome do Favorecido": "ALCIARES MELLO DOS SANTOS",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.021.287-**",
+        "Nome do Favorecido": "ALCIARES MELLO DOS SANTOS",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.021.287-**",
+        "Nome do Favorecido": "ALCIARES MELLO DOS SANTOS",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.021.287-**",
+        "Nome do Favorecido": "ALCIARES MELLO DOS SANTOS",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.021.287-**",
+        "Nome do Favorecido": "ALCIARES MELLO DOS SANTOS",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.021.287-**",
+        "Nome do Favorecido": "ALCIARES MELLO DOS SANTOS",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.021.287-**",
+        "Nome do Favorecido": "ALCIARES MELLO DOS SANTOS",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.021.287-**",
+        "Nome do Favorecido": "ALCIARES MELLO DOS SANTOS",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.784.017-**",
+        "Nome do Favorecido": "André Lovatti Coelho Kóffer",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "11/2023",
+        "Valor": "550,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.784.017-**",
+        "Nome do Favorecido": "André Lovatti Coelho Kóffer",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/01/2024",
+        "Mês de Competência": "12/2023",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.784.017-**",
+        "Nome do Favorecido": "André Lovatti Coelho Kóffer",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/02/2024",
+        "Mês de Competência": "01/2024",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.784.017-**",
+        "Nome do Favorecido": "André Lovatti Coelho Kóffer",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.784.017-**",
+        "Nome do Favorecido": "André Lovatti Coelho Kóffer",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/04/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.784.017-**",
+        "Nome do Favorecido": "André Lovatti Coelho Kóffer",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.784.017-**",
+        "Nome do Favorecido": "André Lovatti Coelho Kóffer",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "17/05/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.784.017-**",
+        "Nome do Favorecido": "André Lovatti Coelho Kóffer",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.784.017-**",
+        "Nome do Favorecido": "André Lovatti Coelho Kóffer",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.784.017-**",
+        "Nome do Favorecido": "André Lovatti Coelho Kóffer",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "550,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.199.047-**",
+        "Nome do Favorecido": "Ebran Nascimento da silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.199.047-**",
+        "Nome do Favorecido": "Ebran Nascimento da silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/09/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.199.047-**",
+        "Nome do Favorecido": "Ebran Nascimento da silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "04/10/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "1.300,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.199.047-**",
+        "Nome do Favorecido": "Ebran Nascimento da silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/11/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "200,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.199.047-**",
+        "Nome do Favorecido": "Ebran Nascimento da silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/11/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.996.598-**",
+        "Nome do Favorecido": "Jane Patricia Haddad",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "12/07/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.417.497-**",
+        "Nome do Favorecido": "Jaqueline Sagrilo Rocha",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "800,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.417.497-**",
+        "Nome do Favorecido": "Jaqueline Sagrilo Rocha",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/04/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "800,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.417.497-**",
+        "Nome do Favorecido": "Jaqueline Sagrilo Rocha",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "800,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.417.497-**",
+        "Nome do Favorecido": "Jaqueline Sagrilo Rocha",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "800,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.417.497-**",
+        "Nome do Favorecido": "Jaqueline Sagrilo Rocha",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "800,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.417.497-**",
+        "Nome do Favorecido": "Jaqueline Sagrilo Rocha",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "800,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.564.677-**",
+        "Nome do Favorecido": "JOSIANE CERCHI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "800,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.564.677-**",
+        "Nome do Favorecido": "JOSIANE CERCHI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/04/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "800,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.564.677-**",
+        "Nome do Favorecido": "JOSIANE CERCHI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "800,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.564.677-**",
+        "Nome do Favorecido": "JOSIANE CERCHI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "12/06/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "800,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.564.677-**",
+        "Nome do Favorecido": "JOSIANE CERCHI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "800,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.564.677-**",
+        "Nome do Favorecido": "JOSIANE CERCHI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "800,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.942.347-**",
+        "Nome do Favorecido": "LEONEIDA LADEIRA RODRIGUES MACEDO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "1.300,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.942.347-**",
+        "Nome do Favorecido": "LEONEIDA LADEIRA RODRIGUES MACEDO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "1.300,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.942.347-**",
+        "Nome do Favorecido": "LEONEIDA LADEIRA RODRIGUES MACEDO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/09/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "1.300,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.582.057-**",
+        "Nome do Favorecido": "Michele Silva da Mata Caetano",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "11/2023",
+        "Valor": "540,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.582.057-**",
+        "Nome do Favorecido": "Michele Silva da Mata Caetano",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/01/2024",
+        "Mês de Competência": "12/2023",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.582.057-**",
+        "Nome do Favorecido": "Michele Silva da Mata Caetano",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/02/2024",
+        "Mês de Competência": "01/2024",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.582.057-**",
+        "Nome do Favorecido": "Michele Silva da Mata Caetano",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.582.057-**",
+        "Nome do Favorecido": "Michele Silva da Mata Caetano",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/04/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.582.057-**",
+        "Nome do Favorecido": "Michele Silva da Mata Caetano",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.582.057-**",
+        "Nome do Favorecido": "Michele Silva da Mata Caetano",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "3.600,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.582.057-**",
+        "Nome do Favorecido": "Michele Silva da Mata Caetano",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.582.057-**",
+        "Nome do Favorecido": "Michele Silva da Mata Caetano",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/09/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "1.320,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.135.267-**",
+        "Nome do Favorecido": "RAYANI FURLANI MULLER",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "2.250,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.135.267-**",
+        "Nome do Favorecido": "RAYANI FURLANI MULLER",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "2.250,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.135.267-**",
+        "Nome do Favorecido": "RAYANI FURLANI MULLER",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "04/10/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "1.500,00"
+      }
+    ],
+    "Projeto_246/Pagamento de servidores ou agentes públicos.csv": [
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.906.537-**",
+        "Nome do Favorecido": "DARLAN MACHADO PINTO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "12/06/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.906.537-**",
+        "Nome do Favorecido": "DARLAN MACHADO PINTO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.341.517-**",
+        "Nome do Favorecido": "Fernanda dos Santos Nogueira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "1.300,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.341.517-**",
+        "Nome do Favorecido": "Fernanda dos Santos Nogueira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "1.300,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.341.517-**",
+        "Nome do Favorecido": "Fernanda dos Santos Nogueira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/09/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "1.300,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "CPF": "***.341.517-**",
+        "Nome do Favorecido": "Fernanda dos Santos Nogueira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "04/10/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "1.300,00"
+      }
+    ],
+    "Projeto_246/Equipe.csv": [
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Nome": "ALCIARES MELLO DOS SANTOS",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "IFES",
+        "Vínculo com a instituição": "TAE",
+        "Grau de instrução": "Analfabeto, inclusive o que, embora tenha recebido instrução, não se alfabetizou",
+        "Carga horária": "10 horas semanais",
+        "Vinculada à inst. executora": "Sim"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Nome": "André Lovatti Coelho Kóffer",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": "15 horas semananis",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Nome": "DARLAN MACHADO PINTO",
+        "Função": "Apoiador",
+        "Instituição de trabalho": "IFES",
+        "Vínculo com a instituição": "TAE",
+        "Grau de instrução": "Ensino Médio completo",
+        "Carga horária": "15 horas/semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Nome": "Ebran Nascimento da silva",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": "15 horas/semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Nome": "Fernanda dos Santos Nogueira",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Federal do Espírito Santo - Ifes",
+        "Vínculo com a instituição": "Técnico administrativo",
+        "Grau de instrução": "Pós-Graduação completa",
+        "Carga horária": "10 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Nome": "Jane Patricia Haddad",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Educação Superior completa",
+        "Carga horária": "10 horas/semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Nome": "Jaqueline Sagrilo Rocha",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": "estudante",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": "08 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Nome": "JOSIANE CERCHI",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Analfabeto, inclusive o que, embora tenha recebido instrução, não se alfabetizou",
+        "Carga horária": "8 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Nome": "LEONEIDA LADEIRA RODRIGUES MACEDO",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": "10 horas/semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Nome": "Michele Silva da Mata ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Faculdade UCL do Centro Leste ",
+        "Vínculo com a instituição": "Professor",
+        "Grau de instrução": "Pós-Graduação completa",
+        "Carga horária": "18 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Nome": "RAYANI FURLANI MULLER",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Educação Superior completa",
+        "Carga horária": "30 horas/semanais",
+        "Vinculada à inst. executora": "Não"
+      }
+    ],
+    "Projeto_246/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador do Projeto ",
+        "Justificativa": " ",
+        "Qtde aprovada": "12,00",
+        "Valor unitário": "2.700,00",
+        "Valor total aprovado": "32.400,00",
+        "Valor executado": "32.400,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Designer educacional/instrucional",
+        "Justificativa": " ",
+        "Qtde aprovada": "8,00",
+        "Valor unitário": "1.800,00",
+        "Valor total aprovado": "14.400,00",
+        "Valor executado": "14.400,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Designer Gráfico",
+        "Justificativa": " ",
+        "Qtde aprovada": "7,00",
+        "Valor unitário": "1.500,00",
+        "Valor total aprovado": "10.500,00",
+        "Valor executado": "10.500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Audiodescritor",
+        "Justificativa": " ",
+        "Qtde aprovada": "3,00",
+        "Valor unitário": "1.300,00",
+        "Valor total aprovado": "3.900,00",
+        "Valor executado": "3.900,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Intérprete de Libras",
+        "Justificativa": " ",
+        "Qtde aprovada": "4,00",
+        "Valor unitário": "1.300,00",
+        "Valor total aprovado": "5.200,00",
+        "Valor executado": "5.200,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Professor para assessorar assuntos específicos de saúde mental e justiça restaurativa",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.500,00",
+        "Valor total aprovado": "1.500,00",
+        "Valor executado": "1.500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Produtor de Vídeo",
+        "Justificativa": " ",
+        "Qtde aprovada": "6,00",
+        "Valor unitário": "1.500,00",
+        "Valor total aprovado": "9.000,00",
+        "Valor executado": "9.000,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Estudante Extensionista",
+        "Justificativa": " ",
+        "Qtde aprovada": "12,00",
+        "Valor unitário": "800,00",
+        "Valor total aprovado": "9.600,00",
+        "Valor executado": "9.600,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Designer Gráfico - apoio às produções gráficas e a preparação de animações",
+        "Justificativa": " ",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "2.250,00",
+        "Valor total aprovado": "4.500,00",
+        "Valor executado": "4.500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Designer educacional/instrucional",
+        "Justificativa": "Valor pago proporcional aos dias trabalhados ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.860,00",
+        "Valor total aprovado": "1.860,00",
+        "Valor executado": "1.860,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Designer Gráfico",
+        "Justificativa": "Valor pago proporcional aos dias trabalhados",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.100,00",
+        "Valor total aprovado": "1.100,00",
+        "Valor executado": "1.100,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Designer Gráfico - para realizar reparos e atualizar materiais necessários durante o processo de revisão dos conteúdos",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.500,00",
+        "Valor total aprovado": "1.500,00",
+        "Valor executado": "1.500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas bancárias no decorrer do Projeto.",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.000,00",
+        "Valor total aprovado": "1.000,00",
+        "Valor executado": "191,54"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Medidor para avaliação de vibração de corpo inteiro e mãos e braço (localizada)",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "14.913,03",
+        "Valor total aprovado": "14.913,03",
+        "Valor executado": "14.913,03"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Medidor de nível de pressão sonora tipo 2",
+        "Justificativa": " ",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "950,00",
+        "Valor total aprovado": "1.900,00",
+        "Valor executado": "1.900,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Medidor de nível de pressão sonora",
+        "Justificativa": " ",
+        "Qtde aprovada": "3,00",
+        "Valor unitário": "4.490,00",
+        "Valor total aprovado": "13.470,00",
+        "Valor executado": "13.470,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Medidor de iluminância ",
+        "Justificativa": " ",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "493,51",
+        "Valor total aprovado": "987,02",
+        "Valor executado": "987,02"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Medidor digital de stress térmico",
+        "Justificativa": " ",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "4.750,00",
+        "Valor total aprovado": "9.500,00",
+        "Valor executado": "9.500,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bomba de amostragem de alto e médio flux",
+        "Justificativa": " ",
+        "Qtde aprovada": "3,00",
+        "Valor unitário": "4.075,00",
+        "Valor total aprovado": "12.225,00",
+        "Valor executado": "12.225,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Calibrador de fluxo",
+        "Justificativa": " ",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "6.900,00",
+        "Valor total aprovado": "13.800,00",
+        "Valor executado": "13.800,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Manequim RCP",
+        "Justificativa": " ",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "850,00",
+        "Valor total aprovado": "1.700,00",
+        "Valor executado": "1.700,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Proteção respiratória",
+        "Justificativa": " ",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "3.396,00",
+        "Valor total aprovado": "6.792,00",
+        "Valor executado": "6.792,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Separadores",
+        "Justificativa": " ",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "596,41",
+        "Valor total aprovado": "1.192,82",
+        "Valor executado": "1.192,82"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Chrome Key para gravação de vídeo",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "555,57",
+        "Valor total aprovado": "555,57",
+        "Valor executado": "555,57"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Contratação de software para criação de animações\t",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "5.913,98",
+        "Valor total aprovado": "5.913,98",
+        "Valor executado": "5.913,98"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Cadernos Personalizados",
+        "Justificativa": "SERVIÇOS GRÁFICOS E EDITORIAIS",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "9.750,00",
+        "Valor total aprovado": "9.750,00",
+        "Valor executado": "9.750,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Operacionais Administrativas da FACTO",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "23.648,19",
+        "Valor total aprovado": "23.648,19",
+        "Valor executado": "23.648,19"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "DOA",
+        "Justificativa": "Segunda proposta comercial",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "3.960,00",
+        "Valor total aprovado": "3.960,00",
+        "Valor executado": "3.960,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "Bolsas - Rendimentos ",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Tradutor e intérprete de libras (se necessário)",
+        "Justificativa": " ",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "3.600,00",
+        "Valor total aprovado": "7.200,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "Bolsas - Rendimentos ",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Designer Gráfico (se necessário)",
+        "Justificativa": " ",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "3.600,00",
+        "Valor total aprovado": "7.200,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "Bolsas - vigência 02/2025 a 02/2026",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador do projeto ",
+        "Justificativa": " ",
+        "Qtde aprovada": "12,00",
+        "Valor unitário": "500,00",
+        "Valor total aprovado": "6.000,00",
+        "Valor executado": "6.000,00"
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Agrupamento": "Bolsas - vigência 03/2026 a 02/2027",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador- Fase de manutenção do curso",
+        "Justificativa": " ",
+        "Qtde aprovada": "12,00",
+        "Valor unitário": "500,00",
+        "Valor total aprovado": "6.000,00",
+        "Valor executado": "0,00"
+      }
+    ],
+    "Projeto_246/Documentos.csv": [
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Título do Arquivo": "Convênio",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Título do Arquivo": "246_Convenio_LAI",
+        "Descrição": "CONVÊNIO Nº 42/2023 QUE ENTRE SI CELEBRAM OINSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA ETECNOLOGIA DO ESPÍRITO SANTO  IFES CAMPUSVITÓRIA; FUNDAÇÃO DE APOIO AODESENVOLVIMENTO DA CIÊNCIA E TECNOLOGIAFACTO E MINISTÉRIO PÚBLICO DO TRABALHO."
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Título do Arquivo": "246_Termo de aditivo_LAI",
+        "Descrição": "TERMO ADITIVO nº 001 AO CONVÊNIO Nº 42/2023 QUEENTRE SI CELEBRAM INSTITUTO FEDERAL DE EDUCAÇÃO,CIÊNCIA E TECNOLOGIA DO ESPÍRITO SANTO  IFESCAMPUS VITÓRIA; FUNDAÇÃO DE APOIO AODESENVOLVIMENTO DA CIÊNCIA E TECNOLOGIA FACTO EMINISTÉRIO PÚBLICO DO TRABA"
+      }
+    ],
+    "Projeto_246/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Título do Arquivo": "Certidão",
+        "Descrição": "CERTIDÃO DE DOCUMENTAÇÃO DE PROCEDIMENTO DE PRESTAÇÃO DE CONTAS AMPARADA PELO SIGILO EM RAZÃO DA LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS",
+        "Data início": "19/09/2023 ",
+        "Data final": "30/04/2025 "
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Título do Arquivo": "Prestação de contas ",
+        "Descrição": "Prestação de Contas ",
+        "Data início": "19/09/2023 ",
+        "Data final": "30/04/2025 "
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestação de Contas PArcial 01.05.2025 a 31.05.2025",
+        "Data início": "01/05/2025 ",
+        "Data final": "31/05/2025 "
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestação de Contas Parcial 01.06.2025 a 30.06.2025",
+        "Data início": "01/06/2025 ",
+        "Data final": "30/06/2025 "
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestação de Contas Parcial 01.07.2025 a 31.07.2025",
+        "Data início": "01/07/2025 ",
+        "Data final": "31/07/2025 "
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestação de Contas Parcial 01.08.2025 a 31.08.2025",
+        "Data início": "01/08/2025 ",
+        "Data final": "31/08/2025 "
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestação de Contas Parcial 01.09.2025 a 30.09.2025",
+        "Data início": "01/09/2025 ",
+        "Data final": "30/09/2025 "
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestação de Contas Parcial 01.10.2025 a 31.10.2025\t",
+        "Data início": "01/10/2025 ",
+        "Data final": "31/10/2025 "
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestação_Parcial_01.11.2025_A_30.11.2025",
+        "Data início": "01/11/2025 ",
+        "Data final": "30/11/2025 "
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestação de Contas Parcial 01.12.2025 a 31.12.2025",
+        "Data início": "01/12/2025 ",
+        "Data final": "31/12/2025 "
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestação de contas Janeiro 2026",
+        "Data início": "01/01/2026 ",
+        "Data final": "31/01/2026 "
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestação de contas Fevereiro 2026",
+        "Data início": "01/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "246 - IFES e MPT: Segurança e Saúde nas Escolas",
+        "Título do Arquivo": "Prestação de Contas - Março 2026",
+        "Descrição": "Prestação de Contas - Março 2026",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T14:12:07",
+  "_error": null
+}

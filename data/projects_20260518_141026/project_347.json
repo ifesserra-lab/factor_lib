@@ -1,0 +1,446 @@
+{
+  "id": "347",
+  "name": "ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO.",
+  "csv": {
+    "Projeto_347/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Coordenador": "JOSE ROBERTO DE OLIVEIRA",
+        "Financiadora": "Vallourec Soluções Tubulares do Brasil S.A",
+        "Data de início": "19/11/2025",
+        "Data de vigência": "19/09/2026",
+        "Data de encerramento": "19/11/2026",
+        "Tipo de Projeto": "Pesquisa, Desenvolvimento e Inovação",
+        "Instituição executora": "Instituto Federal De Educação Ciencia E Tecnologia Do Espirito Santo - Reitoria",
+        "Departamento": "",
+        "Processo e sub-processo": "",
+        "Valor aprovado": "106.600,00",
+        "Objetivo/Objeto/Título": "Aprimorar o processo do uso do forno Consteel da  Vallourec por meio do planejamento e execução de experimentos que avaliam a influência de angulação e distância das lanças, em uma planta piloto acrílica com escala de até 1/10 do forno industrial. Por fim, o projeto gera um relatório técnico com a inovação de processo para orientar as ações da empresa."
+      }
+    ],
+    "Projeto_347/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Bolsas",
+        "Aprovado": "33.300,00",
+        "Liberado": "0,00",
+        "Executado": "-9.195,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "300,00",
+        "Liberado": "0,00",
+        "Executado": "-16,40",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "10.256,46",
+        "Liberado": "0,00",
+        "Executado": "-10.256,46",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Aprovado": "33.000,00",
+        "Liberado": "0,00",
+        "Executado": "-7.725,43",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Aprovado": "15.043,54",
+        "Liberado": "0,00",
+        "Executado": "-1.170,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "15.000,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "106.600,00",
+        "Executado": "106.600,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "3.094,81",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_347/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "6,44"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "29/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "6,44"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "CNPJ": "92.660.406/0070-40",
+        "Nome do Favorecido": "FRIGELAR COMERCIO E INDUSTRIA LTDA",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "4.739,20"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "CNPJ": "53.179.555/0001-09",
+        "Nome do Favorecido": "HYDRA COMERCIO ELETRONICO LTDA",
+        "Data do Pagamento": "29/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "1.170,00"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "CNPJ": "02.551.354/0002-30",
+        "Nome do Favorecido": "REFRISOL LTDA",
+        "Data do Pagamento": "30/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2.986,23"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "CNPJ": "00.394.460/0058-87",
+        "Nome do Favorecido": "Secretaria da Receita Federal do Brasil",
+        "Data do Pagamento": "30/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "64,54"
+      }
+    ],
+    "Projeto_347/Pagamento de pessoa física.csv": [
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "CPF": "***.263.357-**",
+        "Nome do Favorecido": "Gabriel Barcelos Monteiro ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "945,00"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "CPF": "***.263.357-**",
+        "Nome do Favorecido": "Gabriel Barcelos Monteiro ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "1.050,00"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "CPF": "***.952.496-**",
+        "Nome do Favorecido": "JOSE ROBERTO DE OLIVEIRA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "CPF": "***.952.496-**",
+        "Nome do Favorecido": "JOSE ROBERTO DE OLIVEIRA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "1.800,00"
+      }
+    ],
+    "Projeto_347/Pagamento de servidores ou agentes públicos.csv": [
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "CPF": "***.623.187-**",
+        "Nome do Favorecido": "DIRCEU SOARES JUNIOR",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "CPF": "***.623.187-**",
+        "Nome do Favorecido": "DIRCEU SOARES JUNIOR",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "1.800,00"
+      }
+    ],
+    "Projeto_347/Equipe.csv": [
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Nome": "BRENO TOTTI MAIA",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Nome": "DIRCEU SOARES JUNIOR",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "Ifes - campus Serra / Polo de Inovação",
+        "Vínculo com a instituição": "Professor EBTT / Gerente de Recursos Institucionais",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Nome": "DIRCEU SOARES JUNIOR",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Ifes - campus Serra / Polo de Inovação",
+        "Vínculo com a instituição": "Professor EBTT / Gerente de Recursos Institucionais",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Nome": "Gabriel Barcelos Monteiro ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Nome": "JOSE ROBERTO DE OLIVEIRA",
+        "Função": "Coordenador",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Sim"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Nome": "JOSE ROBERTO DE OLIVEIRA",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      }
+    ],
+    "Projeto_347/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador",
+        "Justificativa": " ",
+        "Qtde aprovada": "6,00",
+        "Valor unitário": "1.800,00",
+        "Valor total aprovado": "10.800,00",
+        "Valor executado": "10.800,00"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Pesquisador",
+        "Justificativa": " ",
+        "Qtde aprovada": "6,00",
+        "Valor unitário": "1.800,00",
+        "Valor total aprovado": "10.800,00",
+        "Valor executado": "10.800,00"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Pesquisador",
+        "Justificativa": " ",
+        "Qtde aprovada": "6,00",
+        "Valor unitário": "900,00",
+        "Valor total aprovado": "5.400,00",
+        "Valor executado": "5.400,00"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Pesquisador",
+        "Justificativa": " ",
+        "Qtde aprovada": "6,00",
+        "Valor unitário": "1.050,00",
+        "Valor total aprovado": "6.300,00",
+        "Valor executado": "6.300,00"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "300,00",
+        "Valor total aprovado": "300,00",
+        "Valor executado": "15,80"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Material de consumo",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "15.043,54",
+        "Valor total aprovado": "15.043,54",
+        "Valor executado": "9.590,00"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Material Permanente",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "33.000,00",
+        "Valor total aprovado": "33.000,00",
+        "Valor executado": "24.225,43"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Serviços de Terceiros",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "15.000,00",
+        "Valor total aprovado": "15.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "DOA - Despesas Operacionais e Administrativas",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "10.256,46",
+        "Valor total aprovado": "10.256,46",
+        "Valor executado": "10.256,46"
+      }
+    ],
+    "Projeto_347/Documentos.csv": [
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Título do Arquivo": "P 347_ACORDO DE COOPERAÇÃO_LAI",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Título do Arquivo": "P 347_PLANO DE TRABALHO_LAI",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      }
+    ],
+    "Projeto_347/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Título do Arquivo": "Prestação de contas parcial - Janeiro",
+        "Descrição": "Prestação de contas parcial - Janeiro",
+        "Data início": "19/11/2025 ",
+        "Data final": "31/01/2026 "
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Título do Arquivo": "Prestação de contas parcial - Fevereiro",
+        "Descrição": "Prestação de contas parcial - Fevereiro",
+        "Data início": "01/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Título do Arquivo": "Prestação de contas parcial - Março",
+        "Descrição": "Prestação de contas parcial - Março",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      },
+      {
+        "Referência do projeto": "347 - ESTUDO DO REPOSICIONAMENTO DAS LANÇAS KT DO FORNO CONSTEEL, E SUA INFLUÊNCIA NA PROJEÇÃO DE METAL E HOMOGENEIZAÇÃO DO BANHO",
+        "Título do Arquivo": "Prestação de contas parcial - Abril",
+        "Descrição": "Prestação de contas parcial - Abril",
+        "Data início": "01/04/2026 ",
+        "Data final": "30/04/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T14:14:53",
+  "_error": null
+}

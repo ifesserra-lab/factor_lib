@@ -1,0 +1,3790 @@
+{
+  "id": "231",
+  "name": "Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR.",
+  "csv": {
+    "Projeto_231/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Coordenador": "JONAS SPONCHIADO",
+        "Financiadora": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA FARROUPILHA",
+        "Data de início": "30/03/2023",
+        "Data de vigência": "30/03/2027",
+        "Data de encerramento": "30/05/2027",
+        "Tipo de Projeto": "Pesquisa",
+        "Instituição executora": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA FARROUPILHA",
+        "Departamento": "",
+        "Processo e sub-processo": "",
+        "Valor aprovado": "862.735,51",
+        "Objetivo/Objeto/Título": "Realizar o levantamento de dados produtivos, fisiológicos, sanitários e comportamentais de distintas categorias de bovinos leiteiros em diferentes raças (Holandês, Jersey e Girolando) no município de Alegrete-RS, visando conhecer a adaptabilidade e, consequentemente, a produtividade dos animais nesta bacia leiteira."
+      }
+    ],
+    "Projeto_231/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "ADM - Despesas Bancárias",
+        "Aprovado": "1.000,00",
+        "Liberado": "0,00",
+        "Executado": "-448,35",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Bolsas",
+        "Aprovado": "207.000,00",
+        "Liberado": "0,00",
+        "Executado": "-126.600,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "100,00",
+        "Liberado": "0,00",
+        "Executado": "-79,60",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Diária Nacional",
+        "Aprovado": "8.322,68",
+        "Liberado": "0,00",
+        "Executado": "-2.480,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "95.209,00",
+        "Liberado": "0,00",
+        "Executado": "-29.351,52",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Aprovado": "246.431,06",
+        "Liberado": "0,00",
+        "Executado": "-14.806,79",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Aprovado": "245.887,65",
+        "Liberado": "0,00",
+        "Executado": "-89.040,86",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Outras Despesas",
+        "Aprovado": "6.300,00",
+        "Liberado": "0,00",
+        "Executado": "-6.300,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "53.585,00",
+        "Liberado": "0,00",
+        "Executado": "-20.929,27",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "316.691,45",
+        "Executado": "316.691,45",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "5.482,58",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_231/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "32.015.165/0001-23",
+        "Nome do Favorecido": "Adalberto Lima dos Santos e CIA LTDA",
+        "Data do Pagamento": "13/09/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "23.230.989/0001-25",
+        "Nome do Favorecido": "ARRUD ESTUFAS AGRICOLAS LTDA",
+        "Data do Pagamento": "19/04/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "885,79"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/08/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "13,40"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/08/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "2,68"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/09/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "13,40"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "13/09/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "2,68"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/10/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "13,40"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/11/2023",
+        "Mês de Competência": "11/2023",
+        "Valor": "8,04"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "14/11/2023",
+        "Mês de Competência": "11/2023",
+        "Valor": "7,12"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "22/11/2023",
+        "Mês de Competência": "11/2023",
+        "Valor": "0,55"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "12/2023",
+        "Valor": "13,40"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/01/2024",
+        "Mês de Competência": "01/2024",
+        "Valor": "13,40"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/02/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "13,40"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "28/02/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "2,68"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "13,40"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/04/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "5,36"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "19/04/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "5,36"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "2,68"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "11,27"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "02/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "65,30"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "11,27"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "17/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "2,68"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "02/08/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "67,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "11,69"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/09/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "11,69"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "27/09/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/10/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "11,69"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/10/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "11,69"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "29/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "5,56"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/12/2024",
+        "Mês de Competência": "12/2024",
+        "Valor": "11,69"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "11,69"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "5,56"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "5,56"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "16/04/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "30/04/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "21/05/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "1,14"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "23/05/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "3,35"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "11,12"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "13/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "12,26"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "12,88"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "12,28"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "9,36"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "9,36"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "9,36"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "19/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "9,36"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "30/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "9,36"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "9,36"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "18/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "9,36"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "9,36"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "32.015.165/0001-23",
+        "Nome do Favorecido": "BERNARDO DOS S. DIAS & ROSA M. DOS S. DIAS LTDA",
+        "Data do Pagamento": "28/02/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "2.550,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "32.015.165/0001-23",
+        "Nome do Favorecido": "BERNARDO DOS S. DIAS & ROSA M. DOS S. DIAS LTDA",
+        "Data do Pagamento": "19/04/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "1.270,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "32.015.165/0001-23",
+        "Nome do Favorecido": "BERNARDO DOS S. DIAS & ROSA M. DOS S. DIAS LTDA",
+        "Data do Pagamento": "17/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "1.527,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "32.015.165/0001-23",
+        "Nome do Favorecido": "BERNARDO DOS S. DIAS & ROSA M. DOS S. DIAS LTDA",
+        "Data do Pagamento": "27/09/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "1.609,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "32.015.165/0001-23",
+        "Nome do Favorecido": "BERNARDO DOS S. DIAS & ROSA M. DOS S. DIAS LTDA",
+        "Data do Pagamento": "30/04/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "92.813.815/0001-08",
+        "Nome do Favorecido": "CIAVET COMERCIAL IMPORTADORA AGRO VETERINARIA LTDA",
+        "Data do Pagamento": "19/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "34.146,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "89.231.708/0015-62",
+        "Nome do Favorecido": "COOPERATIVA AGROINDUSTRIAL ALEGRETE LTDA",
+        "Data do Pagamento": "29/11/2023",
+        "Mês de Competência": "11/2023",
+        "Valor": "3.600,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "89.231.708/0020-20",
+        "Nome do Favorecido": "COOPERATIVA AGROINDUSTRIAL ALEGRETE LTDA",
+        "Data do Pagamento": "01/12/2023",
+        "Mês de Competência": "12/2023",
+        "Valor": "7.400,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "89.231.708/0020-20",
+        "Nome do Favorecido": "COOPERATIVA AGROINDUSTRIAL ALEGRETE LTDA",
+        "Data do Pagamento": "20/12/2023",
+        "Mês de Competência": "12/2023",
+        "Valor": "4.995,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "89.231.708/0020-20",
+        "Nome do Favorecido": "COOPERATIVA AGROINDUSTRIAL ALEGRETE LTDA",
+        "Data do Pagamento": "28/02/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "4.749,96"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "89.231.708/0020-20",
+        "Nome do Favorecido": "COOPERATIVA AGROINDUSTRIAL ALEGRETE LTDA",
+        "Data do Pagamento": "22/03/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "5.550,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "89.231.708/0020-20",
+        "Nome do Favorecido": "COOPERATIVA AGROINDUSTRIAL ALEGRETE LTDA",
+        "Data do Pagamento": "10/05/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "5.550,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "89.231.708/0020-20",
+        "Nome do Favorecido": "COOPERATIVA AGROINDUSTRIAL ALEGRETE LTDA",
+        "Data do Pagamento": "28/06/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "4.658,30"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "89.231.708/0033-44",
+        "Nome do Favorecido": "COOPERATIVA AGROINDUSTRIAL ALEGRETE LTDA",
+        "Data do Pagamento": "30/08/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "6.475,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "89.231.708/0002-48",
+        "Nome do Favorecido": "COOPERATIVA AGROINDUSTRIAL ALEGRETE LTDA - CAAL",
+        "Data do Pagamento": "04/10/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "7.200,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "21.263.914/0001-15",
+        "Nome do Favorecido": "ISOLAR INDUSTRIA E COMERCIO LTDA",
+        "Data do Pagamento": "17/04/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "1.280,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "89.848.543/0828-07",
+        "Nome do Favorecido": "LOJAS COLOMBO SA COMERCIO DE UTILIDADES DOMESTICAS",
+        "Data do Pagamento": "15/12/2023",
+        "Mês de Competência": "12/2023",
+        "Valor": "5.098,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "05.199.968/0001-02",
+        "Nome do Favorecido": "POLIMAC COMERCIO E SERVIÇOS LTDA",
+        "Data do Pagamento": "21/05/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "1.834,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "05.199.968/0001-02",
+        "Nome do Favorecido": "POLIMAC COMERCIO E SERVIÇOS LTDA",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "3.207,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "12.271.082/0001-98",
+        "Nome do Favorecido": "Quimivix Comercio de Produtos Cientificos Ltda",
+        "Data do Pagamento": "17/01/2024",
+        "Mês de Competência": "01/2024",
+        "Valor": "502,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "36.160.119/0001-79",
+        "Nome do Favorecido": "RENATO PACHECO LEAES ",
+        "Data do Pagamento": "29/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "2.168,60"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "36.160.119/0001-79",
+        "Nome do Favorecido": "RENATO PACHECO LEAES ",
+        "Data do Pagamento": "16/04/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "2.548,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "46.484.096/0001-01",
+        "Nome do Favorecido": "VINICIUS MELLO PEREIRA 83936424004",
+        "Data do Pagamento": "09/08/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "46.484.096/0001-01",
+        "Nome do Favorecido": "VINICIUS MELLO PEREIRA 83936424004",
+        "Data do Pagamento": "29/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "2.242,50"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "46.484.096/0001-01",
+        "Nome do Favorecido": "VINICIUS MELLO PEREIRA 83936424004",
+        "Data do Pagamento": "23/05/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "3.235,77"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CNPJ": "46.484.096/0001-01",
+        "Nome do Favorecido": "VINICIUS MELLO PEREIRA 83936424004",
+        "Data do Pagamento": "30/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "5.195,00"
+      }
+    ],
+    "Projeto_231/Pagamento de pessoa física.csv": [
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.904.890-**",
+        "Nome do Favorecido": "Adão Vagner dos Santos Mota ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.904.890-**",
+        "Nome do Favorecido": "Adão Vagner dos Santos Mota ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.904.890-**",
+        "Nome do Favorecido": "Adão Vagner dos Santos Mota ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.904.890-**",
+        "Nome do Favorecido": "Adão Vagner dos Santos Mota ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/09/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.904.890-**",
+        "Nome do Favorecido": "Adão Vagner dos Santos Mota ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "04/10/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.904.890-**",
+        "Nome do Favorecido": "Adão Vagner dos Santos Mota ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/11/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.904.890-**",
+        "Nome do Favorecido": "Adão Vagner dos Santos Mota ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/12/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.904.890-**",
+        "Nome do Favorecido": "Adão Vagner dos Santos Mota ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.537.750-**",
+        "Nome do Favorecido": "Brenda Aurélio Corrêa ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "04/08/2023",
+        "Mês de Competência": "05/2023",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.537.750-**",
+        "Nome do Favorecido": "Brenda Aurélio Corrêa ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "04/08/2023",
+        "Mês de Competência": "06/2023",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.537.750-**",
+        "Nome do Favorecido": "Brenda Aurélio Corrêa ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "04/08/2023",
+        "Mês de Competência": "07/2023",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.537.750-**",
+        "Nome do Favorecido": "Brenda Aurélio Corrêa ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/09/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.537.750-**",
+        "Nome do Favorecido": "Brenda Aurélio Corrêa ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/10/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.537.750-**",
+        "Nome do Favorecido": "Brenda Aurélio Corrêa ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "14/11/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.537.750-**",
+        "Nome do Favorecido": "Brenda Aurélio Corrêa ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "11/2023",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.537.750-**",
+        "Nome do Favorecido": "Brenda Aurélio Corrêa ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "05/01/2024",
+        "Mês de Competência": "12/2023",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.537.750-**",
+        "Nome do Favorecido": "Brenda Aurélio Corrêa ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/02/2024",
+        "Mês de Competência": "01/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.537.750-**",
+        "Nome do Favorecido": "Brenda Aurélio Corrêa ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.155.090-**",
+        "Nome do Favorecido": "Eduarda Schmitt ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.155.090-**",
+        "Nome do Favorecido": "Eduarda Schmitt ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.155.090-**",
+        "Nome do Favorecido": "Eduarda Schmitt ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.155.090-**",
+        "Nome do Favorecido": "Eduarda Schmitt ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/09/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.155.090-**",
+        "Nome do Favorecido": "Eduarda Schmitt ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "04/10/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.155.090-**",
+        "Nome do Favorecido": "Eduarda Schmitt ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/11/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.155.090-**",
+        "Nome do Favorecido": "Eduarda Schmitt ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/12/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.155.090-**",
+        "Nome do Favorecido": "Eduarda Schmitt ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.155.090-**",
+        "Nome do Favorecido": "Eduarda Schmitt ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.155.090-**",
+        "Nome do Favorecido": "Eduarda Schmitt ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.155.090-**",
+        "Nome do Favorecido": "Eduarda Schmitt ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.155.090-**",
+        "Nome do Favorecido": "Eduarda Schmitt ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.155.090-**",
+        "Nome do Favorecido": "Eduarda Schmitt ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.155.090-**",
+        "Nome do Favorecido": "Eduarda Schmitt ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.155.090-**",
+        "Nome do Favorecido": "Eduarda Schmitt ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.155.090-**",
+        "Nome do Favorecido": "Eduarda Schmitt ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.155.090-**",
+        "Nome do Favorecido": "Eduarda Schmitt ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.155.090-**",
+        "Nome do Favorecido": "Eduarda Schmitt ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.155.090-**",
+        "Nome do Favorecido": "Eduarda Schmitt ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.155.090-**",
+        "Nome do Favorecido": "Eduarda Schmitt ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.155.090-**",
+        "Nome do Favorecido": "Eduarda Schmitt ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.155.090-**",
+        "Nome do Favorecido": "Eduarda Schmitt ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.837.360-**",
+        "Nome do Favorecido": "Evelin Prade Alves",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "04/08/2023",
+        "Mês de Competência": "05/2023",
+        "Valor": "400,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.837.360-**",
+        "Nome do Favorecido": "Evelin Prade Alves",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "04/08/2023",
+        "Mês de Competência": "06/2023",
+        "Valor": "400,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.837.360-**",
+        "Nome do Favorecido": "Evelin Prade Alves",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "04/08/2023",
+        "Mês de Competência": "07/2023",
+        "Valor": "400,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.837.360-**",
+        "Nome do Favorecido": "Evelin Prade Alves",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/09/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "400,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.837.360-**",
+        "Nome do Favorecido": "Evelin Prade Alves",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/10/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "400,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.837.360-**",
+        "Nome do Favorecido": "Evelin Prade Alves",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "14/11/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "400,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.837.360-**",
+        "Nome do Favorecido": "Evelin Prade Alves",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "11/2023",
+        "Valor": "400,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.837.360-**",
+        "Nome do Favorecido": "Evelin Prade Alves",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "05/01/2024",
+        "Mês de Competência": "12/2023",
+        "Valor": "400,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.837.360-**",
+        "Nome do Favorecido": "Evelin Prade Alves",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/02/2024",
+        "Mês de Competência": "01/2024",
+        "Valor": "400,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.837.360-**",
+        "Nome do Favorecido": "Evelin Prade Alves",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "400,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.837.360-**",
+        "Nome do Favorecido": "Evelin Prade Alves",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.837.360-**",
+        "Nome do Favorecido": "Evelin Prade Alves",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.837.360-**",
+        "Nome do Favorecido": "Evelin Prade Alves",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "340,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.837.360-**",
+        "Nome do Favorecido": "Evelin Prade Alves",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "340,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.837.360-**",
+        "Nome do Favorecido": "Evelin Prade Alves",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "340,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.837.360-**",
+        "Nome do Favorecido": "Evelin Prade Alves",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "340,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.837.360-**",
+        "Nome do Favorecido": "Evelin Prade Alves",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "340,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.837.360-**",
+        "Nome do Favorecido": "Evelin Prade Alves",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "340,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.837.360-**",
+        "Nome do Favorecido": "Evelin Prade Alves",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "340,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.837.360-**",
+        "Nome do Favorecido": "Evelin Prade Alves",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "340,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.837.360-**",
+        "Nome do Favorecido": "Evelin Prade Alves",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "340,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.837.360-**",
+        "Nome do Favorecido": "Evelin Prade Alves",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "340,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.120.070-**",
+        "Nome do Favorecido": "HIAGO GIDRIAN FIGUEIREDO MACHADO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "04/08/2023",
+        "Mês de Competência": "05/2023",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.120.070-**",
+        "Nome do Favorecido": "HIAGO GIDRIAN FIGUEIREDO MACHADO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "04/08/2023",
+        "Mês de Competência": "06/2023",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.120.070-**",
+        "Nome do Favorecido": "HIAGO GIDRIAN FIGUEIREDO MACHADO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "04/08/2023",
+        "Mês de Competência": "07/2023",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.120.070-**",
+        "Nome do Favorecido": "HIAGO GIDRIAN FIGUEIREDO MACHADO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/09/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.120.070-**",
+        "Nome do Favorecido": "HIAGO GIDRIAN FIGUEIREDO MACHADO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/10/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.120.070-**",
+        "Nome do Favorecido": "HIAGO GIDRIAN FIGUEIREDO MACHADO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/11/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.788.940-**",
+        "Nome do Favorecido": "Jessamine Laís Matte",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.788.940-**",
+        "Nome do Favorecido": "Jessamine Laís Matte",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.788.940-**",
+        "Nome do Favorecido": "Jessamine Laís Matte",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.788.940-**",
+        "Nome do Favorecido": "Jessamine Laís Matte",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/09/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.788.940-**",
+        "Nome do Favorecido": "Jessamine Laís Matte",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "04/10/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.788.940-**",
+        "Nome do Favorecido": "Jessamine Laís Matte",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/11/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.788.940-**",
+        "Nome do Favorecido": "Jessamine Laís Matte",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/12/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.788.940-**",
+        "Nome do Favorecido": "Jessamine Laís Matte",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.213.400-**",
+        "Nome do Favorecido": "João Pedro Pereira Santana",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "04/08/2023",
+        "Mês de Competência": "05/2023",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.213.400-**",
+        "Nome do Favorecido": "João Pedro Pereira Santana",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "04/08/2023",
+        "Mês de Competência": "06/2023",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.213.400-**",
+        "Nome do Favorecido": "João Pedro Pereira Santana",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "04/08/2023",
+        "Mês de Competência": "07/2023",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.213.400-**",
+        "Nome do Favorecido": "João Pedro Pereira Santana",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/09/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.213.400-**",
+        "Nome do Favorecido": "João Pedro Pereira Santana",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/10/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.213.400-**",
+        "Nome do Favorecido": "João Pedro Pereira Santana",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/11/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.213.400-**",
+        "Nome do Favorecido": "João Pedro Pereira Santana",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "11/2023",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.213.400-**",
+        "Nome do Favorecido": "João Pedro Pereira Santana",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "05/01/2024",
+        "Mês de Competência": "12/2023",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.213.400-**",
+        "Nome do Favorecido": "João Pedro Pereira Santana",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/02/2024",
+        "Mês de Competência": "01/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.213.400-**",
+        "Nome do Favorecido": "João Pedro Pereira Santana",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.213.400-**",
+        "Nome do Favorecido": "João Pedro Pereira Santana",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.213.400-**",
+        "Nome do Favorecido": "João Pedro Pereira Santana",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.213.400-**",
+        "Nome do Favorecido": "João Pedro Pereira Santana",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.213.400-**",
+        "Nome do Favorecido": "João Pedro Pereira Santana",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.213.400-**",
+        "Nome do Favorecido": "João Pedro Pereira Santana",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.213.400-**",
+        "Nome do Favorecido": "João Pedro Pereira Santana",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.213.400-**",
+        "Nome do Favorecido": "João Pedro Pereira Santana",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.213.400-**",
+        "Nome do Favorecido": "João Pedro Pereira Santana",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.213.400-**",
+        "Nome do Favorecido": "João Pedro Pereira Santana",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.213.400-**",
+        "Nome do Favorecido": "João Pedro Pereira Santana",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.213.400-**",
+        "Nome do Favorecido": "João Pedro Pereira Santana",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.213.400-**",
+        "Nome do Favorecido": "João Pedro Pereira Santana",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.444.020-**",
+        "Nome do Favorecido": "Nara Brombilla",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "400,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.444.020-**",
+        "Nome do Favorecido": "Nara Brombilla",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "400,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.444.020-**",
+        "Nome do Favorecido": "Nara Brombilla",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "400,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.444.020-**",
+        "Nome do Favorecido": "Nara Brombilla",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "400,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.314.660-**",
+        "Nome do Favorecido": "Rafaela Bandeira Pontes",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "11/2023",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.314.660-**",
+        "Nome do Favorecido": "Rafaela Bandeira Pontes",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "05/01/2024",
+        "Mês de Competência": "12/2023",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.314.660-**",
+        "Nome do Favorecido": "Rafaela Bandeira Pontes",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/02/2024",
+        "Mês de Competência": "01/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.314.660-**",
+        "Nome do Favorecido": "Rafaela Bandeira Pontes",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.729.700-**",
+        "Nome do Favorecido": "Rudnyson Lopes Mosselini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "13/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.729.700-**",
+        "Nome do Favorecido": "Rudnyson Lopes Mosselini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.729.700-**",
+        "Nome do Favorecido": "Rudnyson Lopes Mosselini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.729.700-**",
+        "Nome do Favorecido": "Rudnyson Lopes Mosselini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.729.700-**",
+        "Nome do Favorecido": "Rudnyson Lopes Mosselini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.729.700-**",
+        "Nome do Favorecido": "Rudnyson Lopes Mosselini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.729.700-**",
+        "Nome do Favorecido": "Rudnyson Lopes Mosselini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.729.700-**",
+        "Nome do Favorecido": "Rudnyson Lopes Mosselini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.729.700-**",
+        "Nome do Favorecido": "Rudnyson Lopes Mosselini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.729.700-**",
+        "Nome do Favorecido": "Rudnyson Lopes Mosselini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.729.700-**",
+        "Nome do Favorecido": "Rudnyson Lopes Mosselini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.729.700-**",
+        "Nome do Favorecido": "Rudnyson Lopes Mosselini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "700,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.754.480-**",
+        "Nome do Favorecido": "Taiani Dos Santos Krug",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "400,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.754.480-**",
+        "Nome do Favorecido": "Taiani Dos Santos Krug",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "400,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.754.480-**",
+        "Nome do Favorecido": "Taiani Dos Santos Krug",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "400,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.754.480-**",
+        "Nome do Favorecido": "Taiani Dos Santos Krug",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/09/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "400,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.754.480-**",
+        "Nome do Favorecido": "Taiani Dos Santos Krug",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "04/10/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "400,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.754.480-**",
+        "Nome do Favorecido": "Taiani Dos Santos Krug",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/11/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "400,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.754.480-**",
+        "Nome do Favorecido": "Taiani Dos Santos Krug",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/12/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "400,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.754.480-**",
+        "Nome do Favorecido": "Taiani Dos Santos Krug",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "400,00"
+      }
+    ],
+    "Projeto_231/Pagamento de servidores ou agentes públicos.csv": [
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "04/08/2023",
+        "Mês de Competência": "05/2023",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "04/08/2023",
+        "Mês de Competência": "06/2023",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "04/08/2023",
+        "Mês de Competência": "07/2023",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/09/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/10/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/11/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "11/2023",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "05/01/2024",
+        "Mês de Competência": "12/2023",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/02/2024",
+        "Mês de Competência": "01/2024",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "05/04/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/09/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "04/10/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/11/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/12/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "05/04/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "1.340,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "CPF": "***.563.530-**",
+        "Nome do Favorecido": "Emmanuel Veiga de Camargo",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "09/10/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "1.140,00"
+      }
+    ],
+    "Projeto_231/Equipe.csv": [
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Nome": "Adão Vagner dos Santos Mota ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": "12 horas/semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Nome": "Brenda Aurélio Corrêa ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": "8 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Nome": "Eduarda Schmitt ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": "28/02/2025",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Nome": "Emmanuel Veiga de Camargo",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "Instituto Federal Farroupilha",
+        "Vínculo com a instituição": "Docente EBTT",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": "08 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Nome": "Evelin Prade Alves",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto de educação, ciência e tecnologia farroupilha ",
+        "Vínculo com a instituição": "Discente",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": "8 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Nome": "HIAGO GIDRIAN FIGUEIREDO MACHADO",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Ensino Médio completo",
+        "Carga horária": "08 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Nome": "Jessamine Laís Matte",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": "12 horas/semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Nome": "João Pedro Pereira Santana",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": "aluno",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": "08 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Nome": "Nara Brombilla",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Nome": "Rafaela Bandeira Pontes",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": "Estudante (matrícula 2022007146)",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": "8 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Nome": "Rudnyson Lopes Mosselini",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Nome": "Taiani Dos Santos Krug",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Ensino Médio completo",
+        "Carga horária": "10 horas/semanais",
+        "Vinculada à inst. executora": "Não"
+      }
+    ],
+    "Projeto_231/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "ESTUDANTE DE CURSO DE GRADUAÇÃO (ETG)",
+        "Justificativa": " ",
+        "Qtde aprovada": "46,00",
+        "Valor unitário": "700,00",
+        "Valor total aprovado": "32.200,00",
+        "Valor executado": "4.200,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "ESTUDANTE JÚNIOR 2 (EJ2)",
+        "Justificativa": " ",
+        "Qtde aprovada": "27,00",
+        "Valor unitário": "400,00",
+        "Valor total aprovado": "10.800,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "COORDENADOR DE PROJETO (CPO)",
+        "Justificativa": " ",
+        "Qtde aprovada": "19,00",
+        "Valor unitário": "1.800,00",
+        "Valor total aprovado": "34.200,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "despesas ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "100,00",
+        "Valor total aprovado": "100,00",
+        "Valor executado": "9,36"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Diária Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Diárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "8.322,68",
+        "Valor total aprovado": "8.322,68",
+        "Valor executado": "2.480,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Fertilizante quimico agrícola em sacas de 50Kg. Especificações da formulação no ato da compra",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "38.768,60",
+        "Valor total aprovado": "38.768,60",
+        "Valor executado": "39.914,60"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Arame para cerca elétrica com zincagem pesada e galvanização a fogo. Rolo de 1000 metros. Espessura de 2,1mm. Carga de impacto de 500Kgf. Similar ou superior ao Belgo Eletrix.",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "2.580,00",
+        "Valor total aprovado": "2.580,00",
+        "Valor executado": "1.280,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Avental de segurança. Características adicionais: branco, impermeável, à base de pvc com forro de poliéster, com tiras soldadas eletronicamente sendo uma no pescoço e duas na cintura, com fivela plástica para fechamento, modelo açougueiro, produto deve possuir C. A. (Certificado de Aprovação do Ministério do Trabalho). Dimensões mínimas: 1,20 m (C) x 0,70 m (A). Garantia mínima de 03 meses.",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "500,00",
+        "Valor total aprovado": "500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Piso de borracha antiderrapante para sala de ordenha. Placa medindo 1,25 largura x 2,50 comprimento - 50 kg.",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "4.000,00",
+        "Valor total aprovado": "4.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Haste de cerca elétrica em fibra de vidro com dois clips. Tamanho de 1,35 m. Caixa com 50 unidades",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.300,00",
+        "Valor total aprovado": "1.300,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Tela de sombreamento (Sombrite) 80% com medidas de 4,20 X 50 metros",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "2.785,79",
+        "Valor total aprovado": "2.785,79",
+        "Valor executado": "885,79"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Fio Eletroplástico de 2,4mm para cerca elétrica. Rolo de 500m. Composto por no mínimo 6 fios de aço inoxidável de 0,15mm",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "800,00",
+        "Valor total aprovado": "800,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Isolador manopla com mola de 6 metros para porteira cerca elétrica. Punhal isolado, fabricado em polipropileno de alta densidade, com gancho e mola externa de aço zincado, de alta resistência à corrosão. ",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "500,00",
+        "Valor total aprovado": "500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Semente de forrageira fiscalizada e certificada. Entrega em sacos conforme variedade especificada no ato da compra.",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "12.000,00",
+        "Valor total aprovado": "12.000,00",
+        "Valor executado": "2.548,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Kit 5 Escovas de limpeza para Mangueira do leite, Teteira, Copo Coletor e Boca Do Tanque",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "300,00",
+        "Valor total aprovado": "300,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Haste de aterramento cobreada alta camada 5/8 X 2,4m com conector reforçado tipo \"U\" (GTDU) duplo 5/8.",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.200,00",
+        "Valor total aprovado": "1.200,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Cabo subterrâneo isolado para cerca elétrica. Isolamento para 30Kv. Rolos de 50 metros",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "750,00",
+        "Valor total aprovado": "750,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Isolador tipo Gancho Cerca Elétrica Rural com 7cm. Pacote 50 unidades ",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "500,00",
+        "Valor total aprovado": "500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Isolador Cerca Elétrica castanha Super Reforçado. Pacote com 50 ou 100 unidades ",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "400,00",
+        "Valor total aprovado": "400,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Papel Toalha interfolhado 20 x 21 fardo com 5000 folhas",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "2.600,00",
+        "Valor total aprovado": "2.600,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bola De Pular Infantil em vinil Com Alça ",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "600,00",
+        "Valor total aprovado": "600,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Vassoura tipo Gari com base e cerdas em plástico. 40cm de largura. Caixa com 12 unidades",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "800,00",
+        "Valor total aprovado": "800,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bebedouro automático para bezerros",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.500,00",
+        "Valor total aprovado": "1.500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bebedouro para bovinos com capacidade de 1000 litros em Polietileno. ",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "9.000,00",
+        "Valor total aprovado": "9.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Corda nautica de polipropileno 8mm. Rolo de 250 metros",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "700,00",
+        "Valor total aprovado": "700,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Alimento concentrado completa para bovinos de Leite. Entrega em sacos. (Especificações no ato da compra)",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "56.103,26",
+        "Valor total aprovado": "56.103,26",
+        "Valor executado": "46.578,26"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bola Suiça 65cm para Pilates",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "900,00",
+        "Valor total aprovado": "900,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Célula de carga c/hx711",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "400,00",
+        "Valor total aprovado": "400,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Farelo de soja desengordurado 46% PB. Saco de 50Kg. Preço por tonelada.",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "36.000,00",
+        "Valor total aprovado": "36.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Filamento ABS",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "500,00",
+        "Valor total aprovado": "500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Insumos e/ou fármacos de uso veterinário para bovinos leiteiros",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "12.000,00",
+        "Valor total aprovado": "12.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Insumos laboratóriais para análises bioquímicas, microbiológicas e bromatológicas",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "10.000,00",
+        "Valor total aprovado": "10.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Leitor RFID",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "400,00",
+        "Valor total aprovado": "400,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Mangueira industrial em PVC até 680PSI. 3/4 de polegadas. Rolo de 50 metros.",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.500,00",
+        "Valor total aprovado": "1.500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Mangueira para agua fria em polietileno; diâmetro de 1 polegada; espessura da parede mínimo de 2,5mm; pressão de trabalho 56,8 Lb/pol². Rolo de 100 metros",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.000,00",
+        "Valor total aprovado": "1.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Mangueira para água fria em polietileno; diâmetro de 3/4; esessura da parede de 2mm. Rolo de 50 metros",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "750,00",
+        "Valor total aprovado": "750,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Módulo Lora 915hz",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.200,00",
+        "Valor total aprovado": "1.200,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Módulo relé",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "150,00",
+        "Valor total aprovado": "150,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Módulo sensor de umidade e temperatura",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "500,00",
+        "Valor total aprovado": "500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Reagentes para análises laboratoriais bromatológicas, microbiológicas e bioquímicas. Especificações dos reagentes e quantitativos descritos no ato da compra conforme recomendações do fabricante.",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "5.000,00",
+        "Valor total aprovado": "5.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Tag RFID",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "180,00",
+        "Valor total aprovado": "180,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Tinta marcadora em bastão. Caixa com 10 unidades. Cor especificada no ato da compra",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "720,00",
+        "Valor total aprovado": "720,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Núcleo mineral e/ou vitamínico para bovinos leiteiro. Especificação da fase e quantitativos da composição no ato da compra.",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "24.000,00",
+        "Valor total aprovado": "24.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Alimentador com rosca sem fim",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "5.000,00",
+        "Valor total aprovado": "5.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Detergentes e/ou sanitizantes para limpeza de circuitos fechados de ordenha",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "8.000,00",
+        "Valor total aprovado": "8.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Balança plataforma digital com capacidade de 300Kg. Resoluçao de 0,5g. Tamanho aproximado da plataforma 800 X 130 X 600mm. Plataforma de bancada em Aço inoxidável.",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "2.100,00",
+        "Valor total aprovado": "2.100,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Câmera termográfica com MSX e Wifi modelo FLIR E4-XT ou superior",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "8.000,00",
+        "Valor total aprovado": "8.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Refratometro analógico portátil com faixa de medição de 0 - 32% Brix. Resolução de 0,2% Brix. Exatidão aproximada de 0,2% Brix",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "502,00",
+        "Valor total aprovado": "502,00",
+        "Valor executado": "502,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Sistema de aspersão convencional em malha formado por conjunto de bombeamento, tubulações, aspersores e acessórios. Deve incluir as licenças necessárias para a instalação. Deve incluir casa de máquinas junto ao ponto de coleta.",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "80.356,06",
+        "Valor total aprovado": "80.356,06",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Geladeira/Refrigerador Frost Free 310 Litros ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "2.599,00",
+        "Valor total aprovado": "2.599,00",
+        "Valor executado": "2.599,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Freezer Vertical frost free com no mínimo 228 litros. 220 volts. Medidas aproximadas de 63,3 X 171,5 X 72,5 (LxAxP).",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "2.499,00",
+        "Valor total aprovado": "2.499,00",
+        "Valor executado": "2.499,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Analisador de leite ultrassônico. Análises de gordura, extrato seco desengordurado, densidade, proteína, lactose, sólidos, água adicionada, ponto de congelamento, ph e condutividade.",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "15.000,00",
+        "Valor total aprovado": "15.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Botijão criogênico. 6 canister. Capacidade de aproximadamente 20Kg de nitrogênio. Taxa de evaporação estimada em 0,082 litros/dia. Garantia contra defeitos de fabricação de 5 anos.",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "5.000,00",
+        "Valor total aprovado": "5.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Eletrificador de cerca elétrica rural bivolt com potência entre 7 e 15 joules (especificação no ato da compra). Produto certificado pelo Inmetro.",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "2.400,00",
+        "Valor total aprovado": "2.400,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Estufa de secagem com circulação e renovação de Ar forçada. Capacidade aproximada de 480 litros. 220 volts.",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "12.000,00",
+        "Valor total aprovado": "12.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Ultrassom veterinário portátil.",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "30.000,00",
+        "Valor total aprovado": "30.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Roçadeira a Gasolina Husqvarna 545RX. ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "3.207,00",
+        "Valor total aprovado": "3.207,00",
+        "Valor executado": "3.207,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Lixadeira Vibratória, modelo igual ou superior a Bosch GSS23AE, 230mm, 160W, 220 volts",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "700,00",
+        "Valor total aprovado": "700,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Serra Circular, modelo igual ou superior à Makita 5007N de 7 Pol., potência de 1.800W, 220 volts",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "900,00",
+        "Valor total aprovado": "900,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Tupia de Laminação 1/4 Pol., modelo igual ou superior à MAKITA-3709, 530W, 220 volts. Deve acompanhar jogo de fresas (12 unidades)",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "500,00",
+        "Valor total aprovado": "500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Furadeira e Parafusadeira de Impacto 1/2Pol. Modelo igual ou superior à BOSCH GSB 185-LI, 18V com motor Brushless. Deve acompanhar 2 Baterias 2,0Ah, Carregador Bivolt, Maleta",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.000,00",
+        "Valor total aprovado": "1.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Motosserra",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.834,00",
+        "Valor total aprovado": "1.834,00",
+        "Valor executado": "1.834,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Ventilador industrial para aviário com 100 cm de diâmetro. Monofásico - 220 volts. Potência de 1/2 cv. Frequencia de 60Hz. Hélices injetadas em nylon e fibra de vidro.",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "8.000,00",
+        "Valor total aprovado": "8.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Air Fryer Electrolux 5 litros",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "500,00",
+        "Valor total aprovado": "500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Armadilha elétrica mata mosca com duas gades",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "2.200,00",
+        "Valor total aprovado": "2.200,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Carrinho plataforma em aço; assoalho metálico. Estrutura galvanizada com acabamento em pintura epóxi. Capacidade de carga de 600Kg. Rodas com rolamento. Pneus com câmera. Cabo em forma de \"T\" (quinta roda) para controle da direção e freio. Plataforma de 1500 X 800mm.",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.350,00",
+        "Valor total aprovado": "1.350,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Controlador ESP ",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "500,00",
+        "Valor total aprovado": "500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Ferramentas diversas para manutenção do Laboratório (martelo, alicate, chaves de fenda, chaves combinadas, pregos, serrote, torquês, etc.)",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "5.500,00",
+        "Valor total aprovado": "5.500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Roteador Wi-Fi Outdoor",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "3.000,00",
+        "Valor total aprovado": "3.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Tenda com estrutura em aço galvanizado e lona em PVC. Medida de 5m x 5m.",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "7.000,00",
+        "Valor total aprovado": "7.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Voltímetro digital indicador de falhas para cerca elétrica rural ",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.500,00",
+        "Valor total aprovado": "1.500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Analisador bioquímico semiautomático. Testes: bioquímica (colorimétrica, enzimática e cinética); turbidimetria (padrão, fator ou curva de padrões); imunologia (metodologia elisa ou turbidimetria); hormônios (metodologia Elisa).",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "15.784,00",
+        "Valor total aprovado": "15.784,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Balança com capacidade máxima de 30Kg. Resolução de 0,01g. Visor digital. ",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "800,00",
+        "Valor total aprovado": "800,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "pHmetro à prova d'água similar ou superior ao Akso AK95. Eleletrodo substituível. Deve acompanhar soluções tampão pH 4, 7 e 10 e solução de armazenamento KCl (250ml cada solução).",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "800,00",
+        "Valor total aprovado": "800,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Lavadoura de alta pressão profissional. Voltagem 110/220 volts; bomba com três pistõs de cerâmica.",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "8.000,00",
+        "Valor total aprovado": "8.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "BALANÇA CENTESIMAL 0,01G 3200G BL3200H SHIMADZU ou compatível",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "4.000,00",
+        "Valor total aprovado": "4.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Banho Maria digital 28L com tampa tipo lisa",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "3.500,00",
+        "Valor total aprovado": "3.500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "MEDIDOR DE BANCADA PROFISSIONAL PARA PH E CONDUTIVIDADE",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "7.500,00",
+        "Valor total aprovado": "7.500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "CONTADOR DE COLONIAS DIGITAL 150MM BIVOLT",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.700,00",
+        "Valor total aprovado": "1.700,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Micro-ondas com no mínimo 34 litros. ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "800,00",
+        "Valor total aprovado": "800,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Medidor de cetona/glicose portátil igual ou superior a NovaVet",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.000,00",
+        "Valor total aprovado": "1.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Plaina Elétrica, modelo igual ou superior à MAKITA-KP0800, 620W, 220 volts",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "800,00",
+        "Valor total aprovado": "800,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Livro NASEM 2021: exigências nutricionais de bovinos leiteiros",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "2.000,00",
+        "Valor total aprovado": "2.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Pulverizador elétrico com opção de bombeamento manual. Bateria recarregável 12 volts 7 amperes com carregador bivolt. Acompanha lança telescópica com regulagem de tamanho, jogo de 5 bicos de pulverização.",
+        "Justificativa": "0",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.600,00",
+        "Valor total aprovado": "1.600,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Uniforme tipo camisa personalizada masculina e feminina com estampa bordada do Grupo de Pesquisa e Extensão em Ruminantes. Cores e tamanhos a ser definidos no ato da compra",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "3.000,00",
+        "Valor total aprovado": "3.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Serviço de Manutenção do Equipamento de Ordenha",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "19.485,00",
+        "Valor total aprovado": "19.485,00",
+        "Valor executado": "12.673,27"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Atendimento Clínico Veterinário",
+        "Justificativa": " ",
+        "Qtde aprovada": "20,00",
+        "Valor unitário": "1.275,00",
+        "Valor total aprovado": "25.500,00",
+        "Valor executado": "10.256,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Camiseta de gola polo em piquet ou 100%  algodão; gola com três botões; pé de gola de camisaria; com logo bordado no bolso. Cores definidas no ato da compra.",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "4.000,00",
+        "Valor total aprovado": "4.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Banner rollon up (material e logo especificado no ato da compra)",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.600,00",
+        "Valor total aprovado": "1.600,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "ADM - Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Bancárias conforme Proposta Comercial Assinada",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.000,00",
+        "Valor total aprovado": "1.000,00",
+        "Valor executado": "518,59"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "Bolsas - vigência 05/2023 a 02/2024",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "ESTUDANTE DE CURSO DE GRADUAÇÃO (ETG)",
+        "Justificativa": " ",
+        "Qtde aprovada": "20,00",
+        "Valor unitário": "700,00",
+        "Valor total aprovado": "14.000,00",
+        "Valor executado": "14.000,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "Bolsas - vigência 05/2023 a 02/2024",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "ESTUDANTE JUNIOR 2 (EJ2)",
+        "Justificativa": " ",
+        "Qtde aprovada": "10,00",
+        "Valor unitário": "400,00",
+        "Valor total aprovado": "4.000,00",
+        "Valor executado": "4.000,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "Bolsas - vigência 05/2023 a 07/2025",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "COORDENADOR DE PROJETO (CPO)",
+        "Justificativa": " ",
+        "Qtde aprovada": "27,00",
+        "Valor unitário": "1.800,00",
+        "Valor total aprovado": "48.600,00",
+        "Valor executado": "48.600,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "Bolsas - vigência 05/2023 a 10/2023",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "ESTUDANTE DE CURSO DE GRADUAÇÃO (ETG)",
+        "Justificativa": " ",
+        "Qtde aprovada": "6,00",
+        "Valor unitário": "700,00",
+        "Valor total aprovado": "4.200,00",
+        "Valor executado": "4.200,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "Bolsas - vigência 05/2024 a 02/2025",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "ESTUDANTE DE CURSO DE GRADUAÇÃO (ETG)",
+        "Justificativa": " ",
+        "Qtde aprovada": "10,00",
+        "Valor unitário": "700,00",
+        "Valor total aprovado": "7.000,00",
+        "Valor executado": "7.000,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "Bolsas - vigência 05/2024 a 12/2024",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "ESTUDANTE JÚNIOR 1 ",
+        "Justificativa": " EJ1",
+        "Qtde aprovada": " ",
+        "Valor unitário": "8,00",
+        "Valor total aprovado": "400,00",
+        "Valor executado": "3.200,00",
+        "null": [
+          "3.200,00"
+        ]
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "Bolsas - vigência 05/2024 a 12/2024",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "ESTUDANTE DE CURSO DE GRADUAÇÃO (ETG)",
+        "Justificativa": " ",
+        "Qtde aprovada": "8,00",
+        "Valor unitário": "700,00",
+        "Valor total aprovado": "5.600,00",
+        "Valor executado": "5.600,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "Bolsas - vigência 05/2024 a 12/2024",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "ESTUDANTE DE CURSO DE GRADUAÇÃO (ETG)",
+        "Justificativa": " ",
+        "Qtde aprovada": "8,00",
+        "Valor unitário": "700,00",
+        "Valor total aprovado": "5.600,00",
+        "Valor executado": "5.600,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "Bolsas - vigência 05/2025 a 04/2026",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "ESTUDANTE DE CURSO DE GRADUAÇÃO (ETG)",
+        "Justificativa": " ",
+        "Qtde aprovada": "36,00",
+        "Valor unitário": "700,00",
+        "Valor total aprovado": "25.200,00",
+        "Valor executado": "21.000,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "Bolsas - vigência 05/2025 a 04/2026",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "ESTUDANTE JÚNIOR 2 (EJ2)",
+        "Justificativa": " ",
+        "Qtde aprovada": "24,00",
+        "Valor unitário": "400,00",
+        "Valor total aprovado": "9.600,00",
+        "Valor executado": "9.600,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "Bolsas - vigência 11/2023 a 02/2024",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "ESTUDANTE DE CURSO DE GRADUAÇÃO (ETG)",
+        "Justificativa": " ",
+        "Qtde aprovada": "4,00",
+        "Valor unitário": "700,00",
+        "Valor total aprovado": "2.800,00",
+        "Valor executado": "2.800,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "DOA",
+        "Rubrica": "Outras Despesas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Outras despesas ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "6.300,00",
+        "Valor total aprovado": "6.300,00",
+        "Valor executado": "6.300,00"
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Agrupamento": "DOA",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "DOA FACTO",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "95.209,00",
+        "Valor total aprovado": "95.209,00",
+        "Valor executado": "29.351,52"
+      }
+    ],
+    "Projeto_231/Documentos.csv": [
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Título do Arquivo": "Contrato de Bolsa - EMMANUEL VEIGA DE CAMARGO",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Título do Arquivo": "Contrato de Bolsa - JOÃO PEDRO PEREIRA SANTANA",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Título do Arquivo": "Contrato de Bolsa - HIAGO GIDRIAN FIGUEIREDO MACHADO",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Título do Arquivo": "Contrato de Bolsa - EVELIN PRADE ALVES",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Título do Arquivo": "Contrato de Bolsa - BRENDA AURÉLIO CORRÊA",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Título do Arquivo": "231_Contrato-assinado_LAI",
+        "Descrição": "CONTRATO N° 01/2023 QUE ENTRE SI CELEBRAM O INSTITUTOFEDERAL FARROUPILHA - IFFar E A FUNDAÇÃO DE APOIO AODESENVOLVIMENTO DA CIÊNCIA E TECNOLOGIA - FACTO, NOSTERMOS ADIANTE ALINHADOS"
+      }
+    ],
+    "Projeto_231/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Título do Arquivo": "Certidão",
+        "Descrição": "CERTIDÃO DE DOCUMENTAÇÃO DE PROCEDIMENTO DE PRESTAÇÃO DE CONTAS AMPARADA PELO SIGILO EM RAZÃO DA LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS",
+        "Data início": "30/03/2023 ",
+        "Data final": "30/04/2025 "
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Título do Arquivo": "Prestação de contas ",
+        "Descrição": "Prestar contas ao Ifes sempre que solicitado, e ao final do projeto no prazo de 60 (sessenta) dias, de todos os valores utilizados na execução do projeto.",
+        "Data início": "30/03/2023 ",
+        "Data final": "30/04/2025 "
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestar contas ao Ifes sempre que solicitado, e ao final do projeto no prazo de 60 (sessenta) dias, de todos os valores utilizados na execução do projeto.",
+        "Data início": "01/05/2025 ",
+        "Data final": "31/05/2025 "
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestar contas ao Ifes sempre que solicitado, e ao final do projeto no prazo de 60 (sessenta) dias, de todos os valores utilizados na execução do projeto.",
+        "Data início": "01/06/2025 ",
+        "Data final": "30/06/2025 "
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Título do Arquivo": "Prestação de Contas Parcial",
+        "Descrição": "Prestar contas ao Ifes sempre que solicitado, e ao final do projeto no prazo de 60 (sessenta) dias, de todos os valores utilizados na execução do projeto.",
+        "Data início": "01/07/2025 ",
+        "Data final": "31/07/2025 "
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "\tPrestar contas ao Ifes sempre que solicitado, e ao final do projeto no prazo de 60 (sessenta) dias, de todos os valores utilizados na execução do projeto",
+        "Data início": "01/08/2025 ",
+        "Data final": "31/08/2025 "
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestar contas ao Ifes sempre que solicitado, e ao final do projeto no prazo de 60 (sessenta) dias, de todos os valores utilizados na execução do projeto.",
+        "Data início": "01/09/2025 ",
+        "Data final": "30/09/2025 "
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestar contas ao Ifes sempre que solicitado, e ao final do projeto no prazo de 60 (sessenta) dias, de todos os valores utilizados na execução do projeto.",
+        "Data início": "01/10/2025 ",
+        "Data final": "31/10/2025 "
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestar contas ao Ifes sempre que solicitado, e ao final do projeto no prazo de 60 (sessenta) dias, de todos os valores utilizados na execução do projeto.",
+        "Data início": "01/11/2025 ",
+        "Data final": "30/11/2025 "
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestar contas ao Ifes sempre que solicitado, e ao final do projeto no prazo de 60 (sessenta) dias, de todos os valores utilizados na execução do projeto.",
+        "Data início": "01/12/2025 ",
+        "Data final": "31/12/2025 "
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestar contas ao Ifes sempre que solicitado, e ao final do projeto no prazo de 60 (sessenta) dias, de todos os valores utilizados na execução do projeto.",
+        "Data início": "01/01/2026 ",
+        "Data final": "31/01/2026 "
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestar contas ao Ifes sempre que solicitado, e ao final do projeto no prazo de 60 (sessenta) dias, de todos os valores utilizados na execução do projeto.",
+        "Data início": "01/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "231 - Indicadores produtivos, fisiológicos, sanitários e comportamentais de diferentes raças e categorias de bovinos leiteiros - IFFAR",
+        "Título do Arquivo": "Prestação de Contas Parcial Março/2026",
+        "Descrição": "Prestação de Contas Parcial Março/2026",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T14:11:59",
+  "_error": null
+}

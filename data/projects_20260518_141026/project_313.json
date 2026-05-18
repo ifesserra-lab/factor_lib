@@ -1,0 +1,767 @@
+{
+  "id": "313",
+  "name": "Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28 .",
+  "csv": {
+    "Projeto_313/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Coordenador": "Everson Scherrer Borges",
+        "Financiadora": " Instituto Federal do Espírito Santo (IFES) do Campus Cachoeiro de Itapemirim ",
+        "Data de início": "26/12/2024",
+        "Data de vigência": "26/12/2029",
+        "Data de encerramento": "26/02/2030",
+        "Tipo de Projeto": "Inovação",
+        "Instituição executora": " Instituto Federal do Espírito Santo (IFES) do Campus Cachoeiro de Itapemirim ",
+        "Departamento": "",
+        "Processo e sub-processo": "23151.002471/2024-18",
+        "Valor aprovado": "2.120.750,00",
+        "Objetivo/Objeto/Título": "Estruturar a implementação do Hub de Inovação Distrito 28 visando o desenvolvimento do Ecossistema de Inovação da região Centro Sul do Espírito Santo."
+      }
+    ],
+    "Projeto_313/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Bolsas",
+        "Aprovado": "60.000,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "1.500,00",
+        "Liberado": "0,00",
+        "Executado": "-5,26",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Diária Nacional",
+        "Aprovado": "15.000,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "196.424,58",
+        "Liberado": "0,00",
+        "Executado": "-28.308,43",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Aprovado": "75.000,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Aprovado": "200.000,00",
+        "Liberado": "0,00",
+        "Executado": "-153.035,89",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Passagens",
+        "Aprovado": "30.000,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "1.542.825,42",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "341.647,00",
+        "Executado": "341.647,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "22.544,86",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_313/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "21/03/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "18/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "19/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "23/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "30/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "CNPJ": "57.582.793/0001-11",
+        "Nome do Favorecido": "FESTO BRASIL LTDA",
+        "Data do Pagamento": "30/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "153.035,89"
+      }
+    ],
+    "Projeto_313/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsas",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "60.000,00",
+        "Valor total aprovado": "60.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Taxas bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.500,00",
+        "Valor total aprovado": "1.500,00",
+        "Valor executado": "5,26"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Diária Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Diárias ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "15.000,00",
+        "Valor total aprovado": "15.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Matérias de Consumo Nacional ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "96.230,00",
+        "Valor total aprovado": "96.230,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Cilindro de dupla ação construído em aço inoxidável com amortecimento nas posições finais de curso, com êmbolo magnético, diâmetro de 20mm, curso de 100mm e came de atuação. ",
+        "Justificativa": " ",
+        "Qtde aprovada": "16,00",
+        "Valor unitário": "500,00",
+        "Valor total aprovado": "8.000,00",
+        "Valor executado": "8.114,88"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Válvula direcional 5/2 vias acionada por duplo piloto pneumático ",
+        "Justificativa": " ",
+        "Qtde aprovada": "16,00",
+        "Valor unitário": "750,00",
+        "Valor total aprovado": "12.000,00",
+        "Valor executado": "12.880,32"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Válvula direcional 3/2 vias NF acionada por rolete e com retorno por mola.",
+        "Justificativa": " ",
+        "Qtde aprovada": "16,00",
+        "Valor unitário": "270,00",
+        "Valor total aprovado": "4.320,00",
+        "Valor executado": "4.744,96"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Válvula direcional 3/2 vias NF acionada por rolete escamoteável (gatilho) e com retorno por mola.",
+        "Justificativa": " ",
+        "Qtde aprovada": "6,00",
+        "Valor unitário": "320,00",
+        "Valor total aprovado": "1.920,00",
+        "Valor executado": "1.589,22"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "\tVálvula direcional 3/2 vias NF acionada por botão e com retorno por mola.",
+        "Justificativa": " ",
+        "Qtde aprovada": "8,00",
+        "Valor unitário": "450,00",
+        "Valor total aprovado": "3.600,00",
+        "Valor executado": "4.173,60"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Válvula direcional 3/2 vias NF acionada por botão basculante com trava.",
+        "Justificativa": " ",
+        "Qtde aprovada": "6,00",
+        "Valor unitário": "400,00",
+        "Valor total aprovado": "2.400,00",
+        "Valor executado": "2.927,58"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Conexão engate rápido para válvula direcional 5/2 vias acionada por duplo piloto pneumático..",
+        "Justificativa": " ",
+        "Qtde aprovada": "100,00",
+        "Valor unitário": "15,00",
+        "Valor total aprovado": "1.500,00",
+        "Valor executado": "1.291,00"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "\tConector Engate Rápido Rosca 1/8 X 4mm Pneumática 5 Peças",
+        "Justificativa": " ",
+        "Qtde aprovada": "100,00",
+        "Valor unitário": "15,00",
+        "Valor total aprovado": "1.500,00",
+        "Valor executado": "4.235,00"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "\tConexão Pneumática Festo Engate Rápido Tipo L 1/8 x 4mm",
+        "Justificativa": " ",
+        "Qtde aprovada": "100,00",
+        "Valor unitário": "15,00",
+        "Valor total aprovado": "1.500,00",
+        "Valor executado": "1.291,00"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Conexão Pneumática Festo Engate Rápido Rosca 3/8 x 4mm",
+        "Justificativa": " ",
+        "Qtde aprovada": "100,00",
+        "Valor unitário": "15,00",
+        "Valor total aprovado": "1.500,00",
+        "Valor executado": "1.212,00"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Conexão Pneumática Festo União Rápida Tipo T R3/8 x 4mm",
+        "Justificativa": " ",
+        "Qtde aprovada": "100,00",
+        "Valor unitário": "15,00",
+        "Valor total aprovado": "1.500,00",
+        "Valor executado": "6.958,00"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Válvula alternadora (elemento OU) com suporte próprio para bancada didática festo.",
+        "Justificativa": " ",
+        "Qtde aprovada": "8,00",
+        "Valor unitário": "350,00",
+        "Valor total aprovado": "2.800,00",
+        "Valor executado": "2.984,16"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "\tVálvula de simultaneidade (elemento E) com suporte próprio para bancada didática festo",
+        "Justificativa": " ",
+        "Qtde aprovada": "8,00",
+        "Valor unitário": "350,00",
+        "Valor total aprovado": "2.800,00",
+        "Valor executado": "3.109,04"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Válvula de fluxo",
+        "Justificativa": " ",
+        "Qtde aprovada": "12,00",
+        "Valor unitário": "170,00",
+        "Valor total aprovado": "2.040,00",
+        "Valor executado": "2.045,04"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bloco distribuidor com 8 saídas com conexões de engate rápido com retenção com suporte próprio para bancada didática festo.",
+        "Justificativa": " ",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "900,00",
+        "Valor total aprovado": "1.800,00",
+        "Valor executado": "2.015,90"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Conexão engate rápido para bloco distribuidor com 8 saídas com conexões de engate rápido com retenção. Nº 4",
+        "Justificativa": " ",
+        "Qtde aprovada": "100,00",
+        "Valor unitário": "15,00",
+        "Valor total aprovado": "1.500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Conexão engate rápido para válvula direcional 3/2 vias NF acionada por rolete e com retorno por mola. Nº 4",
+        "Justificativa": " ",
+        "Qtde aprovada": "100,00",
+        "Valor unitário": "15,00",
+        "Valor total aprovado": "1.500,00",
+        "Valor executado": "3.976,00"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Conexão engate rápido para Unidade de conservação com filtro-regulador de pressão, manômetro e válvula de abertura e fechamento. Nº 6",
+        "Justificativa": " ",
+        "Qtde aprovada": "100,00",
+        "Valor unitário": "15,00",
+        "Valor total aprovado": "1.500,00",
+        "Valor executado": "2.801,00"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Distribuidor fixo T, para mangueira 4mm",
+        "Justificativa": " ",
+        "Qtde aprovada": "100,00",
+        "Valor unitário": "20,00",
+        "Valor total aprovado": "2.000,00",
+        "Valor executado": "2.524,00"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Unidade de conservação com filtro-regulador de pressão, manômetro e válvula de abertura e fechamento com suporte próprio para bancada didática festo",
+        "Justificativa": " ",
+        "Qtde aprovada": "3,00",
+        "Valor unitário": "930,00",
+        "Valor total aprovado": "2.790,00",
+        "Valor executado": "3.170,19"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Gaveteiro móvel em aço para armazenamento dos componentes com 4 gavetas de deslizamento sobre rolamentos.",
+        "Justificativa": " ",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "2.800,00",
+        "Valor total aprovado": "5.600,00",
+        "Valor executado": "6.079,00"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Contador Digital",
+        "Justificativa": " ",
+        "Qtde aprovada": "4,00",
+        "Valor unitário": "600,00",
+        "Valor total aprovado": "2.400,00",
+        "Valor executado": "2.640,84"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Fonte de Alimentação Estabilizada",
+        "Justificativa": " ",
+        "Qtde aprovada": "4,00",
+        "Valor unitário": "700,00",
+        "Valor total aprovado": "2.800,00",
+        "Valor executado": "5.609,32"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "\tPlaca de Temporizadores",
+        "Justificativa": " ",
+        "Qtde aprovada": "4,00",
+        "Valor unitário": "500,00",
+        "Valor total aprovado": "2.000,00",
+        "Valor executado": "4.473,92"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Placa de 3 Relês Auxiliares",
+        "Justificativa": " ",
+        "Qtde aprovada": "8,00",
+        "Valor unitário": "550,00",
+        "Valor total aprovado": "4.400,00",
+        "Valor executado": "13.672,16"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Placa de Botões de Comando Elétrico  2",
+        "Justificativa": " ",
+        "Qtde aprovada": "8,00",
+        "Valor unitário": "450,00",
+        "Valor total aprovado": "3.600,00",
+        "Valor executado": "10.313,04"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Jogo de Cabos Elétricos",
+        "Justificativa": " ",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "350,00",
+        "Valor total aprovado": "700,00",
+        "Valor executado": "4.364,48"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Válvula direcional 5/2 vias",
+        "Justificativa": " ",
+        "Qtde aprovada": "16,00",
+        "Valor unitário": "550,00",
+        "Valor total aprovado": "8.800,00",
+        "Valor executado": "13.946,88"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Rolete elétrico",
+        "Justificativa": " ",
+        "Qtde aprovada": "24,00",
+        "Valor unitário": "200,00",
+        "Valor total aprovado": "4.800,00",
+        "Valor executado": "8.874,24"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Sensor indutivo",
+        "Justificativa": " ",
+        "Qtde aprovada": "12,00",
+        "Valor unitário": "350,00",
+        "Valor total aprovado": "4.200,00",
+        "Valor executado": "4.803,84"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "\tSensor de proximidade capacitivo",
+        "Justificativa": " ",
+        "Qtde aprovada": "12,00",
+        "Valor unitário": "500,00",
+        "Valor total aprovado": "6.000,00",
+        "Valor executado": "6.215,28"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Material Permanente e Equipamentos ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "75.000,00",
+        "Valor total aprovado": "75.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Passagens",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Passagens ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "30.000,00",
+        "Valor total aprovado": "30.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Serviço de Pessoa Jurídica ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.542.825,42",
+        "Valor total aprovado": "1.542.825,42",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Operacionais Administrativas",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "196.424,58",
+        "Valor total aprovado": "196.424,58",
+        "Valor executado": "28.308,43"
+      }
+    ],
+    "Projeto_313/Documentos.csv": [
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Título do Arquivo": "313_Plano de trabalho_LAI",
+        "Descrição": "Segue em anexo o arquivo referente ao projeto do Ministério da Educação  Instituto Federal do Espírito Santo (IFES), Campus Cachoeiro de Itapemirim, cujo objeto é a Estruturação e Funcionamento do Hub de Inovação Distrito 28, uma ação estratégica vincula"
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Título do Arquivo": "313_Contrato Facto - HUB 28_LAI",
+        "Descrição": "Segue em anexo o arquivo referente ao Contrato nº 07/2024, celebrado entre o Instituto Federal do Espírito Santo (IFES)  Campus Cachoeiro de Itapemirim e a Fundação de Apoio ao Desenvolvimento da Ciência e Tecnologia (FACTO)."
+      }
+    ],
+    "Projeto_313/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Título do Arquivo": "Prestação de Contas Parcial Início a 31.07.25",
+        "Descrição": "Prestação de contas parcial",
+        "Data início": "26/12/2024 ",
+        "Data final": "31/07/2025 "
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Título do Arquivo": "Certidão LGPD",
+        "Descrição": "CERTIDÃO DE DOCUMENTAÇÃO DE PROCEDIMENTO DE PRESTAÇÃO DE CONTAS AMPARADA PELO SIGILO EM RAZÃO DA LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS",
+        "Data início": "26/12/2024 ",
+        "Data final": "31/07/2025 "
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Título do Arquivo": "313 - Prestação_de_contas_parcial_Agosto_ 2025",
+        "Descrição": "313 - Prestação_de_contas_parcial_Agosto_ 2025",
+        "Data início": "01/08/2025 ",
+        "Data final": "31/08/2025 "
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Título do Arquivo": "Prestação de contas parcial setembro",
+        "Descrição": "Prestação de contas parcial setembro",
+        "Data início": "01/09/2025 ",
+        "Data final": "30/09/2025 "
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Título do Arquivo": "prestação de contas parcial outubro",
+        "Descrição": "prestação de contas parcial outubro",
+        "Data início": "01/10/2025 ",
+        "Data final": "31/10/2025 "
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Título do Arquivo": "Prestação de contas parcial - novembro",
+        "Descrição": "Prestação de contas parcial - novembro",
+        "Data início": "01/11/2025 ",
+        "Data final": "30/11/2025 "
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Título do Arquivo": "Prestação de contas parcial - Dezembro",
+        "Descrição": "Prestação de contas parcial - Dezembro",
+        "Data início": "01/12/2025 ",
+        "Data final": "31/12/2025 "
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Título do Arquivo": "Prestação de contas parcial - Janeiro",
+        "Descrição": "Prestação de contas parcial - Janeiro",
+        "Data início": "01/01/2026 ",
+        "Data final": "31/01/2026 "
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Título do Arquivo": "Prestação de contas parcial - Fevereiro",
+        "Descrição": "Prestação de contas parcial - Fevereiro",
+        "Data início": "01/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Título do Arquivo": "Prestação de contas parcial - Março",
+        "Descrição": "Prestação de contas parcial - Março",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      },
+      {
+        "Referência do projeto": "313 - Estruturação dos Processos Institucionais do Hub de Inovação Distrito 28\t\t\t",
+        "Título do Arquivo": "Prestação de contas parcial - Abril",
+        "Descrição": "Prestação de contas parcial - Abril",
+        "Data início": "01/04/2026 ",
+        "Data final": "30/04/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T14:13:35",
+  "_error": null
+}

@@ -1,0 +1,302 @@
+{
+  "id": "371",
+  "name": "LMTA-IFAL: Laboratório Multiusuário de Tecnologias Ambientais.",
+  "csv": {
+    "Projeto_371/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "371 - LMTA-IFAL: Laboratório  Multiusuário de Tecnologias Ambientais",
+        "Coordenador": "Johnnatan Duarte de Freitas",
+        "Financiadora": "Financiadora de Estudos e Projetos - Finep",
+        "Data de início": "31/03/2026",
+        "Data de vigência": "31/03/2029",
+        "Data de encerramento": "31/05/2029",
+        "Tipo de Projeto": "Pesquisa, Desenvolvimento e Inovação",
+        "Instituição executora": "Instituto Federal de Alagoas",
+        "Departamento": "",
+        "Processo e sub-processo": "01.26.0194.00 (FINEP)",
+        "Valor aprovado": "11.464.029,37",
+        "Objetivo/Objeto/Título": "CHAMADA PÚBLICA MCTI/FINEP/FNDCT PROINFRA DESENVOLVIMENTO REGIONAL - NORTE, NORDESTE E CENTRO-OESTE NNECO 2024 - Ref.: 0133/25Modernizar e consolidar a infraestrutura do Laboratório Multiusuário em Tecnologias Ambientais (LMTA-IFAL), por meio da aquisição de equipamentos avançados e da criação de um ambiente laboratorial capaz de realizar análises de alta complexidade."
+      }
+    ],
+    "Projeto_371/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "371 - LMTA-IFAL: Laboratório  Multiusuário de Tecnologias Ambientais",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Acessórias de Importação",
+        "Aprovado": "1.764.563,87",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "371 - LMTA-IFAL: Laboratório  Multiusuário de Tecnologias Ambientais",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "545.906,16",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "371 - LMTA-IFAL: Laboratório  Multiusuário de Tecnologias Ambientais",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Aprovado": "8.822.819,34",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "371 - LMTA-IFAL: Laboratório  Multiusuário de Tecnologias Ambientais",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Aprovado": "290.000,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "371 - LMTA-IFAL: Laboratório  Multiusuário de Tecnologias Ambientais",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "40.740,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "371 - LMTA-IFAL: Laboratório  Multiusuário de Tecnologias Ambientais",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "9.153.559,34",
+        "Executado": "9.153.559,34",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "371 - LMTA-IFAL: Laboratório  Multiusuário de Tecnologias Ambientais",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "3.835,91",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_371/Equipe.csv": [
+      {
+        "Referência do projeto": "371 - LMTA-IFAL: Laboratório  Multiusuário de Tecnologias Ambientais",
+        "Nome": "Johnnatan Duarte de Freitas",
+        "Função": "Coordenador",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Sim"
+      }
+    ],
+    "Projeto_371/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "371 - LMTA-IFAL: Laboratório  Multiusuário de Tecnologias Ambientais",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Acessórias de Importação",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas acessórias de importação",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.764.563,87",
+        "Valor total aprovado": "1.764.563,87",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "371 - LMTA-IFAL: Laboratório  Multiusuário de Tecnologias Ambientais",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Sistema de cromatografia gasosa acoplado a detector de massas marca Shimadzu modelo GCMSTQ8050NX, ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.089.921,29",
+        "Valor total aprovado": "1.089.921,29",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "371 - LMTA-IFAL: Laboratório  Multiusuário de Tecnologias Ambientais",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Espectrofotômetr o Infra-vermelho por transformada de Fourier marca  Shimadzumodelo IRXross, ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.528.216,52",
+        "Valor total aprovado": "1.528.216,52",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "371 - LMTA-IFAL: Laboratório  Multiusuário de Tecnologias Ambientais",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Espectrômetro de fluorescência de raios X por energia dispersiva modelo EDX7200 marca shimadzu",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "589.497,26",
+        "Valor total aprovado": "589.497,26",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "371 - LMTA-IFAL: Laboratório  Multiusuário de Tecnologias Ambientais",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Cromatógrafo de Íons compacto modelo 930 Compact IC FLEX",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "618.741,27",
+        "Valor total aprovado": "618.741,27",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "371 - LMTA-IFAL: Laboratório  Multiusuário de Tecnologias Ambientais",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Microscópio eletrônico de varredura com fonte por emissão de campo (FEG) modelo MIRA4 LMU marca TESCAN, ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "2.059.988,70",
+        "Valor total aprovado": "2.059.988,70",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "371 - LMTA-IFAL: Laboratório  Multiusuário de Tecnologias Ambientais",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Sistema de microanálise com detector de EDS Oxford modelo Ultim Max 65 ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "590.189,60",
+        "Valor total aprovado": "590.189,60",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "371 - LMTA-IFAL: Laboratório  Multiusuário de Tecnologias Ambientais",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Analisador elementar (CHNS) acoplado a um espectrômetro de massas para razão isotópica ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.963.969,39",
+        "Valor total aprovado": "1.963.969,39",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "371 - LMTA-IFAL: Laboratório  Multiusuário de Tecnologias Ambientais",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Auto amostrador para Headspace modelo HS-20NX",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "206.373,41",
+        "Valor total aprovado": "206.373,41",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "371 - LMTA-IFAL: Laboratório  Multiusuário de Tecnologias Ambientais",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Analisador de Área Superficial e Porosidade (BET) ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "175.921,90",
+        "Valor total aprovado": "175.921,90",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "371 - LMTA-IFAL: Laboratório  Multiusuário de Tecnologias Ambientais",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Prensa hidráulica para tração e compressão ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "195.000,00",
+        "Valor total aprovado": "195.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "371 - LMTA-IFAL: Laboratório  Multiusuário de Tecnologias Ambientais",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Moinho de bolas de porcelana ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "95.000,00",
+        "Valor total aprovado": "95.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "371 - LMTA-IFAL: Laboratório  Multiusuário de Tecnologias Ambientais",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Serviço de montagem e instrumentação de rede de gases especiais centralizados. ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "40.740,00",
+        "Valor total aprovado": "40.740,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "371 - LMTA-IFAL: Laboratório  Multiusuário de Tecnologias Ambientais",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Operacionais e Administrativas",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "545.906,16",
+        "Valor total aprovado": "545.906,16",
+        "Valor executado": "0,00"
+      }
+    ],
+    "Projeto_371/Documentos.csv": [
+      {
+        "Referência do projeto": "371 - LMTA-IFAL: Laboratório  Multiusuário de Tecnologias Ambientais",
+        "Título do Arquivo": "P 371_Convênio_LAI",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      }
+    ],
+    "Projeto_371/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "371 - LMTA-IFAL: Laboratório  Multiusuário de Tecnologias Ambientais",
+        "Título do Arquivo": "Prestação de contas parcial - Abril",
+        "Descrição": "Prestação de contas parcial - Abril",
+        "Data início": "01/04/2026 ",
+        "Data final": "30/04/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T14:16:09",
+  "_error": null
+}

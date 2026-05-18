@@ -1,0 +1,363 @@
+{
+  "id": "362",
+  "name": "FRESTA - Centro de Gestão Integrada de Saberes e Territórios.",
+  "csv": {
+    "Projeto_362/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Coordenador": "PATRICIA GUIMARAES PINTO",
+        "Financiadora": "MINISTÉRIO DA EDUCAÇÃO",
+        "Data de início": "30/12/2025",
+        "Data de vigência": "30/12/2027",
+        "Data de encerramento": "28/02/2028",
+        "Tipo de Projeto": "Extensão",
+        "Instituição executora": "Instituto Federal De Educação Ciencia E Tecnologia Do Espirito Santo - Reitoria",
+        "Departamento": "",
+        "Processo e sub-processo": "23147.009100/2025-07",
+        "Valor aprovado": "300.000,00",
+        "Objetivo/Objeto/Título": "Capacitar e inspirar líderes de iniciativas inovadoras na área da cultura alimentar, por meio de formação intensiva e experiencial, para o desenvolvimento de produtos e processos sustentáveis que valorizem a biodiversidade e os saberes tradicionais da Mata Atlântica em seus territórios. "
+      }
+    ],
+    "Projeto_362/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Bolsas",
+        "Aprovado": "112.000,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "1.500,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Diária Nacional",
+        "Aprovado": "7.500,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "37.974,13",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Aprovado": "14.000,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Passagens",
+        "Aprovado": "24.400,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "102.600,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_362/Equipe.csv": [
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Nome": "PATRICIA GUIMARAES PINTO",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "Instituto Federal do Espírito Santo",
+        "Vínculo com a instituição": "Assistente em administração",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Sim"
+      }
+    ],
+    "Projeto_362/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador de programa ou projeto - Doutor - CPO-A",
+        "Justificativa": " ",
+        "Qtde aprovada": "24,00",
+        "Valor unitário": "2.000,00",
+        "Valor total aprovado": "48.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Extensionista - Graduado - EXT-D",
+        "Justificativa": " ",
+        "Qtde aprovada": "12,00",
+        "Valor unitário": "1.000,00",
+        "Valor total aprovado": "12.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Extensionista - Graduado - EXT-D",
+        "Justificativa": " ",
+        "Qtde aprovada": "12,00",
+        "Valor unitário": "1.000,00",
+        "Valor total aprovado": "12.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa Mentoria",
+        "Justificativa": " ",
+        "Qtde aprovada": "20,00",
+        "Valor unitário": "2.000,00",
+        "Valor total aprovado": "40.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.500,00",
+        "Valor total aprovado": "1.500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Agrupamento": "",
+        "Rubrica": "Diária Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "DEMAIS DESLOCAMENTO NACIONAIS",
+        "Justificativa": " ",
+        "Qtde aprovada": "10,00",
+        "Valor unitário": "750,00",
+        "Valor total aprovado": "7.500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Cozinha experimental",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "14.000,00",
+        "Valor total aprovado": "14.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Agrupamento": "",
+        "Rubrica": "Passagens",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "AÉREO - PASSAGEM NACIONAL EM AVIÃO COMERCIAL",
+        "Justificativa": " ",
+        "Qtde aprovada": "8,00",
+        "Valor unitário": "3.050,00",
+        "Valor total aprovado": "24.400,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Locação de studio para gravação de podcast",
+        "Justificativa": " ",
+        "Qtde aprovada": "8,00",
+        "Valor unitário": "1.500,00",
+        "Valor total aprovado": "12.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Aluguel de veículo para trabalho de campo",
+        "Justificativa": " ",
+        "Qtde aprovada": "9,00",
+        "Valor unitário": "1.000,00",
+        "Valor total aprovado": "9.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Captura de audio",
+        "Justificativa": " ",
+        "Qtde aprovada": "8,00",
+        "Valor unitário": "1.000,00",
+        "Valor total aprovado": "8.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Produção",
+        "Justificativa": " ",
+        "Qtde aprovada": "8,00",
+        "Valor unitário": "800,00",
+        "Valor total aprovado": "6.400,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Fotógrafo",
+        "Justificativa": " ",
+        "Qtde aprovada": "8,00",
+        "Valor unitário": "800,00",
+        "Valor total aprovado": "6.400,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Produção de vídeo",
+        "Justificativa": " ",
+        "Qtde aprovada": "8,00",
+        "Valor unitário": "1.100,00",
+        "Valor total aprovado": "8.800,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Mateiro",
+        "Justificativa": " ",
+        "Qtde aprovada": "8,00",
+        "Valor unitário": "1.200,00",
+        "Valor total aprovado": "9.600,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Assistente de Cozinha",
+        "Justificativa": " ",
+        "Qtde aprovada": "8,00",
+        "Valor unitário": "800,00",
+        "Valor total aprovado": "6.400,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Evento técnico e científico",
+        "Justificativa": " ",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "18.000,00",
+        "Valor total aprovado": "36.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Operacionais e Administrativas",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "37.974,13",
+        "Valor total aprovado": "37.974,13",
+        "Valor executado": "0,00"
+      }
+    ],
+    "Projeto_362/Documentos.csv": [
+      {
+        "Referência do projeto": "362 - FRESTA - Centro de Gestão Integrada de Saberes e Territórios",
+        "Título do Arquivo": "P 362 CONTRATO_LAI",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T14:15:58",
+  "_error": null
+}

@@ -1,0 +1,320 @@
+{
+  "id": "229",
+  "name": "Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha.",
+  "csv": {
+    "Projeto_229/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Coordenador": "GABRIELE SAUDE VIANA",
+        "Financiadora": "BANCO DE DESENVOLVIMENTO DO ESPÍRITO SANTO S.A.",
+        "Data de início": "08/03/2023",
+        "Data de vigência": "07/03/2028",
+        "Data de encerramento": "07/05/2028",
+        "Tipo de Projeto": "Extensão",
+        "Instituição executora": "Instituto Federal de Educacao Ciencia e Tecnologia do Espirito Santo - Campus Montanha",
+        "Departamento": "",
+        "Processo e sub-processo": "23545.000872/2022-30",
+        "Valor aprovado": "46.819,41",
+        "Objetivo/Objeto/Título": "Constitui objeto deste instrumento a contratação da Fundação de Apoio ao Desenvolvimentoda Ciência e Tecnologia  Facto, para realizar o desenvolvimento de atividades de gestãoadministrativa financeira para aplicação de recursos destinados à aquisição de materiais paraexecução do Projeto Implantação e avaliação econômica e ambiental de sistemas agropecuáriosflorestais, denominado Projeto IFES-SAF Montanha, de acordo com os elementos técnicosdiscriminados no Projeto e na proposta anexa, partes integrantes deste contrato.Este Contrato vincula-se a Dispensa de Licitação n 08/2023, processo número23545.000872/2022-30, ao Plano de Trabalho e à proposta apresentada, independente detranscrição."
+      }
+    ],
+    "Projeto_229/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "1.000,00",
+        "Liberado": "0,00",
+        "Executado": "-3,35",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "5.545,00",
+        "Liberado": "0,00",
+        "Executado": "-2.660,43",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Aprovado": "30.171,65",
+        "Liberado": "0,00",
+        "Executado": "-14.850,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "10.102,76",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "22.469,98",
+        "Executado": "22.469,98",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "926,09",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_229/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "23/08/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "16/10/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "CNPJ": "08.184.482/0001-99",
+        "Nome do Favorecido": "NORTON MATERIAL DE CONSTRUCAO LTDA",
+        "Data do Pagamento": "16/10/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "14.850,00"
+      }
+    ],
+    "Projeto_229/Equipe.csv": [
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Nome": "Alan de Lima Nascimento",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "IFES",
+        "Vínculo com a instituição": "TAE",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Nome": "GABRIELE SAUDE VIANA",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "IFES",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      }
+    ],
+    "Projeto_229/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.000,00",
+        "Valor total aprovado": "1.000,00",
+        "Valor executado": "3,35"
+      },
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Insumos Agrícolas (Fertilizantes, defensivos, adjuvantes, sementes e mudas)",
+        "Justificativa": "SEMENTES MUDAS DE PLANTAS E INSUMOS",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "25.562,67",
+        "Valor total aprovado": "25.562,67",
+        "Valor executado": "14.850,00"
+      },
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Ferramentas (Enxada, cavadeira, martelo )",
+        "Justificativa": "FERRAMENTAS",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "4.608,98",
+        "Valor total aprovado": "4.608,98",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Manutenção e conservação de equipamentos",
+        "Justificativa": "MANUTENCAO E CONSERV. DE BENS IMÓVEIS",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "10.102,76",
+        "Valor total aprovado": "10.102,76",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "DOA",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "5.545,00",
+        "Valor total aprovado": "5.545,00",
+        "Valor executado": "2.660,43"
+      }
+    ],
+    "Projeto_229/Documentos.csv": [
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Título do Arquivo": "Contrato 03/2023",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      },
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Título do Arquivo": "229_Aditivo 1_LAI",
+        "Descrição": " "
+      },
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Título do Arquivo": "229_CONTRATO ASSINADO_LAI",
+        "Descrição": "TERMO DE CONTRATO Nº 03/2023 QUE ENTRESI CELEBRAM O INSTITUTO FEDERAL DEEDUCAÇÃO, CIÊNCIA E TECNOLOGIA DOESPÍRITO SANTO  IFES CAMPUS MONTANHAE A FUNDAÇÃO DE APOIO AODESENVOLVIMENTO DA CIÊNCIA ETECNOLOGIA - FACTO."
+      }
+    ],
+    "Projeto_229/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Título do Arquivo": "Certidão LGPD",
+        "Descrição": "CERTIDÃO DE DOCUMENTAÇÃO DE PROCEDIMENTO DE PRESTAÇÃO DE CONTAS AMPARADA PELO SIGILO EM RAZÃO DA LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS",
+        "Data início": "08/03/2023 ",
+        "Data final": "31/03/2025 "
+      },
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Título do Arquivo": "Prestação de contas parcial",
+        "Descrição": "Prestação de contas parcial",
+        "Data início": "08/03/2023 ",
+        "Data final": "31/03/2025 "
+      },
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Título do Arquivo": "Prestação de Contas Parcial - 01.04 a 30.04.2025",
+        "Descrição": "Prestação de Contas parcial",
+        "Data início": "01/04/2025 ",
+        "Data final": "30/04/2025 "
+      },
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Título do Arquivo": "Prestação de contas parcial",
+        "Descrição": "01.05.2025 a 31.05.2025",
+        "Data início": "01/05/2025 ",
+        "Data final": "31/05/2025 "
+      },
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Título do Arquivo": "Prestação de Contas Parcial 01.06 a 30.06.25",
+        "Descrição": "Prestação de Contas",
+        "Data início": "01/06/2025 ",
+        "Data final": "30/06/2025 "
+      },
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Título do Arquivo": "Prestação de Contas Parcial 01.07 a 31.07.25",
+        "Descrição": "Prestação de contas parcial",
+        "Data início": "01/07/2025 ",
+        "Data final": "31/07/2025 "
+      },
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Título do Arquivo": "229 - Prestação_de_contas_parcial_Agosto_ 2025",
+        "Descrição": "229 - Prestação_de_contas_parcial_Agosto_ 2025",
+        "Data início": "01/08/2025 ",
+        "Data final": "31/08/2025 "
+      },
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Título do Arquivo": "Prestação de contas parcial setembro",
+        "Descrição": "Prestação de contas parcial setembro",
+        "Data início": "01/09/2025 ",
+        "Data final": "30/09/2025 "
+      },
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Título do Arquivo": "Prestação de contas parcial outubro",
+        "Descrição": "Prestação de contas parcial outubro",
+        "Data início": "01/10/2025 ",
+        "Data final": "31/10/2025 "
+      },
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Título do Arquivo": "Prestação de contas parcial - Novembro",
+        "Descrição": "Prestação de contas parcial - Novembro",
+        "Data início": "01/11/2025 ",
+        "Data final": "30/11/2025 "
+      },
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Título do Arquivo": "Prestação de contas parcial - Dezembro",
+        "Descrição": "Prestação de contas parcial - Dezembro",
+        "Data início": "01/12/2025 ",
+        "Data final": "31/12/2025 "
+      },
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Título do Arquivo": "Prestação de contas parcial - Janeiro",
+        "Descrição": "Prestação de contas parcial - Janeiro",
+        "Data início": "01/01/2026 ",
+        "Data final": "31/01/2026 "
+      },
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Título do Arquivo": "Prestação de contas parcial - Fevereiro",
+        "Descrição": "Prestação de contas parcial - Fevereiro",
+        "Data início": "01/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Título do Arquivo": "Prestação de contas parcial - Março",
+        "Descrição": "Prestação de contas parcial - Março",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      },
+      {
+        "Referência do projeto": "229 - Implantação e avaliação econômica e ambiental de sistemas agropecuários florestais, denominado Projeto IFES-SAF Montanha",
+        "Título do Arquivo": "Prestação de contas parcial - Abril",
+        "Descrição": "Prestação de contas parcial - Abril",
+        "Data início": "01/04/2026 ",
+        "Data final": "30/04/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T14:11:59",
+  "_error": null
+}

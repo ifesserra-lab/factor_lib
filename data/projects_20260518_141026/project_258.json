@@ -1,0 +1,599 @@
+{
+  "id": "258",
+  "name": "Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio.",
+  "csv": {
+    "Projeto_258/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Coordenador": "Ivan Salzo",
+        "Financiadora": "Instituto Chico Mendes de Conservação da Biodiversidade - ICMBio",
+        "Data de início": "27/12/2023",
+        "Data de vigência": "25/01/2029",
+        "Data de encerramento": "25/03/2029",
+        "Tipo de Projeto": "Pesquisa",
+        "Instituição executora": "Instituto Chico Mendes de Conservação da Biodiversidade - ICMBio",
+        "Departamento": "",
+        "Processo e sub-processo": "SEI 02070.004686/2023-12",
+        "Valor aprovado": "4.763.879,64",
+        "Objetivo/Objeto/Título": "O ICMBio executa, em âmbito federal, a Política do Sistema Nacional de Unidades de Conservação, cujos objetivos abrangem a oferta de meios e incentivos para atividades de pesquisa científica, estudos e monitoramento ambiental. Como órgão executor desse sistema, o ICMBio deve articular-se com a comunidade científica com o propósito de incentivar o desenvolvimento de pesquisas sobre a fauna, a fl ora e a ecologia das unidades de conservação e sobre as formas de uso sustentável dos recursos naturais, valorizando-se o conhecimento das populações tradicionais (Lei n 9.985/2000). Uma das finalidades do ICMBio é o fomento e a execução de programas de pesquisa, proteção, preservação e conservação da biodiversidade (Lei n 11.516/2007). A estrutura regimental do ICMBio prevê que compete ao instituto fomentar, coordenar e executar programas de pesquisa científica aplicada à gestão e ao desenvolvimento sustentável nas unidades de conservação federais e à conservação da biodiversidade...\""
+      }
+    ],
+    "Projeto_258/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Bolsas",
+        "Aprovado": "3.712.000,00",
+        "Liberado": "0,00",
+        "Executado": "-145.600,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "5.000,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "241.879,64",
+        "Liberado": "0,00",
+        "Executado": "-241.879,64",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "810.000,00",
+        "Liberado": "0,00",
+        "Executado": "-26.785,10",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "4.763.879,64",
+        "Executado": "4.763.879,64",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "456.914,76",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_258/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "CNPJ": "11.521.539/0001-02",
+        "Nome do Favorecido": "VALLIE GESTAO ESTRATEGICA EM DESENVOLVIMENTO GERENCIAL LTDA",
+        "Data do Pagamento": "27/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "26.785,10"
+      }
+    ],
+    "Projeto_258/Pagamento de pessoa física.csv": [
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "CPF": "***.435.132-**",
+        "Nome do Favorecido": "Beatriz Dias e Canto",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "10.400,00"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "CPF": "***.435.132-**",
+        "Nome do Favorecido": "Beatriz Dias e Canto",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "10.400,00"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "CPF": "***.396.135-**",
+        "Nome do Favorecido": "HELDER MATEUS VIANA ESPIRITO SANTO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "7.800,00"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "CPF": "***.396.135-**",
+        "Nome do Favorecido": "HELDER MATEUS VIANA ESPIRITO SANTO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "7.800,00"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "CPF": "***.396.135-**",
+        "Nome do Favorecido": "HELDER MATEUS VIANA ESPIRITO SANTO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "7.800,00"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "CPF": "***.679.539-**",
+        "Nome do Favorecido": "Isabeli Cristina Gomes Mesquita",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "7.800,00"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "CPF": "***.978.751-**",
+        "Nome do Favorecido": "Luana Feitosa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "11/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "10.400,00"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "CPF": "***.978.751-**",
+        "Nome do Favorecido": "Luana Feitosa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "10.400,00"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "CPF": "***.978.751-**",
+        "Nome do Favorecido": "Luana Feitosa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "05/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "10.400,00"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "CPF": "***.978.751-**",
+        "Nome do Favorecido": "Luana Feitosa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "09/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "10.400,00"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "CPF": "***.978.751-**",
+        "Nome do Favorecido": "Luana Feitosa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "10.400,00"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "CPF": "***.978.751-**",
+        "Nome do Favorecido": "Luana Feitosa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "10.400,00"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "CPF": "***.978.751-**",
+        "Nome do Favorecido": "Luana Feitosa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "10.400,00"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "CPF": "***.978.751-**",
+        "Nome do Favorecido": "Luana Feitosa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "10.400,00"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "CPF": "***.426.049-**",
+        "Nome do Favorecido": "Thiago Bif Piazza",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "10.400,00"
+      }
+    ],
+    "Projeto_258/Equipe.csv": [
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Nome": "Alexa Duarte de Figueredo Monte",
+        "Função": "Apoiador",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Nome": "Beatriz Dias e Canto",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Educação Superior completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Nome": "Eleide Rosa Moura Aguiar",
+        "Função": "Apoiador",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Nome": "HELDER MATEUS VIANA ESPIRITO SANTO",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Nome": "Isabeli Cristina Gomes Mesquita",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "ICMBio",
+        "Vínculo com a instituição": "Bolsa de pesquisa",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Nome": "Ivan Salzo",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "Instituto Chico Mendes de Conservação da Biodiversidade",
+        "Vínculo com a instituição": "Servidor Público Efetivo",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Nome": "Leide Jane Vieira Abrantes ",
+        "Função": "Apoiadora",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Nome": "Luana Feitosa",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Pós-Graduação completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Nome": "Maria Carolina Davilla Moraes",
+        "Função": "Apoiador",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Nome": "Thiago Bif Piazza",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Chico Mendes de Conservação da Biodiversidade",
+        "Vínculo com a instituição": "Bolsista",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      }
+    ],
+    "Projeto_258/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa DTC-A",
+        "Justificativa": " ",
+        "Qtde aprovada": "60,00",
+        "Valor unitário": "8.000,00",
+        "Valor total aprovado": "480.000,00",
+        "Valor executado": "31.200,00"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa DTC-A",
+        "Justificativa": " ",
+        "Qtde aprovada": "60,00",
+        "Valor unitário": "8.000,00",
+        "Valor total aprovado": "480.000,00",
+        "Valor executado": "239.200,00"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa DTC-A",
+        "Justificativa": " ",
+        "Qtde aprovada": "60,00",
+        "Valor unitário": "8.000,00",
+        "Valor total aprovado": "480.000,00",
+        "Valor executado": "124.800,00"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa DTC-A ",
+        "Justificativa": " ",
+        "Qtde aprovada": "60,00",
+        "Valor unitário": "8.000,00",
+        "Valor total aprovado": "480.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa DTC-A",
+        "Justificativa": " ",
+        "Qtde aprovada": "60,00",
+        "Valor unitário": "8.000,00",
+        "Valor total aprovado": "480.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa DTC-A",
+        "Justificativa": " ",
+        "Qtde aprovada": "60,00",
+        "Valor unitário": "8.000,00",
+        "Valor total aprovado": "480.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa DTC-A",
+        "Justificativa": " ",
+        "Qtde aprovada": "23,00",
+        "Valor unitário": "8.000,00",
+        "Valor total aprovado": "184.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa DTC-A",
+        "Justificativa": " ",
+        "Qtde aprovada": "36,00",
+        "Valor unitário": "8.000,00",
+        "Valor total aprovado": "288.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa DTC-B",
+        "Justificativa": " ",
+        "Qtde aprovada": "60,00",
+        "Valor unitário": "6.000,00",
+        "Valor total aprovado": "360.000,00",
+        "Valor executado": "332.800,00"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "5.000,00",
+        "Valor total aprovado": "5.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Analista de ponto de função",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "10.000,00",
+        "Valor total aprovado": "10.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Desenvolvimento de software (PJ)",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "800.000,00",
+        "Valor total aprovado": "800.000,00",
+        "Valor executado": "175.767,60"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "DOA FACTO",
+        "Justificativa": "Segundo convênio firmado, são DUAS PARCELAS no valor de R$ 118.439,82, totalizando R$ 236.879,64. obs.: R$ 5.000,00 são referentes às tarifas bancárias, somando à R$ 241.879,64.",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "241.879,64",
+        "Valor total aprovado": "241.879,64",
+        "Valor executado": "241.879,64"
+      }
+    ],
+    "Projeto_258/Documentos.csv": [
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Título do Arquivo": "258_SEI ICMBio_17410560 - Convenio _LAI",
+        "Descrição": "CONVÊNIO ENTRE O INSTITUTO CHICO MENDESDE CONSERVAÇÃO DA BIODIVERSIDADE - ICMBIOE A FUNDAÇÃO DE APOIO AO DESENVOLVIMENTODA CIÊNCIA E TECNOLOGIA - FACTO VISANDO AEXECUÇÃO DO PROJETO DEPESQUISA: SISTEMAS DE GESTÃO DE DADOSSOBRE BIODIVERSIDADE DO INST"
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Título do Arquivo": "P 258_Prorrogação por ofício",
+        "Descrição": "Prorrogação por ofício"
+      }
+    ],
+    "Projeto_258/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Título do Arquivo": "Certidão LGPD",
+        "Descrição": "CERTIDÃO DE DOCUMENTAÇÃO DE PROCEDIMENTO DE PRESTAÇÃO DE CONTAS AMPARADA PELO SIGILO EM RAZÃO DA LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS.",
+        "Data início": "27/12/2023 ",
+        "Data final": "30/04/2025 "
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Título do Arquivo": "Prestação de Contas Parcial",
+        "Descrição": "Conforme contrato: Anualmente, encaminhar ao ICMBio, relatórios e demonstrativos financeiros (prestação de contas) dos pagamentos efetuados aos bolsistas mês a mês. Prestar contas anualmente das aquisições feitas em favor do projeto.",
+        "Data início": "27/12/2023 ",
+        "Data final": "30/04/2025 "
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Título do Arquivo": "Prestação de Contas Parcial 01.05 a 30.06.25",
+        "Descrição": "Prestação de contas parcial",
+        "Data início": "01/05/2025 ",
+        "Data final": "30/06/2025 "
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Título do Arquivo": "Prestação de Contas Parcial - Julho 2025",
+        "Descrição": "Prestação de Contas Parcial - Julho 2025",
+        "Data início": "01/07/2025 ",
+        "Data final": "31/07/2025 "
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Título do Arquivo": "Prestação de Contas Parcial - Agosto 2025",
+        "Descrição": "Prestação de Contas Parcial - Agosto 2025",
+        "Data início": "01/08/2025 ",
+        "Data final": "31/08/2025 "
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Título do Arquivo": "Prestação de Contas Parcial - Setembro 2025",
+        "Descrição": "Prestação de Contas Parcial - Setembro 2025",
+        "Data início": "01/09/2025 ",
+        "Data final": "30/09/2025 "
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Título do Arquivo": "Prestação de Contas Parcial",
+        "Descrição": "Prestação de Contas Outubro-2025",
+        "Data início": "01/10/2025 ",
+        "Data final": "31/10/2025 "
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestação de Contas Novembro-2025",
+        "Data início": "01/11/2025 ",
+        "Data final": "30/11/2025 "
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestação de Contas Dezembro-2025",
+        "Data início": "01/12/2025 ",
+        "Data final": "31/12/2025 "
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestação de contas Janeiro 2026",
+        "Data início": "01/01/2026 ",
+        "Data final": "31/01/2026 "
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestação de contas Fevereiro 2026",
+        "Data início": "01/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "258 - Sistemas de Gestão de Dados sobre Biodiversidade do Instituto Chico Mendes - ICMBio",
+        "Título do Arquivo": "Prestação de Contas - Março/2026",
+        "Descrição": "Prestação de Contas - Março/2026",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T14:12:20",
+  "_error": null
+}

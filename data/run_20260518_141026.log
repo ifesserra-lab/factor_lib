@@ -1,0 +1,566 @@
+2026-05-18 14:10:26,503 INFO     test_scraper: Log file: /Users/paulossjunior/projects/diretoria/factor_lib/data/run_20260518_141026.log
+2026-05-18 14:10:26,503 INFO     test_scraper: ============================================================
+2026-05-18 14:10:26,503 INFO     test_scraper:   STEP 1 — list_projects()
+2026-05-18 14:10:26,503 INFO     test_scraper: ============================================================
+2026-05-18 14:10:26,503 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:10:30,585 INFO     test_scraper: [OK]  Found 110 projects
+2026-05-18 14:10:30,585 INFO     test_scraper: [OK]  First: id='12' name='Apoio e Fortalecimento do Mestrado Profissional em Educação '
+2026-05-18 14:10:30,585 INFO     test_scraper: ============================================================
+2026-05-18 14:10:30,585 INFO     test_scraper:   STEP 2 — scrape_all_projects() [110 projects, 4 workers]
+2026-05-18 14:10:30,585 INFO     test_scraper: ============================================================
+2026-05-18 14:10:30,585 INFO     test_scraper:   estimated: ~6 min
+2026-05-18 14:10:30,585 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:10:34,426 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:10:34,426 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:10:34,426 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:10:34,426 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:10:42,302 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:10:42,302 INFO     factor_lib.scrapers.parallel_detail_scraper: [1/110] [OK] project 12 — 7 fields
+2026-05-18 14:10:48,628 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 24 — attempting field extraction fallback
+2026-05-18 14:10:48,628 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:10:48,638 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 120 — attempting field extraction fallback
+2026-05-18 14:10:48,638 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:10:48,677 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 88 — attempting field extraction fallback
+2026-05-18 14:10:48,677 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:10:56,131 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 146 — attempting field extraction fallback
+2026-05-18 14:10:56,131 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:11:02,735 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 120 — 2 fields extracted
+2026-05-18 14:11:02,735 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:11:02,735 INFO     factor_lib.scrapers.parallel_detail_scraper: [2/110] [OK] project 120 — 2 fields
+2026-05-18 14:11:02,749 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 88 — 2 fields extracted
+2026-05-18 14:11:02,749 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:11:02,749 INFO     factor_lib.scrapers.parallel_detail_scraper: [3/110] [OK] project 88 — 2 fields
+2026-05-18 14:11:02,944 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 24 — 2 fields extracted
+2026-05-18 14:11:02,944 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:11:02,944 INFO     factor_lib.scrapers.parallel_detail_scraper: [4/110] [OK] project 24 — 2 fields
+2026-05-18 14:11:10,148 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 146 — 2 fields extracted
+2026-05-18 14:11:10,148 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:11:10,148 INFO     factor_lib.scrapers.parallel_detail_scraper: [5/110] [OK] project 146 — 2 fields
+2026-05-18 14:11:16,755 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 173 — attempting field extraction fallback
+2026-05-18 14:11:16,755 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:11:16,810 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 175 — attempting field extraction fallback
+2026-05-18 14:11:16,811 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:11:17,126 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 178 — attempting field extraction fallback
+2026-05-18 14:11:17,126 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:11:24,350 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 185 — attempting field extraction fallback
+2026-05-18 14:11:24,351 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:11:30,795 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 175 — 2 fields extracted
+2026-05-18 14:11:30,795 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:11:30,795 INFO     factor_lib.scrapers.parallel_detail_scraper: [6/110] [OK] project 175 — 2 fields
+2026-05-18 14:11:31,121 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 173 — 2 fields extracted
+2026-05-18 14:11:31,121 INFO     factor_lib.scrapers.parallel_detail_scraper: [7/110] [OK] project 173 — 2 fields
+2026-05-18 14:11:31,121 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:11:31,315 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 178 — 2 fields extracted
+2026-05-18 14:11:31,315 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:11:31,315 INFO     factor_lib.scrapers.parallel_detail_scraper: [8/110] [OK] project 178 — 2 fields
+2026-05-18 14:11:38,475 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 185 — 2 fields extracted
+2026-05-18 14:11:38,475 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:11:38,475 INFO     factor_lib.scrapers.parallel_detail_scraper: [9/110] [OK] project 185 — 2 fields
+2026-05-18 14:11:39,525 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:11:39,525 INFO     factor_lib.scrapers.parallel_detail_scraper: [10/110] [OK] project 197 — 7 fields
+2026-05-18 14:11:45,198 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 195 — attempting field extraction fallback
+2026-05-18 14:11:45,198 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:11:45,692 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 205 — attempting field extraction fallback
+2026-05-18 14:11:45,692 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:11:46,866 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:11:46,866 INFO     factor_lib.scrapers.parallel_detail_scraper: [11/110] [OK] project 212 — 9 fields
+2026-05-18 14:11:53,347 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:11:53,347 INFO     factor_lib.scrapers.parallel_detail_scraper: [12/110] [OK] project 213 — 7 fields
+2026-05-18 14:11:54,108 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:11:54,108 INFO     factor_lib.scrapers.parallel_detail_scraper: [13/110] [OK] project 219 — 9 fields
+2026-05-18 14:11:59,268 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:11:59,268 INFO     factor_lib.scrapers.parallel_detail_scraper: [14/110] [OK] project 226 — 8 fields
+2026-05-18 14:11:59,509 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 195 — 2 fields extracted
+2026-05-18 14:11:59,509 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:11:59,509 INFO     factor_lib.scrapers.parallel_detail_scraper: [15/110] [OK] project 195 — 2 fields
+2026-05-18 14:11:59,930 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 205 — 2 fields extracted
+2026-05-18 14:11:59,930 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:11:59,930 INFO     factor_lib.scrapers.parallel_detail_scraper: [16/110] [OK] project 205 — 2 fields
+2026-05-18 14:12:00,683 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:12:00,683 INFO     factor_lib.scrapers.parallel_detail_scraper: [17/110] [OK] project 225 — 9 fields
+2026-05-18 14:12:04,999 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:12:04,999 INFO     factor_lib.scrapers.parallel_detail_scraper: [18/110] [OK] project 229 — 7 fields
+2026-05-18 14:12:05,984 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:12:05,984 INFO     factor_lib.scrapers.parallel_detail_scraper: [19/110] [OK] project 227 — 9 fields
+2026-05-18 14:12:07,030 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:12:07,030 INFO     factor_lib.scrapers.parallel_detail_scraper: [20/110] [OK] project 238 — 9 fields
+2026-05-18 14:12:07,618 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:12:07,618 INFO     factor_lib.scrapers.parallel_detail_scraper: [21/110] [OK] project 231 — 9 fields
+2026-05-18 14:12:11,254 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:12:11,254 INFO     factor_lib.scrapers.parallel_detail_scraper: [22/110] [OK] project 239 — 9 fields
+2026-05-18 14:12:12,307 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:12:12,307 INFO     factor_lib.scrapers.parallel_detail_scraper: [23/110] [OK] project 245 — 9 fields
+2026-05-18 14:12:13,106 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:12:13,107 INFO     factor_lib.scrapers.parallel_detail_scraper: [24/110] [OK] project 246 — 9 fields
+2026-05-18 14:12:16,298 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:12:16,299 INFO     factor_lib.scrapers.parallel_detail_scraper: [25/110] [OK] project 247 — 7 fields
+2026-05-18 14:12:17,890 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:12:17,890 INFO     factor_lib.scrapers.parallel_detail_scraper: [26/110] [OK] project 240 — 8 fields
+2026-05-18 14:12:17,900 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:12:17,900 INFO     factor_lib.scrapers.parallel_detail_scraper: [27/110] [OK] project 250 — 7 fields
+2026-05-18 14:12:20,959 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:12:20,959 INFO     factor_lib.scrapers.parallel_detail_scraper: [28/110] [OK] project 253 — 9 fields
+2026-05-18 14:12:22,562 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:12:22,563 INFO     factor_lib.scrapers.parallel_detail_scraper: [29/110] [OK] project 254 — 9 fields
+2026-05-18 14:12:24,088 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:12:24,088 INFO     factor_lib.scrapers.parallel_detail_scraper: [30/110] [OK] project 256 — 9 fields
+2026-05-18 14:12:24,099 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:12:24,099 INFO     factor_lib.scrapers.parallel_detail_scraper: [31/110] [OK] project 257 — 8 fields
+2026-05-18 14:12:26,436 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:12:26,436 INFO     factor_lib.scrapers.parallel_detail_scraper: [32/110] [OK] project 258 — 8 fields
+2026-05-18 14:12:29,725 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:12:29,725 INFO     factor_lib.scrapers.parallel_detail_scraper: [33/110] [OK] project 259 — 9 fields
+2026-05-18 14:12:31,644 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:12:31,644 INFO     factor_lib.scrapers.parallel_detail_scraper: [34/110] [OK] project 261 — 9 fields
+2026-05-18 14:12:32,588 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:12:32,588 INFO     factor_lib.scrapers.parallel_detail_scraper: [35/110] [OK] project 268 — 9 fields
+2026-05-18 14:12:32,821 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:12:32,821 INFO     factor_lib.scrapers.parallel_detail_scraper: [36/110] [OK] project 272 — 8 fields
+2026-05-18 14:12:36,428 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:12:36,429 INFO     factor_lib.scrapers.parallel_detail_scraper: [37/110] [OK] project 273 — 9 fields
+2026-05-18 14:12:45,767 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 278 — attempting field extraction fallback
+2026-05-18 14:12:45,767 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:12:46,462 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 281 — attempting field extraction fallback
+2026-05-18 14:12:46,462 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:12:46,876 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 282 — attempting field extraction fallback
+2026-05-18 14:12:46,876 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:12:50,535 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 284 — attempting field extraction fallback
+2026-05-18 14:12:50,535 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:12:59,917 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 278 — 2 fields extracted
+2026-05-18 14:12:59,917 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:12:59,917 INFO     factor_lib.scrapers.parallel_detail_scraper: [38/110] [OK] project 278 — 2 fields
+2026-05-18 14:13:00,254 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 281 — 2 fields extracted
+2026-05-18 14:13:00,254 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:13:00,254 INFO     factor_lib.scrapers.parallel_detail_scraper: [39/110] [OK] project 281 — 2 fields
+2026-05-18 14:13:01,039 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 282 — 2 fields extracted
+2026-05-18 14:13:01,039 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:13:01,039 INFO     factor_lib.scrapers.parallel_detail_scraper: [40/110] [OK] project 282 — 2 fields
+2026-05-18 14:13:04,515 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 284 — 2 fields extracted
+2026-05-18 14:13:04,515 INFO     factor_lib.scrapers.parallel_detail_scraper: [41/110] [OK] project 284 — 2 fields
+2026-05-18 14:13:04,515 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:13:11,138 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:13:11,138 INFO     factor_lib.scrapers.parallel_detail_scraper: [42/110] [OK] project 293 — 9 fields
+2026-05-18 14:13:13,964 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 285 — attempting field extraction fallback
+2026-05-18 14:13:13,964 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:13:14,181 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 287 — attempting field extraction fallback
+2026-05-18 14:13:14,181 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:13:15,097 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 288 — attempting field extraction fallback
+2026-05-18 14:13:15,097 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:13:18,430 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:13:18,430 INFO     factor_lib.scrapers.parallel_detail_scraper: [43/110] [OK] project 294 — 7 fields
+2026-05-18 14:13:24,018 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:13:24,018 INFO     factor_lib.scrapers.parallel_detail_scraper: [44/110] [OK] project 297 — 9 fields
+2026-05-18 14:13:27,093 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 285 — 2 fields extracted
+2026-05-18 14:13:27,094 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:13:27,094 INFO     factor_lib.scrapers.parallel_detail_scraper: [45/110] [OK] project 285 — 2 fields
+2026-05-18 14:13:28,098 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 287 — 2 fields extracted
+2026-05-18 14:13:28,098 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:13:28,098 INFO     factor_lib.scrapers.parallel_detail_scraper: [46/110] [OK] project 287 — 2 fields
+2026-05-18 14:13:29,038 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 288 — 2 fields extracted
+2026-05-18 14:13:29,039 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:13:29,039 INFO     factor_lib.scrapers.parallel_detail_scraper: [47/110] [OK] project 288 — 2 fields
+2026-05-18 14:13:29,712 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:13:29,712 INFO     factor_lib.scrapers.parallel_detail_scraper: [48/110] [OK] project 299 — 9 fields
+2026-05-18 14:13:34,310 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:13:34,310 INFO     factor_lib.scrapers.parallel_detail_scraper: [49/110] [OK] project 300 — 9 fields
+2026-05-18 14:13:35,514 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:13:35,514 INFO     factor_lib.scrapers.parallel_detail_scraper: [50/110] [OK] project 308 — 9 fields
+2026-05-18 14:13:35,811 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:13:35,812 INFO     factor_lib.scrapers.parallel_detail_scraper: [51/110] [OK] project 306 — 9 fields
+2026-05-18 14:13:35,847 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:13:35,847 INFO     factor_lib.scrapers.parallel_detail_scraper: [52/110] [OK] project 302 — 9 fields
+2026-05-18 14:13:39,224 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:13:39,224 INFO     factor_lib.scrapers.parallel_detail_scraper: [53/110] [OK] project 310 — 8 fields
+2026-05-18 14:13:40,318 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:13:40,318 INFO     factor_lib.scrapers.parallel_detail_scraper: [54/110] [OK] project 314 — 7 fields
+2026-05-18 14:13:41,038 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:13:41,038 INFO     factor_lib.scrapers.parallel_detail_scraper: [55/110] [OK] project 312 — 8 fields
+2026-05-18 14:13:41,431 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:13:41,431 INFO     factor_lib.scrapers.parallel_detail_scraper: [56/110] [OK] project 313 — 6 fields
+2026-05-18 14:13:44,967 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:13:44,967 INFO     factor_lib.scrapers.parallel_detail_scraper: [57/110] [OK] project 315 — 9 fields
+2026-05-18 14:13:46,584 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:13:46,584 INFO     factor_lib.scrapers.parallel_detail_scraper: [58/110] [OK] project 321 — 9 fields
+2026-05-18 14:13:46,690 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:13:46,690 INFO     factor_lib.scrapers.parallel_detail_scraper: [59/110] [OK] project 322 — 9 fields
+2026-05-18 14:13:46,722 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:13:46,722 INFO     factor_lib.scrapers.parallel_detail_scraper: [60/110] [OK] project 323 — 9 fields
+2026-05-18 14:13:59,035 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 325 — attempting field extraction fallback
+2026-05-18 14:13:59,035 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:14:00,796 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 328 — attempting field extraction fallback
+2026-05-18 14:14:00,796 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:14:00,822 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 327 — attempting field extraction fallback
+2026-05-18 14:14:00,822 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:14:01,068 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 326 — attempting field extraction fallback
+2026-05-18 14:14:01,069 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:14:13,649 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 325 — 2 fields extracted
+2026-05-18 14:14:13,650 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:14:13,650 INFO     factor_lib.scrapers.parallel_detail_scraper: [61/110] [OK] project 325 — 2 fields
+2026-05-18 14:14:14,682 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 327 — 2 fields extracted
+2026-05-18 14:14:14,682 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:14:14,682 INFO     factor_lib.scrapers.parallel_detail_scraper: [62/110] [OK] project 327 — 2 fields
+2026-05-18 14:14:14,888 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 328 — 2 fields extracted
+2026-05-18 14:14:14,888 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:14:14,889 INFO     factor_lib.scrapers.parallel_detail_scraper: [63/110] [OK] project 328 — 2 fields
+2026-05-18 14:14:14,983 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 326 — 2 fields extracted
+2026-05-18 14:14:14,983 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:14:14,983 INFO     factor_lib.scrapers.parallel_detail_scraper: [64/110] [OK] project 326 — 2 fields
+2026-05-18 14:14:20,147 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:14:20,147 INFO     factor_lib.scrapers.parallel_detail_scraper: [65/110] [OK] project 333 — 9 fields
+2026-05-18 14:14:25,439 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:14:25,440 INFO     factor_lib.scrapers.parallel_detail_scraper: [66/110] [OK] project 334 — 8 fields
+2026-05-18 14:14:27,579 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 329 — attempting field extraction fallback
+2026-05-18 14:14:27,579 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:14:28,594 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 331 — attempting field extraction fallback
+2026-05-18 14:14:28,594 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:14:28,779 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 332 — attempting field extraction fallback
+2026-05-18 14:14:28,779 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:14:31,278 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:14:31,279 INFO     factor_lib.scrapers.parallel_detail_scraper: [67/110] [OK] project 335 — 9 fields
+2026-05-18 14:14:42,145 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 329 — 2 fields extracted
+2026-05-18 14:14:42,156 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:14:42,156 INFO     factor_lib.scrapers.parallel_detail_scraper: [68/110] [OK] project 329 — 2 fields
+2026-05-18 14:14:42,476 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 331 — 2 fields extracted
+2026-05-18 14:14:42,477 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:14:42,477 INFO     factor_lib.scrapers.parallel_detail_scraper: [69/110] [OK] project 331 — 2 fields
+2026-05-18 14:14:42,720 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 332 — 2 fields extracted
+2026-05-18 14:14:42,720 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:14:42,720 INFO     factor_lib.scrapers.parallel_detail_scraper: [70/110] [OK] project 332 — 2 fields
+2026-05-18 14:14:44,779 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:14:44,779 INFO     factor_lib.scrapers.parallel_detail_scraper: [71/110] [OK] project 336 — 9 fields
+2026-05-18 14:14:49,216 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:14:49,216 INFO     factor_lib.scrapers.parallel_detail_scraper: [72/110] [OK] project 338 — 9 fields
+2026-05-18 14:14:49,435 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:14:49,436 INFO     factor_lib.scrapers.parallel_detail_scraper: [73/110] [OK] project 342 — 9 fields
+2026-05-18 14:14:51,193 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:14:51,193 INFO     factor_lib.scrapers.parallel_detail_scraper: [74/110] [OK] project 341 — 9 fields
+2026-05-18 14:14:53,406 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:14:53,406 INFO     factor_lib.scrapers.parallel_detail_scraper: [75/110] [OK] project 337 — 8 fields
+2026-05-18 14:14:54,573 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:14:54,573 INFO     factor_lib.scrapers.parallel_detail_scraper: [76/110] [OK] project 343 — 6 fields
+2026-05-18 14:14:57,310 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:14:57,310 INFO     factor_lib.scrapers.parallel_detail_scraper: [77/110] [OK] project 345 — 8 fields
+2026-05-18 14:14:57,647 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:14:57,647 INFO     factor_lib.scrapers.parallel_detail_scraper: [78/110] [OK] project 344 — 9 fields
+2026-05-18 14:14:58,842 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:14:58,842 INFO     factor_lib.scrapers.parallel_detail_scraper: [79/110] [OK] project 347 — 9 fields
+2026-05-18 14:14:59,586 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:14:59,586 INFO     factor_lib.scrapers.parallel_detail_scraper: [80/110] [OK] project 348 — 8 fields
+2026-05-18 14:15:02,043 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:15:02,043 INFO     factor_lib.scrapers.parallel_detail_scraper: [81/110] [OK] project 351 — 9 fields
+2026-05-18 14:15:02,730 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:15:02,730 INFO     factor_lib.scrapers.parallel_detail_scraper: [82/110] [OK] project 350 — 9 fields
+2026-05-18 14:15:03,568 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:15:03,568 INFO     factor_lib.scrapers.parallel_detail_scraper: [83/110] [OK] project 352 — 8 fields
+2026-05-18 14:15:13,646 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 353 — attempting field extraction fallback
+2026-05-18 14:15:13,646 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:15:16,094 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 354 — attempting field extraction fallback
+2026-05-18 14:15:16,094 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:15:16,778 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 355 — attempting field extraction fallback
+2026-05-18 14:15:16,778 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:15:17,609 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 356 — attempting field extraction fallback
+2026-05-18 14:15:17,609 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:15:27,686 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 353 — 2 fields extracted
+2026-05-18 14:15:27,686 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:15:27,686 INFO     factor_lib.scrapers.parallel_detail_scraper: [84/110] [OK] project 353 — 2 fields
+2026-05-18 14:15:30,251 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 354 — 2 fields extracted
+2026-05-18 14:15:30,251 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:15:30,251 INFO     factor_lib.scrapers.parallel_detail_scraper: [85/110] [OK] project 354 — 2 fields
+2026-05-18 14:15:30,798 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 355 — 2 fields extracted
+2026-05-18 14:15:30,799 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:15:30,799 INFO     factor_lib.scrapers.parallel_detail_scraper: [86/110] [OK] project 355 — 2 fields
+2026-05-18 14:15:31,565 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 356 — 2 fields extracted
+2026-05-18 14:15:31,565 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:15:31,565 INFO     factor_lib.scrapers.parallel_detail_scraper: [87/110] [OK] project 356 — 2 fields
+2026-05-18 14:15:41,646 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 357 — attempting field extraction fallback
+2026-05-18 14:15:41,646 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:15:44,463 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 358 — attempting field extraction fallback
+2026-05-18 14:15:44,463 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:15:44,680 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 359 — attempting field extraction fallback
+2026-05-18 14:15:44,680 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:15:45,682 INFO     factor_lib.scrapers.parallel_detail_scraper: No CSV export for project 360 — attempting field extraction fallback
+2026-05-18 14:15:45,683 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:15:55,601 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 357 — 2 fields extracted
+2026-05-18 14:15:55,601 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:15:55,601 INFO     factor_lib.scrapers.parallel_detail_scraper: [88/110] [OK] project 357 — 2 fields
+2026-05-18 14:15:58,320 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 358 — 2 fields extracted
+2026-05-18 14:15:58,320 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:15:58,321 INFO     factor_lib.scrapers.parallel_detail_scraper: [89/110] [OK] project 358 — 2 fields
+2026-05-18 14:15:58,755 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 359 — 2 fields extracted
+2026-05-18 14:15:58,755 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:15:58,755 INFO     factor_lib.scrapers.parallel_detail_scraper: [90/110] [OK] project 359 — 2 fields
+2026-05-18 14:15:59,553 INFO     factor_lib.scrapers.parallel_detail_scraper: Fallback succeeded for project 360 — 2 fields extracted
+2026-05-18 14:15:59,554 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:15:59,554 INFO     factor_lib.scrapers.parallel_detail_scraper: [91/110] [OK] project 360 — 2 fields
+2026-05-18 14:16:01,832 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:16:01,832 INFO     factor_lib.scrapers.parallel_detail_scraper: [92/110] [OK] project 361 — 8 fields
+2026-05-18 14:16:03,470 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:16:03,470 INFO     factor_lib.scrapers.parallel_detail_scraper: [93/110] [OK] project 363 — 7 fields
+2026-05-18 14:16:03,666 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:16:03,670 INFO     factor_lib.scrapers.parallel_detail_scraper: [94/110] [OK] project 362 — 5 fields
+2026-05-18 14:16:05,513 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:16:05,514 INFO     factor_lib.scrapers.parallel_detail_scraper: [95/110] [OK] project 364 — 9 fields
+2026-05-18 14:16:07,440 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:16:07,440 INFO     factor_lib.scrapers.parallel_detail_scraper: [96/110] [OK] project 365 — 8 fields
+2026-05-18 14:16:08,873 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:16:08,873 INFO     factor_lib.scrapers.parallel_detail_scraper: [97/110] [OK] project 367 — 7 fields
+2026-05-18 14:16:09,106 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:16:09,106 INFO     factor_lib.scrapers.parallel_detail_scraper: [98/110] [OK] project 366 — 9 fields
+2026-05-18 14:16:10,751 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:16:10,751 INFO     factor_lib.scrapers.parallel_detail_scraper: [99/110] [OK] project 368 — 5 fields
+2026-05-18 14:16:12,373 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:16:12,373 INFO     factor_lib.scrapers.parallel_detail_scraper: [100/110] [OK] project 369 — 6 fields
+2026-05-18 14:16:13,991 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:16:13,991 INFO     factor_lib.scrapers.parallel_detail_scraper: [101/110] [OK] project 370 — 8 fields
+2026-05-18 14:16:14,245 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:16:14,246 INFO     factor_lib.scrapers.parallel_detail_scraper: [102/110] [OK] project 371 — 6 fields
+2026-05-18 14:16:16,590 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:16:16,590 INFO     factor_lib.scrapers.parallel_detail_scraper: [103/110] [OK] project 372 — 8 fields
+2026-05-18 14:16:18,678 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:16:18,678 INFO     factor_lib.scrapers.parallel_detail_scraper: [104/110] [OK] project 373 — 13 fields
+2026-05-18 14:16:18,915 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:16:18,915 INFO     factor_lib.scrapers.parallel_detail_scraper: [105/110] [OK] project 374 — 4 fields
+2026-05-18 14:16:19,325 DEBUG    asyncio: Using selector: KqueueSelector
+2026-05-18 14:16:19,325 INFO     factor_lib.scrapers.parallel_detail_scraper: [106/110] [OK] project 375 — 3 fields
+2026-05-18 14:16:21,791 INFO     factor_lib.scrapers.parallel_detail_scraper: [107/110] [OK] project 376 — 3 fields
+2026-05-18 14:16:23,964 INFO     factor_lib.scrapers.parallel_detail_scraper: [108/110] [OK] project 380 — 5 fields
+2026-05-18 14:16:23,990 INFO     factor_lib.scrapers.parallel_detail_scraper: [109/110] [OK] project 381 — 4 fields
+2026-05-18 14:16:24,226 INFO     factor_lib.scrapers.parallel_detail_scraper: [110/110] [OK] project 377 — 4 fields
+2026-05-18 14:16:24,227 INFO     test_scraper: [OK]  ScrapeResult: total=110 success=110 errors=0
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]   12 — 7 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]   24 — 2 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]   88 — 2 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  120 — 2 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  146 — 2 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  173 — 2 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  175 — 2 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  178 — 2 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  185 — 2 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  195 — 2 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  197 — 7 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  205 — 2 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  212 — 9 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  213 — 7 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  219 — 9 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  225 — 9 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  226 — 8 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  227 — 9 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  229 — 7 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  231 — 9 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  238 — 9 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  239 — 9 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  240 — 8 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  245 — 9 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  246 — 9 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  247 — 7 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  250 — 7 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  253 — 9 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  254 — 9 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  256 — 9 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  257 — 8 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  258 — 8 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  259 — 9 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  261 — 9 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  268 — 9 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  272 — 8 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  273 — 9 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  278 — 2 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  281 — 2 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  282 — 2 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  284 — 2 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  285 — 2 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  287 — 2 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  288 — 2 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  293 — 9 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  294 — 7 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  297 — 9 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  299 — 9 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  300 — 9 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  302 — 9 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  306 — 9 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  308 — 9 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  310 — 8 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  312 — 8 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  313 — 6 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  314 — 7 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  315 — 9 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  321 — 9 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  322 — 9 fields
+2026-05-18 14:16:24,227 INFO     test_scraper:   [OK ]  323 — 9 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  325 — 2 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  326 — 2 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  327 — 2 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  328 — 2 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  329 — 2 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  331 — 2 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  332 — 2 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  333 — 9 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  334 — 8 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  335 — 9 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  336 — 9 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  337 — 8 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  338 — 9 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  341 — 9 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  342 — 9 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  343 — 6 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  344 — 9 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  345 — 8 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  347 — 9 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  348 — 8 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  350 — 9 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  351 — 9 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  352 — 8 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  353 — 2 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  354 — 2 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  355 — 2 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  356 — 2 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  357 — 2 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  358 — 2 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  359 — 2 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  360 — 2 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  361 — 8 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  362 — 5 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  363 — 7 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  364 — 9 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  365 — 8 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  366 — 9 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  367 — 7 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  368 — 5 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  369 — 6 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  370 — 8 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  371 — 6 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  372 — 8 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  373 — 13 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  374 — 4 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  375 — 3 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  376 — 3 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  377 — 4 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  380 — 5 fields
+2026-05-18 14:16:24,228 INFO     test_scraper:   [OK ]  381 — 4 fields
+2026-05-18 14:16:24,228 INFO     test_scraper: ============================================================
+2026-05-18 14:16:24,228 INFO     test_scraper:   STEP 3 — save one file per project
+2026-05-18 14:16:24,228 INFO     test_scraper: ============================================================
+2026-05-18 14:16:24,235 DEBUG    test_scraper:   saved project_12.json
+2026-05-18 14:16:24,236 DEBUG    test_scraper:   saved project_24.json
+2026-05-18 14:16:24,236 DEBUG    test_scraper:   saved project_88.json
+2026-05-18 14:16:24,236 DEBUG    test_scraper:   saved project_120.json
+2026-05-18 14:16:24,236 DEBUG    test_scraper:   saved project_146.json
+2026-05-18 14:16:24,236 DEBUG    test_scraper:   saved project_173.json
+2026-05-18 14:16:24,236 DEBUG    test_scraper:   saved project_175.json
+2026-05-18 14:16:24,236 DEBUG    test_scraper:   saved project_178.json
+2026-05-18 14:16:24,236 DEBUG    test_scraper:   saved project_185.json
+2026-05-18 14:16:24,236 DEBUG    test_scraper:   saved project_195.json
+2026-05-18 14:16:24,243 DEBUG    test_scraper:   saved project_197.json
+2026-05-18 14:16:24,243 DEBUG    test_scraper:   saved project_205.json
+2026-05-18 14:16:24,246 DEBUG    test_scraper:   saved project_212.json
+2026-05-18 14:16:24,277 DEBUG    test_scraper:   saved project_213.json
+2026-05-18 14:16:24,281 DEBUG    test_scraper:   saved project_219.json
+2026-05-18 14:16:24,285 DEBUG    test_scraper:   saved project_225.json
+2026-05-18 14:16:24,286 DEBUG    test_scraper:   saved project_226.json
+2026-05-18 14:16:24,287 DEBUG    test_scraper:   saved project_227.json
+2026-05-18 14:16:24,287 DEBUG    test_scraper:   saved project_229.json
+2026-05-18 14:16:24,289 DEBUG    test_scraper:   saved project_231.json
+2026-05-18 14:16:24,290 DEBUG    test_scraper:   saved project_238.json
+2026-05-18 14:16:24,291 DEBUG    test_scraper:   saved project_239.json
+2026-05-18 14:16:24,310 DEBUG    test_scraper:   saved project_240.json
+2026-05-18 14:16:24,311 DEBUG    test_scraper:   saved project_245.json
+2026-05-18 14:16:24,312 DEBUG    test_scraper:   saved project_246.json
+2026-05-18 14:16:24,312 DEBUG    test_scraper:   saved project_247.json
+2026-05-18 14:16:24,313 DEBUG    test_scraper:   saved project_250.json
+2026-05-18 14:16:24,321 DEBUG    test_scraper:   saved project_253.json
+2026-05-18 14:16:24,324 DEBUG    test_scraper:   saved project_254.json
+2026-05-18 14:16:24,326 DEBUG    test_scraper:   saved project_256.json
+2026-05-18 14:16:24,328 DEBUG    test_scraper:   saved project_257.json
+2026-05-18 14:16:24,328 DEBUG    test_scraper:   saved project_258.json
+2026-05-18 14:16:24,334 DEBUG    test_scraper:   saved project_259.json
+2026-05-18 14:16:24,339 DEBUG    test_scraper:   saved project_261.json
+2026-05-18 14:16:24,344 DEBUG    test_scraper:   saved project_268.json
+2026-05-18 14:16:24,345 DEBUG    test_scraper:   saved project_272.json
+2026-05-18 14:16:24,348 DEBUG    test_scraper:   saved project_273.json
+2026-05-18 14:16:24,348 DEBUG    test_scraper:   saved project_278.json
+2026-05-18 14:16:24,348 DEBUG    test_scraper:   saved project_281.json
+2026-05-18 14:16:24,348 DEBUG    test_scraper:   saved project_282.json
+2026-05-18 14:16:24,348 DEBUG    test_scraper:   saved project_284.json
+2026-05-18 14:16:24,348 DEBUG    test_scraper:   saved project_285.json
+2026-05-18 14:16:24,348 DEBUG    test_scraper:   saved project_287.json
+2026-05-18 14:16:24,348 DEBUG    test_scraper:   saved project_288.json
+2026-05-18 14:16:24,351 DEBUG    test_scraper:   saved project_293.json
+2026-05-18 14:16:24,355 DEBUG    test_scraper:   saved project_294.json
+2026-05-18 14:16:24,355 DEBUG    test_scraper:   saved project_297.json
+2026-05-18 14:16:24,356 DEBUG    test_scraper:   saved project_299.json
+2026-05-18 14:16:24,361 DEBUG    test_scraper:   saved project_300.json
+2026-05-18 14:16:24,362 DEBUG    test_scraper:   saved project_302.json
+2026-05-18 14:16:24,364 DEBUG    test_scraper:   saved project_306.json
+2026-05-18 14:16:24,366 DEBUG    test_scraper:   saved project_308.json
+2026-05-18 14:16:24,367 DEBUG    test_scraper:   saved project_310.json
+2026-05-18 14:16:24,367 DEBUG    test_scraper:   saved project_312.json
+2026-05-18 14:16:24,368 DEBUG    test_scraper:   saved project_313.json
+2026-05-18 14:16:24,368 DEBUG    test_scraper:   saved project_314.json
+2026-05-18 14:16:24,369 DEBUG    test_scraper:   saved project_315.json
+2026-05-18 14:16:24,371 DEBUG    test_scraper:   saved project_321.json
+2026-05-18 14:16:24,372 DEBUG    test_scraper:   saved project_322.json
+2026-05-18 14:16:24,373 DEBUG    test_scraper:   saved project_323.json
+2026-05-18 14:16:24,373 DEBUG    test_scraper:   saved project_325.json
+2026-05-18 14:16:24,374 DEBUG    test_scraper:   saved project_326.json
+2026-05-18 14:16:24,374 DEBUG    test_scraper:   saved project_327.json
+2026-05-18 14:16:24,374 DEBUG    test_scraper:   saved project_328.json
+2026-05-18 14:16:24,374 DEBUG    test_scraper:   saved project_329.json
+2026-05-18 14:16:24,374 DEBUG    test_scraper:   saved project_331.json
+2026-05-18 14:16:24,374 DEBUG    test_scraper:   saved project_332.json
+2026-05-18 14:16:24,375 DEBUG    test_scraper:   saved project_333.json
+2026-05-18 14:16:24,375 DEBUG    test_scraper:   saved project_334.json
+2026-05-18 14:16:24,380 DEBUG    test_scraper:   saved project_335.json
+2026-05-18 14:16:24,403 DEBUG    test_scraper:   saved project_336.json
+2026-05-18 14:16:24,409 DEBUG    test_scraper:   saved project_337.json
+2026-05-18 14:16:24,412 DEBUG    test_scraper:   saved project_338.json
+2026-05-18 14:16:24,427 DEBUG    test_scraper:   saved project_341.json
+2026-05-18 14:16:24,429 DEBUG    test_scraper:   saved project_342.json
+2026-05-18 14:16:24,429 DEBUG    test_scraper:   saved project_343.json
+2026-05-18 14:16:24,433 DEBUG    test_scraper:   saved project_344.json
+2026-05-18 14:16:24,436 DEBUG    test_scraper:   saved project_345.json
+2026-05-18 14:16:24,436 DEBUG    test_scraper:   saved project_347.json
+2026-05-18 14:16:24,437 DEBUG    test_scraper:   saved project_348.json
+2026-05-18 14:16:24,437 DEBUG    test_scraper:   saved project_350.json
+2026-05-18 14:16:24,438 DEBUG    test_scraper:   saved project_351.json
+2026-05-18 14:16:24,438 DEBUG    test_scraper:   saved project_352.json
+2026-05-18 14:16:24,438 DEBUG    test_scraper:   saved project_353.json
+2026-05-18 14:16:24,438 DEBUG    test_scraper:   saved project_354.json
+2026-05-18 14:16:24,438 DEBUG    test_scraper:   saved project_355.json
+2026-05-18 14:16:24,438 DEBUG    test_scraper:   saved project_356.json
+2026-05-18 14:16:24,438 DEBUG    test_scraper:   saved project_357.json
+2026-05-18 14:16:24,439 DEBUG    test_scraper:   saved project_358.json
+2026-05-18 14:16:24,439 DEBUG    test_scraper:   saved project_359.json
+2026-05-18 14:16:24,439 DEBUG    test_scraper:   saved project_360.json
+2026-05-18 14:16:24,443 DEBUG    test_scraper:   saved project_361.json
+2026-05-18 14:16:24,443 DEBUG    test_scraper:   saved project_362.json
+2026-05-18 14:16:24,444 DEBUG    test_scraper:   saved project_363.json
+2026-05-18 14:16:24,444 DEBUG    test_scraper:   saved project_364.json
+2026-05-18 14:16:24,445 DEBUG    test_scraper:   saved project_365.json
+2026-05-18 14:16:24,445 DEBUG    test_scraper:   saved project_366.json
+2026-05-18 14:16:24,446 DEBUG    test_scraper:   saved project_367.json
+2026-05-18 14:16:24,446 DEBUG    test_scraper:   saved project_368.json
+2026-05-18 14:16:24,447 DEBUG    test_scraper:   saved project_369.json
+2026-05-18 14:16:24,447 DEBUG    test_scraper:   saved project_370.json
+2026-05-18 14:16:24,447 DEBUG    test_scraper:   saved project_371.json
+2026-05-18 14:16:24,449 DEBUG    test_scraper:   saved project_372.json
+2026-05-18 14:16:24,450 DEBUG    test_scraper:   saved project_373.json
+2026-05-18 14:16:24,450 DEBUG    test_scraper:   saved project_374.json
+2026-05-18 14:16:24,451 DEBUG    test_scraper:   saved project_375.json
+2026-05-18 14:16:24,451 DEBUG    test_scraper:   saved project_376.json
+2026-05-18 14:16:24,451 DEBUG    test_scraper:   saved project_377.json
+2026-05-18 14:16:24,451 DEBUG    test_scraper:   saved project_380.json
+2026-05-18 14:16:24,451 DEBUG    test_scraper:   saved project_381.json
+2026-05-18 14:16:24,451 INFO     test_scraper: [OK]  Saved 110 files → /Users/paulossjunior/projects/diretoria/factor_lib/data/projects_20260518_141026/
+2026-05-18 14:16:24,453 INFO     test_scraper: [OK]  Top-level keys: ['id', 'name', 'csv', '_source_url', '_scraped_at', '_error']
+2026-05-18 14:16:24,453 INFO     test_scraper: [OK]  CSV sections: ['Projeto_12/Informaçoes do projeto.csv', 'Projeto_12/Recursos por rubrica receita separada.csv', 'Projeto_12/Pagamento de pessoa jurídica.csv', 'Projeto_12/Pagamento de pessoa física.csv']
+2026-05-18 14:16:24,453 INFO     test_scraper: ============================================================
+2026-05-18 14:16:24,453 INFO     test_scraper:   STEP 4 — save errors report
+2026-05-18 14:16:24,453 INFO     test_scraper: ============================================================
+2026-05-18 14:16:24,453 INFO     test_scraper: [OK]  Saved errors report → errors_report.json (0 entries)
+2026-05-18 14:16:24,453 INFO     test_scraper: ============================================================
+2026-05-18 14:16:24,453 INFO     test_scraper:   ALL STEPS PASSED
+2026-05-18 14:16:24,453 INFO     test_scraper: ============================================================
+2026-05-18 14:16:24,453 INFO     test_scraper:   Output dir  : /Users/paulossjunior/projects/diretoria/factor_lib/data/projects_20260518_141026
+2026-05-18 14:16:24,453 INFO     test_scraper:   Log file    : /Users/paulossjunior/projects/diretoria/factor_lib/data/run_20260518_141026.log
+2026-05-18 14:16:24,453 INFO     test_scraper:   Total: 110 | OK: 110 | Errors: 0
+2026-05-18 14:16:24,453 INFO     test_scraper:   Files: 110 × project_<id>.json

@@ -1,0 +1,2195 @@
+{
+  "id": "315",
+  "name": "Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação.",
+  "csv": {
+    "Projeto_315/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Coordenador": "Guilherme Marques Fiorot",
+        "Financiadora": "Ministério da Educação - MEC",
+        "Data de início": "15/01/2025",
+        "Data de vigência": "15/01/2028",
+        "Data de encerramento": "15/03/2028",
+        "Tipo de Projeto": "Pesquisa, Desenvolvimento e Inovação",
+        "Instituição executora": "Instituto Federal De Educação Ciencia E Tecnologia Do Espirito Santo - Reitoria",
+        "Departamento": "",
+        "Processo e sub-processo": "23147.011701/2024-91",
+        "Valor aprovado": "3.780.000,00",
+        "Objetivo/Objeto/Título": "Este projeto tem a finalidade de promover, com base naexperiência do Ifes em atividades de Gestão de Projetos e na condução de ações de Logística Sustentável, a racionalização da ocupação dos espaços físicos e o consumo consciente de bens e serviços no Ministério da Educação (MEC), alinhando as práticas institucionais aos princípios de sustentabilidade e eficiência administrativa estabelecidos pela legislação vigente, para elaborar oPlano Diretor de Logística Sustentável do órgão. "
+      }
+    ],
+    "Projeto_315/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Bolsas",
+        "Aprovado": "896.400,00",
+        "Liberado": "0,00",
+        "Executado": "-464.496,23",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "300,00",
+        "Liberado": "0,00",
+        "Executado": "-328,32",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Diária Nacional",
+        "Aprovado": "120.000,00",
+        "Liberado": "0,00",
+        "Executado": "-8.075,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "342.231,53",
+        "Liberado": "0,00",
+        "Executado": "-172.021,13",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Aprovado": "1.530.000,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Aprovado": "50.000,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Passagens",
+        "Aprovado": "220.000,00",
+        "Liberado": "0,00",
+        "Executado": "-45.624,28",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Física",
+        "Aprovado": "370.000,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "250.000,00",
+        "Liberado": "0,00",
+        "Executado": "-17.415,94",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "1.900.000,00",
+        "Executado": "1.900.000,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "177.982,22",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_315/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "19/03/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "6,13"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "6,13"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "11,12"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "18/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "3,92"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "17,25"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "18,72"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "22,24"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "22,24"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "30,40"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "27,48"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "15,80"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "12/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "1,20"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "26/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "21,64"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "13/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "3,52"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "22,84"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "11/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "31,60"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "10/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "17/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "6,44"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "29/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "1,20"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "8,76"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "31,60"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "07.933.551/0001-57",
+        "Nome do Favorecido": "I.L. BARRETO REPRESENTACOES LTDA",
+        "Data do Pagamento": "18/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "11.850,84"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "07.933.551/0001-57",
+        "Nome do Favorecido": "I.L. BARRETO REPRESENTACOES LTDA",
+        "Data do Pagamento": "26/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "10.197,30"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "07.933.551/0001-57",
+        "Nome do Favorecido": "I.L. BARRETO REPRESENTACOES LTDA",
+        "Data do Pagamento": "13/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "5.490,73"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "07.933.551/0001-57",
+        "Nome do Favorecido": "I.L. BARRETO REPRESENTACOES LTDA",
+        "Data do Pagamento": "06/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "18.085,41"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "13.506.534/0001-36",
+        "Nome do Favorecido": "QUALIFICA CONSULTORIA EM QUALIDADE E SEG.DOS ALIMENTOS",
+        "Data do Pagamento": "11/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.941,95"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "13.506.534/0001-36",
+        "Nome do Favorecido": "QUALIFICA CONSULTORIA EM QUALIDADE E SEG.DOS ALIMENTOS",
+        "Data do Pagamento": "10/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "10.936,07"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CNPJ": "13.506.534/0001-36",
+        "Nome do Favorecido": "QUALIFICA CONSULTORIA EM QUALIDADE E SEG.DOS ALIMENTOS",
+        "Data do Pagamento": "17/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "4.537,92"
+      }
+    ],
+    "Projeto_315/Pagamento de pessoa física.csv": [
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.119.526-**",
+        "Nome do Favorecido": "DIEGO MONTES BARBOSA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "2.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.119.526-**",
+        "Nome do Favorecido": "DIEGO MONTES BARBOSA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "2.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.119.526-**",
+        "Nome do Favorecido": "DIEGO MONTES BARBOSA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "2.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.695.911-**",
+        "Nome do Favorecido": "Gilmar da Mota Fernandes",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "4.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.695.911-**",
+        "Nome do Favorecido": "Gilmar da Mota Fernandes",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "4.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.695.911-**",
+        "Nome do Favorecido": "Gilmar da Mota Fernandes",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "4.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.198.801-**",
+        "Nome do Favorecido": "Isabella Ribeiro de Oliveira e Silva ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.198.801-**",
+        "Nome do Favorecido": "Isabella Ribeiro de Oliveira e Silva ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.198.801-**",
+        "Nome do Favorecido": "Isabella Ribeiro de Oliveira e Silva ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.198.801-**",
+        "Nome do Favorecido": "Isabella Ribeiro de Oliveira e Silva ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.198.801-**",
+        "Nome do Favorecido": "Isabella Ribeiro de Oliveira e Silva ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.198.801-**",
+        "Nome do Favorecido": "Isabella Ribeiro de Oliveira e Silva ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.198.801-**",
+        "Nome do Favorecido": "Isabella Ribeiro de Oliveira e Silva ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.198.801-**",
+        "Nome do Favorecido": "Isabella Ribeiro de Oliveira e Silva ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.198.801-**",
+        "Nome do Favorecido": "Isabella Ribeiro de Oliveira e Silva ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.198.801-**",
+        "Nome do Favorecido": "Isabella Ribeiro de Oliveira e Silva ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.862.053-**",
+        "Nome do Favorecido": "ISMAEL PAZ SANTOS",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "4.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.302.881-**",
+        "Nome do Favorecido": "Itamar José dos Santos Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "1.467,74"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.302.881-**",
+        "Nome do Favorecido": "Itamar José dos Santos Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "4.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.302.881-**",
+        "Nome do Favorecido": "Itamar José dos Santos Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "4.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.302.881-**",
+        "Nome do Favorecido": "Itamar José dos Santos Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "4.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.758.147-**",
+        "Nome do Favorecido": "Joao Vitor Costa Pella",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.758.147-**",
+        "Nome do Favorecido": "Joao Vitor Costa Pella",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.758.147-**",
+        "Nome do Favorecido": "Joao Vitor Costa Pella",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.758.147-**",
+        "Nome do Favorecido": "Joao Vitor Costa Pella",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.758.147-**",
+        "Nome do Favorecido": "Joao Vitor Costa Pella",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.758.147-**",
+        "Nome do Favorecido": "Joao Vitor Costa Pella",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.758.147-**",
+        "Nome do Favorecido": "Joao Vitor Costa Pella",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.758.147-**",
+        "Nome do Favorecido": "Joao Vitor Costa Pella",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.760.043-**",
+        "Nome do Favorecido": "Victória Fernandes Barros",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.760.043-**",
+        "Nome do Favorecido": "Victória Fernandes Barros",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.760.043-**",
+        "Nome do Favorecido": "Victória Fernandes Barros",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.760.043-**",
+        "Nome do Favorecido": "Victória Fernandes Barros",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.760.043-**",
+        "Nome do Favorecido": "Victória Fernandes Barros",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.760.043-**",
+        "Nome do Favorecido": "Victória Fernandes Barros",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "3.500,00"
+      }
+    ],
+    "Projeto_315/Pagamento de servidores ou agentes públicos.csv": [
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.594.311-**",
+        "Nome do Favorecido": "Ana Carolina Cordeiro Correia Lima",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.594.311-**",
+        "Nome do Favorecido": "Ana Carolina Cordeiro Correia Lima",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.594.311-**",
+        "Nome do Favorecido": "Ana Carolina Cordeiro Correia Lima",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.672.277-**",
+        "Nome do Favorecido": "André Araujo Martini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2.683,33"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.672.277-**",
+        "Nome do Favorecido": "André Araujo Martini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.323.447-**",
+        "Nome do Favorecido": "Emerson Atilio Birchler",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.323.447-**",
+        "Nome do Favorecido": "Emerson Atilio Birchler",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.323.447-**",
+        "Nome do Favorecido": "Emerson Atilio Birchler",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.323.447-**",
+        "Nome do Favorecido": "Emerson Atilio Birchler",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.323.447-**",
+        "Nome do Favorecido": "Emerson Atilio Birchler",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.323.447-**",
+        "Nome do Favorecido": "Emerson Atilio Birchler",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.323.447-**",
+        "Nome do Favorecido": "Emerson Atilio Birchler",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.323.447-**",
+        "Nome do Favorecido": "Emerson Atilio Birchler",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.323.447-**",
+        "Nome do Favorecido": "Emerson Atilio Birchler",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.323.447-**",
+        "Nome do Favorecido": "Emerson Atilio Birchler",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.323.447-**",
+        "Nome do Favorecido": "Emerson Atilio Birchler",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.323.447-**",
+        "Nome do Favorecido": "Emerson Atilio Birchler",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.323.447-**",
+        "Nome do Favorecido": "Emerson Atilio Birchler",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.195.217-**",
+        "Nome do Favorecido": "Guilherme David Muller",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.195.217-**",
+        "Nome do Favorecido": "Guilherme David Muller",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.195.217-**",
+        "Nome do Favorecido": "Guilherme David Muller",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.195.217-**",
+        "Nome do Favorecido": "Guilherme David Muller",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.195.217-**",
+        "Nome do Favorecido": "Guilherme David Muller",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.195.217-**",
+        "Nome do Favorecido": "Guilherme David Muller",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.195.217-**",
+        "Nome do Favorecido": "Guilherme David Muller",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.195.217-**",
+        "Nome do Favorecido": "Guilherme David Muller",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.195.217-**",
+        "Nome do Favorecido": "Guilherme David Muller",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.195.217-**",
+        "Nome do Favorecido": "Guilherme David Muller",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.195.217-**",
+        "Nome do Favorecido": "Guilherme David Muller",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.195.217-**",
+        "Nome do Favorecido": "Guilherme David Muller",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.195.217-**",
+        "Nome do Favorecido": "Guilherme David Muller",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.062,50"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.329.267-**",
+        "Nome do Favorecido": "Guilherme Marques Fiorot",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.329.267-**",
+        "Nome do Favorecido": "Guilherme Marques Fiorot",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.329.267-**",
+        "Nome do Favorecido": "Guilherme Marques Fiorot",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.329.267-**",
+        "Nome do Favorecido": "Guilherme Marques Fiorot",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.329.267-**",
+        "Nome do Favorecido": "Guilherme Marques Fiorot",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.329.267-**",
+        "Nome do Favorecido": "Guilherme Marques Fiorot",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.329.267-**",
+        "Nome do Favorecido": "Guilherme Marques Fiorot",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.329.267-**",
+        "Nome do Favorecido": "Guilherme Marques Fiorot",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.329.267-**",
+        "Nome do Favorecido": "Guilherme Marques Fiorot",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.329.267-**",
+        "Nome do Favorecido": "Guilherme Marques Fiorot",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.329.267-**",
+        "Nome do Favorecido": "Guilherme Marques Fiorot",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "18/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "1.062,50"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.329.267-**",
+        "Nome do Favorecido": "Guilherme Marques Fiorot",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "12/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "637,50"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.329.267-**",
+        "Nome do Favorecido": "Guilherme Marques Fiorot",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "29/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "637,50"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.250.707-**",
+        "Nome do Favorecido": "Heverton Pereira da Conceição",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "2.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.250.707-**",
+        "Nome do Favorecido": "Heverton Pereira da Conceição",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "2.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.236.283-**",
+        "Nome do Favorecido": "LEONARDO ROLIM OLÍMPIO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.236.283-**",
+        "Nome do Favorecido": "LEONARDO ROLIM OLÍMPIO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.236.283-**",
+        "Nome do Favorecido": "LEONARDO ROLIM OLÍMPIO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.236.283-**",
+        "Nome do Favorecido": "LEONARDO ROLIM OLÍMPIO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2.145,16"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.883.277-**",
+        "Nome do Favorecido": "Marcelo Tedoldi Machado",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.883.277-**",
+        "Nome do Favorecido": "Marcelo Tedoldi Machado",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.883.277-**",
+        "Nome do Favorecido": "Marcelo Tedoldi Machado",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.883.277-**",
+        "Nome do Favorecido": "Marcelo Tedoldi Machado",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.883.277-**",
+        "Nome do Favorecido": "Marcelo Tedoldi Machado",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.883.277-**",
+        "Nome do Favorecido": "Marcelo Tedoldi Machado",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.883.277-**",
+        "Nome do Favorecido": "Marcelo Tedoldi Machado",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.883.277-**",
+        "Nome do Favorecido": "Marcelo Tedoldi Machado",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.883.277-**",
+        "Nome do Favorecido": "Marcelo Tedoldi Machado",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.883.277-**",
+        "Nome do Favorecido": "Marcelo Tedoldi Machado",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.883.277-**",
+        "Nome do Favorecido": "Marcelo Tedoldi Machado",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.883.277-**",
+        "Nome do Favorecido": "Marcelo Tedoldi Machado",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.883.277-**",
+        "Nome do Favorecido": "Marcelo Tedoldi Machado",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.883.277-**",
+        "Nome do Favorecido": "Marcelo Tedoldi Machado",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "18/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "1.062,50"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.883.277-**",
+        "Nome do Favorecido": "Marcelo Tedoldi Machado",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "12/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "637,50"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.883.277-**",
+        "Nome do Favorecido": "Marcelo Tedoldi Machado",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.062,50"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.883.277-**",
+        "Nome do Favorecido": "Marcelo Tedoldi Machado",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "17/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "637,50"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.883.277-**",
+        "Nome do Favorecido": "Marcelo Tedoldi Machado",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "29/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "637,50"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.292.566-**",
+        "Nome do Favorecido": "Paulo Henrique de Azevedo Leão",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "4.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.292.566-**",
+        "Nome do Favorecido": "Paulo Henrique de Azevedo Leão",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "4.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.292.566-**",
+        "Nome do Favorecido": "Paulo Henrique de Azevedo Leão",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "4.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.292.566-**",
+        "Nome do Favorecido": "Paulo Henrique de Azevedo Leão",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "4.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.292.566-**",
+        "Nome do Favorecido": "Paulo Henrique de Azevedo Leão",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "4.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.292.566-**",
+        "Nome do Favorecido": "Paulo Henrique de Azevedo Leão",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "4.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.292.566-**",
+        "Nome do Favorecido": "Paulo Henrique de Azevedo Leão",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "4.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.292.566-**",
+        "Nome do Favorecido": "Paulo Henrique de Azevedo Leão",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "4.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.850.641-**",
+        "Nome do Favorecido": "RENAN DO NASCIMENTO BALZANI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.850.641-**",
+        "Nome do Favorecido": "RENAN DO NASCIMENTO BALZANI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.850.641-**",
+        "Nome do Favorecido": "RENAN DO NASCIMENTO BALZANI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.280.967-**",
+        "Nome do Favorecido": "ROBERTO VIEIRA JUNIOR",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.280.967-**",
+        "Nome do Favorecido": "ROBERTO VIEIRA JUNIOR",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.280.967-**",
+        "Nome do Favorecido": "ROBERTO VIEIRA JUNIOR",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.280.967-**",
+        "Nome do Favorecido": "ROBERTO VIEIRA JUNIOR",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.280.967-**",
+        "Nome do Favorecido": "ROBERTO VIEIRA JUNIOR",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.280.967-**",
+        "Nome do Favorecido": "ROBERTO VIEIRA JUNIOR",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.280.967-**",
+        "Nome do Favorecido": "ROBERTO VIEIRA JUNIOR",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.280.967-**",
+        "Nome do Favorecido": "ROBERTO VIEIRA JUNIOR",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.280.967-**",
+        "Nome do Favorecido": "ROBERTO VIEIRA JUNIOR",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.280.967-**",
+        "Nome do Favorecido": "ROBERTO VIEIRA JUNIOR",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.280.967-**",
+        "Nome do Favorecido": "ROBERTO VIEIRA JUNIOR",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.280.967-**",
+        "Nome do Favorecido": "ROBERTO VIEIRA JUNIOR",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "3.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.280.967-**",
+        "Nome do Favorecido": "ROBERTO VIEIRA JUNIOR",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "17/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "637,50"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.661.470-**",
+        "Nome do Favorecido": "Sinara Pollom Zardo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.661.470-**",
+        "Nome do Favorecido": "Sinara Pollom Zardo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.661.470-**",
+        "Nome do Favorecido": "Sinara Pollom Zardo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.843.301-**",
+        "Nome do Favorecido": "VINICIUS MAIA PIRES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "4.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.843.301-**",
+        "Nome do Favorecido": "VINICIUS MAIA PIRES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "4.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.843.301-**",
+        "Nome do Favorecido": "VINICIUS MAIA PIRES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "4.500,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "CPF": "***.843.301-**",
+        "Nome do Favorecido": "VINICIUS MAIA PIRES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "4.500,00"
+      }
+    ],
+    "Projeto_315/Equipe.csv": [
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Nome": "Ana Carolina Cordeiro Correia Lima",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Universidade de Brasilia UnB",
+        "Vínculo com a instituição": "Professor do Magistério Superior",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Nome": "André Araujo Martini",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Nome": "DIEGO MONTES BARBOSA",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Ensino Médio completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Nome": "Emerson Atilio Birchler",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": "10 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Nome": "Gilmar da Mota Fernandes",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Companhia Urbanizadora da Nova Capital do Brasil",
+        "Vínculo com a instituição": "Empregado Público - CLT",
+        "Grau de instrução": "Pós-Graduação completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Nome": "Guilherme David Muller",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "IFES",
+        "Vínculo com a instituição": "TAE",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Nome": "Guilherme Marques Fiorot",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "IFES",
+        "Vínculo com a instituição": "Servidor efetivo",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": "10 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Nome": "HEDER SILVA E NORONHA",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "CGU",
+        "Vínculo com a instituição": "Aposentado",
+        "Grau de instrução": "Pós-Graduação completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Nome": "Heverton Pereira da Conceição",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Ifes - instituto federal do Espirito Santo",
+        "Vínculo com a instituição": "Servidor",
+        "Grau de instrução": "Pós-Graduação completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Nome": "Isabella Ribeiro de Oliveira e Silva ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Educação Superior completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Nome": "ISMAEL PAZ SANTOS",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Educação Superior completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Nome": "Itamar José dos Santos Silva",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Pós-Graduação completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Nome": "Joao Vitor Costa Pella",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": "20 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Nome": "LEONARDO ROLIM OLÍMPIO",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "MINISTÉRIO DA EDUCAÇÃO ",
+        "Vínculo com a instituição": "SERVIDOR EM CARGO COMISSIONADO",
+        "Grau de instrução": "Educação Superior completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Nome": "Marcelo Tedoldi Machado",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Ifes",
+        "Vínculo com a instituição": "EBTT",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": "10 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Nome": "Paula Lelis Rabelo Albala",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Universidade de Brasília",
+        "Vínculo com a instituição": "servidor - professor do magistério superior",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Nome": "Paulo Henrique de Azevedo Leão",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "IFMG",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Nome": "RENAN DO NASCIMENTO BALZANI",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "Vínculo com a instituição": "servidor público estatutário",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Nome": "ROBERTO VIEIRA JUNIOR",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Ifes",
+        "Vínculo com a instituição": "Servidor",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Nome": "Sinara Pollom Zardo",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Universidade de Brasília",
+        "Vínculo com a instituição": "Professora de Magistério de Nível Superior",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Nome": "Victória Fernandes Barros",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Nome": "VINICIUS MAIA PIRES",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Senado Federal",
+        "Vínculo com a instituição": "Comissionado",
+        "Grau de instrução": "Educação Superior completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      }
+    ],
+    "Projeto_315/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "EXTENSIONAISTA - MESTRE l EXT - B ",
+        "Justificativa": " ",
+        "Qtde aprovada": "6,00",
+        "Valor unitário": "3.500,00",
+        "Valor total aprovado": "21.000,00",
+        "Valor executado": "43.467,74"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Colaborador externo ",
+        "Justificativa": " ",
+        "Qtde aprovada": "18,00",
+        "Valor unitário": "3.500,00",
+        "Valor total aprovado": "63.000,00",
+        "Valor executado": "77.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador de Programa ou Projeto - Mestre ",
+        "Justificativa": " CPO-B",
+        "Qtde aprovada": " ",
+        "Valor unitário": "48,00",
+        "Valor total aprovado": "5.000,00",
+        "Valor executado": "240.000,00",
+        "null": [
+          "215.000,00"
+        ]
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Estudante de Graduação ",
+        "Justificativa": " EST-G",
+        "Qtde aprovada": " ",
+        "Valor unitário": "8,00",
+        "Valor total aprovado": "1.400,00",
+        "Valor executado": "11.200,00",
+        "null": [
+          "11.200,00"
+        ]
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Gestor de Programa ou Projeto - Mestre ",
+        "Justificativa": " CPO - B",
+        "Qtde aprovada": " ",
+        "Valor unitário": "12,00",
+        "Valor total aprovado": "3.500,00",
+        "Valor executado": "42.000,00",
+        "null": [
+          "46.500,00"
+        ]
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsas",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "290.200,00",
+        "Valor total aprovado": "290.200,00",
+        "Valor executado": "260.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "EXTENSIONISTA - GRADUADO - EXT-D",
+        "Justificativa": " ",
+        "Qtde aprovada": "14,00",
+        "Valor unitário": "3.500,00",
+        "Valor total aprovado": "49.000,00",
+        "Valor executado": "42.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Colaborador externo",
+        "Justificativa": " ",
+        "Qtde aprovada": "12,00",
+        "Valor unitário": "4.000,00",
+        "Valor total aprovado": "48.000,00",
+        "Valor executado": "48.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Colaborador externo",
+        "Justificativa": " ",
+        "Qtde aprovada": "12,00",
+        "Valor unitário": "4.000,00",
+        "Valor total aprovado": "48.000,00",
+        "Valor executado": "48.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Colaborador externo",
+        "Justificativa": " ",
+        "Qtde aprovada": "12,00",
+        "Valor unitário": "3.500,00",
+        "Valor total aprovado": "42.000,00",
+        "Valor executado": "42.000,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Apoio técnico ",
+        "Justificativa": " ",
+        "Qtde aprovada": "7,00",
+        "Valor unitário": "6.000,00",
+        "Valor total aprovado": "42.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Taxas bancárias ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.368,47",
+        "Valor total aprovado": "1.368,47",
+        "Valor executado": "328,32"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Agrupamento": "",
+        "Rubrica": "Diária Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Diárias Nacional ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "120.000,00",
+        "Valor total aprovado": "120.000,00",
+        "Valor executado": "8.075,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Material de Consumo ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "50.000,00",
+        "Valor total aprovado": "50.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Maquinas e Equipamentos",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.530.000,00",
+        "Valor total aprovado": "1.530.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Agrupamento": "",
+        "Rubrica": "Passagens",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Passagens ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "220.000,00",
+        "Valor total aprovado": "220.000,00",
+        "Valor executado": "45.624,28"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Física",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "RPA ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "370.000,00",
+        "Valor total aprovado": "370.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Serviço de Pessoa Jurídica ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "250.000,00",
+        "Valor total aprovado": "250.000,00",
+        "Valor executado": "39.850,00"
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Operacionais Administrativas ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "342.231,53",
+        "Valor total aprovado": "342.231,53",
+        "Valor executado": "172.021,13"
+      }
+    ],
+    "Projeto_315/Documentos.csv": [
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Título do Arquivo": "P 315_contrato_LAI",
+        "Descrição": "Segue em anexo o Contrato nº 04/2025, celebrado entre o Instituto Federal do Espírito Santo (IFES) e a Fundação de Apoio ao Desenvolvimento da Ciência e Tecnologia (FACTO), conforme descrito pela Coordenadoria de Gestão de Contratos (REI-CGC)."
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Título do Arquivo": "P 315 Termo Referencia_LAI",
+        "Descrição": "Segue anexo o Termo de Referência, elaborado conforme a Lei nº 14.133/2021, referente à contratação de Fundação de Apoio para a gestão administrativa e financeira do projeto: 'Planejamento e Gestão da Implementação do Plano Diretor de Logística Sustentáve"
+      }
+    ],
+    "Projeto_315/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Título do Arquivo": "Certidão LGPD",
+        "Descrição": "CERTIDÃO DE DOCUMENTAÇÃO DE PROCEDIMENTO DE PRESTAÇÃO DE CONTAS AMPARADA PELO SIGILO EM RAZÃO DA LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS.",
+        "Data início": "15/01/2025 ",
+        "Data final": "31/05/2025 "
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Título do Arquivo": "PRESTAÇÃO DE CONTAS PARCIAL ",
+        "Descrição": "Inicio até 31/05. ",
+        "Data início": "15/01/2025 ",
+        "Data final": "31/05/2025 "
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Título do Arquivo": "Certidão LGPD",
+        "Descrição": "CERTIDÃO DE DOCUMENTAÇÃO DE PROCEDIMENTO DE PRESTAÇÃO DE CONTAS AMPARADA PELO SIGILO EM RAZÃO DA LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS.",
+        "Data início": "01/06/2025 ",
+        "Data final": "30/06/2025 "
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Título do Arquivo": "Prestação de Contas Parcial",
+        "Descrição": "Prestação de Contas parcial - 01.06.2025 a 30.06.2025 Prestar contas ao Ifes sempre que solicitado, e ao final do projeto no prazo de 60 (sessenta) dias, de todos os valores utilizados na execução do projeto",
+        "Data início": "01/06/2025 ",
+        "Data final": "30/06/2025 "
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Título do Arquivo": "Prestação de Contas Parcial - Agosto 2025",
+        "Descrição": "Prestação de Contas Parcial - Agosto 2025",
+        "Data início": "01/08/2025 ",
+        "Data final": "31/08/2025 "
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Título do Arquivo": "Prestação de Contas Parcial - Julho 2025",
+        "Descrição": "Prestação de Contas Parcial - Julho 2025",
+        "Data início": "01/07/2025 ",
+        "Data final": "31/07/2025 "
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Título do Arquivo": "Prestação de Contas Parcial - Setembro 2025",
+        "Descrição": "Prestação de Contas Parcial - Setembro 2025",
+        "Data início": "01/09/2025 ",
+        "Data final": "30/09/2025 "
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Título do Arquivo": "315_Prestação_de_contas_Outubro_2025",
+        "Descrição": "Prestação de Contas Outubro-2025",
+        "Data início": "01/10/2025 ",
+        "Data final": "31/10/2025 "
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Título do Arquivo": "315_PC_PARCIAL_NOV_2025",
+        "Descrição": "Prestação de contas parcial, novembro de 2025",
+        "Data início": "01/11/2025 ",
+        "Data final": "30/11/2025 "
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Título do Arquivo": "315_PC_PARCIAL_DEZ_a_JAN_2026",
+        "Descrição": "Prestação de contas parcial referente ao período de dezembro/25 a janeiro/26.",
+        "Data início": "01/12/2025 ",
+        "Data final": "31/01/2026 "
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Título do Arquivo": "315_PC_PARCIAL_FEV_2026",
+        "Descrição": "Prestação de contas parcial referente ao mês de fevereiro de 2026.",
+        "Data início": "01/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Título do Arquivo": "315_PC_PARCIAL_MAR_2026",
+        "Descrição": "Prestação de contas parcial referente a março de 2026.",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      },
+      {
+        "Referência do projeto": "315 - Planejamento e Gestão da implementação do Plano Diretor de Logística Sustentável do Ministério da Educação",
+        "Título do Arquivo": "315_PC_PARCIAL_ABR_2026",
+        "Descrição": "Prestação de contas parcial referente a abril de 2026.",
+        "Data início": "01/04/2026 ",
+        "Data final": "30/04/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T14:13:39",
+  "_error": null
+}

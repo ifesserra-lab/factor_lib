@@ -1,0 +1,1959 @@
+{
+  "id": "299",
+  "name": "Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares.",
+  "csv": {
+    "Projeto_299/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Coordenador": "Tiago Reinan Barreto de Oliveira",
+        "Financiadora": "Brametal S/A",
+        "Data de início": "14/10/2024",
+        "Data de vigência": "14/06/2026",
+        "Data de encerramento": "14/08/2026",
+        "Tipo de Projeto": "Pesquisa, Desenvolvimento e Inovação",
+        "Instituição executora": "Instituto Federal De Educação Ciencia E Tecnologia Do Espirito Santo - Reitoria",
+        "Departamento": "",
+        "Processo e sub-processo": "23147.002002/2024-50",
+        "Valor aprovado": "374.887,25",
+        "Objetivo/Objeto/Título": "Constitui objeto deste instrumento regular a cooperação entre os PARTÍCIPES, visando a execução técnicade projeto de pesquisa Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4aplicadas em seguidores solares (Projeto), desenvolvimento e inovação  PD&I, no âmbito do POLO DEINOVAÇÃO VITÓRIA, na forma do Plano de Trabalho em Anexo e em respeito às atribuições específicasdefinidas neste instrumento para cada PARTE."
+      }
+    ],
+    "Projeto_299/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Bolsas",
+        "Aprovado": "215.700,00",
+        "Liberado": "0,00",
+        "Executado": "-213.900,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "487,00",
+        "Liberado": "0,00",
+        "Executado": "-221,99",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Diária Nacional",
+        "Aprovado": "4.020,00",
+        "Liberado": "0,00",
+        "Executado": "-3.530,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "27.224,39",
+        "Liberado": "0,00",
+        "Executado": "-27.224,39",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Aprovado": "24.803,33",
+        "Liberado": "0,00",
+        "Executado": "-24.803,33",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Aprovado": "26.504,67",
+        "Liberado": "0,00",
+        "Executado": "-15.467,19",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "RCI - Ressarcimentos e Contrapartidas Institucionais SPPJ - Projetos",
+        "Aprovado": "73.847,86",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "2.300,00",
+        "Liberado": "0,00",
+        "Executado": "-1.500,34",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "374.887,25",
+        "Executado": "374.887,25",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "6.559,19",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_299/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "39.678.810/0001-37",
+        "Nome do Favorecido": " TI COMPONENTES ELETRONICOS EIRELI",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "3.654,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "13.024.667/0001-76",
+        "Nome do Favorecido": "ALBA ELETRONICOS LTDA",
+        "Data do Pagamento": "11/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "149,04"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "13.024.667/0001-76",
+        "Nome do Favorecido": "ALBA ELETRONICOS LTDA",
+        "Data do Pagamento": "15/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "2.499,86"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "16,68"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "22/01/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "11,12"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "14/02/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "19/02/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "6,13"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "26/02/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "10,05"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "21/03/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "02/04/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "7,27"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "10,05"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "10,05"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "23/05/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "9,48"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "9,48"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "18/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "25/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "12,88"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "13/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "15/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "3,88"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "12,88"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "12,88"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "17/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "14,08"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "12/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "12,88"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "29/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "6,80"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "9,96"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "12/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "28/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "12,88"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "11/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "3,52"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "13/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "3,52"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "19.117.785/0001-05",
+        "Nome do Favorecido": "BEST NOTEBOOKS INDUSTRIA E COMERCIO DE EQUIPAMENTOS DE INFORMATICA LTDA",
+        "Data do Pagamento": "28/05/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "10.423,33"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "47.538.975/0001-31",
+        "Nome do Favorecido": "CONVOY LTDA",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "1.274,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "19.392.731/0001-58",
+        "Nome do Favorecido": "EAW SERVICOS INDUSTRIAIS LTDA",
+        "Data do Pagamento": "23/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2.960,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "03.274.186/0001-65",
+        "Nome do Favorecido": "ELMEC ELETRO-MECANICA IMPORTACAO E EXPORTACAO LTDA",
+        "Data do Pagamento": "06/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "465,53"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "56.077.784/0001-00",
+        "Nome do Favorecido": "HAMIX IMPORTACAO E DISTRIBUICAO LTDA",
+        "Data do Pagamento": "28/05/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "2.077,61"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "53.179.555/0001-09",
+        "Nome do Favorecido": "HYDRA COMERCIO DE ELETRONICOS LTDA",
+        "Data do Pagamento": "23/05/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "1.250,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "53.179.555/0001-09",
+        "Nome do Favorecido": "HYDRA COMERCIO DE ELETRONICOS LTDA",
+        "Data do Pagamento": "28/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "296,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "94.553.617/0001-88",
+        "Nome do Favorecido": "RAISA PRODUTOS ELETRONICOS LTDA",
+        "Data do Pagamento": "26/02/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "6.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CNPJ": "94.553.617/0001-88",
+        "Nome do Favorecido": "RAISA PRODUTOS ELETRONICOS LTDA",
+        "Data do Pagamento": "18/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "7.980,00"
+      }
+    ],
+    "Projeto_299/Pagamento de pessoa física.csv": [
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.008.547-**",
+        "Nome do Favorecido": "lucas bizarria loze",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "15/01/2025",
+        "Mês de Competência": "11/2024",
+        "Valor": "900,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.008.547-**",
+        "Nome do Favorecido": "lucas bizarria loze",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "15/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "900,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.008.547-**",
+        "Nome do Favorecido": "lucas bizarria loze",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "900,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.008.547-**",
+        "Nome do Favorecido": "lucas bizarria loze",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "900,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.008.547-**",
+        "Nome do Favorecido": "lucas bizarria loze",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "900,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.008.547-**",
+        "Nome do Favorecido": "lucas bizarria loze",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "900,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.008.547-**",
+        "Nome do Favorecido": "lucas bizarria loze",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "02/04/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "335,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.916.177-**",
+        "Nome do Favorecido": "MARCUS VINICIUS TEIXEIRA MALTA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "11/2024",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.916.177-**",
+        "Nome do Favorecido": "MARCUS VINICIUS TEIXEIRA MALTA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.916.177-**",
+        "Nome do Favorecido": "MARCUS VINICIUS TEIXEIRA MALTA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.916.177-**",
+        "Nome do Favorecido": "MARCUS VINICIUS TEIXEIRA MALTA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.916.177-**",
+        "Nome do Favorecido": "MARCUS VINICIUS TEIXEIRA MALTA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.916.177-**",
+        "Nome do Favorecido": "MARCUS VINICIUS TEIXEIRA MALTA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.916.177-**",
+        "Nome do Favorecido": "MARCUS VINICIUS TEIXEIRA MALTA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.916.177-**",
+        "Nome do Favorecido": "MARCUS VINICIUS TEIXEIRA MALTA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.916.177-**",
+        "Nome do Favorecido": "MARCUS VINICIUS TEIXEIRA MALTA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.916.177-**",
+        "Nome do Favorecido": "MARCUS VINICIUS TEIXEIRA MALTA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.916.177-**",
+        "Nome do Favorecido": "MARCUS VINICIUS TEIXEIRA MALTA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.916.177-**",
+        "Nome do Favorecido": "MARCUS VINICIUS TEIXEIRA MALTA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.916.177-**",
+        "Nome do Favorecido": "MARCUS VINICIUS TEIXEIRA MALTA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.916.177-**",
+        "Nome do Favorecido": "MARCUS VINICIUS TEIXEIRA MALTA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "12/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.916.177-**",
+        "Nome do Favorecido": "MARCUS VINICIUS TEIXEIRA MALTA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "09/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.916.177-**",
+        "Nome do Favorecido": "MARCUS VINICIUS TEIXEIRA MALTA",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "02/04/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "335,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.461.147-**",
+        "Nome do Favorecido": "Mateus Costa Recla",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "11/2024",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.461.147-**",
+        "Nome do Favorecido": "Mateus Costa Recla",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.461.147-**",
+        "Nome do Favorecido": "Mateus Costa Recla",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.461.147-**",
+        "Nome do Favorecido": "Mateus Costa Recla",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.461.147-**",
+        "Nome do Favorecido": "Mateus Costa Recla",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.461.147-**",
+        "Nome do Favorecido": "Mateus Costa Recla",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.461.147-**",
+        "Nome do Favorecido": "Mateus Costa Recla",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.461.147-**",
+        "Nome do Favorecido": "Mateus Costa Recla",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.461.147-**",
+        "Nome do Favorecido": "Mateus Costa Recla",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.461.147-**",
+        "Nome do Favorecido": "Mateus Costa Recla",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.461.147-**",
+        "Nome do Favorecido": "Mateus Costa Recla",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.461.147-**",
+        "Nome do Favorecido": "Mateus Costa Recla",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.461.147-**",
+        "Nome do Favorecido": "Mateus Costa Recla",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.461.147-**",
+        "Nome do Favorecido": "Mateus Costa Recla",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "11/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.461.147-**",
+        "Nome do Favorecido": "Mateus Costa Recla",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.461.147-**",
+        "Nome do Favorecido": "Mateus Costa Recla",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "02/04/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "335,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.461.147-**",
+        "Nome do Favorecido": "Mateus Costa Recla",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "335,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.496.357-**",
+        "Nome do Favorecido": "Thierry Boninsegna Ramos ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "15/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "900,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.496.357-**",
+        "Nome do Favorecido": "Thierry Boninsegna Ramos ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "900,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.496.357-**",
+        "Nome do Favorecido": "Thierry Boninsegna Ramos ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "900,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.496.357-**",
+        "Nome do Favorecido": "Thierry Boninsegna Ramos ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "900,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.496.357-**",
+        "Nome do Favorecido": "Thierry Boninsegna Ramos ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "900,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.496.357-**",
+        "Nome do Favorecido": "Thierry Boninsegna Ramos ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "900,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.496.357-**",
+        "Nome do Favorecido": "Thierry Boninsegna Ramos ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "900,00"
+      }
+    ],
+    "Projeto_299/Pagamento de servidores ou agentes públicos.csv": [
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.607.817-**",
+        "Nome do Favorecido": "Bruno Neves Amigo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "11/2024",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.607.817-**",
+        "Nome do Favorecido": "Bruno Neves Amigo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.607.817-**",
+        "Nome do Favorecido": "Bruno Neves Amigo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.607.817-**",
+        "Nome do Favorecido": "Bruno Neves Amigo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.607.817-**",
+        "Nome do Favorecido": "Bruno Neves Amigo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.607.817-**",
+        "Nome do Favorecido": "Bruno Neves Amigo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.607.817-**",
+        "Nome do Favorecido": "Bruno Neves Amigo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.607.817-**",
+        "Nome do Favorecido": "Bruno Neves Amigo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.607.817-**",
+        "Nome do Favorecido": "Bruno Neves Amigo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.607.817-**",
+        "Nome do Favorecido": "Bruno Neves Amigo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.607.817-**",
+        "Nome do Favorecido": "Bruno Neves Amigo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.607.817-**",
+        "Nome do Favorecido": "Bruno Neves Amigo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.607.817-**",
+        "Nome do Favorecido": "Bruno Neves Amigo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.607.817-**",
+        "Nome do Favorecido": "Bruno Neves Amigo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "11/2025",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.607.817-**",
+        "Nome do Favorecido": "Bruno Neves Amigo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.607.817-**",
+        "Nome do Favorecido": "Bruno Neves Amigo",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "19/02/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "380,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.158.207-**",
+        "Nome do Favorecido": "Fabricio Bortolini de Sá",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "11/2024",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.158.207-**",
+        "Nome do Favorecido": "Fabricio Bortolini de Sá",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.158.207-**",
+        "Nome do Favorecido": "Fabricio Bortolini de Sá",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "14/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.158.207-**",
+        "Nome do Favorecido": "Fabricio Bortolini de Sá",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.158.207-**",
+        "Nome do Favorecido": "Fabricio Bortolini de Sá",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.158.207-**",
+        "Nome do Favorecido": "Fabricio Bortolini de Sá",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.158.207-**",
+        "Nome do Favorecido": "Fabricio Bortolini de Sá",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.158.207-**",
+        "Nome do Favorecido": "Fabricio Bortolini de Sá",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.158.207-**",
+        "Nome do Favorecido": "Fabricio Bortolini de Sá",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.158.207-**",
+        "Nome do Favorecido": "Fabricio Bortolini de Sá",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.158.207-**",
+        "Nome do Favorecido": "Fabricio Bortolini de Sá",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.158.207-**",
+        "Nome do Favorecido": "Fabricio Bortolini de Sá",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.158.207-**",
+        "Nome do Favorecido": "Fabricio Bortolini de Sá",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.158.207-**",
+        "Nome do Favorecido": "Fabricio Bortolini de Sá",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "11/2025",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.158.207-**",
+        "Nome do Favorecido": "Fabricio Bortolini de Sá",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "2.940,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.158.207-**",
+        "Nome do Favorecido": "Fabricio Bortolini de Sá",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "19/02/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "380,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.158.207-**",
+        "Nome do Favorecido": "Fabricio Bortolini de Sá",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "02/04/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "335,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.158.207-**",
+        "Nome do Favorecido": "Fabricio Bortolini de Sá",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "335,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.624.665-**",
+        "Nome do Favorecido": "Tiago Reinan Barreto de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "11/2024",
+        "Valor": "4.800,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.624.665-**",
+        "Nome do Favorecido": "Tiago Reinan Barreto de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "4.800,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.624.665-**",
+        "Nome do Favorecido": "Tiago Reinan Barreto de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "4.800,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.624.665-**",
+        "Nome do Favorecido": "Tiago Reinan Barreto de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "4.800,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.624.665-**",
+        "Nome do Favorecido": "Tiago Reinan Barreto de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "4.800,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.624.665-**",
+        "Nome do Favorecido": "Tiago Reinan Barreto de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "4.800,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.624.665-**",
+        "Nome do Favorecido": "Tiago Reinan Barreto de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "4.800,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.624.665-**",
+        "Nome do Favorecido": "Tiago Reinan Barreto de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "4.800,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.624.665-**",
+        "Nome do Favorecido": "Tiago Reinan Barreto de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "4.800,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.624.665-**",
+        "Nome do Favorecido": "Tiago Reinan Barreto de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "4.800,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.624.665-**",
+        "Nome do Favorecido": "Tiago Reinan Barreto de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "4.800,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.624.665-**",
+        "Nome do Favorecido": "Tiago Reinan Barreto de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "4.800,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.624.665-**",
+        "Nome do Favorecido": "Tiago Reinan Barreto de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "4.800,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.624.665-**",
+        "Nome do Favorecido": "Tiago Reinan Barreto de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "11/2025",
+        "Valor": "4.800,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.624.665-**",
+        "Nome do Favorecido": "Tiago Reinan Barreto de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "4.800,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.624.665-**",
+        "Nome do Favorecido": "Tiago Reinan Barreto de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "19/02/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "380,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.624.665-**",
+        "Nome do Favorecido": "Tiago Reinan Barreto de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "02/04/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "380,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.624.665-**",
+        "Nome do Favorecido": "Tiago Reinan Barreto de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Reembolso",
+        "Data do Pagamento": "03/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "861,73"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.624.665-**",
+        "Nome do Favorecido": "Tiago Reinan Barreto de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Reembolso",
+        "Data do Pagamento": "07/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "825,72"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.624.665-**",
+        "Nome do Favorecido": "Tiago Reinan Barreto de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Reembolso",
+        "Data do Pagamento": "12/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "248,73"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.624.665-**",
+        "Nome do Favorecido": "Tiago Reinan Barreto de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Reembolso",
+        "Data do Pagamento": "29/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "508,60"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.624.665-**",
+        "Nome do Favorecido": "Tiago Reinan Barreto de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Reembolso",
+        "Data do Pagamento": "13/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "218,09"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "CPF": "***.624.665-**",
+        "Nome do Favorecido": "Tiago Reinan Barreto de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Reembolso",
+        "Data do Pagamento": "06/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "674,62"
+      }
+    ],
+    "Projeto_299/Equipe.csv": [
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Nome": "Bruno Neves Amigo",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Federal do Espírito Santo",
+        "Vínculo com a instituição": "DE",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": "7 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Nome": "DEISE MENEZES SANTOS",
+        "Função": "Apoiadora",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Nome": "DIRCEU SOARES JUNIOR",
+        "Função": "Apoiador",
+        "Instituição de trabalho": "Ifes - campus Serra / Polo de Inovação",
+        "Vínculo com a instituição": "Professor EBTT / Gerente de Recursos Institucionais",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Nome": "Fabricio Bortolini de Sá",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Ifes - campus Linhares",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": "7 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Nome": "lucas bizarria loze",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Ensino Médio completo",
+        "Carga horária": "10 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Nome": "MARCUS VINICIUS TEIXEIRA MALTA",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": "ESTUDANTE",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": "20 horas /semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Nome": "Mateus Costa Recla",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": "20 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Nome": "Thierry Boninsegna Ramos ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "IFES",
+        "Vínculo com a instituição": "Bolsista",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Nome": "Tiago Reinan Barreto de Oliveira",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "IFES",
+        "Vínculo com a instituição": "Professor EBTT",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": "4 horas /semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Nome": "Tiago Reinan Barreto de Oliveira",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "IFES",
+        "Vínculo com a instituição": "Professor EBTT",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Nome": "Victor Gianordoli",
+        "Função": "Apoiador",
+        "Instituição de trabalho": "Ifes",
+        "Vínculo com a instituição": "Servidor",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      }
+    ],
+    "Projeto_299/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador ",
+        "Justificativa": " CPO  ",
+        "Qtde aprovada": " ",
+        "Valor unitário": "15,00",
+        "Valor total aprovado": "4.800,00",
+        "Valor executado": "72.000,00",
+        "null": [
+          "72.000,00"
+        ]
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Pesquisador ",
+        "Justificativa": " PEQ-B  ",
+        "Qtde aprovada": " ",
+        "Valor unitário": "15,00",
+        "Valor total aprovado": "2.940,00",
+        "Valor executado": "44.100,00",
+        "null": [
+          "44.100,00"
+        ]
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Pesquisador ",
+        "Justificativa": " PEQ-B ",
+        "Qtde aprovada": " ",
+        "Valor unitário": "15,00",
+        "Valor total aprovado": "2.940,00",
+        "Valor executado": "44.100,00",
+        "null": [
+          "44.100,00"
+        ]
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Aluno Graduando ",
+        "Justificativa": " ETG ",
+        "Qtde aprovada": " ",
+        "Valor unitário": "15,00",
+        "Valor total aprovado": "1.400,00",
+        "Valor executado": "21.000,00",
+        "null": [
+          "21.000,00"
+        ]
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Aluno Graduando ",
+        "Justificativa": " ETG",
+        "Qtde aprovada": " ",
+        "Valor unitário": "15,00",
+        "Valor total aprovado": "1.400,00",
+        "Valor executado": "21.000,00",
+        "null": [
+          "21.000,00"
+        ]
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Aluno Técnico ",
+        "Justificativa": " EJ1",
+        "Qtde aprovada": " ",
+        "Valor unitário": "15,00",
+        "Valor total aprovado": "900,00",
+        "Valor executado": "13.500,00",
+        "null": [
+          "11.700,00"
+        ]
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Taxas bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "487,00",
+        "Valor total aprovado": "487,00",
+        "Valor executado": "221,99"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Agrupamento": "",
+        "Rubrica": "Diária Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Aracruz-Linhares",
+        "Justificativa": " ",
+        "Qtde aprovada": "12,00",
+        "Valor unitário": "335,00",
+        "Valor total aprovado": "4.020,00",
+        "Valor executado": "3.530,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Componentes Eletrônicos",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "8.693,00",
+        "Valor total aprovado": "8.693,00",
+        "Valor executado": "6.531,50"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Ferramentas de eletro-eletrônic",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "15.974,52",
+        "Valor total aprovado": "15.974,52",
+        "Valor executado": "14.711,73"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Combustível para deslocamento Aracruz- Linhares",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.837,15",
+        "Valor total aprovado": "1.837,15",
+        "Valor executado": "1.837,15"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Computador com GPU 8GB",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "10.423,33",
+        "Valor total aprovado": "10.423,33",
+        "Valor executado": "10.423,33"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Fonte controlada",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "7.980,00",
+        "Valor total aprovado": "7.980,00",
+        "Valor executado": "7.980,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Carga Eletrônica",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "6.400,00",
+        "Valor total aprovado": "6.400,00",
+        "Valor executado": "6.400,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Fabricação de PCB",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "799,66",
+        "Valor total aprovado": "799,66",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Serviços em Nuvem ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.500,34",
+        "Valor total aprovado": "1.500,34",
+        "Valor executado": "1.500,34"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Suporte Operacional",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "25.491,56",
+        "Valor total aprovado": "25.491,56",
+        "Valor executado": "25.491,56"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "DOA - Aditivo 1",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.732,83",
+        "Valor total aprovado": "1.732,83",
+        "Valor executado": "1.732,83"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Agrupamento": "",
+        "Rubrica": "RCI - Ressarcimentos e Contrapartidas Institucionais SPPJ - Projetos",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Ressarcimento financeiro pelo uso do patrimônio do Ifes conforme Art. 10 1 do decreto 8.240/2014",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "13.847,86",
+        "Valor total aprovado": "13.847,86",
+        "Valor executado": "13.560,00"
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Agrupamento": "",
+        "Rubrica": "RCI - Ressarcimentos e Contrapartidas Institucionais SPPJ - Projetos",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Propriedade Intelectual",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "60.000,00",
+        "Valor total aprovado": "60.000,00",
+        "Valor executado": "0,00"
+      }
+    ],
+    "Projeto_299/Documentos.csv": [
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Título do Arquivo": "299_Contrato_LAI",
+        "Descrição": "Segue em anexo, o arquivo referente ao Convênio nº 07/2024, celebrado entre o Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo (IFES), a Fundação de Apoio ao Desenvolvimento da Ciência e Tecnologia (FACTO) e a Brametel S/A."
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Título do Arquivo": "299_Plano de trabalho_LAI",
+        "Descrição": "Segue em anexo a Proposta Técnica referente ao Plano de Trabalho: Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 aplicadas em seguidores solares  LiFe24."
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Título do Arquivo": "TERMO_ADITIVO_1_-_CONVÊNIO_07_2024_-_BRAMETAL_LAI",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      }
+    ],
+    "Projeto_299/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Título do Arquivo": "Certidão LGPD",
+        "Descrição": "CERTIDÃO DE DOCUMENTAÇÃO DE PROCEDIMENTO DE PRESTAÇÃO DE CONTAS AMPARADA PELO SIGILO EM RAZÃO DA LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS",
+        "Data início": "14/10/2024 ",
+        "Data final": "28/02/2025 "
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Título do Arquivo": "Prestação de contas parcial",
+        "Descrição": "\t2.4 - P - Apresentar à FINANCIADORA prestação de contas final, até 60 (sessenta) dias, contados a partir da data do término da vigência deste instrumento, incluindo relatório de avaliação, com base nos documentos e nas informações pertinentes, atestando a regularidade das despesas realizadas pela CONVENENTE, o atendimento dos resultados esperados no Plano de Trabalho e a relação dos bens adquiridos no seu âmbito.",
+        "Data início": "14/10/2024 ",
+        "Data final": "28/02/2025 "
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Título do Arquivo": "Prestação de contas parcial",
+        "Descrição": "Prestação de contas parcial",
+        "Data início": "01/03/2025 ",
+        "Data final": "31/03/2025 "
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Título do Arquivo": "Prestação de contas Parcial 01.04 a 30.04.2025",
+        "Descrição": "Prestação de Contas Parcial",
+        "Data início": "01/04/2025 ",
+        "Data final": "30/04/2025 "
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Título do Arquivo": "Prestação de Contas Parcial",
+        "Descrição": "Prestação de contas parcial junho/2025",
+        "Data início": "01/06/2025 ",
+        "Data final": "30/06/2025 "
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Título do Arquivo": "Prestação de Contas Parcial",
+        "Descrição": "Prestação de Contas Julho/2025",
+        "Data início": "01/07/2025 ",
+        "Data final": "31/07/2025 "
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Título do Arquivo": "Prestação de Contas Parcial 01.08 a 31.08.25",
+        "Descrição": "Prestação de Contas Parcial 01.08 a 31.08.25",
+        "Data início": "01/08/2025 ",
+        "Data final": "31/08/2025 "
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Título do Arquivo": "Prestação de contas parcial setembro",
+        "Descrição": "Prestação de contas parcial setembro",
+        "Data início": "01/09/2025 ",
+        "Data final": "30/09/2025 "
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Título do Arquivo": "Prestação de contas parcial outubro",
+        "Descrição": "Prestação de contas parcial outubro",
+        "Data início": "01/10/2025 ",
+        "Data final": "31/10/2025 "
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Título do Arquivo": "Prestação de contas parcial - Novembro",
+        "Descrição": "Prestação de contas parcial - Novembro",
+        "Data início": "01/11/2025 ",
+        "Data final": "30/11/2025 "
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Título do Arquivo": "Prestação de contas parcial - dezembro",
+        "Descrição": "Prestação de contas parcial - dezembro",
+        "Data início": "01/12/2025 ",
+        "Data final": "31/12/2025 "
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Título do Arquivo": "Prestação de contas parcial - Janeiro",
+        "Descrição": "Prestação de contas parcial - Janeiro",
+        "Data início": "01/01/2026 ",
+        "Data final": "31/01/2026 "
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Título do Arquivo": "Prestação de contas parcial - Fevereiro",
+        "Descrição": "Prestação de contas parcial - Fevereiro",
+        "Data início": "01/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Título do Arquivo": "Prestação de contas parcial - Março",
+        "Descrição": "Prestação de contas parcial - Março",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      },
+      {
+        "Referência do projeto": "299 - Desenvolvimento de um Estimador de Estado de Saúde de Baterias LiFePO4 Aplicadas em Seguidores Solares",
+        "Título do Arquivo": "Prestação de contas parcial - Abril",
+        "Descrição": "Prestação de contas parcial - Abril",
+        "Data início": "01/04/2026 ",
+        "Data final": "30/04/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T14:13:24",
+  "_error": null
+}

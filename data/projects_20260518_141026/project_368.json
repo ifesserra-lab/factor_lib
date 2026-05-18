@@ -1,0 +1,241 @@
+{
+  "id": "368",
+  "name": "Laboratório do Mundo Real (Real-World Lab).",
+  "csv": {
+    "Projeto_368/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "368 - Laboratório do Mundo Real (Real-World Lab)",
+        "Coordenador": "Leopoldo Cavaleri Gerhardinger",
+        "Financiadora": "The University of Rhode Island",
+        "Data de início": "24/02/2026",
+        "Data de vigência": "24/02/2028",
+        "Data de encerramento": "24/04/2028",
+        "Tipo de Projeto": "Pesquisa e Extensão",
+        "Instituição executora": "INSTITUTO NACIONAL DA MATA ATLÂNTICA (INMA)",
+        "Departamento": "",
+        "Processo e sub-processo": "",
+        "Valor aprovado": "330.000,00",
+        "Objetivo/Objeto/Título": "Implementação, em parceria entre INMA e URI, de um Laboratório de Mundo Real (Real-World Lab) junto a comunidades tradicionais afetadas pelo crime da Samarco na região do Baixo Rio Doce e biomas associados da Mata Atlântica e ambiente marinho-costeiro do centro-norte do Espírito Santo."
+      }
+    ],
+    "Projeto_368/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "368 - Laboratório do Mundo Real (Real-World Lab)",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Bolsas",
+        "Aprovado": "275.000,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "368 - Laboratório do Mundo Real (Real-World Lab)",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "5.500,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "368 - Laboratório do Mundo Real (Real-World Lab)",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "32.032,81",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "368 - Laboratório do Mundo Real (Real-World Lab)",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Passagens",
+        "Aprovado": "11.000,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "368 - Laboratório do Mundo Real (Real-World Lab)",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "6.467,23",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "368 - Laboratório do Mundo Real (Real-World Lab)",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "368 - Laboratório do Mundo Real (Real-World Lab)",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_368/Equipe.csv": [
+      {
+        "Referência do projeto": "368 - Laboratório do Mundo Real (Real-World Lab)",
+        "Nome": "Leopoldo Cavaleri Gerhardinger",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "Instituto Nacional da Mata Atlântica",
+        "Vínculo com a instituição": "Pesquisador Adjunto",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Sim"
+      }
+    ],
+    "Projeto_368/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "368 - Laboratório do Mundo Real (Real-World Lab)",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "5.500,00",
+        "Valor total aprovado": "5.500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "368 - Laboratório do Mundo Real (Real-World Lab)",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Operacionais e Administrativas",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "32.032,81",
+        "Valor total aprovado": "32.032,81",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "368 - Laboratório do Mundo Real (Real-World Lab)",
+        "Agrupamento": "Ano 1",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa Pós Doc",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "92.400,00",
+        "Valor total aprovado": "92.400,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "368 - Laboratório do Mundo Real (Real-World Lab)",
+        "Agrupamento": "Ano 1",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa líderes comunitários",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "45.100,00",
+        "Valor total aprovado": "45.100,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "368 - Laboratório do Mundo Real (Real-World Lab)",
+        "Agrupamento": "Ano 1",
+        "Rubrica": "Passagens",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Passagem aérea",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "5.500,00",
+        "Valor total aprovado": "5.500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "368 - Laboratório do Mundo Real (Real-World Lab)",
+        "Agrupamento": "Ano 1",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Workshop",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "3.233,61",
+        "Valor total aprovado": "3.233,61",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "368 - Laboratório do Mundo Real (Real-World Lab)",
+        "Agrupamento": "Ano 2",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa Pós Doc",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "92.400,00",
+        "Valor total aprovado": "92.400,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "368 - Laboratório do Mundo Real (Real-World Lab)",
+        "Agrupamento": "Ano 2",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa líderes comunitários",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "45.100,00",
+        "Valor total aprovado": "45.100,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "368 - Laboratório do Mundo Real (Real-World Lab)",
+        "Agrupamento": "Ano 2",
+        "Rubrica": "Passagens",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Passagem aérea",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "5.500,00",
+        "Valor total aprovado": "5.500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "368 - Laboratório do Mundo Real (Real-World Lab)",
+        "Agrupamento": "Ano 2",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Workshop",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "3.233,61",
+        "Valor total aprovado": "3.233,61",
+        "Valor executado": "0,00"
+      }
+    ],
+    "Projeto_368/Documentos.csv": [
+      {
+        "Referência do projeto": "368 - Laboratório do Mundo Real (Real-World Lab)",
+        "Título do Arquivo": "P 368_Contrato_LAI",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T14:16:05",
+  "_error": null
+}

@@ -1,0 +1,3415 @@
+{
+  "id": "302",
+  "name": "Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação.",
+  "csv": {
+    "Projeto_302/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Coordenador": "Marcelo Queiroz Schimidt",
+        "Financiadora": "Ministério da Ciência, Tecnologia e Inovações - MCTI",
+        "Data de início": "31/10/2024",
+        "Data de vigência": "31/10/2026",
+        "Data de encerramento": "31/12/2026",
+        "Tipo de Projeto": "Inovação",
+        "Instituição executora": "Instituto Federal De Educação Ciencia E Tecnologia Do Espirito Santo - Reitoria",
+        "Departamento": "",
+        "Processo e sub-processo": "23147.006768/2024-11",
+        "Valor aprovado": "700.000,00",
+        "Objetivo/Objeto/Título": " O Projeto de Inovação do MCTI tem como objetivo desenvolver e fortalecer instrumentos de apoio à inovação no Brasil, utilizando a Lei do Bem e o Marco Legal de CT&I. A primeira etapa envolve a formação de uma equipe multidisciplinar, com planejamento estratégico que define objetivos e indicadores claros, culminando na elaboração de planos individuais focados em inovação. "
+      }
+    ],
+    "Projeto_302/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Bolsas",
+        "Aprovado": "495.000,00",
+        "Liberado": "0,00",
+        "Executado": "-530.700,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "300,00",
+        "Liberado": "0,00",
+        "Executado": "-387,15",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Diária Nacional",
+        "Aprovado": "15.000,00",
+        "Liberado": "0,00",
+        "Executado": "-4.885,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "50.285,23",
+        "Liberado": "0,00",
+        "Executado": "-50.285,23",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Aprovado": "10.000,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Passagens",
+        "Aprovado": "39.714,77",
+        "Liberado": "0,00",
+        "Executado": "-16.473,79",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "90.000,00",
+        "Liberado": "0,00",
+        "Executado": "-66.428,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "700.000,00",
+        "Executado": "700.000,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "44.707,53",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_302/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "18/12/2024",
+        "Mês de Competência": "12/2024",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "18,96"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "18,96"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "18,96"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "22,88"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "22,88"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "22,88"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "22,88"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "18/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "24,04"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "26,96"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "17/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "8,76"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "19/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "24/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "5,84"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "01/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "5,84"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "25,24"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "24,04"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "14/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "19/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "5,84"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "28/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "24,64"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "17/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "19,40"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "12/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "4,72"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "9,44"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "13/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "25/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "02/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1,20"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "10,64"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "10,04"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "10,04"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "05.076.269/0001-75",
+        "Nome do Favorecido": "Casa Das Placas Comercio E Serviços Ltda",
+        "Data do Pagamento": "14/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "1.280,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "05.076.269/0001-75",
+        "Nome do Favorecido": "Casa Das Placas Comercio E Serviços Ltda",
+        "Data do Pagamento": "19/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "1.280,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "37.980.687/0001-89",
+        "Nome do Favorecido": "GRAFICA E EDITORA POSITIVA LTDA ",
+        "Data do Pagamento": "28/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "12.168,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "28.244.624/0001-73",
+        "Nome do Favorecido": "HAVOK COMUNICACAO, MARKETING, MIDIA E PRODUCOES LTDA",
+        "Data do Pagamento": "18/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "6.500,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "28.244.624/0001-73",
+        "Nome do Favorecido": "HAVOK COMUNICACAO, MARKETING, MIDIA E PRODUCOES LTDA",
+        "Data do Pagamento": "19/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "6.500,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "07.933.551/0001-57",
+        "Nome do Favorecido": "I.L. BARRETO REPRESENTACOES LTDA",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "6.999,28"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "07.933.551/0001-57",
+        "Nome do Favorecido": "I.L. BARRETO REPRESENTACOES LTDA",
+        "Data do Pagamento": "01/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "3.341,12"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "07.933.551/0001-57",
+        "Nome do Favorecido": "I.L. BARRETO REPRESENTACOES LTDA",
+        "Data do Pagamento": "05/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "4.910,40"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "07.933.551/0001-57",
+        "Nome do Favorecido": "I.L. BARRETO REPRESENTACOES LTDA",
+        "Data do Pagamento": "25/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.222,99"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CNPJ": "48.117.198/0001-14",
+        "Nome do Favorecido": "PROF PLAY ATIVIDADES DE ENSINO, EVENTOS E RECURSOS HUMANOS LTDA",
+        "Data do Pagamento": "17/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "38.700,00"
+      }
+    ],
+    "Projeto_302/Pagamento de pessoa física.csv": [
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.676.377-**",
+        "Nome do Favorecido": "Athilio Eler Fieni",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "1.100,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.676.377-**",
+        "Nome do Favorecido": "Athilio Eler Fieni",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "1.100,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.676.377-**",
+        "Nome do Favorecido": "Athilio Eler Fieni",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "1.100,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.676.377-**",
+        "Nome do Favorecido": "Athilio Eler Fieni",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "1.100,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.676.377-**",
+        "Nome do Favorecido": "Athilio Eler Fieni",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "1.100,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.676.377-**",
+        "Nome do Favorecido": "Athilio Eler Fieni",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "1.100,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.676.377-**",
+        "Nome do Favorecido": "Athilio Eler Fieni",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "1.100,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.676.377-**",
+        "Nome do Favorecido": "Athilio Eler Fieni",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "1.100,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.676.377-**",
+        "Nome do Favorecido": "Athilio Eler Fieni",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "1.100,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.676.377-**",
+        "Nome do Favorecido": "Athilio Eler Fieni",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "1.100,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.676.377-**",
+        "Nome do Favorecido": "Athilio Eler Fieni",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "1.100,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.676.377-**",
+        "Nome do Favorecido": "Athilio Eler Fieni",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1.100,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.676.377-**",
+        "Nome do Favorecido": "Athilio Eler Fieni",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "12/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "1.100,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.938.051-**",
+        "Nome do Favorecido": "Fred Lobato Rocha",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.938.051-**",
+        "Nome do Favorecido": "Fred Lobato Rocha",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.938.051-**",
+        "Nome do Favorecido": "Fred Lobato Rocha",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.938.051-**",
+        "Nome do Favorecido": "Fred Lobato Rocha",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.938.051-**",
+        "Nome do Favorecido": "Fred Lobato Rocha",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.938.051-**",
+        "Nome do Favorecido": "Fred Lobato Rocha",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.576.387-**",
+        "Nome do Favorecido": "Gabriel Adolfo Gomes Potin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.576.387-**",
+        "Nome do Favorecido": "Gabriel Adolfo Gomes Potin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.576.387-**",
+        "Nome do Favorecido": "Gabriel Adolfo Gomes Potin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.576.387-**",
+        "Nome do Favorecido": "Gabriel Adolfo Gomes Potin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.576.387-**",
+        "Nome do Favorecido": "Gabriel Adolfo Gomes Potin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.576.387-**",
+        "Nome do Favorecido": "Gabriel Adolfo Gomes Potin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.576.387-**",
+        "Nome do Favorecido": "Gabriel Adolfo Gomes Potin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.576.387-**",
+        "Nome do Favorecido": "Gabriel Adolfo Gomes Potin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.576.387-**",
+        "Nome do Favorecido": "Gabriel Adolfo Gomes Potin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.576.387-**",
+        "Nome do Favorecido": "Gabriel Adolfo Gomes Potin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.576.387-**",
+        "Nome do Favorecido": "Gabriel Adolfo Gomes Potin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.576.387-**",
+        "Nome do Favorecido": "Gabriel Adolfo Gomes Potin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.576.387-**",
+        "Nome do Favorecido": "Gabriel Adolfo Gomes Potin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.576.387-**",
+        "Nome do Favorecido": "Gabriel Adolfo Gomes Potin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.576.387-**",
+        "Nome do Favorecido": "Gabriel Adolfo Gomes Potin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.576.387-**",
+        "Nome do Favorecido": "Gabriel Adolfo Gomes Potin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.576.387-**",
+        "Nome do Favorecido": "Gabriel Adolfo Gomes Potin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.576.387-**",
+        "Nome do Favorecido": "Gabriel Adolfo Gomes Potin",
+        "Tipo de Pagamento": "Pagamento de Despesas",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "95,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.576.387-**",
+        "Nome do Favorecido": "Gabriel Adolfo Gomes Potin",
+        "Tipo de Pagamento": "Pagamento de Despesas",
+        "Data do Pagamento": "02/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "95,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.576.387-**",
+        "Nome do Favorecido": "Gabriel Adolfo Gomes Potin",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "570,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.576.387-**",
+        "Nome do Favorecido": "Gabriel Adolfo Gomes Potin",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "02/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "950,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.215.897-**",
+        "Nome do Favorecido": "Joao Paulo do Carmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.215.897-**",
+        "Nome do Favorecido": "Joao Paulo do Carmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.215.897-**",
+        "Nome do Favorecido": "Joao Paulo do Carmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.215.897-**",
+        "Nome do Favorecido": "Joao Paulo do Carmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.215.897-**",
+        "Nome do Favorecido": "Joao Paulo do Carmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.215.897-**",
+        "Nome do Favorecido": "Joao Paulo do Carmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.215.897-**",
+        "Nome do Favorecido": "Joao Paulo do Carmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.215.897-**",
+        "Nome do Favorecido": "Joao Paulo do Carmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.215.897-**",
+        "Nome do Favorecido": "Joao Paulo do Carmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.215.897-**",
+        "Nome do Favorecido": "Joao Paulo do Carmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.215.897-**",
+        "Nome do Favorecido": "Joao Paulo do Carmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.215.897-**",
+        "Nome do Favorecido": "Joao Paulo do Carmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.215.897-**",
+        "Nome do Favorecido": "Joao Paulo do Carmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.215.897-**",
+        "Nome do Favorecido": "Joao Paulo do Carmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.215.897-**",
+        "Nome do Favorecido": "Joao Paulo do Carmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.215.897-**",
+        "Nome do Favorecido": "Joao Paulo do Carmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.215.897-**",
+        "Nome do Favorecido": "Joao Paulo do Carmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.215.897-**",
+        "Nome do Favorecido": "Joao Paulo do Carmo",
+        "Tipo de Pagamento": "Pagamento de Despesas",
+        "Data do Pagamento": "17/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "95,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.215.897-**",
+        "Nome do Favorecido": "Joao Paulo do Carmo",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "17/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "212,50"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.434.127-**",
+        "Nome do Favorecido": "João Pedro Correia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "1.100,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.434.127-**",
+        "Nome do Favorecido": "João Pedro Correia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "1.100,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.434.127-**",
+        "Nome do Favorecido": "João Pedro Correia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "1.100,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.434.127-**",
+        "Nome do Favorecido": "João Pedro Correia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "1.100,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.434.127-**",
+        "Nome do Favorecido": "João Pedro Correia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "1.100,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.434.127-**",
+        "Nome do Favorecido": "João Pedro Correia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "1.100,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.434.127-**",
+        "Nome do Favorecido": "João Pedro Correia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "1.100,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.434.127-**",
+        "Nome do Favorecido": "João Pedro Correia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "1.100,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.434.127-**",
+        "Nome do Favorecido": "João Pedro Correia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "1.100,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.434.127-**",
+        "Nome do Favorecido": "João Pedro Correia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "1.100,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.434.127-**",
+        "Nome do Favorecido": "João Pedro Correia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "1.100,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.434.127-**",
+        "Nome do Favorecido": "João Pedro Correia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1.100,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.434.127-**",
+        "Nome do Favorecido": "João Pedro Correia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "1.100,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.613.486-**",
+        "Nome do Favorecido": "João Victor Honorato Barbosa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "12/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.613.486-**",
+        "Nome do Favorecido": "João Victor Honorato Barbosa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "13/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.613.486-**",
+        "Nome do Favorecido": "João Victor Honorato Barbosa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.613.486-**",
+        "Nome do Favorecido": "João Victor Honorato Barbosa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.613.486-**",
+        "Nome do Favorecido": "João Victor Honorato Barbosa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.006.657-**",
+        "Nome do Favorecido": "Laísa Bernabé do Carmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.006.657-**",
+        "Nome do Favorecido": "Laísa Bernabé do Carmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.006.657-**",
+        "Nome do Favorecido": "Laísa Bernabé do Carmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.006.657-**",
+        "Nome do Favorecido": "Laísa Bernabé do Carmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.006.657-**",
+        "Nome do Favorecido": "Laísa Bernabé do Carmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.006.657-**",
+        "Nome do Favorecido": "Laísa Bernabé do Carmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.006.657-**",
+        "Nome do Favorecido": "Laísa Bernabé do Carmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.006.657-**",
+        "Nome do Favorecido": "Laísa Bernabé do Carmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.006.657-**",
+        "Nome do Favorecido": "Laísa Bernabé do Carmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.006.657-**",
+        "Nome do Favorecido": "Laísa Bernabé do Carmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.006.657-**",
+        "Nome do Favorecido": "Laísa Bernabé do Carmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.019.657-**",
+        "Nome do Favorecido": "Lívia Araújo Fontis Serafim ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.019.657-**",
+        "Nome do Favorecido": "Lívia Araújo Fontis Serafim ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.019.657-**",
+        "Nome do Favorecido": "Lívia Araújo Fontis Serafim ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.019.657-**",
+        "Nome do Favorecido": "Lívia Araújo Fontis Serafim ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.019.657-**",
+        "Nome do Favorecido": "Lívia Araújo Fontis Serafim ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.019.657-**",
+        "Nome do Favorecido": "Lívia Araújo Fontis Serafim ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.019.657-**",
+        "Nome do Favorecido": "Lívia Araújo Fontis Serafim ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.019.657-**",
+        "Nome do Favorecido": "Lívia Araújo Fontis Serafim ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.019.657-**",
+        "Nome do Favorecido": "Lívia Araújo Fontis Serafim ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.019.657-**",
+        "Nome do Favorecido": "Lívia Araújo Fontis Serafim ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.019.657-**",
+        "Nome do Favorecido": "Lívia Araújo Fontis Serafim ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.019.657-**",
+        "Nome do Favorecido": "Lívia Araújo Fontis Serafim ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.040.866-**",
+        "Nome do Favorecido": "Marinalva Lopes Resende Souza",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.040.866-**",
+        "Nome do Favorecido": "Marinalva Lopes Resende Souza",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.040.866-**",
+        "Nome do Favorecido": "Marinalva Lopes Resende Souza",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.040.866-**",
+        "Nome do Favorecido": "Marinalva Lopes Resende Souza",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.040.866-**",
+        "Nome do Favorecido": "Marinalva Lopes Resende Souza",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.040.866-**",
+        "Nome do Favorecido": "Marinalva Lopes Resende Souza",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.040.866-**",
+        "Nome do Favorecido": "Marinalva Lopes Resende Souza",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.040.866-**",
+        "Nome do Favorecido": "Marinalva Lopes Resende Souza",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.040.866-**",
+        "Nome do Favorecido": "Marinalva Lopes Resende Souza",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.040.866-**",
+        "Nome do Favorecido": "Marinalva Lopes Resende Souza",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.040.866-**",
+        "Nome do Favorecido": "Marinalva Lopes Resende Souza",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.524.477-**",
+        "Nome do Favorecido": "Regiane Lucas Cerqueira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.524.477-**",
+        "Nome do Favorecido": "Regiane Lucas Cerqueira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.524.477-**",
+        "Nome do Favorecido": "Regiane Lucas Cerqueira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.524.477-**",
+        "Nome do Favorecido": "Regiane Lucas Cerqueira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.524.477-**",
+        "Nome do Favorecido": "Regiane Lucas Cerqueira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.524.477-**",
+        "Nome do Favorecido": "Regiane Lucas Cerqueira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.524.477-**",
+        "Nome do Favorecido": "Regiane Lucas Cerqueira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.524.477-**",
+        "Nome do Favorecido": "Regiane Lucas Cerqueira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.524.477-**",
+        "Nome do Favorecido": "Regiane Lucas Cerqueira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.524.477-**",
+        "Nome do Favorecido": "Regiane Lucas Cerqueira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.524.477-**",
+        "Nome do Favorecido": "Regiane Lucas Cerqueira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.524.477-**",
+        "Nome do Favorecido": "Regiane Lucas Cerqueira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.524.477-**",
+        "Nome do Favorecido": "Regiane Lucas Cerqueira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.524.477-**",
+        "Nome do Favorecido": "Regiane Lucas Cerqueira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2.000,00"
+      }
+    ],
+    "Projeto_302/Pagamento de servidores ou agentes públicos.csv": [
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.529.971-**",
+        "Nome do Favorecido": "Aline Beatriz Mucellini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.529.971-**",
+        "Nome do Favorecido": "Aline Beatriz Mucellini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.529.971-**",
+        "Nome do Favorecido": "Aline Beatriz Mucellini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.529.971-**",
+        "Nome do Favorecido": "Aline Beatriz Mucellini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.529.971-**",
+        "Nome do Favorecido": "Aline Beatriz Mucellini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.529.971-**",
+        "Nome do Favorecido": "Aline Beatriz Mucellini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.529.971-**",
+        "Nome do Favorecido": "Aline Beatriz Mucellini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.529.971-**",
+        "Nome do Favorecido": "Aline Beatriz Mucellini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.529.971-**",
+        "Nome do Favorecido": "Aline Beatriz Mucellini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.529.971-**",
+        "Nome do Favorecido": "Aline Beatriz Mucellini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.529.971-**",
+        "Nome do Favorecido": "Aline Beatriz Mucellini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.529.971-**",
+        "Nome do Favorecido": "Aline Beatriz Mucellini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.529.971-**",
+        "Nome do Favorecido": "Aline Beatriz Mucellini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.529.971-**",
+        "Nome do Favorecido": "Aline Beatriz Mucellini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.529.971-**",
+        "Nome do Favorecido": "Aline Beatriz Mucellini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.529.971-**",
+        "Nome do Favorecido": "Aline Beatriz Mucellini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.529.971-**",
+        "Nome do Favorecido": "Aline Beatriz Mucellini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.106.737-**",
+        "Nome do Favorecido": "David Paolini Develly",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "3.700,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.106.737-**",
+        "Nome do Favorecido": "David Paolini Develly",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "3.700,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.106.737-**",
+        "Nome do Favorecido": "David Paolini Develly",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "3.700,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.106.737-**",
+        "Nome do Favorecido": "David Paolini Develly",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "3.700,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.106.737-**",
+        "Nome do Favorecido": "David Paolini Develly",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "3.700,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.106.737-**",
+        "Nome do Favorecido": "David Paolini Develly",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "3.700,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.106.737-**",
+        "Nome do Favorecido": "David Paolini Develly",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "3.700,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.106.737-**",
+        "Nome do Favorecido": "David Paolini Develly",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "3.700,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.106.737-**",
+        "Nome do Favorecido": "David Paolini Develly",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "3.700,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.106.737-**",
+        "Nome do Favorecido": "David Paolini Develly",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "3.700,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.106.737-**",
+        "Nome do Favorecido": "David Paolini Develly",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "3.700,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.106.737-**",
+        "Nome do Favorecido": "David Paolini Develly",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "3.700,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.106.737-**",
+        "Nome do Favorecido": "David Paolini Develly",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "12/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "3.700,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.106.737-**",
+        "Nome do Favorecido": "David Paolini Develly",
+        "Tipo de Pagamento": "Pagamento de Despesas",
+        "Data do Pagamento": "17/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "95,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.106.737-**",
+        "Nome do Favorecido": "David Paolini Develly",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "17/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "592,50"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.972.477-**",
+        "Nome do Favorecido": "Gabriel Tozatto Zago",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.972.477-**",
+        "Nome do Favorecido": "Gabriel Tozatto Zago",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.972.477-**",
+        "Nome do Favorecido": "Gabriel Tozatto Zago",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.972.477-**",
+        "Nome do Favorecido": "Gabriel Tozatto Zago",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.972.477-**",
+        "Nome do Favorecido": "Gabriel Tozatto Zago",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.972.477-**",
+        "Nome do Favorecido": "Gabriel Tozatto Zago",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.972.477-**",
+        "Nome do Favorecido": "Gabriel Tozatto Zago",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.972.477-**",
+        "Nome do Favorecido": "Gabriel Tozatto Zago",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.972.477-**",
+        "Nome do Favorecido": "Gabriel Tozatto Zago",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.972.477-**",
+        "Nome do Favorecido": "Gabriel Tozatto Zago",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.972.477-**",
+        "Nome do Favorecido": "Gabriel Tozatto Zago",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.972.477-**",
+        "Nome do Favorecido": "Gabriel Tozatto Zago",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.972.477-**",
+        "Nome do Favorecido": "Gabriel Tozatto Zago",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.972.477-**",
+        "Nome do Favorecido": "Gabriel Tozatto Zago",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.972.477-**",
+        "Nome do Favorecido": "Gabriel Tozatto Zago",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.972.477-**",
+        "Nome do Favorecido": "Gabriel Tozatto Zago",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.972.477-**",
+        "Nome do Favorecido": "Gabriel Tozatto Zago",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.972.477-**",
+        "Nome do Favorecido": "Gabriel Tozatto Zago",
+        "Tipo de Pagamento": "Pagamento de Despesas",
+        "Data do Pagamento": "17/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "95,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.972.477-**",
+        "Nome do Favorecido": "Gabriel Tozatto Zago",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "17/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "212,50"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.428.317-**",
+        "Nome do Favorecido": "Lissia Pignaton Garcia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.428.317-**",
+        "Nome do Favorecido": "Lissia Pignaton Garcia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.428.317-**",
+        "Nome do Favorecido": "Lissia Pignaton Garcia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.428.317-**",
+        "Nome do Favorecido": "Lissia Pignaton Garcia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.428.317-**",
+        "Nome do Favorecido": "Lissia Pignaton Garcia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.428.317-**",
+        "Nome do Favorecido": "Lissia Pignaton Garcia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.428.317-**",
+        "Nome do Favorecido": "Lissia Pignaton Garcia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.428.317-**",
+        "Nome do Favorecido": "Lissia Pignaton Garcia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.428.317-**",
+        "Nome do Favorecido": "Lissia Pignaton Garcia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.428.317-**",
+        "Nome do Favorecido": "Lissia Pignaton Garcia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.428.317-**",
+        "Nome do Favorecido": "Lissia Pignaton Garcia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.428.317-**",
+        "Nome do Favorecido": "Lissia Pignaton Garcia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.428.317-**",
+        "Nome do Favorecido": "Lissia Pignaton Garcia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.428.317-**",
+        "Nome do Favorecido": "Lissia Pignaton Garcia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.428.317-**",
+        "Nome do Favorecido": "Lissia Pignaton Garcia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.428.317-**",
+        "Nome do Favorecido": "Lissia Pignaton Garcia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.428.317-**",
+        "Nome do Favorecido": "Lissia Pignaton Garcia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Despesas",
+        "Data do Pagamento": "24/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "95,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Despesas",
+        "Data do Pagamento": "03/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "95,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "24/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "212,50"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "03/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "570,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.328.537-**",
+        "Nome do Favorecido": "Marcelo Queiroz Schimidt",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "19/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "900,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.855.226-**",
+        "Nome do Favorecido": "Raphael Lima de Paiva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "12/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.855.226-**",
+        "Nome do Favorecido": "Raphael Lima de Paiva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "CPF": "***.855.226-**",
+        "Nome do Favorecido": "Raphael Lima de Paiva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2.000,00"
+      }
+    ],
+    "Projeto_302/Equipe.csv": [
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Nome": "Aline Beatriz Mucellini",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "IFES",
+        "Vínculo com a instituição": "Técnico Administrativo",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": "10 horas/semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Nome": "Athilio Eler Fieni",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": "20 horas/semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Nome": "David Paolini Develly",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Federal do Espírito Santo - Ifes",
+        "Vínculo com a instituição": "Professor",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": "10 horas/semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Nome": "Fred Lobato Rocha",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Real Brasília FUtebol Clube",
+        "Vínculo com a instituição": "Atleta",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Nome": "Gabriel Adolfo Gomes Potin",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": "10 horas/semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Nome": "Gabriel Tozatto Zago",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Ifes",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": "10 horas/semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Nome": "Joao Paulo do Carmo",
+        "Função": "Apoiador",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": "10 horas /semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Nome": "Joao Paulo do Carmo",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Nome": "João Pedro Correia",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": "20 horas/semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Nome": "João Victor Honorato Barbosa",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "IFES",
+        "Vínculo com a instituição": "Bolsista",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Nome": "Laísa Bernabé do Carmo",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": "10 horas/semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Nome": "Lissia Pignaton Garcia",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": "10 horas/semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Nome": "Lívia Araújo Fontis Serafim ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Ensino Fundamental Completo",
+        "Carga horária": "20 horas/semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Nome": "Marcelo Queiroz Schimidt",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "IFES",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": "4 horas /semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Nome": "Marcelo Queiroz Schimidt",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "IFES",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Nome": "Marinalva Lopes Resende Souza",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Federal do Espírito Santo ",
+        "Vínculo com a instituição": "Bolsista",
+        "Grau de instrução": "Educação Superior completa",
+        "Carga horária": "10 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Nome": "Raphael Lima de Paiva",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Universidade Federal do Piauí",
+        "Vínculo com a instituição": "Professor do magistério superior",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Nome": "Regiane Lucas Cerqueira",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": "10 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      }
+    ],
+    "Projeto_302/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Colaborador Externo  Graduado ",
+        "Justificativa": " CLE - G",
+        "Qtde aprovada": " ",
+        "Valor unitário": "14,00",
+        "Valor total aprovado": "2.000,00",
+        "Valor executado": "28.000,00",
+        "null": [
+          "16.000,00"
+        ]
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Estudante Júnior 1 ",
+        "Justificativa": " EJ1",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "",
+        "Agrupamento": " ",
+        "Rubrica": "12,00",
+        "Código": "1.000,00",
+        "Produto": "12.000,00",
+        "Descrição": "11.000,00",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Estudante de Curso de Graduação ",
+        "Justificativa": " ETG",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "",
+        "Agrupamento": " ",
+        "Rubrica": "12,00",
+        "Código": "1.100,00",
+        "Produto": "13.200,00",
+        "Descrição": "13.200,00",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Estudante de Curso de Graduação ",
+        "Justificativa": " ETG",
+        "Qtde aprovada": " ",
+        "Valor unitário": "12,00",
+        "Valor total aprovado": "1.100,00",
+        "Valor executado": "13.200,00",
+        "null": [
+          "12.100,00"
+        ]
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Extensionista  Mestre ",
+        "Justificativa": " EXT - B",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "",
+        "Agrupamento": " ",
+        "Rubrica": "12,00",
+        "Código": "2.000,00",
+        "Produto": "24.000,00",
+        "Descrição": "22.000,00",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Colaborador Externo  Graduado ",
+        "Justificativa": " CLE - G",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "",
+        "Agrupamento": " ",
+        "Rubrica": "11,00",
+        "Código": "2.000,00",
+        "Produto": "22.000,00",
+        "Descrição": "22.000,00",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Extensionista  Mestre ",
+        "Justificativa": " EXT - B",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "",
+        "Agrupamento": " ",
+        "Rubrica": "12,00",
+        "Código": "2.000,00",
+        "Produto": "24.000,00",
+        "Descrição": "22.000,00",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Colaborador Externo  Graduado ",
+        "Justificativa": " CLE - G",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "",
+        "Agrupamento": " ",
+        "Rubrica": "11,00",
+        "Código": "2.000,00",
+        "Produto": "22.000,00",
+        "Descrição": "20.000,00",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Extensionista  Graduado ",
+        "Justificativa": " EXT - D",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "",
+        "Agrupamento": " ",
+        "Rubrica": "11,00",
+        "Código": "2.000,00",
+        "Produto": "22.000,00",
+        "Descrição": "22.000,00",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador de Projetos ",
+        "Justificativa": " CPO",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "",
+        "Agrupamento": " ",
+        "Rubrica": "12,00",
+        "Código": "3.700,00",
+        "Produto": "44.400,00",
+        "Descrição": "44.400,00",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador de Projetos ",
+        "Justificativa": " CPO",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "",
+        "Agrupamento": " ",
+        "Rubrica": "12,00",
+        "Código": "4.000,00",
+        "Produto": "48.000,00",
+        "Descrição": "44.000,00",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Pesquisador - Doutor ",
+        "Justificativa": " PEQ-A",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "",
+        "Agrupamento": " ",
+        "Rubrica": "12,00",
+        "Código": "4.000,00",
+        "Produto": "48.000,00",
+        "Descrição": "44.000,00",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador de Projetos ",
+        "Justificativa": " CPO",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "",
+        "Agrupamento": " ",
+        "Rubrica": "12,00",
+        "Código": "4.000,00",
+        "Produto": "48.000,00",
+        "Descrição": "44.000,00",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador de Projetos ",
+        "Justificativa": " CPO",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "",
+        "Agrupamento": " ",
+        "Rubrica": "12,00",
+        "Código": "4.000,00",
+        "Produto": "48.000,00",
+        "Descrição": "44.000,00",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Colaborador Externo  Graduado ",
+        "Justificativa": " CLE - G",
+        "Qtde aprovada": " ",
+        "Valor unitário": "13,00",
+        "Valor total aprovado": "2.000,00",
+        "Valor executado": "26.000,00",
+        "null": [
+          "26.000,00"
+        ]
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "BOLSAS",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "11.300,00",
+        "Valor total aprovado": "11.300,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Taxas bancárias ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "300,00",
+        "Valor total aprovado": "300,00",
+        "Valor executado": "387,15"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "",
+        "Rubrica": "Diária Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "DIÁRIAS",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "15.000,00",
+        "Valor total aprovado": "15.000,00",
+        "Valor executado": "4.885,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "DESPESAS OPERACIONAIS ADMINISTRATIVAS ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "50.285,23",
+        "Valor total aprovado": "50.285,23",
+        "Valor executado": "50.285,23"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "META 2",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "MATERIAL DE CONSUMO ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "10.000,00",
+        "Valor total aprovado": "10.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "META 2",
+        "Rubrica": "Passagens",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "PASSAGENS ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "39.714,77",
+        "Valor total aprovado": "39.714,77",
+        "Valor executado": "16.866,82"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "META 3",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Extensionista Graduado ",
+        "Justificativa": " EXT - D",
+        "Qtde aprovada": " ",
+        "Valor unitário": "1,00",
+        "Valor total aprovado": "2.000,00",
+        "Valor executado": "2.000,00",
+        "null": [
+          "8.000,00"
+        ]
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "META 3",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Extensionista Mestre ",
+        "Justificativa": " EXT - B",
+        "Qtde aprovada": " ",
+        "Valor unitário": "4,00",
+        "Valor total aprovado": "2.000,00",
+        "Valor executado": "8.000,00",
+        "null": [
+          "10.000,00"
+        ]
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "META 3",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Estudante Júnior 1 ",
+        "Justificativa": " EJ1",
+        "Qtde aprovada": " ",
+        "Valor unitário": "1,00",
+        "Valor total aprovado": "1.000,00",
+        "Valor executado": "1.000,00",
+        "null": [
+          "1.000,00"
+        ]
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "META 3",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Estudante de Curso de Graduação ",
+        "Justificativa": " ETG",
+        "Qtde aprovada": " ",
+        "Valor unitário": "1,00",
+        "Valor total aprovado": "1.100,00",
+        "Valor executado": "1.100,00",
+        "null": [
+          "3.300,00"
+        ]
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "META 3",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Colaborador Externo Graduado ",
+        "Justificativa": " CLE - G",
+        "Qtde aprovada": " ",
+        "Valor unitário": "1,00",
+        "Valor total aprovado": "2.000,00",
+        "Valor executado": "2.000,00",
+        "null": [
+          "2.000,00"
+        ]
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "META 3",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Colaborador Externo Graduado ",
+        "Justificativa": " CLE - G",
+        "Qtde aprovada": " ",
+        "Valor unitário": "1,00",
+        "Valor total aprovado": "2.000,00",
+        "Valor executado": "2.000,00",
+        "null": [
+          "2.000,00"
+        ]
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "META 3",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Colaborador Externo Graduado ",
+        "Justificativa": " CLE - G\t",
+        "Qtde aprovada": " ",
+        "Valor unitário": "1,00",
+        "Valor total aprovado": "2.000,00",
+        "Valor executado": "2.000,00",
+        "null": [
+          "6.000,00"
+        ]
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "META 3",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador de Projetos ",
+        "Justificativa": " CPO",
+        "Qtde aprovada": " ",
+        "Valor unitário": "1,00",
+        "Valor total aprovado": "3.700,00",
+        "Valor executado": "3.700,00",
+        "null": [
+          "0,00"
+        ]
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "META 3",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador de Projetos ",
+        "Justificativa": " CPO",
+        "Qtde aprovada": " ",
+        "Valor unitário": "1,00",
+        "Valor total aprovado": "4.000,00",
+        "Valor executado": "4.000,00",
+        "null": [
+          "24.000,00"
+        ]
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "META 3",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Pesquisador - Doutor ",
+        "Justificativa": " PEQ-A",
+        "Qtde aprovada": " ",
+        "Valor unitário": "1,00",
+        "Valor total aprovado": "4.000,00",
+        "Valor executado": "4.000,00",
+        "null": [
+          "20.000,00"
+        ]
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "META 3",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador de Projetos ",
+        "Justificativa": " CPO",
+        "Qtde aprovada": " ",
+        "Valor unitário": "1,00",
+        "Valor total aprovado": "4.000,00",
+        "Valor executado": "4.000,00",
+        "null": [
+          "20.000,00"
+        ]
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "META 3",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Estudante de Curso de Graduação ",
+        "Justificativa": " ETG",
+        "Qtde aprovada": " ",
+        "Valor unitário": "1,00",
+        "Valor total aprovado": "1.100,00",
+        "Valor executado": "1.100,00",
+        "null": [
+          "0,00"
+        ]
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "META 3",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Extensionista Mestre ",
+        "Justificativa": " EXT - B",
+        "Qtde aprovada": " ",
+        "Valor unitário": "1,00",
+        "Valor total aprovado": "2.000,00",
+        "Valor executado": "2.000,00",
+        "null": [
+          "10.000,00"
+        ]
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "META 3",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador de Projetos ",
+        "Justificativa": " CPO",
+        "Qtde aprovada": " ",
+        "Valor unitário": "1,00",
+        "Valor total aprovado": "4.000,00",
+        "Valor executado": "4.000,00",
+        "null": [
+          "20.000,00"
+        ]
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "META 3",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Contratações de Manutenção ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "34.500,00",
+        "Valor total aprovado": "34.500,00",
+        "Valor executado": "13.000,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "META 3",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Serviços de Marketing e Publicidade ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "16.500,00",
+        "Valor total aprovado": "16.500,00",
+        "Valor executado": "14.728,00"
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Agrupamento": "META 3",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Plataforma de gestão e eventos ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "39.000,00",
+        "Valor total aprovado": "39.000,00",
+        "Valor executado": "38.700,00"
+      }
+    ],
+    "Projeto_302/Documentos.csv": [
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Título do Arquivo": "302_Contrato_LAI",
+        "Descrição": "Segue em anexo o arquivo referente ao Contrato nº 25/2024, celebrado entre o Instituto Federal do Espírito Santo (IFES) e a Fundação de Apoio ao Desenvolvimento da Ciência e Tecnologia (FACTO)."
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Título do Arquivo": "302_TED formalizado pelo GOV. LAI",
+        "Descrição": "Segue em anexo o Termo de Execução Descentralizada nº 01245.010967/2024-75, firmado entre o Ministério da Ciência, Tecnologia e Inovação (MCTI) e o Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo (IFES)."
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Título do Arquivo": "302_SEI MCTI - 12186032 - Plano de Trabalho Decreto nº 10 426 2020_LAI",
+        "Descrição": "Segue em anexo a Apostila ao Plano de Trabalho do Termo de Execução Descentralizada Portal Transferegov.br nº 966743/2024, referente ao desenvolvimento de ações estratégicas para o fortalecimento dos instrumentos de apoio à inovação, por meio da Lei do Be"
+      }
+    ],
+    "Projeto_302/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Título do Arquivo": "Prestação de Contas Parcial",
+        "Descrição": "CONFORME CONTRATO CLÁUSULA 5.10 Prestar contas ao Ifes sempre que solicitado, e ao final do projeto no prazo de 60 (sessenta) dias, de todos os valores utilizados na execução do projeto.",
+        "Data início": "31/10/2024 ",
+        "Data final": "30/04/2025 "
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Título do Arquivo": "Certidão",
+        "Descrição": "CERTIDÃO DE DOCUMENTAÇÃO DE PROCEDIMENTO DE PRESTAÇÃO DE CONTAS AMPARADA PELO SIGILO EM RAZÃO DA LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS",
+        "Data início": "31/10/2024 ",
+        "Data final": "30/04/2025 "
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Título do Arquivo": "Prestação de Contas Parcial",
+        "Descrição": "Prestação de contas parcial Junho/2025",
+        "Data início": "01/06/2025 ",
+        "Data final": "30/06/2025 "
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Título do Arquivo": "Prestação de Contas Parcial",
+        "Descrição": "Prestação de contas Julho/2025",
+        "Data início": "01/07/2025 ",
+        "Data final": "31/07/2025 "
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Título do Arquivo": "Prestação de Contas Parcial",
+        "Descrição": "Prestação de Contas Parcial - Agosto 2025",
+        "Data início": "01/08/2025 ",
+        "Data final": "31/08/2025 "
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Título do Arquivo": "Prestação de Contas Parcial",
+        "Descrição": "Prestação de Contas Parcial - Setembro 2025",
+        "Data início": "01/09/2025 ",
+        "Data final": "30/09/2025 "
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Título do Arquivo": "302 Prestacao de Contas Parcial - Outubro 2025",
+        "Descrição": "Prestacao de Contas Parcial - Outubro 2025",
+        "Data início": "01/10/2025 ",
+        "Data final": "31/10/2025 "
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Título do Arquivo": "302_PC_PARCIAL_NOV_2025",
+        "Descrição": "Prestação de Contas Parcial Novembro de 2025",
+        "Data início": "01/11/2025 ",
+        "Data final": "30/11/2025 "
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Título do Arquivo": "302_PC_PARCIAL_DEZ_2025",
+        "Descrição": "Prestação de contas parcial referente a dezembro de 2025.",
+        "Data início": "01/12/2025 ",
+        "Data final": "31/12/2025 "
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Título do Arquivo": "302_PC_PARCIAL_JAN_2026",
+        "Descrição": "Prestação de contas parcial referente a janeiro de 2026.",
+        "Data início": "01/01/2026 ",
+        "Data final": "31/01/2026 "
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Título do Arquivo": "302_PC_PARCIAL_FEV_2026",
+        "Descrição": "Prestação de contas parcial referente a fevereiro de 2026.",
+        "Data início": "01/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Título do Arquivo": "302_PC_PARCIAL_MAR_2026",
+        "Descrição": "Prestação de contas parcial referente a março de 2026.",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      },
+      {
+        "Referência do projeto": "302 - Desenvolvimento de Ações Estratégicas para o Fortalecimento dos Instrumentos de Apoio à Inovação",
+        "Título do Arquivo": "302_PC_PARCIAL_ABR_2026",
+        "Descrição": "Prestação de contas parcial referente a abril de 2026.",
+        "Data início": "01/04/2026 ",
+        "Data final": "30/04/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T14:13:28",
+  "_error": null
+}

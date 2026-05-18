@@ -1,0 +1,2279 @@
+{
+  "id": "272",
+  "name": "Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24.",
+  "csv": {
+    "Projeto_272/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Coordenador": "KINGLSTON SOARES",
+        "Financiadora": "Vale S.A.",
+        "Data de início": "21/02/2024",
+        "Data de vigência": "21/04/2027",
+        "Data de encerramento": "21/06/2027",
+        "Tipo de Projeto": "Pesquisa, Desenvolvimento e Inovação",
+        "Instituição executora": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo- Campus Vitória",
+        "Departamento": "",
+        "Processo e sub-processo": "23147.011308/2023-16",
+        "Valor aprovado": "786.936,61",
+        "Objetivo/Objeto/Título": "O presente instrumento tem por objeto o desenvolvimento do projeto de pesquisa Uso de fibraspoliméricas alternativas para sistemas de filtração de minério de ferro, adiante denominado Projeto, conforme o Plano de Trabalho constante do Anexo II, constituído pela descrição do Projeto e do orçamento detalhado para execução do Projeto. N DO CONTRATO NA VALE: 4600080953"
+      }
+    ],
+    "Projeto_272/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Bolsas",
+        "Aprovado": "211.622,40",
+        "Liberado": "0,00",
+        "Executado": "-229.257,60",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "300,00",
+        "Liberado": "0,00",
+        "Executado": "-348,26",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Diária Nacional",
+        "Aprovado": "4.500,00",
+        "Liberado": "0,00",
+        "Executado": "-9.524,20",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "55.381,12",
+        "Liberado": "0,00",
+        "Executado": "-33.180,64",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Aprovado": "40.000,00",
+        "Liberado": "0,00",
+        "Executado": "-10.193,73",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Passagens",
+        "Aprovado": "23.543,80",
+        "Liberado": "0,00",
+        "Executado": "-15.064,52",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "RCI - Ressarcimentos e Contrapartidas Institucionais Equipamento Nacional - Projetos",
+        "Aprovado": "16.656,12",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "56.600,00",
+        "Liberado": "0,00",
+        "Executado": "-33.838,96",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "246.227,88",
+        "Executado": "383.090,76",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "22.730,97",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_272/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "03.848.688/0071-65",
+        "Nome do Favorecido": " SENAI DE INOVACAO EM BIOSSINTETICOS E FIBRAS",
+        "Data do Pagamento": "28/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "4.856,28"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "07.701.831/0001-30",
+        "Nome do Favorecido": "Aptor software",
+        "Data do Pagamento": "08/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "3.642,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "61.615.977/0001-08",
+        "Nome do Favorecido": "Associação Brasileira de Cerâmica",
+        "Data do Pagamento": "18/10/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "3.180,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "22,54"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "11,27"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "11,27"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "12,26"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/09/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "11,69"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "11/09/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/10/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "11,69"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "11,69"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "22/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "9,82"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "27/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "6,47"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/12/2024",
+        "Mês de Competência": "12/2024",
+        "Valor": "11,69"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "20/12/2024",
+        "Mês de Competência": "12/2024",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "15,38"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "22/01/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "11,69"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "11,69"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "11,69"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "11,69"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "11,69"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "11,69"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "16/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "12,28"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "12,28"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "12,28"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "17/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "6,44"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "31/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "12,28"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "12,28"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "12,28"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "12,28"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "12,28"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "12,28"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "12,28"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "07.933.551/0001-57",
+        "Nome do Favorecido": "I.L. BARRETO REPRESENTACOES LTDA",
+        "Data do Pagamento": "27/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "13.343,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "07.933.551/0001-57",
+        "Nome do Favorecido": "I.L. BARRETO REPRESENTACOES LTDA",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.720,72"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "20.555.875/0002-48",
+        "Nome do Favorecido": "KALINA INDUSTRIA DE FIOS E LINHAS S.A.",
+        "Data do Pagamento": "27/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "3.103,03"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "20.555.875/0002-48",
+        "Nome do Favorecido": "KALINA INDUSTRIA DE FIOS E LINHAS S.A.",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "3.103,04"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "03.851.105/0001-42",
+        "Nome do Favorecido": "SERVICO NACIONAL DE APRENDIZAGEM INDUSTRIAL-SENAI",
+        "Data do Pagamento": "13/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "5.372,70"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "03.851.105/0001-42",
+        "Nome do Favorecido": "SERVICO NACIONAL DE APRENDIZAGEM INDUSTRIAL-SENAI",
+        "Data do Pagamento": "16/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "12.826,56"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "03.851.105/0001-42",
+        "Nome do Favorecido": "SERVICO NACIONAL DE APRENDIZAGEM INDUSTRIAL-SENAI",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "3.448,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CNPJ": "11.242.692/0001-09",
+        "Nome do Favorecido": "TECNOFIBERS DESENVOLVIMENTO E TECNOLOGIA LTDA",
+        "Data do Pagamento": "22/01/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "3.934,96"
+      }
+    ],
+    "Projeto_272/Pagamento de pessoa física.csv": [
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.114.607-**",
+        "Nome do Favorecido": "Julierme Seleguine Ranpineli Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.114.607-**",
+        "Nome do Favorecido": "Julierme Seleguine Ranpineli Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.114.607-**",
+        "Nome do Favorecido": "Julierme Seleguine Ranpineli Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.114.607-**",
+        "Nome do Favorecido": "Julierme Seleguine Ranpineli Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.114.607-**",
+        "Nome do Favorecido": "Julierme Seleguine Ranpineli Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.114.607-**",
+        "Nome do Favorecido": "Julierme Seleguine Ranpineli Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/09/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.114.607-**",
+        "Nome do Favorecido": "Julierme Seleguine Ranpineli Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/10/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.114.607-**",
+        "Nome do Favorecido": "Julierme Seleguine Ranpineli Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/11/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.114.607-**",
+        "Nome do Favorecido": "Julierme Seleguine Ranpineli Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/12/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.114.607-**",
+        "Nome do Favorecido": "Julierme Seleguine Ranpineli Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.114.607-**",
+        "Nome do Favorecido": "Julierme Seleguine Ranpineli Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.114.607-**",
+        "Nome do Favorecido": "Julierme Seleguine Ranpineli Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.114.607-**",
+        "Nome do Favorecido": "Julierme Seleguine Ranpineli Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.114.607-**",
+        "Nome do Favorecido": "Julierme Seleguine Ranpineli Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.114.607-**",
+        "Nome do Favorecido": "Julierme Seleguine Ranpineli Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.114.607-**",
+        "Nome do Favorecido": "Julierme Seleguine Ranpineli Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.114.607-**",
+        "Nome do Favorecido": "Julierme Seleguine Ranpineli Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.114.607-**",
+        "Nome do Favorecido": "Julierme Seleguine Ranpineli Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.114.607-**",
+        "Nome do Favorecido": "Julierme Seleguine Ranpineli Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.114.607-**",
+        "Nome do Favorecido": "Julierme Seleguine Ranpineli Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.114.607-**",
+        "Nome do Favorecido": "Julierme Seleguine Ranpineli Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.114.607-**",
+        "Nome do Favorecido": "Julierme Seleguine Ranpineli Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.114.607-**",
+        "Nome do Favorecido": "Julierme Seleguine Ranpineli Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.114.607-**",
+        "Nome do Favorecido": "Julierme Seleguine Ranpineli Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.114.607-**",
+        "Nome do Favorecido": "Julierme Seleguine Ranpineli Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.114.607-**",
+        "Nome do Favorecido": "Julierme Seleguine Ranpineli Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "3.060,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "3.060,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "3.060,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "3.060,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "3.060,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/09/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "3.060,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/10/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "3.060,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/11/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "3.060,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/12/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "3.060,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "3.060,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "3.060,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "3.060,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "3.060,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "3.060,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "3.060,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "3.060,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "3.060,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "3.060,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "3.060,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "3.060,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "3.060,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "3.060,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "3.060,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "3.060,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "3.060,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "3.060,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "22/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "1.501,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "17/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1.675,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Reembolso",
+        "Data do Pagamento": "11/09/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "206,72"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Reembolso",
+        "Data do Pagamento": "20/12/2024",
+        "Mês de Competência": "12/2024",
+        "Valor": "305,90"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.042.397-**",
+        "Nome do Favorecido": "KINGLSTON SOARES",
+        "Tipo de Pagamento": "Pagamento de Reembolso",
+        "Data do Pagamento": "31/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "52,70"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.688.137-**",
+        "Nome do Favorecido": "Maria Izabel Rodrigues Coelho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.688.137-**",
+        "Nome do Favorecido": "Maria Izabel Rodrigues Coelho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.688.137-**",
+        "Nome do Favorecido": "Maria Izabel Rodrigues Coelho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.688.137-**",
+        "Nome do Favorecido": "Maria Izabel Rodrigues Coelho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.688.137-**",
+        "Nome do Favorecido": "Maria Izabel Rodrigues Coelho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.688.137-**",
+        "Nome do Favorecido": "Maria Izabel Rodrigues Coelho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/09/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.688.137-**",
+        "Nome do Favorecido": "Maria Izabel Rodrigues Coelho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/10/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.688.137-**",
+        "Nome do Favorecido": "Maria Izabel Rodrigues Coelho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/11/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.688.137-**",
+        "Nome do Favorecido": "Maria Izabel Rodrigues Coelho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/12/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.688.137-**",
+        "Nome do Favorecido": "Maria Izabel Rodrigues Coelho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.688.137-**",
+        "Nome do Favorecido": "Maria Izabel Rodrigues Coelho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.688.137-**",
+        "Nome do Favorecido": "Maria Izabel Rodrigues Coelho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.688.137-**",
+        "Nome do Favorecido": "Maria Izabel Rodrigues Coelho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.688.137-**",
+        "Nome do Favorecido": "Maria Izabel Rodrigues Coelho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.688.137-**",
+        "Nome do Favorecido": "Maria Izabel Rodrigues Coelho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.688.137-**",
+        "Nome do Favorecido": "Maria Izabel Rodrigues Coelho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.688.137-**",
+        "Nome do Favorecido": "Maria Izabel Rodrigues Coelho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.688.137-**",
+        "Nome do Favorecido": "Maria Izabel Rodrigues Coelho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.688.137-**",
+        "Nome do Favorecido": "Maria Izabel Rodrigues Coelho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.688.137-**",
+        "Nome do Favorecido": "Maria Izabel Rodrigues Coelho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.688.137-**",
+        "Nome do Favorecido": "Maria Izabel Rodrigues Coelho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.688.137-**",
+        "Nome do Favorecido": "Maria Izabel Rodrigues Coelho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.688.137-**",
+        "Nome do Favorecido": "Maria Izabel Rodrigues Coelho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.688.137-**",
+        "Nome do Favorecido": "Maria Izabel Rodrigues Coelho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.688.137-**",
+        "Nome do Favorecido": "Maria Izabel Rodrigues Coelho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.688.137-**",
+        "Nome do Favorecido": "Maria Izabel Rodrigues Coelho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "853,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.845.567-**",
+        "Nome do Favorecido": "PAOLA ANGELICA DIAS DOS SANTOS",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "1.950,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.845.567-**",
+        "Nome do Favorecido": "PAOLA ANGELICA DIAS DOS SANTOS",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "1.950,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.845.567-**",
+        "Nome do Favorecido": "PAOLA ANGELICA DIAS DOS SANTOS",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "1.950,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.845.567-**",
+        "Nome do Favorecido": "PAOLA ANGELICA DIAS DOS SANTOS",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "1.950,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.845.567-**",
+        "Nome do Favorecido": "PAOLA ANGELICA DIAS DOS SANTOS",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "1.950,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.845.567-**",
+        "Nome do Favorecido": "PAOLA ANGELICA DIAS DOS SANTOS",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/09/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "1.950,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.845.567-**",
+        "Nome do Favorecido": "PAOLA ANGELICA DIAS DOS SANTOS",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/10/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "1.950,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.845.567-**",
+        "Nome do Favorecido": "PAOLA ANGELICA DIAS DOS SANTOS",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/11/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "1.950,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.845.567-**",
+        "Nome do Favorecido": "PAOLA ANGELICA DIAS DOS SANTOS",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/12/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "1.950,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.845.567-**",
+        "Nome do Favorecido": "Paola Angelica Dias dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "1.950,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.845.567-**",
+        "Nome do Favorecido": "Paola Angelica Dias dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "1.950,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.845.567-**",
+        "Nome do Favorecido": "Paola Angelica Dias dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "1.950,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.845.567-**",
+        "Nome do Favorecido": "Paola Angelica Dias dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "1.950,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.845.567-**",
+        "Nome do Favorecido": "Paola Angelica Dias dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "1.950,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.845.567-**",
+        "Nome do Favorecido": "Paola Angelica Dias dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "1.950,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.845.567-**",
+        "Nome do Favorecido": "Paola Angelica Dias dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "1.950,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.845.567-**",
+        "Nome do Favorecido": "Paola Angelica Dias dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "1.950,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.845.567-**",
+        "Nome do Favorecido": "Paola Angelica Dias dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "1.950,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.845.567-**",
+        "Nome do Favorecido": "Paola Angelica Dias dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "1.950,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.845.567-**",
+        "Nome do Favorecido": "Paola Angelica Dias dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1.950,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.845.567-**",
+        "Nome do Favorecido": "Paola Angelica Dias dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "1.950,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.845.567-**",
+        "Nome do Favorecido": "Paola Angelica Dias dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "1.950,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.845.567-**",
+        "Nome do Favorecido": "Paola Angelica Dias dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "1.950,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.845.567-**",
+        "Nome do Favorecido": "Paola Angelica Dias dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.950,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.845.567-**",
+        "Nome do Favorecido": "Paola Angelica Dias dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.950,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.845.567-**",
+        "Nome do Favorecido": "Paola Angelica Dias dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "1.950,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.845.567-**",
+        "Nome do Favorecido": "Paola Angelica Dias dos Santos",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "22/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "1.497,20"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.845.567-**",
+        "Nome do Favorecido": "Paola Angelica Dias dos Santos",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "17/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1.675,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.383.747-**",
+        "Nome do Favorecido": "SAMIRA GOMES BRANDAO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "2.100,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.383.747-**",
+        "Nome do Favorecido": "SAMIRA GOMES BRANDAO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "2.100,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.383.747-**",
+        "Nome do Favorecido": "SAMIRA GOMES BRANDAO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "2.100,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.383.747-**",
+        "Nome do Favorecido": "SAMIRA GOMES BRANDAO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "2.100,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.383.747-**",
+        "Nome do Favorecido": "SAMIRA GOMES BRANDAO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "2.100,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.383.747-**",
+        "Nome do Favorecido": "SAMIRA GOMES BRANDAO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/09/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "2.100,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.383.747-**",
+        "Nome do Favorecido": "SAMIRA GOMES BRANDAO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/10/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "2.100,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.383.747-**",
+        "Nome do Favorecido": "SAMIRA GOMES BRANDAO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/11/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "2.100,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.383.747-**",
+        "Nome do Favorecido": "SAMIRA GOMES BRANDAO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/12/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "2.100,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.383.747-**",
+        "Nome do Favorecido": "Samira Gomes Brandao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "2.100,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.383.747-**",
+        "Nome do Favorecido": "Samira Gomes Brandao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "2.100,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.383.747-**",
+        "Nome do Favorecido": "Samira Gomes Brandao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "2.100,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.383.747-**",
+        "Nome do Favorecido": "Samira Gomes Brandao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "2.100,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.383.747-**",
+        "Nome do Favorecido": "Samira Gomes Brandao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "2.100,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.383.747-**",
+        "Nome do Favorecido": "Samira Gomes Brandao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "2.100,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.383.747-**",
+        "Nome do Favorecido": "Samira Gomes Brandao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "2.100,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.383.747-**",
+        "Nome do Favorecido": "Samira Gomes Brandao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "2.100,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.383.747-**",
+        "Nome do Favorecido": "Samira Gomes Brandao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "2.100,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.383.747-**",
+        "Nome do Favorecido": "Samira Gomes Brandao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "2.100,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.383.747-**",
+        "Nome do Favorecido": "Samira Gomes Brandao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "2.100,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.383.747-**",
+        "Nome do Favorecido": "Samira Gomes Brandao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "2.100,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.383.747-**",
+        "Nome do Favorecido": "Samira Gomes Brandao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "2.100,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.383.747-**",
+        "Nome do Favorecido": "Samira Gomes Brandao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2.100,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.383.747-**",
+        "Nome do Favorecido": "Samira Gomes Brandao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2.100,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.383.747-**",
+        "Nome do Favorecido": "Samira Gomes Brandao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2.100,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.383.747-**",
+        "Nome do Favorecido": "Samira Gomes Brandao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2.100,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.383.747-**",
+        "Nome do Favorecido": "Samira Gomes Brandao",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "22/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "1.501,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "CPF": "***.383.747-**",
+        "Nome do Favorecido": "Samira Gomes Brandao",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "17/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1.675,00"
+      }
+    ],
+    "Projeto_272/Equipe.csv": [
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Nome": "Julierme Seleguine Ranpineli Junior",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Analfabeto, inclusive o que, embora tenha recebido instrução, não se alfabetizou",
+        "Carga horária": "15 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Nome": "KINGLSTON SOARES",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "IFES- Campus Vitória",
+        "Vínculo com a instituição": "DOCENTE",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": "10 horas semanais",
+        "Vinculada à inst. executora": "Sim"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Nome": "Maria Izabel Rodrigues Coelho",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Analfabeto, inclusive o que, embora tenha recebido instrução, não se alfabetizou",
+        "Carga horária": "15 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Nome": "Paola Angelica Dias dos Santos",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Analfabeto, inclusive o que, embora tenha recebido instrução, não se alfabetizou",
+        "Carga horária": "20 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Nome": "Samira Gomes Brandao",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Analfabeto, inclusive o que, embora tenha recebido instrução, não se alfabetizou",
+        "Carga horária": "10 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Nome": "Victor Gianordoli",
+        "Função": "Apoiador",
+        "Instituição de trabalho": "Ifes",
+        "Vínculo com a instituição": "Servidor",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      }
+    ],
+    "Projeto_272/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Operacionais e Adminstrativas",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "22.197,71",
+        "Valor total aprovado": "22.197,71",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Agrupamento": "META 1",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Produtividade em Desenvolvimento Tecnológico (DT)",
+        "Justificativa": "Coordenador do projeto",
+        "Qtde aprovada": "12,00",
+        "Valor unitário": "3.060,00",
+        "Valor total aprovado": "36.720,00",
+        "Valor executado": "42.840,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Agrupamento": "META 1",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Produtividade em Desenvolvimento Tecnológico (DT)",
+        "Justificativa": "Pesquisadora ",
+        "Qtde aprovada": "12,00",
+        "Valor unitário": "2.100,00",
+        "Valor total aprovado": "25.200,00",
+        "Valor executado": "29.400,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Agrupamento": "META 1",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Produtividade em Desenvolvimento Tecnológico (DT)",
+        "Justificativa": "Pesquisadora ",
+        "Qtde aprovada": "12,00",
+        "Valor unitário": "1.950,00",
+        "Valor total aprovado": "23.400,00",
+        "Valor executado": "27.300,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Agrupamento": "META 1",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Iniciação Científica ",
+        "Justificativa": "Aluno Graduação - Julierne Seleguine",
+        "Qtde aprovada": "12,00",
+        "Valor unitário": "853,80",
+        "Valor total aprovado": "10.245,60",
+        "Valor executado": "13.660,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Agrupamento": "META 1",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Iniciação Científica",
+        "Justificativa": "Aluno Graduação - Maria Izabel Rodrigues",
+        "Qtde aprovada": "12,00",
+        "Valor unitário": "853,80",
+        "Valor total aprovado": "10.245,60",
+        "Valor executado": "10.245,60"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Agrupamento": "META 1",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "225,46",
+        "Valor total aprovado": "225,46",
+        "Valor executado": "335,98"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Agrupamento": "META 1",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Aquisição dos meios filtrantes",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "10.141,03",
+        "Valor total aprovado": "10.141,03",
+        "Valor executado": "10.141,03"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Agrupamento": "META 1",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Contratação de empresa especializada",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "27.118,96",
+        "Valor total aprovado": "27.118,96",
+        "Valor executado": "27.118,96"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Agrupamento": "META 1",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Facto",
+        "Justificativa": "8,66% de acordo com o contrato.",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "21.328,31",
+        "Valor total aprovado": "21.328,31",
+        "Valor executado": "21.328,31"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Agrupamento": "META 1",
+        "Rubrica": "RCI - Ressarcimentos e Contrapartidas Institucionais Equipamento Nacional - Projetos",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Taxa IFES",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "10.705,56",
+        "Valor total aprovado": "10.705,56",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Agrupamento": "META 1 - Viagem",
+        "Rubrica": "Diária Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Diárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "4.499,20",
+        "Valor total aprovado": "4.499,20",
+        "Valor executado": "4.499,20"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Agrupamento": "META 1 - Viagem",
+        "Rubrica": "Passagens",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Passsagem aérea",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "13.343,80",
+        "Valor total aprovado": "13.343,80",
+        "Valor executado": "13.343,80"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Agrupamento": "META 1 - Viagem",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Participação em congressos ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "3.180,00",
+        "Valor total aprovado": "3.180,00",
+        "Valor executado": "3.180,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Agrupamento": "META 2",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Produtividade em Desenvolvimento Tecnológico (DT)",
+        "Justificativa": "Coordenador do projeto",
+        "Qtde aprovada": "12,00",
+        "Valor unitário": "3.060,00",
+        "Valor total aprovado": "36.720,00",
+        "Valor executado": "36.720,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Agrupamento": "META 2",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Produtividade em Desenvolvimento Tecnológico (DT)",
+        "Justificativa": "Pesquisadora ",
+        "Qtde aprovada": "12,00",
+        "Valor unitário": "2.100,00",
+        "Valor total aprovado": "25.200,00",
+        "Valor executado": "25.200,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Agrupamento": "META 2",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Produtividade em Desenvolvimento Tecnológico (DT)",
+        "Justificativa": "Pesquisadora ",
+        "Qtde aprovada": "12,00",
+        "Valor unitário": "1.950,00",
+        "Valor total aprovado": "23.400,00",
+        "Valor executado": "23.400,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Agrupamento": "META 2",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Iniciação Científica",
+        "Justificativa": "Aluno Graduação - Julierne Seleguine",
+        "Qtde aprovada": "12,00",
+        "Valor unitário": "853,80",
+        "Valor total aprovado": "10.245,60",
+        "Valor executado": "10.245,60"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Agrupamento": "META 2",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Aluno Graduação.",
+        "Justificativa": "Aluno Graduação - Maria Izabel Rodrigues",
+        "Qtde aprovada": "12,00",
+        "Valor unitário": "853,80",
+        "Valor total aprovado": "10.245,60",
+        "Valor executado": "10.245,60"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Agrupamento": "META 2",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "225,46",
+        "Valor total aprovado": "225,46",
+        "Valor executado": "12,28"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Agrupamento": "META 2",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Itens de Consumo ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "51.232,96",
+        "Valor total aprovado": "51.232,96",
+        "Valor executado": "20.687,96"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Agrupamento": "META 2",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Análise têxteis - Metrologia",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "4.677,53",
+        "Valor total aprovado": "4.677,53",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Agrupamento": "META 2",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Facto",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "11.855,10",
+        "Valor total aprovado": "11.855,10",
+        "Valor executado": "11.852,33"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Agrupamento": "META 2",
+        "Rubrica": "RCI - Ressarcimentos e Contrapartidas Institucionais Equipamento Nacional - Projetos",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Taxa IFES",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "5.950,56",
+        "Valor total aprovado": "5.950,56",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Agrupamento": "META 2 - Viagem",
+        "Rubrica": "Diária Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Deslocamento",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "5.025,00",
+        "Valor total aprovado": "5.025,00",
+        "Valor executado": "5.025,00"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Agrupamento": "META 2 - Viagem",
+        "Rubrica": "Passagens",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Passagem aérea",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.720,72",
+        "Valor total aprovado": "1.720,72",
+        "Valor executado": "1.720,72"
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Agrupamento": "META 2 - Viagem",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Participação em Congressos",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "3.731,28",
+        "Valor total aprovado": "3.731,28",
+        "Valor executado": "3.642,00"
+      }
+    ],
+    "Projeto_272/Documentos.csv": [
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Título do Arquivo": "Acordo de Parceiria 01/2024",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Título do Arquivo": "272_Plano de trabalho_LAI",
+        "Descrição": "Segue o anexo do plano de trabalho (Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro)."
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Título do Arquivo": "272_Contrato_LAI",
+        "Descrição": "Segue em anexo O ACORDO DE PARCERIA PARA PESQUISA,DESENVOLVIMENTO E INOVAÇÃO QUEENTRE SI CELEBRAM A VALE S.A., O IFES EAFUNDAÇÃO FACTO Nº 01/2024 SAP No. Processo nº : 23147.011308/2023-16"
+      }
+    ],
+    "Projeto_272/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Título do Arquivo": "Certidão",
+        "Descrição": "CERTIDÃO DE DOCUMENTAÇÃO DE PROCEDIMENTO DE PRESTAÇÃO DE CONTAS AMPARADA PELO SIGILO EM RAZÃO DA LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS.",
+        "Data início": "21/02/2024 ",
+        "Data final": "30/04/2025 "
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Título do Arquivo": "Prestação de Contas Parcial",
+        "Descrição": "21.02.2024 a 30.06.2024",
+        "Data início": "21/02/2024 ",
+        "Data final": "30/04/2025 "
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Título do Arquivo": "Prestação de Contas Parcial",
+        "Descrição": "01.07.2024 a 31.12.2024",
+        "Data início": "21/02/2024 ",
+        "Data final": "30/04/2025 "
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Título do Arquivo": "Prestação de Contas Parcial",
+        "Descrição": "01.01.2025 a 30.04.2025. A prestação de contas final será apresentada em até 30 dias após o encerramento do projeto.",
+        "Data início": "21/02/2024 ",
+        "Data final": "30/04/2025 "
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Título do Arquivo": "Prestação de Contas Parcial",
+        "Descrição": "Prestação de contas parcial Junho/2025.",
+        "Data início": "01/06/2025 ",
+        "Data final": "30/06/2025 "
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Título do Arquivo": "Prestação de Contas Parcial",
+        "Descrição": "Prestação de contas Julho/2025",
+        "Data início": "01/07/2025 ",
+        "Data final": "31/07/2025 "
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Título do Arquivo": "Prestação de Contas Parcial - Agosto 2025",
+        "Descrição": "Prestação de Contas Parcial - Agosto 2025",
+        "Data início": "01/08/2025 ",
+        "Data final": "31/08/2025 "
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Título do Arquivo": "Prestação de Contas Parcial - Setembro 2025",
+        "Descrição": "Prestação de Contas Parcial - Setembro 2025",
+        "Data início": "01/09/2025 ",
+        "Data final": "30/09/2025 "
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Título do Arquivo": "Prestação de Contas Parcial",
+        "Descrição": "Prestação de contas Outubro/2025.",
+        "Data início": "01/10/2025 ",
+        "Data final": "31/10/2025 "
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Título do Arquivo": "Prestação de Contas Parcial",
+        "Descrição": "Prestação Parcial Novembro 2025",
+        "Data início": "01/11/2025 ",
+        "Data final": "30/11/2025 "
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Título do Arquivo": "272_PC_PARCIAL_DEZ_2025",
+        "Descrição": "Prestação de contas parcial referente a dezembro de 2025.",
+        "Data início": "01/12/2025 ",
+        "Data final": "31/12/2025 "
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Título do Arquivo": "272_PC_PARCIAL_JAN_2026",
+        "Descrição": "Prestação de contas referente a janeiro de 2026.",
+        "Data início": "01/01/2026 ",
+        "Data final": "31/01/2026 "
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Título do Arquivo": "272_PC_PARCIAL_FEV_2026",
+        "Descrição": "Prestação de contas parcial referente a fevereiro de 2026.",
+        "Data início": "01/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Título do Arquivo": "272_PC_PARCIAL_MAR_2026",
+        "Descrição": "Prestação de contas parcial referente a março de 2026.",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      },
+      {
+        "Referência do projeto": "272 - Uso de fibras poliméricas alternativas para sistemas de filtração de minério de ferro - TF24",
+        "Título do Arquivo": "272_PC_PARCIAL_ABR_2026",
+        "Descrição": "Prestação de contas parcial referente a abril de 2026.",
+        "Data início": "01/04/2026 ",
+        "Data final": "30/04/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T14:12:26",
+  "_error": null
+}

@@ -1,0 +1,1025 @@
+{
+  "id": "351",
+  "name": "Produção de material de divulgação - Audiovisual.",
+  "csv": {
+    "Projeto_351/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Coordenador": "FÁBIO LUÍS CABRAL",
+        "Financiadora": "Ministério da Educação - MEC",
+        "Data de início": "28/11/2025",
+        "Data de vigência": "28/11/2026",
+        "Data de encerramento": "28/01/2027",
+        "Tipo de Projeto": "Ensino",
+        "Instituição executora": "Instituto Federal de Educacao, Ciencia e Tecnologia de Sao Paulo - IFSP",
+        "Departamento": "",
+        "Processo e sub-processo": "23305.023651.2025-13 (Suap)",
+        "Valor aprovado": "334.770,00",
+        "Objetivo/Objeto/Título": "Apoiar os cursos de qualificação profissional no âmbito da bolsa formação e ações de inovação da Educação Profissional eTecnológica, por meio de produção de material de divulgação."
+      }
+    ],
+    "Projeto_351/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Bolsas",
+        "Aprovado": "226.000,00",
+        "Liberado": "0,00",
+        "Executado": "-209.999,95",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "1.000,00",
+        "Liberado": "0,00",
+        "Executado": "-118,92",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Diária Nacional",
+        "Aprovado": "44.410,79",
+        "Liberado": "0,00",
+        "Executado": "-40.140,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "33.690,06",
+        "Liberado": "0,00",
+        "Executado": "-29.780,22",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Passagens",
+        "Aprovado": "29.669,15",
+        "Liberado": "0,00",
+        "Executado": "-29.669,15",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "334.770,00",
+        "Executado": "334.770,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "4.011,18",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_351/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "17/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "29/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "8,76"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "6,44"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "3,52"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "19/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "6,44"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "21/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "15,80"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "9,96"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "11/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "16,40"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "11/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "9,96"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "23,44"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "13,48"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CNPJ": "07.933.551/0001-57",
+        "Nome do Favorecido": "I.L. BARRETO REPRESENTACOES LTDA",
+        "Data do Pagamento": "29/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "26.081,82"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CNPJ": "07.933.551/0001-57",
+        "Nome do Favorecido": "I.L. BARRETO REPRESENTACOES LTDA",
+        "Data do Pagamento": "11/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "3.587,33"
+      }
+    ],
+    "Projeto_351/Pagamento de pessoa física.csv": [
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.002.811-**",
+        "Nome do Favorecido": "Daniela Villas Boas Bazenga Vieira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "7.000,00"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.002.811-**",
+        "Nome do Favorecido": "Daniela Villas Boas Bazenga Vieira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "7.000,00"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.002.811-**",
+        "Nome do Favorecido": "Daniela Villas Boas Bazenga Vieira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "7.000,00"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.002.811-**",
+        "Nome do Favorecido": "Daniela Villas Boas Bazenga Vieira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "7.000,00"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.002.811-**",
+        "Nome do Favorecido": "Daniela Villas Boas Bazenga Vieira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "7.000,00"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.002.811-**",
+        "Nome do Favorecido": "Daniela Villas Boas Bazenga Vieira",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "11/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.172,50"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.002.811-**",
+        "Nome do Favorecido": "Daniela Villas Boas Bazenga Vieira",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "837,50"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.675.318-**",
+        "Nome do Favorecido": "Eduardo Petillo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "09/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "6.000,00"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.675.318-**",
+        "Nome do Favorecido": "Eduardo Petillo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "6.000,00"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.675.318-**",
+        "Nome do Favorecido": "Eduardo Petillo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "6.000,00"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.675.318-**",
+        "Nome do Favorecido": "Eduardo Petillo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "6.000,00"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.675.318-**",
+        "Nome do Favorecido": "Eduardo Petillo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "6.000,00"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.675.318-**",
+        "Nome do Favorecido": "Eduardo Petillo",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "11/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.172,50"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.675.318-**",
+        "Nome do Favorecido": "Eduardo Petillo",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "837,50"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.555.088-**",
+        "Nome do Favorecido": "Rogério Luiz dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.555.088-**",
+        "Nome do Favorecido": "Rogério Luiz dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.555.088-**",
+        "Nome do Favorecido": "Rogério Luiz dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "5.000,00"
+      }
+    ],
+    "Projeto_351/Pagamento de servidores ou agentes públicos.csv": [
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.231.065-**",
+        "Nome do Favorecido": "Cristina Mascarenhas Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "3.333,33"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.231.065-**",
+        "Nome do Favorecido": "Cristina Mascarenhas Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "3.333,33"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.231.065-**",
+        "Nome do Favorecido": "Cristina Mascarenhas Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "3.333,33"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.231.065-**",
+        "Nome do Favorecido": "Cristina Mascarenhas Santos",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "19/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2.512,50"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.231.065-**",
+        "Nome do Favorecido": "Cristina Mascarenhas Santos",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "21/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "4.092,50"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.655.288-**",
+        "Nome do Favorecido": "FÁBIO LUÍS CABRAL",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "16.000,00"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.655.288-**",
+        "Nome do Favorecido": "FÁBIO LUÍS CABRAL",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "16.000,00"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.655.288-**",
+        "Nome do Favorecido": "FÁBIO LUÍS CABRAL",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "16.000,00"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.655.288-**",
+        "Nome do Favorecido": "FÁBIO LUÍS CABRAL",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "16.000,00"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.655.288-**",
+        "Nome do Favorecido": "FÁBIO LUÍS CABRAL",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "16.000,00"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.655.288-**",
+        "Nome do Favorecido": "FÁBIO LUÍS CABRAL",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "21/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2.317,50"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.655.288-**",
+        "Nome do Favorecido": "FÁBIO LUÍS CABRAL",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "11/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "3.597,50"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.655.288-**",
+        "Nome do Favorecido": "FÁBIO LUÍS CABRAL",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "6.000,00"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.095.805-**",
+        "Nome do Favorecido": "Gildo Sousa dos Santos Júnior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "3.333,33"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.095.805-**",
+        "Nome do Favorecido": "Gildo Sousa dos Santos Júnior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "3.333,33"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.095.805-**",
+        "Nome do Favorecido": "Gildo Sousa dos Santos Júnior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "3.333,33"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.095.805-**",
+        "Nome do Favorecido": "Gildo Sousa dos Santos Júnior",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "04/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.710,00"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.095.805-**",
+        "Nome do Favorecido": "Gildo Sousa dos Santos Júnior",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2.680,00"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.029.285-**",
+        "Nome do Favorecido": "GLAUCO NEVES DE MENESES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "11/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "3.333,33"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.029.285-**",
+        "Nome do Favorecido": "GLAUCO NEVES DE MENESES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "3.333,33"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.029.285-**",
+        "Nome do Favorecido": "GLAUCO NEVES DE MENESES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "3.333,33"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.029.285-**",
+        "Nome do Favorecido": "GLAUCO NEVES DE MENESES",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "19/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2.512,50"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.029.285-**",
+        "Nome do Favorecido": "GLAUCO NEVES DE MENESES",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "21/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "4.092,50"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.214.288-**",
+        "Nome do Favorecido": "SÉRGIO HISSASHI UMEDA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "09/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "3.333,33"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.214.288-**",
+        "Nome do Favorecido": "SÉRGIO HISSASHI UMEDA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "3.333,33"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.214.288-**",
+        "Nome do Favorecido": "SÉRGIO HISSASHI UMEDA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "3.333,33"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.572.705-**",
+        "Nome do Favorecido": "VINICIUS DE JESUS ALMEIDA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "3.333,33"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.572.705-**",
+        "Nome do Favorecido": "VINICIUS DE JESUS ALMEIDA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "3.333,33"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.572.705-**",
+        "Nome do Favorecido": "VINICIUS DE JESUS ALMEIDA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Ensino",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "3.333,33"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.572.705-**",
+        "Nome do Favorecido": "VINICIUS DE JESUS ALMEIDA",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "19/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2.512,50"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "CPF": "***.572.705-**",
+        "Nome do Favorecido": "VINICIUS DE JESUS ALMEIDA",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "21/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "4.092,50"
+      }
+    ],
+    "Projeto_351/Equipe.csv": [
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Nome": "Cristina Mascarenhas Santos",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "INSTITUTO FEDERAL BAIANO ",
+        "Vínculo com a instituição": "CARGO COMISSIONADO",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Nome": "Daniela Villas Boas Bazenga Vieira",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Nome": "Eduarda Souto Ferraz ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "IFSP",
+        "Vínculo com a instituição": "Estudante",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Nome": "Eduardo Petillo",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Nome": "FÁBIO LUÍS CABRAL",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "INSTITUTO FEDERAL DE SÃO PAULO",
+        "Vínculo com a instituição": "PROFESSOR EBTT",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Sim"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Nome": "FÁBIO LUÍS CABRAL",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "INSTITUTO FEDERAL DE SÃO PAULO",
+        "Vínculo com a instituição": "PROFESSOR EBTT",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Nome": "Gildo Sousa dos Santos Júnior",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "IFRR",
+        "Vínculo com a instituição": "Ativo",
+        "Grau de instrução": "Educação Superior completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Nome": "GLAUCO NEVES DE MENESES",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Federal Baiano",
+        "Vínculo com a instituição": "Servidor - Técnico Audiovisual",
+        "Grau de instrução": "Educação Superior completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Nome": "ISABELLA GOMES DORE DE SOUZA",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Federal de São Paulo",
+        "Vínculo com a instituição": "Estudante",
+        "Grau de instrução": "Ensino Médio completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Nome": "Rogério Luiz dos Santos",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Nome": "SÉRGIO HISSASHI UMEDA",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Nome": "VINICIUS DE JESUS ALMEIDA",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Federal Baiano",
+        "Vínculo com a instituição": "Servidor estatutário",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      }
+    ],
+    "Projeto_351/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Gestor do projeto",
+        "Justificativa": " ",
+        "Qtde aprovada": "5,00",
+        "Valor unitário": "16.000,00",
+        "Valor total aprovado": "80.000,00",
+        "Valor executado": "80.000,00"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador do projeto",
+        "Justificativa": " ",
+        "Qtde aprovada": "5,00",
+        "Valor unitário": "7.000,00",
+        "Valor total aprovado": "35.000,00",
+        "Valor executado": "35.000,00"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador do projeto",
+        "Justificativa": " ",
+        "Qtde aprovada": "5,00",
+        "Valor unitário": "6.000,00",
+        "Valor total aprovado": "30.000,00",
+        "Valor executado": "30.000,00"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador de projeto",
+        "Justificativa": " ",
+        "Qtde aprovada": "3,00",
+        "Valor unitário": "5.000,00",
+        "Valor total aprovado": "15.000,00",
+        "Valor executado": "15.000,00"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Estudante IFSP",
+        "Justificativa": " ",
+        "Qtde aprovada": "5,00",
+        "Valor unitário": "2.000,00",
+        "Valor total aprovado": "10.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Estudante IFSP",
+        "Justificativa": " ",
+        "Qtde aprovada": "5,00",
+        "Valor unitário": "1.200,00",
+        "Valor total aprovado": "6.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador do Projeto - IFSP",
+        "Justificativa": " ",
+        "Qtde aprovada": "3,00",
+        "Valor unitário": "3.333,33",
+        "Valor total aprovado": "9.999,99",
+        "Valor executado": "9.999,99"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador do Projeto - IFBA",
+        "Justificativa": " ",
+        "Qtde aprovada": "3,00",
+        "Valor unitário": "3.333,33",
+        "Valor total aprovado": "9.999,99",
+        "Valor executado": "9.999,99"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador do Projeto - IFBA",
+        "Justificativa": " ",
+        "Qtde aprovada": "3,00",
+        "Valor unitário": "3.333,33",
+        "Valor total aprovado": "9.999,99",
+        "Valor executado": "9.999,99"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador do Projeto - IFBA",
+        "Justificativa": " ",
+        "Qtde aprovada": "3,00",
+        "Valor unitário": "3.333,33",
+        "Valor total aprovado": "9.999,99",
+        "Valor executado": "9.999,99"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador do Projeto - IFRR",
+        "Justificativa": " ",
+        "Qtde aprovada": "3,00",
+        "Valor unitário": "3.333,33",
+        "Valor total aprovado": "9.999,99",
+        "Valor executado": "9.999,99"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.000,00",
+        "Valor total aprovado": "1.000,00",
+        "Valor executado": "118,92"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Agrupamento": "",
+        "Rubrica": "Diária Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Diárias ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "44.410,79",
+        "Valor total aprovado": "44.410,79",
+        "Valor executado": "42.187,50"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Agrupamento": "",
+        "Rubrica": "Passagens",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Passagens",
+        "Justificativa": " ",
+        "Qtde aprovada": "32,00",
+        "Valor unitário": "927,1609",
+        "Valor total aprovado": "29.669,12",
+        "Valor executado": "29.669,15"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Operacionais e Administrativas",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "29.780,22",
+        "Valor total aprovado": "29.780,22",
+        "Valor executado": "29.780,22"
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Operacionais e Administrativas",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "3.909,84",
+        "Valor total aprovado": "3.909,84",
+        "Valor executado": "0,00"
+      }
+    ],
+    "Projeto_351/Documentos.csv": [
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Título do Arquivo": "P 351_CONTRATO E TED_LAI",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      }
+    ],
+    "Projeto_351/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Título do Arquivo": "Prestação de contas parcial - Início a Dezembro 2025",
+        "Descrição": "Prestação de contas parcial - Início a Dezembro 2025",
+        "Data início": "28/11/2025 ",
+        "Data final": "31/12/2025 "
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Título do Arquivo": "351_PC_PARCIAL_JAN_2026",
+        "Descrição": "Prestação de contas parcial referente a janeiro de 2026.",
+        "Data início": "01/01/2026 ",
+        "Data final": "31/01/2026 "
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Título do Arquivo": "351_PC_PARCIAL_FEV_2026",
+        "Descrição": "Prestação de contas parcial referente ao mês de fevereiro de 2026.",
+        "Data início": "01/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "351 - Produção de material de divulgação - Audiovisual",
+        "Título do Arquivo": "351_PC_PARCIAL_MAR_2026",
+        "Descrição": "Prestação de contas parcial referente a março de 2026.",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T14:14:57",
+  "_error": null
+}

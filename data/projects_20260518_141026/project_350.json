@@ -1,0 +1,1378 @@
+{
+  "id": "350",
+  "name": "INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO).",
+  "csv": {
+    "Projeto_350/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Coordenador": "Leylah Marques",
+        "Financiadora": "Instituto Nacional de Colonização e Reforma Agrária (INCRA)",
+        "Data de início": "01/12/2025",
+        "Data de vigência": "01/12/2027",
+        "Data de encerramento": "01/02/2028",
+        "Tipo de Projeto": "Extensão",
+        "Instituição executora": "Instituto Federal de Educacao, Ciencia e Tecnologia de Sao Paulo - IFSP",
+        "Departamento": "",
+        "Processo e sub-processo": " 23305.019512.2025-87 (SUAP)",
+        "Valor aprovado": "1.400.000,00",
+        "Objetivo/Objeto/Título": " Realizar atividades na formalização de políticas públicas para o público da reforma agrária e os PCTs."
+      }
+    ],
+    "Projeto_350/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Bolsas",
+        "Aprovado": "931.813,84",
+        "Liberado": "0,00",
+        "Executado": "-323.258,04",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "1.000,00",
+        "Liberado": "0,00",
+        "Executado": "-239,53",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Diária Nacional",
+        "Aprovado": "335.000,00",
+        "Liberado": "0,00",
+        "Executado": "-41.107,50",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "133.186,16",
+        "Liberado": "0,00",
+        "Executado": "-99.374,44",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "1.039.677,38",
+        "Executado": "1.039.677,38",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "13.778,12",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_350/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "02/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "36,24"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "25,16"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "25,16"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "11/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "25,16"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "12,28"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "12,88"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "18/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "20/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "6,73"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "25/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "24,56"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "10/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "6,44"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "22/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "8,76"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "24/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "49,72"
+      }
+    ],
+    "Projeto_350/Pagamento de pessoa física.csv": [
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.140.618-**",
+        "Nome do Favorecido": "André Fogaça Purificação ",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "11/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "837,50"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.596.938-**",
+        "Nome do Favorecido": "André Luiz Pereira de Moraes",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "10/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "637,50"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.110.658-**",
+        "Nome do Favorecido": "Andreia Elias",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "18/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "837,50"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.474.148-**",
+        "Nome do Favorecido": "Aparecido José de Oliveira ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "02/02/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "5.806,45"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.474.148-**",
+        "Nome do Favorecido": "Aparecido José de Oliveira ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "02/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2.903,23"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.474.148-**",
+        "Nome do Favorecido": "Aparecido José de Oliveira ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "3.096,77"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.474.148-**",
+        "Nome do Favorecido": "Aparecido José de Oliveira ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "6.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.474.148-**",
+        "Nome do Favorecido": "Aparecido José de Oliveira ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "6.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.474.148-**",
+        "Nome do Favorecido": "Aparecido José de Oliveira ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "6.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.544.958-**",
+        "Nome do Favorecido": "Caio Italo Marcieri Pimpinato",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.172,50"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.578.508-**",
+        "Nome do Favorecido": "Ciro Miranda Herzog",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "11/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "837,50"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.606.038-**",
+        "Nome do Favorecido": "EDENILTON HENRIQUE BATISTA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "02/02/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "5.806,45"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.606.038-**",
+        "Nome do Favorecido": "EDENILTON HENRIQUE BATISTA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "02/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2.903,23"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.606.038-**",
+        "Nome do Favorecido": "EDENILTON HENRIQUE BATISTA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "3.096,77"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.606.038-**",
+        "Nome do Favorecido": "EDENILTON HENRIQUE BATISTA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "6.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.606.038-**",
+        "Nome do Favorecido": "EDENILTON HENRIQUE BATISTA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "6.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.606.038-**",
+        "Nome do Favorecido": "EDENILTON HENRIQUE BATISTA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "6.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.606.038-**",
+        "Nome do Favorecido": "EDENILTON HENRIQUE BATISTA",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "3.852,50"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.606.038-**",
+        "Nome do Favorecido": "EDENILTON HENRIQUE BATISTA",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "22/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "1.507,50"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.522.418-**",
+        "Nome do Favorecido": "Elisabeth Matos Silva ",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "11/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "837,50"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.699.188-**",
+        "Nome do Favorecido": "Fabrício Teodoro da Silva",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "11/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "837,50"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.982.893-**",
+        "Nome do Favorecido": "Francisco de Assis Cardoso",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "02/02/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "5.806,45"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.982.893-**",
+        "Nome do Favorecido": "Francisco de Assis Cardoso",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "02/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2.903,23"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.982.893-**",
+        "Nome do Favorecido": "Francisco de Assis Cardoso",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "3.096,77"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.982.893-**",
+        "Nome do Favorecido": "Francisco de Assis Cardoso",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "6.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.982.893-**",
+        "Nome do Favorecido": "Francisco de Assis Cardoso",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "6.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.982.893-**",
+        "Nome do Favorecido": "Francisco de Assis Cardoso",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "6.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.982.893-**",
+        "Nome do Favorecido": "Francisco de Assis Cardoso",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.507,50"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.034.958-**",
+        "Nome do Favorecido": "Henrique Leduhar da Fonseca Ferraro",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.172,50"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.297.988-**",
+        "Nome do Favorecido": "Jaime Dias dos Santos ",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "10/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "637,50"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.045.318-**",
+        "Nome do Favorecido": "Jamilie Santos Trigo Nasser ",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "837,50"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.827.948-**",
+        "Nome do Favorecido": "Juanita Trigo Nasser",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "837,50"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.808.948-**",
+        "Nome do Favorecido": "Luciano Bueno ",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "11/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "837,50"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.372.898-**",
+        "Nome do Favorecido": "Marcio de Souza Pereira",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "10/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "637,50"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.054.691-**",
+        "Nome do Favorecido": "MARCOS JONI DE OLIVEIRA",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "11/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "837,50"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.278.098-**",
+        "Nome do Favorecido": "Maria Euza Guedes da Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "02/02/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "3.870,97"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.278.098-**",
+        "Nome do Favorecido": "Maria Euza Guedes da Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "02/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "1.935,48"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.278.098-**",
+        "Nome do Favorecido": "Maria Euza Guedes da Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2.064,51"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.278.098-**",
+        "Nome do Favorecido": "Maria Euza Guedes da Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.278.098-**",
+        "Nome do Favorecido": "Maria Euza Guedes da Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.278.098-**",
+        "Nome do Favorecido": "Maria Euza Guedes da Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.483.298-**",
+        "Nome do Favorecido": "Priscila Carvalho Viotti",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "02/02/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "9.677,42"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.483.298-**",
+        "Nome do Favorecido": "Priscila Carvalho Viotti",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "02/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "4.838,71"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.483.298-**",
+        "Nome do Favorecido": "Priscila Carvalho Viotti",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "5.161,29"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.483.298-**",
+        "Nome do Favorecido": "Priscila Carvalho Viotti",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "10.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.483.298-**",
+        "Nome do Favorecido": "Priscila Carvalho Viotti",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "10.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.483.298-**",
+        "Nome do Favorecido": "Priscila Carvalho Viotti",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "10.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.483.298-**",
+        "Nome do Favorecido": "Priscila Carvalho Viotti",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2.847,50"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.483.298-**",
+        "Nome do Favorecido": "Priscila Carvalho Viotti",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "24/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "5.360,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.733.818-**",
+        "Nome do Favorecido": "Raul Wallace Amorim Carvalho",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "11/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "837,50"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.165.008-**",
+        "Nome do Favorecido": "REGINA DUARTE ORSI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "02/02/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "7.741,94"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.165.008-**",
+        "Nome do Favorecido": "REGINA DUARTE ORSI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "02/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "3.870,97"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.165.008-**",
+        "Nome do Favorecido": "REGINA DUARTE ORSI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "4.129,03"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.165.008-**",
+        "Nome do Favorecido": "REGINA DUARTE ORSI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "8.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.165.008-**",
+        "Nome do Favorecido": "REGINA DUARTE ORSI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "8.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.165.008-**",
+        "Nome do Favorecido": "REGINA DUARTE ORSI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "8.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.551.078-**",
+        "Nome do Favorecido": "Silvino teixeira junior ",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "837,50"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.494.408-**",
+        "Nome do Favorecido": "Soraya Despina Santos Voigtel",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "11/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "837,50"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.718.759-**",
+        "Nome do Favorecido": "Valdirene Correia",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "11/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "837,50"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.478.048-**",
+        "Nome do Favorecido": "VINICIUS MACORI SILVA",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "11/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "837,50"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.844.038-**",
+        "Nome do Favorecido": "Vivian Silva Catenacci",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "837,50"
+      }
+    ],
+    "Projeto_350/Pagamento de servidores ou agentes públicos.csv": [
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.566.838-**",
+        "Nome do Favorecido": "leticia camila de almeida",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2.580,64"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.566.838-**",
+        "Nome do Favorecido": "leticia camila de almeida",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.571.028-**",
+        "Nome do Favorecido": "Leylah Marques",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "02/02/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "9.677,42"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.571.028-**",
+        "Nome do Favorecido": "Leylah Marques",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "02/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "4.838,71"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.571.028-**",
+        "Nome do Favorecido": "Leylah Marques",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "5.161,29"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.571.028-**",
+        "Nome do Favorecido": "Leylah Marques",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "10.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.571.028-**",
+        "Nome do Favorecido": "Leylah Marques",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "10.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.571.028-**",
+        "Nome do Favorecido": "Leylah Marques",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "10.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.571.028-**",
+        "Nome do Favorecido": "Leylah Marques",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "3.517,50"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.206.398-**",
+        "Nome do Favorecido": "Luciana Aparecida Santos Barros",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "4.129,03"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.206.398-**",
+        "Nome do Favorecido": "Luciana Aparecida Santos Barros",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "8.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.206.398-**",
+        "Nome do Favorecido": "Luciana Aparecida Santos Barros",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "8.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.206.398-**",
+        "Nome do Favorecido": "Luciana Aparecida Santos Barros",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "8.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.206.398-**",
+        "Nome do Favorecido": "Luciana Aparecida Santos Barros",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.675,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.832.328-**",
+        "Nome do Favorecido": "Luciano Delmondes de Alencar",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.254.468-**",
+        "Nome do Favorecido": "Nelson Berto dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2.580,64"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.254.468-**",
+        "Nome do Favorecido": "Nelson Berto dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.254.468-**",
+        "Nome do Favorecido": "Nelson Berto dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.254.468-**",
+        "Nome do Favorecido": "Nelson Berto dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.414.188-**",
+        "Nome do Favorecido": "Priscilla Najara Dagel Souza",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2.580,64"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.414.188-**",
+        "Nome do Favorecido": "Priscilla Najara Dagel Souza",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.414.188-**",
+        "Nome do Favorecido": "Priscilla Najara Dagel Souza",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.414.188-**",
+        "Nome do Favorecido": "Priscilla Najara Dagel Souza",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "5.000,00"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.469.578-**",
+        "Nome do Favorecido": "Stela Haler",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.842,50"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "CPF": "***.469.578-**",
+        "Nome do Favorecido": "Stela Haler",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "22/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2.177,50"
+      }
+    ],
+    "Projeto_350/Equipe.csv": [
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Nome": "Aparecido José de Oliveira ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": "Incra",
+        "Grau de instrução": "Educação Superior completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Nome": "EDENILTON HENRIQUE BATISTA",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "IFSP",
+        "Vínculo com a instituição": "BOLSISTA",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Nome": "Francisco de Assis Cardoso",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": "Não",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Nome": "leticia camila de almeida",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Federal de Educação Ciencia e Tecnologia de São Paulo",
+        "Vínculo com a instituição": "Servidor",
+        "Grau de instrução": "Pós-Graduação completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Nome": "Leylah Marques",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "INSTITUTO FEDERAL DE SÃO PAULO",
+        "Vínculo com a instituição": "RJU",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Nome": "Luciana Aparecida Santos Barros",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
+        "Vínculo com a instituição": "Estatutário",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Nome": "Luciano Delmondes de Alencar",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "IFSP",
+        "Vínculo com a instituição": "Téc. em Agropecuária",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Sim"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Nome": "Luciano Delmondes de Alencar",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "IFSP",
+        "Vínculo com a instituição": "Téc. em Agropecuária",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Nome": "Maria Euza Guedes da Silva",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "IFSP",
+        "Vínculo com a instituição": "Bolsista",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Nome": "Nelson Berto dos Santos",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Federal de São Paulo",
+        "Vínculo com a instituição": "Efetivo",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Nome": "Priscila Carvalho Viotti",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "IFSP",
+        "Vínculo com a instituição": "BOLSISTA",
+        "Grau de instrução": "Educação Superior completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Nome": "Priscilla Najara Dagel Souza",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Federal de São Paulo",
+        "Vínculo com a instituição": "Cargo Efetivo",
+        "Grau de instrução": "Pós-Graduação completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Nome": "REGINA DUARTE ORSI",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": "projeto/INCRA",
+        "Grau de instrução": "Educação Superior completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      }
+    ],
+    "Projeto_350/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenação geral do TED",
+        "Justificativa": " ",
+        "Qtde aprovada": "15,00",
+        "Valor unitário": "10.000,00",
+        "Valor total aprovado": "150.000,00",
+        "Valor executado": "129.677,42"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenação Adjunta",
+        "Justificativa": " ",
+        "Qtde aprovada": "15,00",
+        "Valor unitário": "8.000,00",
+        "Valor total aprovado": "120.000,00",
+        "Valor executado": "92.129,03"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Supervisão técnico-científica e extensionista",
+        "Justificativa": " ",
+        "Qtde aprovada": "15,00",
+        "Valor unitário": "5.000,00",
+        "Valor total aprovado": "75.000,00",
+        "Valor executado": "57.580,64"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Supervisão técnico-científica e extensionista",
+        "Justificativa": " ",
+        "Qtde aprovada": "15,00",
+        "Valor unitário": "5.000,00",
+        "Valor total aprovado": "75.000,00",
+        "Valor executado": "57.580,64"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Supervisão técnico-científica e extensionista",
+        "Justificativa": " ",
+        "Qtde aprovada": "15,00",
+        "Valor unitário": "5.000,00",
+        "Valor total aprovado": "75.000,00",
+        "Valor executado": "51.580,64"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsista INCRA - Coordenação e Sistematização",
+        "Justificativa": " ",
+        "Qtde aprovada": "15,00",
+        "Valor unitário": "10.000,00",
+        "Valor total aprovado": "150.000,00",
+        "Valor executado": "129.677,42"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Articulador Regional",
+        "Justificativa": " ",
+        "Qtde aprovada": "14,00",
+        "Valor unitário": "8.000,00",
+        "Valor total aprovado": "112.000,00",
+        "Valor executado": "103.741,94"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Assistente técnico de experiências rurais exitosas",
+        "Justificativa": " ",
+        "Qtde aprovada": "14,00",
+        "Valor unitário": "6.000,00",
+        "Valor total aprovado": "84.000,00",
+        "Valor executado": "77.806,45"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Assistente técnico de experiências rurais exitosas",
+        "Justificativa": " ",
+        "Qtde aprovada": "14,00",
+        "Valor unitário": "6.000,00",
+        "Valor total aprovado": "84.000,00",
+        "Valor executado": "77.806,45"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Assistente técnico de experiências rurais exitosas",
+        "Justificativa": " ",
+        "Qtde aprovada": "13,00",
+        "Valor unitário": "6.000,00",
+        "Valor total aprovado": "78.000,00",
+        "Valor executado": "77.806,45"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Apoio de promoção de experiências exitosas",
+        "Justificativa": " ",
+        "Qtde aprovada": "13,00",
+        "Valor unitário": "4.000,00",
+        "Valor total aprovado": "52.000,00",
+        "Valor executado": "51.870,96"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Estudante extensionista - Levantamento de dados",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "",
+        "Agrupamento": " ",
+        "Rubrica": "15,00",
+        "Código": "1.000,00",
+        "Produto": "15.000,00",
+        "Descrição": "0,00",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Estudante extensionista - Levantamento de dados",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "",
+        "Agrupamento": " ",
+        "Rubrica": "15,00",
+        "Código": "1.000,00",
+        "Produto": "15.000,00",
+        "Descrição": "0,00",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.000,00",
+        "Valor total aprovado": "1.000,00",
+        "Valor executado": "239,53"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Agrupamento": "",
+        "Rubrica": "Diária Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Deslocamento",
+        "Justificativa": " ",
+        "Qtde aprovada": "539,00",
+        "Valor unitário": "335,4617",
+        "Valor total aprovado": "180.812,94",
+        "Valor executado": "41.107,50"
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Operacionais e Administrativas",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "133.186,16",
+        "Valor total aprovado": "133.186,16",
+        "Valor executado": "99.374,44"
+      }
+    ],
+    "Projeto_350/Documentos.csv": [
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Título do Arquivo": "P 350_CONTRATO_LAI",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      }
+    ],
+    "Projeto_350/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Título do Arquivo": "Prestação de contas parcial - Início a Dezembro 2025",
+        "Descrição": "Prestação de contas parcial - Início a Dezembro 2025",
+        "Data início": "01/12/2025 ",
+        "Data final": "31/12/2025 "
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Título do Arquivo": "350_PC_PARCIAL_JAN_2026",
+        "Descrição": "Prestação de contas parcial referente a janeiro de 2026.",
+        "Data início": "01/01/2026 ",
+        "Data final": "31/01/2026 "
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Título do Arquivo": "350_PC_PARCIAL_FEV_2026",
+        "Descrição": "Prestação de contas parcial referente ao mês de fevereiro de 2026.",
+        "Data início": "01/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "350 - INCRA - Desenvolvimento Rural Sustentável e Valorização dos Saberes do Campo (EMBRAPRO)",
+        "Título do Arquivo": "350_PC_PARCIAL_MAR_2026",
+        "Descrição": "Prestação de contas parcial referente a março de 2026.",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T14:14:57",
+  "_error": null
+}

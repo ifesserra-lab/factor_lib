@@ -1,0 +1,1727 @@
+{
+  "id": "250",
+  "name": "Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES.",
+  "csv": {
+    "Projeto_250/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Coordenador": "Wanderson Romão",
+        "Financiadora": "Petrobras Centro de Pesquisas e Desenvolvimento Leopoldo Américo Miguez de Mello - CENPES",
+        "Data de início": "21/11/2023",
+        "Data de vigência": "11/09/2026",
+        "Data de encerramento": "11/11/2026",
+        "Tipo de Projeto": "Pesquisa e Ensino",
+        "Instituição executora": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo- Campus Vitória",
+        "Departamento": "",
+        "Processo e sub-processo": "0050.0125686.23.9",
+        "Valor aprovado": "12.737.775,20",
+        "Objetivo/Objeto/Título": "Adquirir, instalar e implementar equipamentos analítica que melhorem a infraestrutura necessária para estudar as propriedades físicoquímicas do Petróleo e suas frações. A nova infraestrutura, isto é, os novos sistemas analíticos fomentarão o desenvolvimento tecnológico e ampliarão a capacidade de P&D da instituição, capacitando-a a Instituição a tornar-se um centro de referência no assunto."
+      }
+    ],
+    "Projeto_250/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "ADM - Outras Despesas",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "5.591,59",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "10.000,00",
+        "Liberado": "0,00",
+        "Executado": "-63,50",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "317.030,27",
+        "Liberado": "0,00",
+        "Executado": "-317.030,27",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Aprovado": "11.408.973,25",
+        "Liberado": "0,00",
+        "Executado": "-11.408.973,25",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Aprovado": "607.756,05",
+        "Liberado": "0,00",
+        "Executado": "-569.602,01",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "404.015,63",
+        "Liberado": "0,00",
+        "Executado": "-367.766,15",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "12.399.367,33",
+        "Executado": "12.399.367,33",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "354.458,67",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_250/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "26.337.230/0001-34",
+        "Nome do Favorecido": "7LAB EQUIPAMENTOS E SERVICOS LTDA",
+        "Data do Pagamento": "07/02/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "27.994,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "07.433.647/0001-56",
+        "Nome do Favorecido": "ACTION AGENCIAMENTO DE CARGAS LTDA.",
+        "Data do Pagamento": "12/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "12.069,69"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "07.433.647/0001-56",
+        "Nome do Favorecido": "ACTION AGENCIAMENTO DE CARGAS LTDA.",
+        "Data do Pagamento": "19/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "6.994,66"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "07.433.647/0001-56",
+        "Nome do Favorecido": "ACTION AGENCIAMENTO DE CARGAS LTDA.",
+        "Data do Pagamento": "04/09/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "3.634,61"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "17.048.568/0001-85",
+        "Nome do Favorecido": "AMERICA COMERCIO DE FERRAMENTAS LTDA",
+        "Data do Pagamento": "17/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1.600,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": " ",
+        "Nome do Favorecido": "ANTON PAAR GMBH",
+        "Data do Pagamento": "07/03/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "946.162,50"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": " ",
+        "Nome do Favorecido": "ANTON PAAR GMBH",
+        "Data do Pagamento": "20/03/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "303.478,17"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": " ",
+        "Nome do Favorecido": "ANTON PAAR GMBH",
+        "Data do Pagamento": "03/04/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "327.470,89"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": " ",
+        "Nome do Favorecido": "ANTON PAAR GMBH",
+        "Data do Pagamento": "16/05/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "557.969,50"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "29.187.707/0001-30",
+        "Nome do Favorecido": "BA TRANSLOG LTDA",
+        "Data do Pagamento": "27/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "1.750,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/02/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "2,68"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "0,55"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/04/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "0,55"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "10/04/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "1,10"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "19/04/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "0,55"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/06/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "532,10"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "12/06/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "154,23"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "25/06/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "154,23"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "508,98"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "12/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "10,72"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "16/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "154,23"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "19/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "5,36"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "24/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "154,80"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "29/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "154,23"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "01/08/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "154,23"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "12/08/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "154,23"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "14/08/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "16/08/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/09/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "5,56"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/09/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "154,23"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "11/09/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "29/10/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "154,23"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "29/01/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "19/02/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "377,87"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "28/02/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "26/03/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "27/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "17/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "10/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "3,52"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "19/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "26/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "154,23"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "10/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "19.834.932/0001-68",
+        "Nome do Favorecido": "BIOLABBRASIL - EQUIPAMENTOS PARA LABORATORIOS LTDA - ME",
+        "Data do Pagamento": "20/12/2024",
+        "Mês de Competência": "12/2024",
+        "Valor": "8.870,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": " ",
+        "Nome do Favorecido": "BIOLIN SCIENTIFIC AB",
+        "Data do Pagamento": "19/04/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "302.129,19"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00000000000000",
+        "Nome do Favorecido": "Biotage LLC",
+        "Data do Pagamento": "25/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "854.263,27"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": " ",
+        "Nome do Favorecido": "BRUKER BIOSPIN GMBH",
+        "Data do Pagamento": "22/03/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "533.488,79"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": " ",
+        "Nome do Favorecido": "BRUKER OPTICS GmmH & CO. KG",
+        "Data do Pagamento": "20/03/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "194.589,21"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": " ",
+        "Nome do Favorecido": "BÜCHI Labortechnik AG",
+        "Data do Pagamento": "10/04/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "121.075,07"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "35.554.979/0001-24",
+        "Nome do Favorecido": "BUENOS AIRES TRANSLOG LTDA",
+        "Data do Pagamento": "16/08/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "450,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "35.554.979/0001-24",
+        "Nome do Favorecido": "BUENOS AIRES TRANSLOG LTDA",
+        "Data do Pagamento": "01/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "750,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "35.554.979/0001-24",
+        "Nome do Favorecido": "BUENOS AIRES TRANSLOG LTDA",
+        "Data do Pagamento": "28/02/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "1.200,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "52.898.194/0001-98",
+        "Nome do Favorecido": "CM COMANDOS LINEARES LTDA",
+        "Data do Pagamento": "20/03/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "101.700,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "44.462.884/0001-71",
+        "Nome do Favorecido": "CONECTA SOLUCOES EM TECNOLOGIA LTDA",
+        "Data do Pagamento": "29/01/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "5.496,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "01.122.809/0002-30",
+        "Nome do Favorecido": "DAWLOG LOGISTICA E HANGARAGEM LTDA",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "25.806,52"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "01.122.809/0002-30",
+        "Nome do Favorecido": "DAWLOG LOGISTICA E HANGARAGEM LTDA",
+        "Data do Pagamento": "10/06/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "8.954,76"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "01.122.809/0002-30",
+        "Nome do Favorecido": "DAWLOG LOGISTICA E HANGARAGEM LTDA",
+        "Data do Pagamento": "13/06/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "4.299,46"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "01.122.809/0002-30",
+        "Nome do Favorecido": "DAWLOG LOGISTICA E HANGARAGEM LTDA",
+        "Data do Pagamento": "26/06/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "3.492,95"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "01.122.809/0002-30",
+        "Nome do Favorecido": "DAWLOG LOGISTICA E HANGARAGEM LTDA",
+        "Data do Pagamento": "09/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "5.585,13"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "01.122.809/0002-30",
+        "Nome do Favorecido": "DAWLOG LOGISTICA E HANGARAGEM LTDA",
+        "Data do Pagamento": "10/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "2.485,46"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "01.122.809/0002-30",
+        "Nome do Favorecido": "DAWLOG LOGISTICA E HANGARAGEM LTDA",
+        "Data do Pagamento": "17/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "1.238,30"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "01.122.809/0002-30",
+        "Nome do Favorecido": "DAWLOG LOGISTICA E HANGARAGEM LTDA",
+        "Data do Pagamento": "25/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "1.306,86"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "01.122.809/0002-30",
+        "Nome do Favorecido": "DAWLOG LOGISTICA E HANGARAGEM LTDA",
+        "Data do Pagamento": "30/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "2.565,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "01.122.809/0002-30",
+        "Nome do Favorecido": "DAWLOG LOGISTICA E HANGARAGEM LTDA",
+        "Data do Pagamento": "02/08/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "52.857,71"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "01.122.809/0002-30",
+        "Nome do Favorecido": "DAWLOG LOGISTICA E HANGARAGEM LTDA",
+        "Data do Pagamento": "13/08/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "3.107,96"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "01.122.809/0002-30",
+        "Nome do Favorecido": "DAWLOG LOGISTICA E HANGARAGEM LTDA",
+        "Data do Pagamento": "14/08/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "2.483,63"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "01.122.809/0002-30",
+        "Nome do Favorecido": "DAWLOG LOGISTICA E HANGARAGEM LTDA",
+        "Data do Pagamento": "09/09/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "2.546,08"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "01.122.809/0002-30",
+        "Nome do Favorecido": "DAWLOG LOGISTICA E HANGARAGEM LTDA",
+        "Data do Pagamento": "30/10/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "5.520,23"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "01.122.809/0002-30",
+        "Nome do Favorecido": "DAWLOG LOGISTICA E HANGARAGEM LTDA",
+        "Data do Pagamento": "21/02/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "9.935,97"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "01.122.809/0002-30",
+        "Nome do Favorecido": "DAWLOG LOGISTICA E HANGARAGEM LTDA",
+        "Data do Pagamento": "20/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "4.236,52"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "01.122.809/0002-30",
+        "Nome do Favorecido": "DAWLOG LOGISTICA E HANGARAGEM LTDA",
+        "Data do Pagamento": "21/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "3.326,16"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "01.122.809/0002-30",
+        "Nome do Favorecido": "DAWLOG LOGISTICA E HANGARAGEM LTDA",
+        "Data do Pagamento": "09/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "12.563,68"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "74.182.593/0001-90",
+        "Nome do Favorecido": "DC LOGISTICS BRASIL LTDA",
+        "Data do Pagamento": "19/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "7.270,12"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "74.182.593/0001-90",
+        "Nome do Favorecido": "DC LOGISTICS BRASIL LTDA",
+        "Data do Pagamento": "14/08/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "114,97"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "72.381.189/0010-01",
+        "Nome do Favorecido": "DELL COMPUTADORES DO BRASIL LTDA",
+        "Data do Pagamento": "01/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "23.491,74"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "04.236.718/0001-32",
+        "Nome do Favorecido": "EASY SOLUTION LOGISTICA LTDA",
+        "Data do Pagamento": "10/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "3.645,24"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "04.236.718/0003-02",
+        "Nome do Favorecido": "EASY SOLUTION LOGISTICA LTDA",
+        "Data do Pagamento": "12/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "9.495,08"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "04.236.718/0001-32",
+        "Nome do Favorecido": "EASY SOLUTION LOGISTICA LTDA",
+        "Data do Pagamento": "04/09/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "9.210,13"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "04.236.718/0001-32",
+        "Nome do Favorecido": "EASY SOLUTION LOGISTICA LTDA",
+        "Data do Pagamento": "11/09/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "77.780,55"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "04.236.718/0001-32",
+        "Nome do Favorecido": "EASY SOLUTION LOGISTICA LTDA",
+        "Data do Pagamento": "09/10/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "4.169,80"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "04.236.718/0001-32",
+        "Nome do Favorecido": "EASY SOLUTION LOGISTICA LTDA",
+        "Data do Pagamento": "27/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "10.962,70"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "04.236.718/0001-32",
+        "Nome do Favorecido": "EASY SOLUTION LOGISTICA LTDA",
+        "Data do Pagamento": "19/03/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "14.361,99"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "04.236.718/0001-32",
+        "Nome do Favorecido": "EASY SOLUTION LOGISTICA LTDA",
+        "Data do Pagamento": "26/03/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "6.573,16"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "04.236.718/0001-32",
+        "Nome do Favorecido": "EASY SOLUTION LOGISTICA LTDA",
+        "Data do Pagamento": "24/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "5.856,63"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "04.236.718/0001-32",
+        "Nome do Favorecido": "EASY SOLUTION LOGISTICA LTDA",
+        "Data do Pagamento": "17/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "5.111,60"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "03.010.937/0001-36",
+        "Nome do Favorecido": "Eppendorf do Brasil Ltda",
+        "Data do Pagamento": "03/04/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "9.942,86"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "03.010.937/0001-36",
+        "Nome do Favorecido": "Eppendorf do Brasil Ltda",
+        "Data do Pagamento": "03/05/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "81.173,49"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "03.010.937/0001-36",
+        "Nome do Favorecido": "Eppendorf do Brasil Ltda",
+        "Data do Pagamento": "17/05/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "1.283,62"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": " ",
+        "Nome do Favorecido": "Equilab FL Corporation",
+        "Data do Pagamento": "08/03/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "5.391.996,29"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": " ",
+        "Nome do Favorecido": "Equilab FL Corporation",
+        "Data do Pagamento": "20/03/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "247.293,74"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00000000000000",
+        "Nome do Favorecido": "Equilab FL Corporation",
+        "Data do Pagamento": "25/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "119.757,73"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "60.765.872/0001-72",
+        "Nome do Favorecido": "FISATOM EQUIPAMENTOS CIENTIFICOS LTDA",
+        "Data do Pagamento": "10/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "10.036,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "12.329.985/0001-82",
+        "Nome do Favorecido": "KARGA FACIL LOGISTICA E TRANSPORTES LTDA",
+        "Data do Pagamento": "06/09/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "24.000,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": " ",
+        "Nome do Favorecido": "KEP TECHNOLOGIES INC",
+        "Data do Pagamento": "16/05/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "567.561,84"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "53.936.694/0001-30",
+        "Nome do Favorecido": "LABCOMM EQUIPAMENTOS PARA LABORATORIO LTDA",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "4.685,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "51.462.471/0001-52",
+        "Nome do Favorecido": "Labsynth Produtos para Laboratórios Ltda ",
+        "Data do Pagamento": "01/03/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "4.843,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "07.575.256/0001-76",
+        "Nome do Favorecido": "Locteiner Locações Ltda",
+        "Data do Pagamento": "24/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": " ",
+        "Nome do Favorecido": "LUM GmbH",
+        "Data do Pagamento": "19/04/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "293.145,04"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "44.702.299/0001-00",
+        "Nome do Favorecido": "LUTECH CIENTIFICA INDUSTRIA E COMERCIO LTDA",
+        "Data do Pagamento": "10/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "60.154,60"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": " ",
+        "Nome do Favorecido": "METROHM AG",
+        "Data do Pagamento": "22/03/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "193.089,27"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": " ",
+        "Nome do Favorecido": "METROHM AG",
+        "Data do Pagamento": "05/04/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "184.652,44"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": " ",
+        "Nome do Favorecido": "METTLER-TOLEDO GmbH",
+        "Data do Pagamento": "10/04/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "131.009,18"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "10.375.378/0001-23",
+        "Nome do Favorecido": "Mirante Moveis E Equipamentos De Escritorio Ltda",
+        "Data do Pagamento": "17/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "9.240,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "41.086.624/0001-50",
+        "Nome do Favorecido": "MUNDIAL CIENTIFICA LTDA",
+        "Data do Pagamento": "15/03/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "11.886,92"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": " ",
+        "Nome do Favorecido": "NIKON INSTRUMENTS INC.",
+        "Data do Pagamento": "10/04/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "139.841,13"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "67.774.679/0001-47",
+        "Nome do Favorecido": "NOVA ANALITICA IMPORTACAO E EXPORTACAO LTDA ",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "12.892,11"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "67.774.679/0001-47",
+        "Nome do Favorecido": "NOVA ANALITICA IMPORTACAO E EXPORTACAO LTDA ",
+        "Data do Pagamento": "10/04/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "92.129,67"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "00.398.022/0002-32",
+        "Nome do Favorecido": "Pró analise química e diagnóstica Ltda",
+        "Data do Pagamento": "19/04/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "62.983,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "01.456.073/0001-55",
+        "Nome do Favorecido": "SISCONTROL CONTROLE E INSTRUMENTACAO LTDA",
+        "Data do Pagamento": "19/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "13.200,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "CNPJ": "91.295.105/0001-70",
+        "Nome do Favorecido": "TECNICONTROL EQUIPAMENTOS PARA COMPUTADORES LTDA",
+        "Data do Pagamento": "26/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "26.000,00"
+      }
+    ],
+    "Projeto_250/Equipe.csv": [
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Nome": "Wanderson Romão",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "Instituto Federal do Espírito Santo ",
+        "Vínculo com a instituição": "Professor",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      }
+    ],
+    "Projeto_250/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "Aditivo agosto_2025",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Estufa de secagem",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "10.000,00",
+        "Valor total aprovado": "10.000,00",
+        "Valor executado": "4.685,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "Aditivo agosto_2025",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "No Break Monofásico de 15kVA",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "37.000,00",
+        "Valor total aprovado": "37.000,00",
+        "Valor executado": "26.000,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "Aditivo agosto_2025",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Cadeiras de Escritório",
+        "Justificativa": " ",
+        "Qtde aprovada": "4,00",
+        "Valor unitário": "1.000,00",
+        "Valor total aprovado": "4.000,00",
+        "Valor executado": "1.600,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "Aditivo agosto_2025",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Cadeira caixa alta",
+        "Justificativa": " ",
+        "Qtde aprovada": "15,00",
+        "Valor unitário": "900,00",
+        "Valor total aprovado": "13.500,00",
+        "Valor executado": "9.240,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "Aditivo agosto_2025",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Balança semi microAnalítica 0,01mg (5 casas decimais) calib. automática",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "18.581,38",
+        "Valor total aprovado": "18.581,38",
+        "Valor executado": "13.200,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "Aditivo agosto_2025",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "AGITADOR MAGNÉTICO COM AQUECIMENTO ATÉ +360°C",
+        "Justificativa": " ",
+        "Qtde aprovada": "4,00",
+        "Valor unitário": "3.000,00",
+        "Valor total aprovado": "12.000,00",
+        "Valor executado": "10.036,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "Aditivo agosto_2025",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Desktop dell Intel® Core¿ Ultra 7 265 (20-core, cache de 66MB, 1.8GHz to 5.3GHz",
+        "Justificativa": " ",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "13.000,00",
+        "Valor total aprovado": "26.000,00",
+        "Valor executado": "23.491,74"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "Aditivo agosto_2025",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Dispersor ULTRA TURRAX",
+        "Justificativa": " ",
+        "Qtde aprovada": "4,00",
+        "Valor unitário": "16.370,00",
+        "Valor total aprovado": "65.480,00",
+        "Valor executado": "60.154,60"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "Aditivo agosto_2025",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "DOA FACTO",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "12.418,62",
+        "Valor total aprovado": "12.418,62",
+        "Valor executado": "12.418,62"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 1 - Material Permanente e Equipamento Nacional",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Bancárias previstas em Proposta Comercial",
+        "Justificativa": "Vincular no item - Outras despesas - Despesas Acessórias de Importação",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "10.000,00",
+        "Valor total aprovado": "10.000,00",
+        "Valor executado": "2.870,52"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 1 - Material Permanente e Equipamento Nacional",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Dispensador Eletrônico De EppedorfMultipette® e Eppendorf CombiTips®25/50 mL",
+        "Justificativa": "PETROLEÔMICA - IFES VILA VELHA/IFES",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "11.226,48",
+        "Valor total aprovado": "11.226,48",
+        "Valor executado": "11.226,48"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 1 - Material Permanente e Equipamento Nacional",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "BANHO ULTRASSÔNICO DIG 4L",
+        "Justificativa": "PETROLEÔMICA - IFES VILA VELHA/IFES",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "3.491,78",
+        "Valor total aprovado": "3.491,78",
+        "Valor executado": "3.491,78"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 1 - Material Permanente e Equipamento Nacional",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Manta para balão 250ml, 500 ml e 1.000 ml",
+        "Justificativa": "Previsão para 1º trimestre de 2024",
+        "Qtde aprovada": "4,00",
+        "Valor unitário": "1.210,75",
+        "Valor total aprovado": "4.843,00",
+        "Valor executado": "4.843,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 1 - Material Permanente e Equipamento Nacional",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "REFRIGERADOR VERTICAL FROST FREE PORTA DE VIDRO - TEMP. 2 A 8°C - CAP. 324 LT",
+        "Justificativa": "Previsão 1º trimestre de 2024",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "5.943,46",
+        "Valor total aprovado": "11.886,92",
+        "Valor executado": "11.886,92"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 1 - Material Permanente e Equipamento Nacional",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Concentrador Eppendorf",
+        "Justificativa": "Previsão para 1º trimestre de 2024",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "81.173,49",
+        "Valor total aprovado": "81.173,49",
+        "Valor executado": "81.173,49"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 1 - Material Permanente e Equipamento Nacional",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "SISTEMA DE ULTRAPURIFICAÇÃO DE ÁGUA E OSMOSE REVERSA",
+        "Justificativa": "Previsão para 1º trimestre de 2024.",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "62.983,00",
+        "Valor total aprovado": "62.983,00",
+        "Valor executado": "62.983,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 1 - Material Permanente e Equipamento Nacional",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Banho termostático, Faixa de temperatura: 25 a 100 °C",
+        "Justificativa": "Previsão para o 1º trimestre de 2024",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "12.892,11",
+        "Valor total aprovado": "12.892,11",
+        "Valor executado": "12.892,11"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 1 - Material Permanente e Equipamento Nacional",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Estufa de secagem a vácuo 65 litros",
+        "Justificativa": "Previsão para o 1º trimestre de 2024.",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "88.637,89",
+        "Valor total aprovado": "88.637,89",
+        "Valor executado": "88.637,89"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 1 - Material Permanente e Equipamento Nacional",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "No Break Monofásico de 15kVA",
+        "Justificativa": "Previsão para o 1º trimestre de 2024.",
+        "Qtde aprovada": "3,00",
+        "Valor unitário": "33.900,00",
+        "Valor total aprovado": "101.700,00",
+        "Valor executado": "101.700,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 1 - Material Permanente e Equipamento Nacional",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Ultra turrax homogeneizador",
+        "Justificativa": "Previsão 1º trimestre de 2024.",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "13.997,00",
+        "Valor total aprovado": "27.994,00",
+        "Valor executado": "27.994,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 1 - Material Permanente e Equipamento Nacional",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "CÂMERA FOTOMICROGRÁFICA PRIMECAM 12 PRO",
+        "Justificativa": "item 15 - inclusão no aditivo (agosto/2024)",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "8.870,00",
+        "Valor total aprovado": "8.870,00",
+        "Valor executado": "8.870,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 1 - Material Permanente e Equipamento Nacional",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Samsung smart TV 50\"",
+        "Justificativa": "item 16 - inclusão no aditivo (agosto/2024)",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "2.498,00",
+        "Valor total aprovado": "2.498,00",
+        "Valor executado": "2.498,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 1 - Material Permanente e Equipamento Nacional",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Samsung Smart TV 55\" ",
+        "Justificativa": "item 17 - inclusão no aditivo (agosto/2024)",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "2.998,00",
+        "Valor total aprovado": "2.998,00",
+        "Valor executado": "2.998,00"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 1 - Material Permanente e Equipamento Nacional",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "DOA FACTO em Parcela Única",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "304.611,65",
+        "Valor total aprovado": "304.611,65",
+        "Valor executado": "304.611,65"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 2 - Material Permanente e Equipamento Importado",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Rotaevaporador 20 a 300 rpm; com Bomba de vácuo ",
+        "Justificativa": "Previsão para o trimestre 1º de 2024.",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "121.075,07",
+        "Valor total aprovado": "121.075,07",
+        "Valor executado": "121.075,07"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 2 - Material Permanente e Equipamento Importado",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Analisador Elementar",
+        "Justificativa": "Previsão para o 1º trimestre de 2024.",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "247.293,74",
+        "Valor total aprovado": "247.293,74",
+        "Valor executado": "247.293,74"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 2 - Material Permanente e Equipamento Importado",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "LUMiSizer NIR, analisador de estabilidade e tamanho de partículas.",
+        "Justificativa": "Previsão para o 1º trimestre de 2024",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "293.145,04",
+        "Valor total aprovado": "293.145,04",
+        "Valor executado": "293.145,04"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 2 - Material Permanente e Equipamento Importado",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "SISTEMA DE ESPECTROMETRIA DE MASSAS DE ALTÍSSIMARESOLUÇÃO E EXATIDÃO",
+        "Justificativa": "Previsão para o 1º trimestre de 2024.",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "5.391.996,29",
+        "Valor total aprovado": "5.391.996,29",
+        "Valor executado": "5.391.996,29"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 2 - Material Permanente e Equipamento Importado",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Titulador Karl Fischer volumétrico e coulométrico",
+        "Justificativa": "Previsão para o 1º trimestre de 2024.",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "193.089,27",
+        "Valor total aprovado": "193.089,27",
+        "Valor executado": "193.089,27"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 2 - Material Permanente e Equipamento Importado",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Titulador com trocador de amostras integrado Metrohm modelo 855",
+        "Justificativa": "Previsão para o 1º trimestre de 2024.",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "159.739,79",
+        "Valor total aprovado": "159.739,79",
+        "Valor executado": "159.739,79"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 2 - Material Permanente e Equipamento Importado",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "ESPECTRÔMETRO DE RESSONANCIA MAGNÉTICA NUCLEAR DE BAIXO CAMPO",
+        "Justificativa": "Previsão para o 1º trimestre de 2024.",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "533.488,79",
+        "Valor total aprovado": "533.488,79",
+        "Valor executado": "533.488,79"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 2 - Material Permanente e Equipamento Importado",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "PHMETRO/CONDUTIVÍMETRO MODELO 914",
+        "Justificativa": "Previsão para o 1º trimestre de 2024.",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "24.912,65",
+        "Valor total aprovado": "24.912,65",
+        "Valor executado": "24.912,65"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 2 - Material Permanente e Equipamento Importado",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Medidor de tamanho de partícula",
+        "Justificativa": "Previsão para o 1º trimestre de 2024.",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "303.478,17",
+        "Valor total aprovado": "303.478,17",
+        "Valor executado": "303.478,17"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 2 - Material Permanente e Equipamento Importado",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "SVM 3001 Viscodensímetro digital de bancada",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "228.333,46",
+        "Valor total aprovado": "228.333,46",
+        "Valor executado": "228.333,46"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 2 - Material Permanente e Equipamento Importado",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "MCR 302e - Reômetro modular compacto",
+        "Justificativa": "Previsão para o 1º trimestre de 2024.",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "946.162,50",
+        "Valor total aprovado": "946.162,50",
+        "Valor executado": "945.162,50"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 2 - Material Permanente e Equipamento Importado",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Densímetro digital de bancada",
+        "Justificativa": "Previsão para o 1° trimestre de 2024.",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "99.137,43",
+        "Valor total aprovado": "99.137,43",
+        "Valor executado": "99.137,43"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 2 - Material Permanente e Equipamento Importado",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Espectrofotômetro na região do Ifravermelho",
+        "Justificativa": "Previsão para o 1º trimestre de 2024.",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "194.589,21",
+        "Valor total aprovado": "194.589,21",
+        "Valor executado": "194.589,21"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 2 - Material Permanente e Equipamento Importado",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "MICROSCÓPIO PETROGRÁFICO TRINOCULAR COM ILUMINAÇÃO EPI/DIA 50W",
+        "Justificativa": "Previsão para o 1º trimestre de 2024.",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "139.841,13",
+        "Valor total aprovado": "139.841,13",
+        "Valor executado": "139.841,13"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 2 - Material Permanente e Equipamento Importado",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Tensiômetro Theta Flow",
+        "Justificativa": "Previsão para o 1º trimestre de 2024.",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "302.129,19",
+        "Valor total aprovado": "302.129,19",
+        "Valor executado": "302.129,19"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 2 - Material Permanente e Equipamento Importado",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "BALANÇA XPR205/A",
+        "Justificativa": "Previsão para o 1º trimestre de 2024.",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "131.009,18",
+        "Valor total aprovado": "131.009,18",
+        "Valor executado": "131.009,18"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 2 - Material Permanente e Equipamento Importado",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Centrífuga refrigerada/aquecida de bancada, modelo Rotanta 460R, da marca Hettic",
+        "Justificativa": "item 16 - inclusão no aditivo (agosto/2024)",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "119.757,73",
+        "Valor total aprovado": "119.757,73",
+        "Valor executado": "119.757,73"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 2 - Material Permanente e Equipamento Importado",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "8 Cromatógrafo Preparativo Flash Selektdetector UV e ELSD",
+        "Justificativa": "item 18 - inclusão no aditivo (agosto/2024)",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "412.811,36",
+        "Valor total aprovado": "412.811,36",
+        "Valor executado": "412.811,36"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 2 - Material Permanente e Equipamento Importado",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": " TurboVap® LV Sistema Rápido de Evaporação ",
+        "Justificativa": "item 19 - inclusão no aditivo (agosto/2024)",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "80.469,03",
+        "Valor total aprovado": "80.469,03",
+        "Valor executado": "80.469,03"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 2 - Material Permanente e Equipamento Importado",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Cromatógrafo Preparativo Flash Selekt, com detector UV-Vis",
+        "Justificativa": "item 17 - inclusão no aditivo (agosto/2024)",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "360.982,88",
+        "Valor total aprovado": "360.982,88",
+        "Valor executado": "360.982,88"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 2 - Material Permanente e Equipamento Importado",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Sistema Completo Reometro",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "557.969,50",
+        "Valor total aprovado": "557.969,50",
+        "Valor executado": "557.969,50"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 2 - Material Permanente e Equipamento Importado",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Microcalorímetro de alta sensibilidade",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "567.561,84",
+        "Valor total aprovado": "567.561,84",
+        "Valor executado": "567.561,84"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Agrupamento": "META 2 - Material Permanente e Equipamento Importado",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Acessórias de Importação",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "404.015,63",
+        "Valor total aprovado": "404.015,63",
+        "Valor executado": "377.501,62"
+      }
+    ],
+    "Projeto_250/Documentos.csv": [
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Título do Arquivo": "Termo de Cooperação",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Título do Arquivo": "250_Aditivo 1_LAI",
+        "Descrição": " "
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Título do Arquivo": "250_Adtivo 1_LAI",
+        "Descrição": "Aditivo ao termo de cooperação nº0050.0125686.23.9 (4600676814) Celebrado entre Petróleo Brasileiro S.A -Petrobras e Instituto Federal de Educação, Ciência e Tecnologia do Espirito Santo -Ifes, com a interveniência administrativa do(a) fundação de apoio a"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Título do Arquivo": "250_Adtivo 2_LAI",
+        "Descrição": "ADITIVO Nº 2 AO TERMO DE COOPERAÇÃO ICJNº 0050.0125686.23.9 (4600676814), QUE ENTRESI CELEBRAM PETRÓLEO BRASILEIRO S/A -PETROBRAS E O INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DOESPÍRITO SANTO/IFES COM A INTERVENIÊNCIADA FUNDAÇÃO DE APOIO "
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Título do Arquivo": "250_ADITIVO 3_LAI",
+        "Descrição": "ADITIVO AO TERMO DE COOPERAÇÃO Nº 0050.0125686.23.9(4600676814) CELEBRADO ENTRE PETRÓLEO BRASILEIRO S.A. -PETROBRAS e INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA ETECNOLOGIA DO ESPIRITO SANTO/IFES, COM A INTERVENIÊNCIAADMINISTRATIVA DO(A) FUNDAÇÃO DE APOIO"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Título do Arquivo": "P 250 Termo de cooperacao e plano de trabalho_LAI",
+        "Descrição": "00TERMO DE COOPERAÇÃO QUE ENTRE SICELEBRAM PETRÓLEO BRASILEIRO S/A -PETROBRAS E O INSTITUTO FEDERAL DE EDUCACAO CIÊNCIA E TECNOLOGIA DOESPÍRITO SANTO - IFES, COM AINTERVENIÊNCIA DA FUNDAÇÃO DE APOIO AODESENVOLVIMENTO DA CIÊNCIA ETECNOLOGIA - FACTO,"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Título do Arquivo": "250_Aditivo 4_escopo_LAI",
+        "Descrição": "ADITIVO Nº 4 AO TERMO DE COOPERAÇÃO ICJNº 0050.0125686.23.9 (4600676814), QUE ENTRESI CELEBRAM PETRÓLEO BRASILEIRO S/A -PETROBRAS E A INSTITUTO FEDERAL DEEDUCAÇÃO, CIÊNCIA E TECNOLOGIA DOESPÍRITO SANTO/IFES COM A INTERVENIÊNCIADA FUNDAÇÃO DE APOIO A"
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Título do Arquivo": "ADITIVO 4_P250_LAI",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Título do Arquivo": "P 250_ADITIVO 5_LAI",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      }
+    ],
+    "Projeto_250/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Título do Arquivo": "Certidão",
+        "Descrição": "CERTIDÃO DE DOCUMENTAÇÃO DE PROCEDIMENTO DE PRESTAÇÃO DE CONTAS AMPARADA PELO SIGILO EM RAZÃO DA LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS",
+        "Data início": "21/11/2023 ",
+        "Data final": "28/02/2025 "
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Título do Arquivo": "Prestação de Contas Parcial",
+        "Descrição": "Prestação de Contas Parcial 21.11.2023 a 28.02.2025",
+        "Data início": "21/11/2023 ",
+        "Data final": "28/02/2025 "
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Título do Arquivo": "Prestação de Contas Parcial",
+        "Descrição": "Relatório de Março e Abril/2025",
+        "Data início": "01/03/2025 ",
+        "Data final": "30/04/2025 "
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Título do Arquivo": "250_PC_PARCIAL_MAI_a_DEZ_2025",
+        "Descrição": "Prestação de contas parcial referente ao período de 05/25 a 12/25.",
+        "Data início": "01/05/2025 ",
+        "Data final": "31/12/2025 "
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Título do Arquivo": "250_PC_PARCIAL_JAN_2026",
+        "Descrição": "Prestação de contas parcial referente a janeiro de 2026.",
+        "Data início": "01/01/2026 ",
+        "Data final": "31/01/2026 "
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Título do Arquivo": "250_PC_PARCIAL_FEV_2026",
+        "Descrição": "Prestação de contas parcial referente ao mês de fevereiro de 2026.",
+        "Data início": "01/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Título do Arquivo": "250_PC_PARCIAL_MAR_2026",
+        "Descrição": "Prestação de contas parcial referente a março de 2026.",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      },
+      {
+        "Referência do projeto": "250 - Infraestrutura para Estudo de Caracterização e do Envelhecimento do Asfalto, Agregação de Asfaltenos - IFES",
+        "Título do Arquivo": "250_PC_PARCIAL_ABR_2026",
+        "Descrição": "Prestação de contas parcial referente a abril de 2026.",
+        "Data início": "01/04/2026 ",
+        "Data final": "30/04/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T14:12:12",
+  "_error": null
+}

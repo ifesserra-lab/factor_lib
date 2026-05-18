@@ -1,0 +1,456 @@
+{
+  "id": "370",
+  "name": "Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória.",
+  "csv": {
+    "Projeto_370/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Coordenador": "Bruno dos Santos Prado Moura",
+        "Financiadora": "Instituto Histórico e Geográfico de Vila Velha (Casa da Memória) - IHGVV",
+        "Data de início": "24/03/2026",
+        "Data de vigência": "24/01/2027",
+        "Data de encerramento": "24/03/2027",
+        "Tipo de Projeto": "Extensão",
+        "Instituição executora": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo- Campus Vitória",
+        "Departamento": "",
+        "Processo e sub-processo": "23148.000742/2026-11",
+        "Valor aprovado": "180.000,00",
+        "Objetivo/Objeto/Título": "Promover a circulação de conhecimentos e saberes sobre história, cultura e lazer do município de Vila Velha - ES a partir de pesquisas sobre o Museu Casa da Memória."
+      }
+    ],
+    "Projeto_370/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Bolsas",
+        "Aprovado": "150.804,00",
+        "Liberado": "0,00",
+        "Executado": "-11.599,39",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "287,38",
+        "Liberado": "0,00",
+        "Executado": "-23,96",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "18.408,62",
+        "Liberado": "0,00",
+        "Executado": "-8.445,01",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "RCI - Ressarcimentos e Contrapartidas Institucionais ",
+        "Aprovado": "9.000,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "1.500,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "82.575,59",
+        "Executado": "82.575,59",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "659,03",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_370/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "01/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "17,52"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "11/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "5,84"
+      }
+    ],
+    "Projeto_370/Pagamento de pessoa física.csv": [
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "CPF": "***.575.685-**",
+        "Nome do Favorecido": "Ângela Silva da Silva ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "667,75"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "CPF": "***.396.587-**",
+        "Nome do Favorecido": "Antonio Zanela Bassetto Bermudes",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "690,00"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "CPF": "***.410.487-**",
+        "Nome do Favorecido": "BIANCA ROMUALDO OLIVEIRA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "690,00"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "CPF": "***.916.657-**",
+        "Nome do Favorecido": "Bruno dos Santos Prado Moura",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "4.343,32"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "CPF": "***.493.863-**",
+        "Nome do Favorecido": "Cosma Nascimento",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "11/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "720,00"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "CPF": "***.325.127-**",
+        "Nome do Favorecido": "EDIANE SANTOS PAGANINI COVRE",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "3.078,32"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "CPF": "***.950.347-**",
+        "Nome do Favorecido": "Geniliz Lima Nunes",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "690,00"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "CPF": "***.390.907-**",
+        "Nome do Favorecido": "Marialice Loureiro Ferreira ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "11/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "720,00"
+      }
+    ],
+    "Projeto_370/Equipe.csv": [
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Nome": "Ângela Silva da Silva ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Nome": "Antonio Zanela Bassetto Bermudes",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Nome": "BIANCA ROMUALDO OLIVEIRA",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Nome": "Bruno dos Santos Prado Moura",
+        "Função": "Coordenador",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Sim"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Nome": "Bruno dos Santos Prado Moura",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Ifes",
+        "Vínculo com a instituição": "Professor EBTT",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Nome": "Cosma Nascimento",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": "Estudante",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Nome": "EDIANE SANTOS PAGANINI COVRE",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Ifes",
+        "Vínculo com a instituição": "Bolsista",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Nome": "Geniliz Lima Nunes",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Educação Superior completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Nome": "Marialice Loureiro Ferreira ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      }
+    ],
+    "Projeto_370/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa CPO",
+        "Justificativa": " ",
+        "Qtde aprovada": "10,00",
+        "Valor unitário": "5.665,20",
+        "Valor total aprovado": "56.652,00",
+        "Valor executado": "28.326,00"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa CLE-M",
+        "Justificativa": " ",
+        "Qtde aprovada": "10,00",
+        "Valor unitário": "4.015,20",
+        "Valor total aprovado": "40.152,00",
+        "Valor executado": "20.076,00"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa EJ1",
+        "Justificativa": " ",
+        "Qtde aprovada": "10,00",
+        "Valor unitário": "900,00",
+        "Valor total aprovado": "9.000,00",
+        "Valor executado": "4.500,00"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa EJ1",
+        "Justificativa": " ",
+        "Qtde aprovada": "10,00",
+        "Valor unitário": "900,00",
+        "Valor total aprovado": "9.000,00",
+        "Valor executado": "4.500,00"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa EJ1",
+        "Justificativa": " ",
+        "Qtde aprovada": "10,00",
+        "Valor unitário": "900,00",
+        "Valor total aprovado": "9.000,00",
+        "Valor executado": "4.500,00"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa EJ1",
+        "Justificativa": " ",
+        "Qtde aprovada": "10,00",
+        "Valor unitário": "900,00",
+        "Valor total aprovado": "9.000,00",
+        "Valor executado": "4.500,00"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa EJ1",
+        "Justificativa": " ",
+        "Qtde aprovada": "10,00",
+        "Valor unitário": "900,00",
+        "Valor total aprovado": "9.000,00",
+        "Valor executado": "4.500,00"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa EJ1",
+        "Justificativa": " ",
+        "Qtde aprovada": "10,00",
+        "Valor unitário": "900,00",
+        "Valor total aprovado": "9.000,00",
+        "Valor executado": "4.500,00"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "287,33",
+        "Valor total aprovado": "287,33",
+        "Valor executado": "23,96"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Serviço de editora",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.500,05",
+        "Valor total aprovado": "1.500,05",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Operacionais e Administrativas",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "18.408,82",
+        "Valor total aprovado": "18.408,82",
+        "Valor executado": "8.445,01"
+      },
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Agrupamento": "",
+        "Rubrica": "RCI - Ressarcimentos e Contrapartidas Institucionais ",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Computador",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "9.000,00",
+        "Valor total aprovado": "9.000,00",
+        "Valor executado": "0,00"
+      }
+    ],
+    "Projeto_370/Documentos.csv": [
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Título do Arquivo": "P 370 Acordo de cooperacao_LAI",
+        "Descrição": "Arquivo com dados restritos conforme LAI - Lei de Acesso á informação"
+      }
+    ],
+    "Projeto_370/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "370 - Diálogos com histórias e memórias capixabas: o Sítio Histórico da Prainha e o Museu Casa da Memória",
+        "Título do Arquivo": "370_PC-PARCIAL-MAR-2026",
+        "Descrição": "Prestação de Contas Parcial referente a março de 2026. ",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T14:16:08",
+  "_error": null
+}

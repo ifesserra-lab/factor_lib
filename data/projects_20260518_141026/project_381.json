@@ -1,0 +1,243 @@
+{
+  "id": "381",
+  "name": "Estudo de variáveis químicas associadas à ocorrência de emissões no basculamento do gusa no pátio de emergência e na máquina de moldar gusa.",
+  "csv": {
+    "Projeto_381/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "381 - Estudo de variáveis químicas associadas à ocorrência de emissões no basculamento do gusa no pátio de emergência e na máquina de moldar gusa",
+        "Coordenador": "Felipe Fardin Grillo",
+        "Financiadora": "Arcelormittal Brasil S.A",
+        "Data de início": "05/05/2026",
+        "Data de vigência": "05/01/2027",
+        "Data de encerramento": "05/02/2027",
+        "Tipo de Projeto": "Pesquisa, Desenvolvimento e Inovação",
+        "Instituição executora": "Instituto Federal De Educação Ciencia E Tecnologia Do Espirito Santo - Reitoria",
+        "Departamento": "",
+        "Processo e sub-processo": "",
+        "Valor aprovado": "79.480,00",
+        "Objetivo/Objeto/Título": "Otimizar o processo de basculamento de gusa líquido no pátio de emergência (BF3) e no moldador de gusa através da identificação das reações e variáveis associadas visando mitigar as emissões de particulados e gases."
+      }
+    ],
+    "Projeto_381/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "381 - Estudo de variáveis químicas associadas à ocorrência de emissões no basculamento do gusa no pátio de emergência e na máquina de moldar gusa",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Bolsas",
+        "Aprovado": "52.800,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "381 - Estudo de variáveis químicas associadas à ocorrência de emissões no basculamento do gusa no pátio de emergência e na máquina de moldar gusa",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "200,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "381 - Estudo de variáveis químicas associadas à ocorrência de emissões no basculamento do gusa no pátio de emergência e na máquina de moldar gusa",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "8.452,16",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "381 - Estudo de variáveis químicas associadas à ocorrência de emissões no basculamento do gusa no pátio de emergência e na máquina de moldar gusa",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Aprovado": "12.400,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "381 - Estudo de variáveis químicas associadas à ocorrência de emissões no basculamento do gusa no pátio de emergência e na máquina de moldar gusa",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "RCI - Ressarcimentos e Contrapartidas Institucionais ",
+        "Aprovado": "3.827,84",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "381 - Estudo de variáveis químicas associadas à ocorrência de emissões no basculamento do gusa no pátio de emergência e na máquina de moldar gusa",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "1.800,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "381 - Estudo de variáveis químicas associadas à ocorrência de emissões no basculamento do gusa no pátio de emergência e na máquina de moldar gusa",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "381 - Estudo de variáveis químicas associadas à ocorrência de emissões no basculamento do gusa no pátio de emergência e na máquina de moldar gusa",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_381/Equipe.csv": [
+      {
+        "Referência do projeto": "381 - Estudo de variáveis químicas associadas à ocorrência de emissões no basculamento do gusa no pátio de emergência e na máquina de moldar gusa",
+        "Nome": "Felipe Fardin Grillo",
+        "Função": "Coordenador",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Sim"
+      }
+    ],
+    "Projeto_381/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "381 - Estudo de variáveis químicas associadas à ocorrência de emissões no basculamento do gusa no pátio de emergência e na máquina de moldar gusa",
+        "Agrupamento": "Convênio",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador - CPO-A",
+        "Justificativa": " ",
+        "Qtde aprovada": "8,00",
+        "Valor unitário": "2.400,00",
+        "Valor total aprovado": "19.200,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "381 - Estudo de variáveis químicas associadas à ocorrência de emissões no basculamento do gusa no pátio de emergência e na máquina de moldar gusa",
+        "Agrupamento": "Convênio",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Estudante A - EST G",
+        "Justificativa": " ",
+        "Qtde aprovada": "8,00",
+        "Valor unitário": "1.400,00",
+        "Valor total aprovado": "11.200,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "381 - Estudo de variáveis químicas associadas à ocorrência de emissões no basculamento do gusa no pátio de emergência e na máquina de moldar gusa",
+        "Agrupamento": "Convênio",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Estudante B - EST G",
+        "Justificativa": " ",
+        "Qtde aprovada": "8,00",
+        "Valor unitário": "1.400,00",
+        "Valor total aprovado": "11.200,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "381 - Estudo de variáveis químicas associadas à ocorrência de emissões no basculamento do gusa no pátio de emergência e na máquina de moldar gusa",
+        "Agrupamento": "Convênio",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Estudante C - EST G",
+        "Justificativa": " ",
+        "Qtde aprovada": "8,00",
+        "Valor unitário": "1.400,00",
+        "Valor total aprovado": "11.200,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "381 - Estudo de variáveis químicas associadas à ocorrência de emissões no basculamento do gusa no pátio de emergência e na máquina de moldar gusa",
+        "Agrupamento": "Convênio",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "200,00",
+        "Valor total aprovado": "200,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "381 - Estudo de variáveis químicas associadas à ocorrência de emissões no basculamento do gusa no pátio de emergência e na máquina de moldar gusa",
+        "Agrupamento": "Convênio",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Placas Refratárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "4,00",
+        "Valor unitário": "450,00",
+        "Valor total aprovado": "1.800,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "381 - Estudo de variáveis químicas associadas à ocorrência de emissões no basculamento do gusa no pátio de emergência e na máquina de moldar gusa",
+        "Agrupamento": "Convênio",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Análises de fluorescência de raio X",
+        "Justificativa": " ",
+        "Qtde aprovada": "4,00",
+        "Valor unitário": "250,00",
+        "Valor total aprovado": "1.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "381 - Estudo de variáveis químicas associadas à ocorrência de emissões no basculamento do gusa no pátio de emergência e na máquina de moldar gusa",
+        "Agrupamento": "Convênio",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Análise de DRX",
+        "Justificativa": " ",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "250,00",
+        "Valor total aprovado": "500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "381 - Estudo de variáveis químicas associadas à ocorrência de emissões no basculamento do gusa no pátio de emergência e na máquina de moldar gusa",
+        "Agrupamento": "Convênio",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Operacionais e Administrativas",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "8.452,16",
+        "Valor total aprovado": "8.452,16",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "381 - Estudo de variáveis químicas associadas à ocorrência de emissões no basculamento do gusa no pátio de emergência e na máquina de moldar gusa",
+        "Agrupamento": "Convênio",
+        "Rubrica": "RCI - Ressarcimentos e Contrapartidas Institucionais ",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Ressarcimento Institucional",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "12.280,00",
+        "Valor total aprovado": "12.280,00",
+        "Valor executado": "0,00"
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T14:16:19",
+  "_error": null
+}

@@ -1,0 +1,3160 @@
+{
+  "id": "323",
+  "name": "Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares.",
+  "csv": {
+    "Projeto_323/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Coordenador": "Marcela Pavan Bagagli",
+        "Financiadora": "Ministério do Desenvolvimento Agrário e Agricultura Familiar",
+        "Data de início": "07/02/2025",
+        "Data de vigência": "07/06/2026",
+        "Data de encerramento": "07/08/2026",
+        "Tipo de Projeto": "Extensão",
+        "Instituição executora": "Instituto Federal de Educação, Ciência e tecnologia de São Paulo",
+        "Departamento": "",
+        "Processo e sub-processo": "23438.001705.2024-95 (SUAP)",
+        "Valor aprovado": "902.876,02",
+        "Objetivo/Objeto/Título": "Operacionalizar a produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares; elaborar manuais de boas práticas, modelos de biofábricas on farm e  procedimentos operacionais."
+      }
+    ],
+    "Projeto_323/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Bolsas",
+        "Aprovado": "100.300,00",
+        "Liberado": "0,00",
+        "Executado": "-72.700,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "500,00",
+        "Liberado": "0,00",
+        "Executado": "-454,19",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Diária Nacional",
+        "Aprovado": "46.538,60",
+        "Liberado": "0,00",
+        "Executado": "-34.065,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "95.977,51",
+        "Liberado": "0,00",
+        "Executado": "-95.977,51",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Aprovado": "354.300,00",
+        "Liberado": "0,00",
+        "Executado": "-331.347,59",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Aprovado": "53.408,38",
+        "Liberado": "0,00",
+        "Executado": "-40.368,14",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Passagens",
+        "Aprovado": "39.561,40",
+        "Liberado": "0,00",
+        "Executado": "-18.834,64",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "212.290,13",
+        "Liberado": "0,00",
+        "Executado": "-112.224,30",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "902.876,02",
+        "Executado": "902.876,02",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "39.591,62",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_323/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "63.023.885/0001-64",
+        "Nome do Favorecido": "63.023.885 LUIZ FERNANDO PALMIERI SAKAMOTO",
+        "Data do Pagamento": "04/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.480,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "13.024.667/0001-76",
+        "Nome do Favorecido": "ALBA ELETRONICOS LTDA",
+        "Data do Pagamento": "31/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "4.200,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "13.024.667/0001-76",
+        "Nome do Favorecido": "ALBA ELETRONICOS LTDA",
+        "Data do Pagamento": "22/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "4.200,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "13.024.667/0001-76",
+        "Nome do Favorecido": "ALBA ELETRONICOS LTDA",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "653,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "13.024.667/0001-76",
+        "Nome do Favorecido": "ALBA ELETRONICOS LTDA",
+        "Data do Pagamento": "27/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "336,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "29.191.443/0001-99",
+        "Nome do Favorecido": "ARTCOM DIGITAL LTDA",
+        "Data do Pagamento": "19/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "7.998,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "02.767.365/0001-71",
+        "Nome do Favorecido": "ASSOCIACAO COMUNITARIA DE COMUNICACAO E CULTURA DOS ASSENTADOS DA PIRITUBA",
+        "Data do Pagamento": "28/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "5.010,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "26/03/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "1,71"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "5,56"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "11/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "27/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "6,70"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "23/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "3,52"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "27/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "4,12"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "3,52"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "17/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "19/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "24/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "4,12"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "10/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1,20"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "15/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "22/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "27/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "31/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "5,84"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "4,12"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "14/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "19/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "1,20"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "26/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "28/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "10,56"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "12/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "22/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "10,56"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "19/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "10,56"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1,20"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "02/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "12,28"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "13,48"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "7,04"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "11/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "80,20"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "77,80"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "18/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "31,60"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "20/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "24,56"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "23/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "17,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "25/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "27/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "5,84"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "30/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "02/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "14,60"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "3,81"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "26,96"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "10/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "15/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "8,28"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "17/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "4,72"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "22/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "24/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "1,80"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "27/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "1,20"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "4,12"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "15/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "39.409.828/0001-33",
+        "Nome do Favorecido": "BCLAB - COMERCIO DE ARTIGOS MEDICOS, ORTOPEDICOS, AGROPECUARIO, PECAS E ACESSORIO PARA APARELHOS ELETRONICOS LTDA",
+        "Data do Pagamento": "24/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "1.100,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "53.600.234/0001-36",
+        "Nome do Favorecido": "BLUTECH RELAÇÕES EMPRESARIAIS LTDA",
+        "Data do Pagamento": "23/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "2.745,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "64.631.716/0001-70",
+        "Nome do Favorecido": "CARVALHO & SCHREURS LTDA",
+        "Data do Pagamento": "04/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "15.221,70"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "38.419.205/0001-89",
+        "Nome do Favorecido": "CATIONLAB EQUIPAMENTOS E PRODUTOS PARA LABORATORIO LTDA",
+        "Data do Pagamento": "10/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "11.713,38"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "54.494.997/0001-02",
+        "Nome do Favorecido": "COMERCIAL SAMPAIO LTDA",
+        "Data do Pagamento": "17/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "7.500,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "54.494.997/0001-02",
+        "Nome do Favorecido": "COMERCIAL SAMPAIO LTDA",
+        "Data do Pagamento": "26/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "12.550,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "54.096.466/0001-61",
+        "Nome do Favorecido": "COMERCIAL TEM TUDO MAIS LTDA.",
+        "Data do Pagamento": "04/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "179,40"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "16.685.538/0001-17",
+        "Nome do Favorecido": "Comércio de Produtos par Laboratório Ltda",
+        "Data do Pagamento": "03/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "3.472,64"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "46.699.467/0001-72",
+        "Nome do Favorecido": "CONSANI ENGENHARIA LTDA",
+        "Data do Pagamento": "10/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "27.568,80"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "46.699.467/0001-72",
+        "Nome do Favorecido": "CONSANI ENGENHARIA LTDA",
+        "Data do Pagamento": "07/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "123,20"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "46.699.467/0001-72",
+        "Nome do Favorecido": "CONSANI ENGENHARIA LTDA",
+        "Data do Pagamento": "19/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "308,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "46.699.467/0001-72",
+        "Nome do Favorecido": "CONSANI ENGENHARIA LTDA",
+        "Data do Pagamento": "20/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "15.123,20"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "46.699.467/0001-72",
+        "Nome do Favorecido": "CONSANI ENGENHARIA LTDA",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "700,80"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "46.699.467/0001-72",
+        "Nome do Favorecido": "CONSANI ENGENHARIA LTDA",
+        "Data do Pagamento": "17/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "176,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "07.661.064/0001-82",
+        "Nome do Favorecido": "COOPERATIVA AGROECOLOGICA NACIONAL TERRA E VIDA LTDA",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2.696,40"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "51.948.762/0001-55",
+        "Nome do Favorecido": "EDNA FELIPE FERREIRA",
+        "Data do Pagamento": "15/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "837,30"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "04.298.165/0001-42",
+        "Nome do Favorecido": "EMBALAGENS AVARÉ",
+        "Data do Pagamento": "04/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.267,70"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "03.390.722/0001-98",
+        "Nome do Favorecido": "FOSTER LIMA LTDA",
+        "Data do Pagamento": "04/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "15.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "03.390.722/0001-98",
+        "Nome do Favorecido": "FOSTER LIMA LTDA",
+        "Data do Pagamento": "18/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "15.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "46.126.322/0001-82",
+        "Nome do Favorecido": "Fundação Tropical de Pesq e Tecnologia André Tosello",
+        "Data do Pagamento": "18/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "4.119,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "64.138.944/0001-02",
+        "Nome do Favorecido": "HIPPERQUIMICA DO BRASIL INDUSTRIA E COMERCIO LTDA",
+        "Data do Pagamento": "20/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "6.250,47"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "07.933.551/0001-57",
+        "Nome do Favorecido": "I.L. BARRETO REPRESENTACOES LTDA",
+        "Data do Pagamento": "19/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "9.911,14"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "07.933.551/0001-57",
+        "Nome do Favorecido": "I.L. BARRETO REPRESENTACOES LTDA",
+        "Data do Pagamento": "31/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "2.749,97"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "07.933.551/0001-57",
+        "Nome do Favorecido": "I.L. BARRETO REPRESENTACOES LTDA",
+        "Data do Pagamento": "14/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "6.173,53"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "04.023.900/0001-05",
+        "Nome do Favorecido": "INDUSTRIA TORRES LTDA",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "280,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "53.936.694/0001-30",
+        "Nome do Favorecido": "LABCOMM EQUIPAMENTOS PARA LABORATORIO LTDA",
+        "Data do Pagamento": "30/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "262,80"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "53.936.694/0001-30",
+        "Nome do Favorecido": "LABCOMM EQUIPAMENTOS PARA LABORATORIO LTDA",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "1.309,82"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "31.715.491/0001-80",
+        "Nome do Favorecido": "LUCILENA DE OLIVEIRA",
+        "Data do Pagamento": "23/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "980,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "60.431.715/0001-20",
+        "Nome do Favorecido": "MARTE CIENTIFICA & INSTRUMENTACAO INDUSTRIAL LTDA",
+        "Data do Pagamento": "13/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "5.865,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "47.258.301/0001-83",
+        "Nome do Favorecido": "MULTIMIX SOLUCOES INTEGRADAS LTDA",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "3.998,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "47.258.301/0001-83",
+        "Nome do Favorecido": "MULTIMIX SOLUCOES INTEGRADAS LTDA",
+        "Data do Pagamento": "18/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "7.596,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "27.142.058/0001-26",
+        "Nome do Favorecido": "Prefeitura Municipal de Vitoria",
+        "Data do Pagamento": "07/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "123,20"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "27.142.058/0001-26",
+        "Nome do Favorecido": "Prefeitura Municipal de Vitoria",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "700,80"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.398.022/0002-32",
+        "Nome do Favorecido": "Pró analise química e diagnóstica Ltda",
+        "Data do Pagamento": "08/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "31.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "06.003.551/0001-95",
+        "Nome do Favorecido": "Qualividros Distribuidora Ltda",
+        "Data do Pagamento": "15/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "1.600,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "10.729.492/0001-04",
+        "Nome do Favorecido": "QUIMICENTER PRODUTOS PARA LABORATORIOS LTDA",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "350,61"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "12.271.082/0001-98",
+        "Nome do Favorecido": "Quimivix Comercio de Produtos Cientificos Ltda",
+        "Data do Pagamento": "13/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2.117,40"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "12.271.082/0001-98",
+        "Nome do Favorecido": "Quimivix Comercio de Produtos Cientificos Ltda",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "11.590,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "07.197.796/0001-63",
+        "Nome do Favorecido": "RR LOPES CAMARGO LOCADORA",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "8.944,75"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "07.197.796/0001-63",
+        "Nome do Favorecido": "RR LOPES CAMARGO LOCADORA",
+        "Data do Pagamento": "18/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "8.944,75"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "07.197.796/0001-63",
+        "Nome do Favorecido": "RR LOPES CAMARGO LOCADORA",
+        "Data do Pagamento": "17/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "610,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "50.276.065/0001-32",
+        "Nome do Favorecido": "SAO CARLOS QUIMICA LTDA",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "17.314,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "00.394.460/0058-87",
+        "Nome do Favorecido": "Secretaria da Receita Federal do Brasil",
+        "Data do Pagamento": "31/03/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "51,58"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "16.685.538/0001-17",
+        "Nome do Favorecido": "SINERGIA COMERCIO E REPRESENTACAO DE PRODUTOS PARA LABORATORIOS LTDA",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "5.467,48"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "47.010.566/0001-68",
+        "Nome do Favorecido": "TECNAL INDUSTRIA, COMERCIO, IMPORTACAO E EXPORTACAO DE EQUIPAMENTOS PARA LABORATORIO LTDA",
+        "Data do Pagamento": "27/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "184.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "57.508.289/0001-71",
+        "Nome do Favorecido": "TELLUS EQUIPAMENTOS E TECNOLOGIA LTDA",
+        "Data do Pagamento": "19/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "10.400,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "08.089.135/0001-87",
+        "Nome do Favorecido": "TOTAL CROMO COMERCIO DE ARTEFATOS DE METAIS LTDA",
+        "Data do Pagamento": "19/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "4.170,10"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "08.089.135/0001-87",
+        "Nome do Favorecido": "TOTAL CROMO COMERCIO DE ARTEFATOS DE METAIS LTDA",
+        "Data do Pagamento": "12/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "6.255,14"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "09.051.083/0001-12",
+        "Nome do Favorecido": "VEXER INDUSTRIA E COMERCIO DE EQUIPAMENTOS LTDA",
+        "Data do Pagamento": "17/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "685,01"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CNPJ": "37.129.735/0001-20",
+        "Nome do Favorecido": "WELISON TAVARES GUIMARAES",
+        "Data do Pagamento": "10/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2.668,18"
+      }
+    ],
+    "Projeto_323/Pagamento de pessoa física.csv": [
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.806.578-**",
+        "Nome do Favorecido": " Sidnei Aparecido Fratte",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "23/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "335,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.605.198-**",
+        "Nome do Favorecido": "Adalberto de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "23/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.605.198-**",
+        "Nome do Favorecido": "Adalberto de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "22/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "335,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.579.948-**",
+        "Nome do Favorecido": "Alice dos Santos",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.456.598-**",
+        "Nome do Favorecido": "Álvaro Régis de Barros",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.885.208-**",
+        "Nome do Favorecido": "ANA KAROLYNA DE SOUSA ANASTACIO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "800,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.885.208-**",
+        "Nome do Favorecido": "ANA KAROLYNA DE SOUSA ANASTACIO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "800,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.885.208-**",
+        "Nome do Favorecido": "ANA KAROLYNA DE SOUSA ANASTACIO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "800,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.885.208-**",
+        "Nome do Favorecido": "ANA KAROLYNA DE SOUSA ANASTACIO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "800,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.885.208-**",
+        "Nome do Favorecido": "ANA KAROLYNA DE SOUSA ANASTACIO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "800,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.885.208-**",
+        "Nome do Favorecido": "ANA KAROLYNA DE SOUSA ANASTACIO",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "09/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.005,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.899.358-**",
+        "Nome do Favorecido": "Ana Lívia Marques Bernardinelli",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.654.418-**",
+        "Nome do Favorecido": "Ana Lucia da Silva Proença",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.173.428-**",
+        "Nome do Favorecido": "Ana Maria Rodrigues",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.812.238-**",
+        "Nome do Favorecido": "Andre Aparecido Leite Moreira",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.425.528-**",
+        "Nome do Favorecido": "Antonio Carlos de Almeida",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.484.388-**",
+        "Nome do Favorecido": "Antonio Francisco Maia de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.182.548-**",
+        "Nome do Favorecido": "Arlete Fernandes",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "23/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.967.598-**",
+        "Nome do Favorecido": "Brasilino de Jesus Sousa",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "02/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.472.728-**",
+        "Nome do Favorecido": "Brenda Dandara Calixto Lopes",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.388.398-**",
+        "Nome do Favorecido": "Carlos Gabriel Henrique",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "18/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.436.908-**",
+        "Nome do Favorecido": "Clarice Pedro Guimarães",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.204.418-**",
+        "Nome do Favorecido": "Claudete Aparecida Alexandre",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "25/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.622.168-**",
+        "Nome do Favorecido": "Cléssio Martins dos Santos Júnior",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.739.578-**",
+        "Nome do Favorecido": "Cristiane Aparecida Santana ",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.187.198-**",
+        "Nome do Favorecido": "Dalma Regis Silva",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.100.498-**",
+        "Nome do Favorecido": "Dalva de Jesus Souza",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.224.838-**",
+        "Nome do Favorecido": "Daniel Santana Proença",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.741.668-**",
+        "Nome do Favorecido": "Daygo Bentlei Guedes Collucci",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.255.478-**",
+        "Nome do Favorecido": "Débora Lucena da Silva",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.788.048-**",
+        "Nome do Favorecido": "Diane Dayze de Proença",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.788.048-**",
+        "Nome do Favorecido": "Diane Dayze de Proença",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.788.048-**",
+        "Nome do Favorecido": "Diane Dayze de Proença",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.788.048-**",
+        "Nome do Favorecido": "Diane Dayze de Proença",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.788.048-**",
+        "Nome do Favorecido": "Diane Dayze de Proença",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.788.048-**",
+        "Nome do Favorecido": "Diane Dayze de Proença",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.788.048-**",
+        "Nome do Favorecido": "Diane Dayze de Proença",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.788.048-**",
+        "Nome do Favorecido": "Diane Dayze de Proença",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.788.048-**",
+        "Nome do Favorecido": "Diane Dayze de Proença",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.788.048-**",
+        "Nome do Favorecido": "Diane Dayze de Proença",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.788.048-**",
+        "Nome do Favorecido": "Diane Dayze de Proença",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.788.048-**",
+        "Nome do Favorecido": "Diane Dayze de Proença",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "27/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "1.005,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.788.048-**",
+        "Nome do Favorecido": "Diane Dayze de Proença",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "05/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "1.700,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.788.048-**",
+        "Nome do Favorecido": "Diane Dayze de Proença",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.572.728-**",
+        "Nome do Favorecido": "Eduarda Leite Correia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "838,70"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.572.728-**",
+        "Nome do Favorecido": "Eduarda Leite Correia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.572.728-**",
+        "Nome do Favorecido": "Eduarda Leite Correia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.572.728-**",
+        "Nome do Favorecido": "Eduarda Leite Correia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.572.728-**",
+        "Nome do Favorecido": "Eduarda Leite Correia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "961,30"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.572.728-**",
+        "Nome do Favorecido": "Eduarda Leite Correia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "800,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.572.728-**",
+        "Nome do Favorecido": "Eduarda Leite Correia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "800,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.572.728-**",
+        "Nome do Favorecido": "Eduarda Leite Correia",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "19/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "670,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.572.728-**",
+        "Nome do Favorecido": "Eduarda Leite Correia",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "670,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.572.728-**",
+        "Nome do Favorecido": "Eduarda Leite Correia",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "09/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.005,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.572.728-**",
+        "Nome do Favorecido": "Eduarda Leite Correia",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "502,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.572.728-**",
+        "Nome do Favorecido": "Eduarda Leite Correia",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "04/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "837,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.396.457-**",
+        "Nome do Favorecido": "Elaine Bernardo da Silva Oliveira",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.076.298-**",
+        "Nome do Favorecido": "Élida Verena Gonçalves Ribeiro",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.114.156-**",
+        "Nome do Favorecido": "Euclides Duarte dos Santos",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.631.168-**",
+        "Nome do Favorecido": "Everlin Loureiro de Melo",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.214.798-**",
+        "Nome do Favorecido": "Fabiana Fagundes da Silva",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "06/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "502,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.011.168-**",
+        "Nome do Favorecido": "Gabriela de Cássia Vitório",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.161.918-**",
+        "Nome do Favorecido": "GABRIELA SANCHES BARROZO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "800,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.161.918-**",
+        "Nome do Favorecido": "GABRIELA SANCHES BARROZO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "800,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.161.918-**",
+        "Nome do Favorecido": "GABRIELA SANCHES BARROZO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "800,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.161.918-**",
+        "Nome do Favorecido": "GABRIELA SANCHES BARROZO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "800,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.161.918-**",
+        "Nome do Favorecido": "GABRIELA SANCHES BARROZO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "800,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.161.918-**",
+        "Nome do Favorecido": "GABRIELA SANCHES BARROZO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "800,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.161.918-**",
+        "Nome do Favorecido": "GABRIELA SANCHES BARROZO",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "09/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.005,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.980.878-**",
+        "Nome do Favorecido": "Genghis Silverio Ribeiro",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.195.508-**",
+        "Nome do Favorecido": "Guilherme de Souza Cerqueira",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "23/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.632.768-**",
+        "Nome do Favorecido": "Iolanda Aparecida Teodoro de Araújo Silva",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.349.709-**",
+        "Nome do Favorecido": "Irineu Rodrigues",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.100.778-**",
+        "Nome do Favorecido": "Ivete Paulino da Silva",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.996.768-**",
+        "Nome do Favorecido": "Ivonite Fagundes ",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "23/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.465.638-**",
+        "Nome do Favorecido": "Jamil Ramos",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "18/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.270.898-**",
+        "Nome do Favorecido": "Joabe Oliveira e Silva",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.951.568-**",
+        "Nome do Favorecido": "Joaquim Francisco de Brito Junior",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.227.558-**",
+        "Nome do Favorecido": "Joel Benedito Nunes",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "18/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.227.558-**",
+        "Nome do Favorecido": "Joel Benedito Nunes",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "06/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "502,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.675.946-**",
+        "Nome do Favorecido": "Joel Francisco da Silva ",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.274.858-**",
+        "Nome do Favorecido": "Joelcio Oliveira e Silva",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "10/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.502.178-**",
+        "Nome do Favorecido": "Joelma Oliveira e Silva",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.502.178-**",
+        "Nome do Favorecido": "Joelma Oliveira e Silva",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.224.476-**",
+        "Nome do Favorecido": "José Maria Rodrigues",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.293.468-**",
+        "Nome do Favorecido": "Junior da Silva Pereira",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "18/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.069.858-**",
+        "Nome do Favorecido": "Juscilene dos santos Guimarães",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.928.798-**",
+        "Nome do Favorecido": "Juvenal Lourenço dos Santos",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.521.378-**",
+        "Nome do Favorecido": "Laércio Francisco de Souza",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.971.428-**",
+        "Nome do Favorecido": "Lilian Rodrigues da Rosa",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.767.998-**",
+        "Nome do Favorecido": "Lourdes Inácio da Silva",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.664.358-**",
+        "Nome do Favorecido": "Luana Mariana Silva Vieira",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.178.508-**",
+        "Nome do Favorecido": "Lucilda Ramos",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.237.318-**",
+        "Nome do Favorecido": "Luis Henrique Lopes Fernandes de Souza",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.413.838-**",
+        "Nome do Favorecido": "Luiz Carlos da Silva",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.538.518-**",
+        "Nome do Favorecido": "Luiz Fernando Palmieri Sakamoto",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "02/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.355.208-**",
+        "Nome do Favorecido": "Maellen Branco da Silva",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "23/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.404.158-**",
+        "Nome do Favorecido": "Magnólia Fagundes da Silva",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "18/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.602.171-**",
+        "Nome do Favorecido": "Marciana Ferreira Pessoa Lima",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "335,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.621.176-**",
+        "Nome do Favorecido": "Márcio José da Silva",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "18/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.041.338-**",
+        "Nome do Favorecido": "Maria Aparecida Luz",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.628.368-**",
+        "Nome do Favorecido": "Maria Aparecida Soares",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "02/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.216.086-**",
+        "Nome do Favorecido": "Maria das Graças Oliveira e Silva",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.216.086-**",
+        "Nome do Favorecido": "Maria das Graças Oliveira e Silva",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.205.548-**",
+        "Nome do Favorecido": "Maria de Fátima Silva Salles",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.369.198-**",
+        "Nome do Favorecido": "Maria de Lourdes pereira",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.919.458-**",
+        "Nome do Favorecido": "Maria do Carmo Silva Gomes",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.819.278-**",
+        "Nome do Favorecido": "Maria Eduarda da Silva Marques",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "02/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.359.188-**",
+        "Nome do Favorecido": "Maria José Ferreira de Lima",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "06/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.617.858-**",
+        "Nome do Favorecido": "Marlene de Fátima Rosa Maia de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.644.278-**",
+        "Nome do Favorecido": "Murilo da Silva Niederle",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.842.008-**",
+        "Nome do Favorecido": "Nilton Cardoso Dias",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.030.328-**",
+        "Nome do Favorecido": "Nivea Maria Ferreira",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.706.728-**",
+        "Nome do Favorecido": "Patrícia Nascimento Valdevino",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.691.688-**",
+        "Nome do Favorecido": "Pedro Berengani",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "18/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.829.367-**",
+        "Nome do Favorecido": "Phillipe Bernardo Telles",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.065.678-**",
+        "Nome do Favorecido": "Polyana Coracini",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.822.838-**",
+        "Nome do Favorecido": "Rebeca Hubner Leite Poulmann",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.594.838-**",
+        "Nome do Favorecido": "Robson de Jesus Oliveira",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "23/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "335,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.476.888-**",
+        "Nome do Favorecido": "Rosana Quirino",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.141.512-**",
+        "Nome do Favorecido": "Sara Vitor dos Santos",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.829.782-**",
+        "Nome do Favorecido": "Severino Leite Diniz",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.150.839-**",
+        "Nome do Favorecido": "Silvania Oliveira Silva",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.050.288-**",
+        "Nome do Favorecido": "Suzana Pereira Marques Bernardinelli",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.833.578-**",
+        "Nome do Favorecido": "Tairik Gabriel Lopes dos Santos",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.710.078-**",
+        "Nome do Favorecido": "Thais da Silva Aranha",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "23/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.735.148-**",
+        "Nome do Favorecido": "Valdemir Aparecido Domingues",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "16/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.894.848-**",
+        "Nome do Favorecido": "Vanessa da Silva Santos",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.176.498-**",
+        "Nome do Favorecido": "Vania Jacinto Nobre",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.049.328-**",
+        "Nome do Favorecido": "Vanilda Aparecida Camargo Santos",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.650.108-**",
+        "Nome do Favorecido": "Vitor Lázaro de Araújo Souza",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "02/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.252.882-**",
+        "Nome do Favorecido": "Zilma Santana Pereira Bispo",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "18/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "167,50"
+      }
+    ],
+    "Projeto_323/Pagamento de servidores ou agentes públicos.csv": [
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.232.238-**",
+        "Nome do Favorecido": "Gustavo Matarazzo Rezende",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "05/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "2.125,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.232.238-**",
+        "Nome do Favorecido": "Gustavo Matarazzo Rezende",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "24/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.974.548-**",
+        "Nome do Favorecido": "Marcela Pavan Bagagli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.974.548-**",
+        "Nome do Favorecido": "Marcela Pavan Bagagli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.974.548-**",
+        "Nome do Favorecido": "Marcela Pavan Bagagli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.974.548-**",
+        "Nome do Favorecido": "Marcela Pavan Bagagli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.974.548-**",
+        "Nome do Favorecido": "Marcela Pavan Bagagli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.974.548-**",
+        "Nome do Favorecido": "Marcela Pavan Bagagli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.974.548-**",
+        "Nome do Favorecido": "Marcela Pavan Bagagli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.974.548-**",
+        "Nome do Favorecido": "Marcela Pavan Bagagli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.974.548-**",
+        "Nome do Favorecido": "Marcela Pavan Bagagli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "2.750,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.974.548-**",
+        "Nome do Favorecido": "Marcela Pavan Bagagli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "2.750,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.974.548-**",
+        "Nome do Favorecido": "Marcela Pavan Bagagli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2.750,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.974.548-**",
+        "Nome do Favorecido": "Marcela Pavan Bagagli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2.750,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.974.548-**",
+        "Nome do Favorecido": "Marcela Pavan Bagagli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2.750,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.974.548-**",
+        "Nome do Favorecido": "Marcela Pavan Bagagli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2.750,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.974.548-**",
+        "Nome do Favorecido": "Marcela Pavan Bagagli",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "335,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.974.548-**",
+        "Nome do Favorecido": "Marcela Pavan Bagagli",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.974.548-**",
+        "Nome do Favorecido": "Marcela Pavan Bagagli",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "15/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "760,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.974.548-**",
+        "Nome do Favorecido": "Marcela Pavan Bagagli",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "19/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "670,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.974.548-**",
+        "Nome do Favorecido": "Marcela Pavan Bagagli",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "12/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "335,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.974.548-**",
+        "Nome do Favorecido": "Marcela Pavan Bagagli",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "502,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.974.548-**",
+        "Nome do Favorecido": "Marcela Pavan Bagagli",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "09/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.340,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.974.548-**",
+        "Nome do Favorecido": "Marcela Pavan Bagagli",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "502,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.974.548-**",
+        "Nome do Favorecido": "Marcela Pavan Bagagli",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "24/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "167,50"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.974.548-**",
+        "Nome do Favorecido": "Marcela Pavan Bagagli",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "04/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "1.005,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.340.878-**",
+        "Nome do Favorecido": "MELIANE AKEMI KOIKE",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.340.878-**",
+        "Nome do Favorecido": "MELIANE AKEMI KOIKE",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.340.878-**",
+        "Nome do Favorecido": "MELIANE AKEMI KOIKE",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.340.878-**",
+        "Nome do Favorecido": "MELIANE AKEMI KOIKE",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.340.878-**",
+        "Nome do Favorecido": "MELIANE AKEMI KOIKE",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.340.878-**",
+        "Nome do Favorecido": "MELIANE AKEMI KOIKE",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.340.878-**",
+        "Nome do Favorecido": "MELIANE AKEMI KOIKE",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "11/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "335,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "CPF": "***.340.878-**",
+        "Nome do Favorecido": "MELIANE AKEMI KOIKE",
+        "Tipo de Pagamento": "Pagamento de Diária",
+        "Data do Pagamento": "24/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "167,50"
+      }
+    ],
+    "Projeto_323/Equipe.csv": [
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Nome": "ANA KAROLYNA DE SOUSA ANASTACIO",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Ensino Médio completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Nome": "Diane Dayze de Proença",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Nome": "Eduarda Leite Correia",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Nome": "GABRIELA SANCHES BARROZO",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": "Aluna",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Nome": "Marcela Pavan Bagagli",
+        "Função": "Coordenador",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": "10 horas/semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Nome": "Marcela Pavan Bagagli",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Nome": "MELIANE AKEMI KOIKE",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Federal ",
+        "Vínculo com a instituição": "Servidor",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      }
+    ],
+    "Projeto_323/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "COLABORADOR EXTERNO  GRADUADO (CLE-G)",
+        "Justificativa": " ",
+        "Qtde aprovada": "12,00",
+        "Valor unitário": "2.000,00",
+        "Valor total aprovado": "24.000,00",
+        "Valor executado": "26.750,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador de Programa ou Projeto - Doutor ",
+        "Justificativa": " CPO-A",
+        "Qtde aprovada": " ",
+        "Valor unitário": "8,00",
+        "Valor total aprovado": "2.750,00",
+        "Valor executado": "22.000,00",
+        "null": [
+          "19.250,00"
+        ]
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "ESTUDANTE DE CURSO DE GRADUAÇÃO",
+        "Justificativa": " ",
+        "Qtde aprovada": "9,00",
+        "Valor unitário": "1.000,00",
+        "Valor total aprovado": "9.000,00",
+        "Valor executado": "8.400,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "COLABORADOR EXTERNO  TÉCNICO (CLE-T)",
+        "Justificativa": " ",
+        "Qtde aprovada": "8,00",
+        "Valor unitário": "1.500,00",
+        "Valor total aprovado": "12.000,00",
+        "Valor executado": "10.500,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "COORDENADOR DE PROJETO (CPO)",
+        "Justificativa": " ",
+        "Qtde aprovada": "8,00",
+        "Valor unitário": "1.000,00",
+        "Valor total aprovado": "8.000,00",
+        "Valor executado": "8.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "ESTUDANTE DE CURSO DE GRADUAÇÃO",
+        "Justificativa": " ",
+        "Qtde aprovada": "5,00",
+        "Valor unitário": "800,00",
+        "Valor total aprovado": "4.000,00",
+        "Valor executado": "4.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "ESTUDANTE DE CURSO DE GRADUAÇÃO",
+        "Justificativa": " ",
+        "Qtde aprovada": "8,00",
+        "Valor unitário": "800,00",
+        "Valor total aprovado": "6.400,00",
+        "Valor executado": "5.600,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "GESTOR DE PROJETOS (GPO)",
+        "Justificativa": " ",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "7.450,00",
+        "Valor total aprovado": "14.900,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Depesas Bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "500,00",
+        "Valor total aprovado": "500,00",
+        "Valor executado": "454,19"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Diária Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "DESLOCAMENTOS NACIONAIS",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "46.538,60",
+        "Valor total aprovado": "46.538,60",
+        "Valor executado": "34.065,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "MATERIAI, UTENSÍLIOS E REAGENTES PARA LABORATÓRIOS E PRODUÇÃO DE BIOINSUMOS",
+        "Justificativa": " ",
+        "Qtde aprovada": "40,00",
+        "Valor unitário": "560,7095",
+        "Valor total aprovado": "22.428,40",
+        "Valor executado": "22.198,02"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "GÊNEROS ALIMENTÍCIOS",
+        "Justificativa": " ",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "490,00",
+        "Valor total aprovado": "980,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "AQUISIÇÃO DE MATERIAIS PARA ELABORAÇÃO DE KIT BRINDE (PRODUÇÃO DE BIOINSUMOS)",
+        "Justificativa": " ",
+        "Qtde aprovada": "30,00",
+        "Valor unitário": "1.000,00",
+        "Valor total aprovado": "30.000,00",
+        "Valor executado": "23.698,78"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Biorreator de bancada cuba de 5 L útil",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "184.000,00",
+        "Valor total aprovado": "184.000,00",
+        "Valor executado": "184.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Estante aramada com 5 prateleiras",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "8.712,00",
+        "Valor total aprovado": "8.712,00",
+        "Valor executado": "8.861,62"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Fluxo laminar",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "20.500,00",
+        "Valor total aprovado": "20.500,00",
+        "Valor executado": "20.050,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Autoclave de 75 a100 L",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "31.000,00",
+        "Valor total aprovado": "31.000,00",
+        "Valor executado": "31.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Ar Condicionado 12000 BTU",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "2.745,00",
+        "Valor total aprovado": "2.745,00",
+        "Valor executado": "2.745,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Câmara de germinação 120 L",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "13.700,00",
+        "Valor total aprovado": "13.700,00",
+        "Valor executado": "5.865,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Estufa de secagem ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "11.713,00",
+        "Valor total aprovado": "11.713,00",
+        "Valor executado": "11.713,38"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Banca de Inox",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "8.400,00",
+        "Valor total aprovado": "8.400,00",
+        "Valor executado": "8.400,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Mobiliário para laboratório diverso",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "8.160,00",
+        "Valor total aprovado": "8.160,00",
+        "Valor executado": "7.596,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Equipamentos de laboratório diversos (permanetes) para análises laboratoriais",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "65.370,00",
+        "Valor total aprovado": "65.370,00",
+        "Valor executado": "48.783,68"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Passagens",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "DESLOCAMENTO NACIONAL",
+        "Justificativa": " ",
+        "Qtde aprovada": "17,00",
+        "Valor unitário": "2.327,141",
+        "Valor total aprovado": "39.561,38",
+        "Valor executado": "18.834,64"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Serviços de diagramação e gráficos",
+        "Justificativa": " ",
+        "Qtde aprovada": "3,00",
+        "Valor unitário": "13.300,00",
+        "Valor total aprovado": "39.900,00",
+        "Valor executado": "37.998,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Serviços de edição de vídeos",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "23.880,00",
+        "Valor total aprovado": "23.880,00",
+        "Valor executado": "280,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Serviços para oferta de alimentação",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "7.910,00",
+        "Valor total aprovado": "7.910,00",
+        "Valor executado": "7.327,30"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Serviços para infraestrutura para evento",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "70.000,00",
+        "Valor total aprovado": "70.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Aquisição de CEPAS microbianas",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "5.400,00",
+        "Valor total aprovado": "5.400,00",
+        "Valor executado": "5.218,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Prestação de serviço para reforma e pequenas reformas",
+        "Justificativa": " ",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "22.000,00",
+        "Valor total aprovado": "44.000,00",
+        "Valor executado": "44.000,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Prestação de serviço de locação de ônibus ",
+        "Justificativa": " ",
+        "Qtde aprovada": "3,00",
+        "Valor unitário": "7.000,00",
+        "Valor total aprovado": "21.000,00",
+        "Valor executado": "18.500,00"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "DOA ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "89.957,64",
+        "Valor total aprovado": "89.957,64",
+        "Valor executado": "89.957,64"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Operacionais e Administrativas",
+        "Justificativa": "Aditivo 2",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "6.019,87",
+        "Valor total aprovado": "6.019,87",
+        "Valor executado": "6.019,87"
+      }
+    ],
+    "Projeto_323/Documentos.csv": [
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Título do Arquivo": "323_Contrato_LAI",
+        "Descrição": "CONTRATO DE PRESTAÇÃO DE SERVIÇOS Nº 28-154/2025, QUE ENTRE SI CELEBRAM O INSTITUTOFEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DESÃO PAULO E A FUNDAÇÃO DE APOIO AODESENVOLVIMENTO DA CIÊNCIA E TECNOLOGIA FACTO, PARA PRESTAÇÃO DE SERVIÇOS DE GESTÃOADMI"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Título do Arquivo": "323_Plano trabalho TED_LAI",
+        "Descrição": "MINISTÉRIO DO DESENVOLVIMENTO AGRÁRIO E AGRICULTURA FAMILIARDepartamento de Apoio à Inclusão Sanitária, Agroindústria e Cer"
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Título do Arquivo": "P 323_ ADITIVO 1_LAI",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Título do Arquivo": "P 323 ADITIVO 2_LAI",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      }
+    ],
+    "Projeto_323/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Título do Arquivo": "Prestação de Conta Parcial _02/2023 a 04/2025",
+        "Descrição": "2.1.10. Apresentar ao IFSP relatórios parciais e relatório final de prestação de contas e de execução Wsico financeira, referentes à utilização dos recursos,compreendendo aspectos contábeis, de legalidade, efetividade e economicidade, nos prazos estabelecidos neste contrato.2.1.11. Manter à disposição do IFSP e dos órgãos de controle interno e externo, pelo prazo de 5 (cinco) anos, contados da data de aprovação da prestação ou tomada de contas final pelo IFSP, os documentos comprobatórios e registros contábeis das despesas realizadas na execução do presente.",
+        "Data início": "07/02/2025 ",
+        "Data final": "30/04/2025 "
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Título do Arquivo": "Certidão LGPD",
+        "Descrição": "CERTIDÃO DE DOCUMENTAÇÃO DE PROCEDIMENTO DE PRESTAÇÃO DE CONTAS AMPARADA PELO SIGILO EM RAZÃO DA LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS.",
+        "Data início": "07/02/2025 ",
+        "Data final": "30/04/2025 "
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Título do Arquivo": "Prestação de Contas Parcial 01.05 a 30.06.25",
+        "Descrição": "Prestação de contas parcial",
+        "Data início": "01/05/2025 ",
+        "Data final": "30/06/2025 "
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Título do Arquivo": "Prestação de Contas Parcial - Julho 2025",
+        "Descrição": "Prestação de Contas Parcial - Julho 2025",
+        "Data início": "01/07/2025 ",
+        "Data final": "31/07/2025 "
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Título do Arquivo": "Prestação de Contas Parcial - Agosto 2025",
+        "Descrição": "Prestação de Contas - Agosto 2025",
+        "Data início": "01/08/2025 ",
+        "Data final": "31/08/2025 "
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Título do Arquivo": "Prestação de Contas Parcial - Setembro 2025",
+        "Descrição": "Prestação de Contas Parcial - Setembro 2025",
+        "Data início": "01/09/2025 ",
+        "Data final": "30/09/2025 "
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Título do Arquivo": "Prestação de Contas Parcial",
+        "Descrição": "Prestação de Contas Outubro - 2025",
+        "Data início": "01/10/2025 ",
+        "Data final": "31/10/2025 "
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Título do Arquivo": "323_PC_PARCIAL_NOV_2025",
+        "Descrição": "Prestação de contas parcial referente a novembro de 2025",
+        "Data início": "01/11/2025 ",
+        "Data final": "30/11/2025 "
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Título do Arquivo": "323_PC_PARCIAL_DEZ_a_JAN_2026",
+        "Descrição": "Prestação de contas parcial referente ao período de dezembro/25 a janeiro/26.",
+        "Data início": "01/12/2025 ",
+        "Data final": "31/01/2026 "
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Título do Arquivo": "323_PC_PARCIAL_FEV_2026",
+        "Descrição": "Prestação de contas parcial referente ao mês de fevereiro de 2026.",
+        "Data início": "01/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "323 - Operacionalização da produção de bioinsumos on farm para cooperativas e associações de agricultores e agricultoras familiares",
+        "Título do Arquivo": "323_PC_PARCIAL_MAR_2026",
+        "Descrição": "Prestação de contas parcial referente a março de 2026.",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T14:13:41",
+  "_error": null
+}
