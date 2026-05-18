@@ -1,0 +1,303 @@
+{
+  "id": "367",
+  "name": "APERFEIÇOAMENTO DE COMPETÊNCIAS E HABILIDADES TÉCNICAS EM TI ACADEMIA DATACENTER.",
+  "csv": {
+    "Projeto_367/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "367 - APERFEIÇOAMENTO DE COMPETÊNCIAS E HABILIDADES TÉCNICAS EM TI  ACADEMIA DATACENTER",
+        "Coordenador": "Carlos Eduardo Pagani",
+        "Financiadora": "The UK Online Giving Foundation",
+        "Data de início": "10/02/2026",
+        "Data de vigência": "10/10/2027",
+        "Data de encerramento": "10/12/2027",
+        "Tipo de Projeto": "Ensino e Extensão",
+        "Instituição executora": "Instituto Federal de São Paulo - Campus Hortolândia",
+        "Departamento": "",
+        "Processo e sub-processo": "23439.002470/2025-20 (SUAP)",
+        "Valor aprovado": "349.990,06",
+        "Objetivo/Objeto/Título": "Aprimorar o currículo de acordo com necessidades de atualizações tecnológicas em habilidades no escopo do curso técnico MSI; Auxiliar estudantes com expectativa de impacto positivo na atratividade, retenção, permanência e êxito de integrante da comunidade local; Promover experiência profissional em programas de estágio com mentor técnico; Praticar habilidades profissionais em equipamentos atualizados tecnologicamente."
+      }
+    ],
+    "Projeto_367/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "367 - APERFEIÇOAMENTO DE COMPETÊNCIAS E HABILIDADES TÉCNICAS EM TI  ACADEMIA DATACENTER",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Auxílio Estudantil",
+        "Aprovado": "105.000,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "367 - APERFEIÇOAMENTO DE COMPETÊNCIAS E HABILIDADES TÉCNICAS EM TI  ACADEMIA DATACENTER",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "1.000,00",
+        "Liberado": "0,00",
+        "Executado": "-0,60",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "367 - APERFEIÇOAMENTO DE COMPETÊNCIAS E HABILIDADES TÉCNICAS EM TI  ACADEMIA DATACENTER",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "41.370,95",
+        "Liberado": "0,00",
+        "Executado": "-41.370,95",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "367 - APERFEIÇOAMENTO DE COMPETÊNCIAS E HABILIDADES TÉCNICAS EM TI  ACADEMIA DATACENTER",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Aprovado": "84.100,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "367 - APERFEIÇOAMENTO DE COMPETÊNCIAS E HABILIDADES TÉCNICAS EM TI  ACADEMIA DATACENTER",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Aprovado": "10.000,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "367 - APERFEIÇOAMENTO DE COMPETÊNCIAS E HABILIDADES TÉCNICAS EM TI  ACADEMIA DATACENTER",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "102.000,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "367 - APERFEIÇOAMENTO DE COMPETÊNCIAS E HABILIDADES TÉCNICAS EM TI  ACADEMIA DATACENTER",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "349.990,06",
+        "Executado": "349.990,06",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "367 - APERFEIÇOAMENTO DE COMPETÊNCIAS E HABILIDADES TÉCNICAS EM TI  ACADEMIA DATACENTER",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "6.739,37",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_367/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "367 - APERFEIÇOAMENTO DE COMPETÊNCIAS E HABILIDADES TÉCNICAS EM TI  ACADEMIA DATACENTER",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "13/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "0,60"
+      }
+    ],
+    "Projeto_367/Equipe.csv": [
+      {
+        "Referência do projeto": "367 - APERFEIÇOAMENTO DE COMPETÊNCIAS E HABILIDADES TÉCNICAS EM TI  ACADEMIA DATACENTER",
+        "Nome": "Carlos Eduardo Pagani",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "IFSP",
+        "Vínculo com a instituição": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Sim"
+      }
+    ],
+    "Projeto_367/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "367 - APERFEIÇOAMENTO DE COMPETÊNCIAS E HABILIDADES TÉCNICAS EM TI  ACADEMIA DATACENTER",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.000,00",
+        "Valor total aprovado": "1.000,00",
+        "Valor executado": "0,60"
+      },
+      {
+        "Referência do projeto": "367 - APERFEIÇOAMENTO DE COMPETÊNCIAS E HABILIDADES TÉCNICAS EM TI  ACADEMIA DATACENTER",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "MATERIAL DE TIC - MATERIAL DE CONSUMO",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "10.000,00",
+        "Valor total aprovado": "10.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "367 - APERFEIÇOAMENTO DE COMPETÊNCIAS E HABILIDADES TÉCNICAS EM TI  ACADEMIA DATACENTER",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "EQUIPAMENTOS DE TIC - ATIVOS DE REDE",
+        "Justificativa": " ",
+        "Qtde aprovada": "5,00",
+        "Valor unitário": "3.500,00",
+        "Valor total aprovado": "17.500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "367 - APERFEIÇOAMENTO DE COMPETÊNCIAS E HABILIDADES TÉCNICAS EM TI  ACADEMIA DATACENTER",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "MOBILIÁRIO EM GERAL",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "60.000,00",
+        "Valor total aprovado": "60.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "367 - APERFEIÇOAMENTO DE COMPETÊNCIAS E HABILIDADES TÉCNICAS EM TI  ACADEMIA DATACENTER",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "EQUIPAMENTOS DE TIC - COMPUTADORES",
+        "Justificativa": " ",
+        "Qtde aprovada": "4,00",
+        "Valor unitário": "1.650,00",
+        "Valor total aprovado": "6.600,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "367 - APERFEIÇOAMENTO DE COMPETÊNCIAS E HABILIDADES TÉCNICAS EM TI  ACADEMIA DATACENTER",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "MANUTENCAO E CONSERV. DE BENS IMÓVEIS",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "35.000,00",
+        "Valor total aprovado": "35.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "367 - APERFEIÇOAMENTO DE COMPETÊNCIAS E HABILIDADES TÉCNICAS EM TI  ACADEMIA DATACENTER",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "INSTALAÇÃO DE FIBRAS/CIRCUITOS DE ALIMENTAÇÃO RACKS",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "25.000,00",
+        "Valor total aprovado": "25.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "367 - APERFEIÇOAMENTO DE COMPETÊNCIAS E HABILIDADES TÉCNICAS EM TI  ACADEMIA DATACENTER",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "LOCAÇÃO DE MATERIAL DE SUPORTE PARA EVENTOS ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "30.000,00",
+        "Valor total aprovado": "30.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "367 - APERFEIÇOAMENTO DE COMPETÊNCIAS E HABILIDADES TÉCNICAS EM TI  ACADEMIA DATACENTER",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "TREINAMENTO DOS INSTRUTORES",
+        "Justificativa": " ",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "5.500,00",
+        "Valor total aprovado": "11.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "367 - APERFEIÇOAMENTO DE COMPETÊNCIAS E HABILIDADES TÉCNICAS EM TI  ACADEMIA DATACENTER",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Operacionais e Administrativas",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "41.370,95",
+        "Valor total aprovado": "41.370,95",
+        "Valor executado": "41.370,95"
+      },
+      {
+        "Referência do projeto": "367 - APERFEIÇOAMENTO DE COMPETÊNCIAS E HABILIDADES TÉCNICAS EM TI  ACADEMIA DATACENTER",
+        "Agrupamento": "",
+        "Rubrica": "Auxílio Estudantil",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "AUXILIO ESTUDANTIL",
+        "Justificativa": " ",
+        "Qtde aprovada": "150,00",
+        "Valor unitário": "700,00",
+        "Valor total aprovado": "105.000,00",
+        "Valor executado": "0,00"
+      }
+    ],
+    "Projeto_367/Documentos.csv": [
+      {
+        "Referência do projeto": "367 - APERFEIÇOAMENTO DE COMPETÊNCIAS E HABILIDADES TÉCNICAS EM TI  ACADEMIA DATACENTER",
+        "Título do Arquivo": "P 367_Contrato_LAI",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      }
+    ],
+    "Projeto_367/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "367 - APERFEIÇOAMENTO DE COMPETÊNCIAS E HABILIDADES TÉCNICAS EM TI  ACADEMIA DATACENTER",
+        "Título do Arquivo": "Certidão",
+        "Descrição": "CERTIDÃO DE DOCUMENTAÇÃO DE PROCEDIMENTO DE PRESTAÇÃO DE CONTAS AMPARADA PELO SIGILO EM RAZÃO DA LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS",
+        "Data início": "10/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "367 - APERFEIÇOAMENTO DE COMPETÊNCIAS E HABILIDADES TÉCNICAS EM TI  ACADEMIA DATACENTER",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestação de contas Parcial Fevereiro 2026",
+        "Data início": "10/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "367 - APERFEIÇOAMENTO DE COMPETÊNCIAS E HABILIDADES TÉCNICAS EM TI  ACADEMIA DATACENTER",
+        "Título do Arquivo": "Prestação de Contas - Março 2026",
+        "Descrição": "Prestação de Contas - Março 2026",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      },
+      {
+        "Referência do projeto": "367 - APERFEIÇOAMENTO DE COMPETÊNCIAS E HABILIDADES TÉCNICAS EM TI  ACADEMIA DATACENTER",
+        "Título do Arquivo": "Prestação de Contas - Abril 2026",
+        "Descrição": "Prestação de contas parcial - Abril/2026",
+        "Data início": "01/04/2026 ",
+        "Data final": "30/04/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T12:19:03",
+  "_error": null
+}

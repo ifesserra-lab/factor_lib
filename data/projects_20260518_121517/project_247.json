@@ -1,0 +1,239 @@
+{
+  "id": "247",
+  "name": "Fortalecimento e Inovação da Produção de Queijos - IFES.",
+  "csv": {
+    "Projeto_247/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "247 - Fortalecimento e Inovação da Produção de Queijos - IFES",
+        "Coordenador": "Selma Garcia Holtz",
+        "Financiadora": "Prefeitura Municipal de Colatina",
+        "Data de início": "03/02/2023",
+        "Data de vigência": "03/02/2028",
+        "Data de encerramento": "03/04/2028",
+        "Tipo de Projeto": "Inovação",
+        "Instituição executora": "Instituto Federal de Educacao Ciencia e Tecnologia do Espirito Santo - Campus Itapina",
+        "Departamento": "",
+        "Processo e sub-processo": "23154.004171/2022-73 - UASG 158424",
+        "Valor aprovado": "14.300,00",
+        "Objetivo/Objeto/Título": "Promover o fortalecimento e fomentar a inovação da produção de queijos nas agroindústrias rurais no Município de Colatina - ES."
+      }
+    ],
+    "Projeto_247/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "247 - Fortalecimento e Inovação da Produção de Queijos - IFES",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "100,00",
+        "Liberado": "0,00",
+        "Executado": "-0,55",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "247 - Fortalecimento e Inovação da Produção de Queijos - IFES",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "668,86",
+        "Liberado": "0,00",
+        "Executado": "-668,86",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "247 - Fortalecimento e Inovação da Produção de Queijos - IFES",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Impostos e Taxas_Projetos_Rec Publico",
+        "Aprovado": "2.886,80",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "247 - Fortalecimento e Inovação da Produção de Queijos - IFES",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "10.644,34",
+        "Liberado": "0,00",
+        "Executado": "-12.059,14",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "247 - Fortalecimento e Inovação da Produção de Queijos - IFES",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "14.300,00",
+        "Executado": "14.300,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "247 - Fortalecimento e Inovação da Produção de Queijos - IFES",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "466,28",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_247/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "247 - Fortalecimento e Inovação da Produção de Queijos - IFES",
+        "CNPJ": " ",
+        "Nome do Favorecido": "Agenda 21 Consulting Srl",
+        "Data do Pagamento": "28/02/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "11.414,80"
+      },
+      {
+        "Referência do projeto": "247 - Fortalecimento e Inovação da Produção de Queijos - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "12/2023",
+        "Valor": "0,55"
+      },
+      {
+        "Referência do projeto": "247 - Fortalecimento e Inovação da Produção de Queijos - IFES",
+        "CNPJ": "10.838.653/0004-40",
+        "Nome do Favorecido": "Instituto Federal de Educacao Ciencia e Tecnologia do Espirito Santo - Campus Itapina",
+        "Data do Pagamento": "18/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "644,34"
+      },
+      {
+        "Referência do projeto": "247 - Fortalecimento e Inovação da Produção de Queijos - IFES",
+        "CNPJ": "00.394.460/0058-87",
+        "Nome do Favorecido": "Secretaria da Receita Federal do Brasil",
+        "Data do Pagamento": "29/12/2023",
+        "Mês de Competência": "12/2023",
+        "Valor": "1,21"
+      }
+    ],
+    "Projeto_247/Equipe.csv": [
+      {
+        "Referência do projeto": "247 - Fortalecimento e Inovação da Produção de Queijos - IFES",
+        "Nome": "Selma Garcia Holtz",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "Instituto Federal do Espírito Santo - Campus Itapina",
+        "Vínculo com a instituição": "Efetivo",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": "20 horas semanais",
+        "Vinculada à inst. executora": "Sim"
+      }
+    ],
+    "Projeto_247/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "247 - Fortalecimento e Inovação da Produção de Queijos - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas bancárias investidas no Projeto",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "100,00",
+        "Valor total aprovado": "100,00",
+        "Valor executado": "0,55"
+      },
+      {
+        "Referência do projeto": "247 - Fortalecimento e Inovação da Produção de Queijos - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Contratação de pessoa jurídica estrangeira para elaboração de serviço técnico especializado, na forma de um estudo técnico sobre o arranjo produtivo local de queijos.",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "10.000,00",
+        "Valor total aprovado": "10.000,00",
+        "Valor executado": "11.414,80"
+      },
+      {
+        "Referência do projeto": "247 - Fortalecimento e Inovação da Produção de Queijos - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Remuneração ao IFES campus Itapina - Conta única do Tesouro Nacional",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "644,34",
+        "Valor total aprovado": "644,34",
+        "Valor executado": "644,34"
+      },
+      {
+        "Referência do projeto": "247 - Fortalecimento e Inovação da Produção de Queijos - IFES",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Valor das Despesas Operacionais e Administrativas - DOA para FACTO",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "668,86",
+        "Valor total aprovado": "668,86",
+        "Valor executado": "668,86"
+      },
+      {
+        "Referência do projeto": "247 - Fortalecimento e Inovação da Produção de Queijos - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Impostos e Taxas_Projetos_Rec Publico",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Impostos e taxas",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "2.886,80",
+        "Valor total aprovado": "2.886,80",
+        "Valor executado": "0,00"
+      }
+    ],
+    "Projeto_247/Documentos.csv": [
+      {
+        "Referência do projeto": "247 - Fortalecimento e Inovação da Produção de Queijos - IFES",
+        "Título do Arquivo": "Convênio Nº 001/2023",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      },
+      {
+        "Referência do projeto": "247 - Fortalecimento e Inovação da Produção de Queijos - IFES",
+        "Título do Arquivo": "1º Termo Aditivo do Convênio 001/2023",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      },
+      {
+        "Referência do projeto": "247 - Fortalecimento e Inovação da Produção de Queijos - IFES",
+        "Título do Arquivo": "247_Aditivo 1_LAI",
+        "Descrição": " "
+      },
+      {
+        "Referência do projeto": "247 - Fortalecimento e Inovação da Produção de Queijos - IFES",
+        "Título do Arquivo": "247_Contrato_LAI",
+        "Descrição": "CONVÊNIO 001-2023 CELEBRADO ENTRE A PREFEITURA MUNICIPAL DE COLATINA E O INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA (IFES) CAMPUS ITAPINA, OBJETIVANDO O FORTALECIMENTO E INOVAÇÃO DA PRODUÇÃO DE QUEIJOS NAS AGROINDÚSTRIAS RURAIS FAMILIARES N"
+      }
+    ],
+    "Projeto_247/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "247 - Fortalecimento e Inovação da Produção de Queijos - IFES",
+        "Título do Arquivo": "Certidão",
+        "Descrição": "CERTIDÃO DE DOCUMENTAÇÃO DE PROCEDIMENTO DE PRESTAÇÃO DE CONTAS AMPARADA PELO SIGILO EM RAZÃO DA LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS",
+        "Data início": "03/02/2023 ",
+        "Data final": "30/04/2025 "
+      },
+      {
+        "Referência do projeto": "247 - Fortalecimento e Inovação da Produção de Queijos - IFES",
+        "Título do Arquivo": "Prestação de contas ",
+        "Descrição": "Prestação de contas ",
+        "Data início": "03/02/2023 ",
+        "Data final": "30/04/2025 "
+      },
+      {
+        "Referência do projeto": "247 - Fortalecimento e Inovação da Produção de Queijos - IFES",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestação de contas",
+        "Data início": "01/05/2025 ",
+        "Data final": "31/05/2025 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T12:16:25",
+  "_error": null
+}

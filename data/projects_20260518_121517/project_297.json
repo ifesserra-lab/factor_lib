@@ -1,0 +1,996 @@
+{
+  "id": "297",
+  "name": "Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira.",
+  "csv": {
+    "Projeto_297/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Coordenador": "Thiago Meireles Paixao",
+        "Financiadora": "INTELLIWAY TECNOLOGIA LTDA",
+        "Data de início": "25/09/2024",
+        "Data de vigência": "25/07/2026",
+        "Data de encerramento": "25/09/2026",
+        "Tipo de Projeto": "Pesquisa, Desenvolvimento e Inovação",
+        "Instituição executora": "Instituto federal de Educação, Ciência e Tecnologia do Espirito Santo- Campus Serra",
+        "Departamento": "",
+        "Processo e sub-processo": "23147.006477/2024-15",
+        "Valor aprovado": "100.000,00",
+        "Objetivo/Objeto/Título": "O objetivo deste projeto é colaborar no desenvolvimento de uma solução pioneira em Inteligência ArtificialConversacional (IAGROGPT) para oferecer um atendimento humanizado, ágil e assertivo na consulta deinformações e orientações sobre a agropecuária no Brasil, utilizando o site Observatório da AgropecuáriaBrasileira (observatorio.agropecuaria.inmet.gov.br). Uma das principais necessidades do IAGROGPT, cujodesenvolvimento é liderado pela empresa parceira Intelliway LTDA, é responder automaticamente às questõesdos usuários que envolvem consultas a bancos de dados. Nesse contexto, a ICT parceira (IFES) é responsável pordesenvolver uma solução de IA que converta automaticamente questões dos usuários (em linguagem natural) em consultas a bancos de dados (em linguagem estruturada SQL)"
+      }
+    ],
+    "Projeto_297/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Bolsas",
+        "Aprovado": "84.960,00",
+        "Liberado": "0,00",
+        "Executado": "-84.960,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "500,00",
+        "Liberado": "0,00",
+        "Executado": "-102,61",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "11.034,33",
+        "Liberado": "0,00",
+        "Executado": "-9.323,76",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "RCI - Ressarcimentos e Contrapartidas Institucionais SPPJ - Projetos",
+        "Aprovado": "5.214,52",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "100.000,00",
+        "Executado": "100.000,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "2.266,31",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_297/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "22/01/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "6,13"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "12/02/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "6,13"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "12/03/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "6,13"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "02/04/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "6,13"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "6,13"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "6,13"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "6,13"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "6,44"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "6,44"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "6,44"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "7,04"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "6,44"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "12/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "13/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "4,12"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "9,36"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "6,44"
+      }
+    ],
+    "Projeto_297/Pagamento de pessoa física.csv": [
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.748.037-**",
+        "Nome do Favorecido": "Douglas de Oliveira Alkimim",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "10/2024",
+        "Valor": "1.120,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.748.037-**",
+        "Nome do Favorecido": "Douglas de Oliveira Alkimim",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "11/2024",
+        "Valor": "1.120,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.748.037-**",
+        "Nome do Favorecido": "Douglas de Oliveira Alkimim",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "1.120,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.748.037-**",
+        "Nome do Favorecido": "Douglas de Oliveira Alkimim",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "12/02/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "1.120,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.748.037-**",
+        "Nome do Favorecido": "Douglas de Oliveira Alkimim",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "12/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "1.120,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.748.037-**",
+        "Nome do Favorecido": "Douglas de Oliveira Alkimim",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "1.120,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.748.037-**",
+        "Nome do Favorecido": "Douglas de Oliveira Alkimim",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "1.120,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.748.037-**",
+        "Nome do Favorecido": "Douglas de Oliveira Alkimim",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "1.120,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.748.037-**",
+        "Nome do Favorecido": "Douglas de Oliveira Alkimim",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "1.120,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.748.037-**",
+        "Nome do Favorecido": "Douglas de Oliveira Alkimim",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "1.120,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.748.037-**",
+        "Nome do Favorecido": "Douglas de Oliveira Alkimim",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "1.120,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.748.037-**",
+        "Nome do Favorecido": "Douglas de Oliveira Alkimim",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "1.350,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.748.037-**",
+        "Nome do Favorecido": "Douglas de Oliveira Alkimim",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1.350,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.748.037-**",
+        "Nome do Favorecido": "Douglas de Oliveira Alkimim",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "820,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.748.037-**",
+        "Nome do Favorecido": "Douglas de Oliveira Alkimim",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "1.120,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.748.037-**",
+        "Nome do Favorecido": "Douglas de Oliveira Alkimim",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "960,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.748.037-**",
+        "Nome do Favorecido": "Douglas de Oliveira Alkimim",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.120,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.748.037-**",
+        "Nome do Favorecido": "Douglas de Oliveira Alkimim",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.120,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.158.566-**",
+        "Nome do Favorecido": "Thiago Meireles Paixao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "10/2024",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.158.566-**",
+        "Nome do Favorecido": "Thiago Meireles Paixao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "11/2024",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.158.566-**",
+        "Nome do Favorecido": "Thiago Meireles Paixao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.158.566-**",
+        "Nome do Favorecido": "Thiago Meireles Paixao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "12/02/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.158.566-**",
+        "Nome do Favorecido": "Thiago Meireles Paixao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "12/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.158.566-**",
+        "Nome do Favorecido": "Thiago Meireles Paixao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.158.566-**",
+        "Nome do Favorecido": "Thiago Meireles Paixao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.158.566-**",
+        "Nome do Favorecido": "Thiago Meireles Paixao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.158.566-**",
+        "Nome do Favorecido": "Thiago Meireles Paixao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.158.566-**",
+        "Nome do Favorecido": "Thiago Meireles Paixao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.158.566-**",
+        "Nome do Favorecido": "Thiago Meireles Paixao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.158.566-**",
+        "Nome do Favorecido": "Thiago Meireles Paixao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.158.566-**",
+        "Nome do Favorecido": "Thiago Meireles Paixao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.158.566-**",
+        "Nome do Favorecido": "Thiago Meireles Paixao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.158.566-**",
+        "Nome do Favorecido": "Thiago Meireles Paixao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "12/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.158.566-**",
+        "Nome do Favorecido": "Thiago Meireles Paixao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "13/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.158.566-**",
+        "Nome do Favorecido": "Thiago Meireles Paixao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "08/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.158.566-**",
+        "Nome do Favorecido": "Thiago Meireles Paixao",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "09/2025",
+        "Valor": "1.800,00"
+      }
+    ],
+    "Projeto_297/Pagamento de servidores ou agentes públicos.csv": [
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.551.854-**",
+        "Nome do Favorecido": "Hilário Tomaz Alves de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "10/2024",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.551.854-**",
+        "Nome do Favorecido": "Hilário Tomaz Alves de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "11/2024",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.551.854-**",
+        "Nome do Favorecido": "Hilário Tomaz Alves de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.551.854-**",
+        "Nome do Favorecido": "Hilário Tomaz Alves de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "12/02/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.551.854-**",
+        "Nome do Favorecido": "Hilário Tomaz Alves de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "12/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.551.854-**",
+        "Nome do Favorecido": "Hilário Tomaz Alves de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.551.854-**",
+        "Nome do Favorecido": "Hilário Tomaz Alves de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.551.854-**",
+        "Nome do Favorecido": "Hilário Tomaz Alves de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.551.854-**",
+        "Nome do Favorecido": "Hilário Tomaz Alves de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.551.854-**",
+        "Nome do Favorecido": "Hilário Tomaz Alves de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.551.854-**",
+        "Nome do Favorecido": "Hilário Tomaz Alves de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.551.854-**",
+        "Nome do Favorecido": "Hilário Tomaz Alves de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.551.854-**",
+        "Nome do Favorecido": "Hilário Tomaz Alves de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.551.854-**",
+        "Nome do Favorecido": "Hilário Tomaz Alves de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.551.854-**",
+        "Nome do Favorecido": "Hilário Tomaz Alves de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "13/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.551.854-**",
+        "Nome do Favorecido": "Hilário Tomaz Alves de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "13/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.551.854-**",
+        "Nome do Favorecido": "Hilário Tomaz Alves de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "08/2025",
+        "Valor": "1.800,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "CPF": "***.551.854-**",
+        "Nome do Favorecido": "Hilário Tomaz Alves de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "09/2025",
+        "Valor": "1.800,00"
+      }
+    ],
+    "Projeto_297/Equipe.csv": [
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Nome": "DEISE MENEZES SANTOS",
+        "Função": "Apoiadora",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Nome": "Douglas de Oliveira Alkimim",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": "16 horas/semana",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Nome": "Hilário Tomaz Alves de Oliveira",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Federal do Espírito Santo (IFES)",
+        "Vínculo com a instituição": "Professor",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": "06 horas/semana",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Nome": "Thiago Meireles Paixao",
+        "Função": "Coordenador",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": "6 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Nome": "Thiago Meireles Paixao",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Nome": "Victor Gianordoli",
+        "Função": "Apoiador",
+        "Instituição de trabalho": "Ifes",
+        "Vínculo com a instituição": "Servidor",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      }
+    ],
+    "Projeto_297/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador do projeto ",
+        "Justificativa": " CPO-A",
+        "Qtde aprovada": " ",
+        "Valor unitário": "18,00",
+        "Valor total aprovado": "1.800,00",
+        "Valor executado": "32.400,00",
+        "null": [
+          "32.400,00"
+        ]
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Pesquisador Doutor ",
+        "Justificativa": " PEQ-A",
+        "Qtde aprovada": " ",
+        "Valor unitário": "18,00",
+        "Valor total aprovado": "1.800,00",
+        "Valor executado": "32.400,00",
+        "null": [
+          "32.400,00"
+        ]
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Estudante - Graduando ",
+        "Justificativa": " EST-G",
+        "Qtde aprovada": " ",
+        "Valor unitário": "18,00",
+        "Valor total aprovado": "1.120,00",
+        "Valor executado": "20.160,00",
+        "null": [
+          "20.160,00"
+        ]
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Taxas Bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "500,00",
+        "Valor total aprovado": "500,00",
+        "Valor executado": "102,61"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesa Operacional Administrativa",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "9.325,48",
+        "Valor total aprovado": "9.325,48",
+        "Valor executado": "9.323,76"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Agrupamento": "",
+        "Rubrica": "RCI - Ressarcimentos e Contrapartidas Institucionais SPPJ - Projetos",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Equipamentos e Material Permanente",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "5.214,52",
+        "Valor total aprovado": "5.214,52",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Agrupamento": "Aditivo 1",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Doa - Aditivo 1",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.708,85",
+        "Valor total aprovado": "1.708,85",
+        "Valor executado": "0,00"
+      }
+    ],
+    "Projeto_297/Documentos.csv": [
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Título do Arquivo": "297_Convenio_LAI",
+        "Descrição": "Convênio nº 06/2024, celebrado entre o Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo - IFES, a Fundação de Apoio ao Desenvolvimento da Ciência e Tecnologia - FACTO e a Intelliway Tecnologia Ltda."
+      }
+    ],
+    "Projeto_297/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Título do Arquivo": "Prestação de Contas Parcial",
+        "Descrição": "Apresentar à FINANCIADORA prestação de contas final até 60 (sessenta) dias contados a partir da data do término da vigência, incluindo relatório de avaliação com base nos documentos e nas informações pertinentes, atestando a regularidade das despesas realizadas pela CONVENENTE, oatendimento dos resultados esperados no Plano de Trabalho e a relação dos bens adquiridos no seu âmbito;",
+        "Data início": "25/09/2024 ",
+        "Data final": "30/04/2025 "
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Título do Arquivo": "Certidão",
+        "Descrição": "CERTIDÃO DE DOCUMENTAÇÃO DE PROCEDIMENTO DE PRESTAÇÃO DE CONTAS AMPARADA PELO SIGILO EM RAZÃO DA LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS",
+        "Data início": "25/09/2024 ",
+        "Data final": "30/04/2025 "
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Título do Arquivo": "Prestação de Contas Parcial",
+        "Descrição": "Prestação de contas parcial junho/2025",
+        "Data início": "01/06/2025 ",
+        "Data final": "30/06/2025 "
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Título do Arquivo": "Prestação de Contas Parcial",
+        "Descrição": "Prestação de Contas Julho/2025",
+        "Data início": "01/07/2025 ",
+        "Data final": "31/07/2025 "
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Título do Arquivo": "PrestacaodeContasParcial_agosto_2025",
+        "Descrição": "PrestacaodeContasParcial_agosto_2025_P297",
+        "Data início": "01/08/2025 ",
+        "Data final": "31/08/2025 "
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Título do Arquivo": "Prestação de Contas Parcial",
+        "Descrição": "Setembro/2025",
+        "Data início": "01/09/2025 ",
+        "Data final": "30/09/2025 "
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Outubro/2025",
+        "Data início": "01/10/2025 ",
+        "Data final": "31/10/2025 "
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Título do Arquivo": "Prestação de Contas Parcial",
+        "Descrição": "Novembro - 2025",
+        "Data início": "01/11/2025 ",
+        "Data final": "30/11/2025 "
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Título do Arquivo": "297_PC_PARCIAL_OUT_2025",
+        "Descrição": "Prestação de contas parcial referente a outubro de 2025.",
+        "Data início": "01/10/2025 ",
+        "Data final": "31/10/2025 "
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Título do Arquivo": "297_PC_PARCIAL_DEZ_2025",
+        "Descrição": "Prestação de contas parcial referente a dezembro de 2025.",
+        "Data início": "01/12/2025 ",
+        "Data final": "31/12/2025 "
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Título do Arquivo": "297_PC_PARCIAL_JAN_2026",
+        "Descrição": "Prestação de contas parcial referente a janeiro de 2026.",
+        "Data início": "01/01/2026 ",
+        "Data final": "31/01/2026 "
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Título do Arquivo": "297_PC_PARCIAL_FEV_2026",
+        "Descrição": "Prestação de contas parcial referente a fevereiro de 2026.",
+        "Data início": "01/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Título do Arquivo": "297_PC_PARCIAL_MAR_2026",
+        "Descrição": "Prestação de contas parcial referente a março de 2026.",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      },
+      {
+        "Referência do projeto": "297 - Soluções Text-to-SQL para IAgroGPT: A Assistente Virtual Inteligente da Agropecuária Brasileira",
+        "Título do Arquivo": "297_PC_PARCIAL_ABR_2026",
+        "Descrição": "Prestação de contas parcial referente a abril de 2026.",
+        "Data início": "01/04/2026 ",
+        "Data final": "30/04/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T12:17:14",
+  "_error": null
+}

@@ -1,0 +1,1267 @@
+{
+  "id": "239",
+  "name": "Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES.",
+  "csv": {
+    "Projeto_239/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Coordenador": "Sávio da Silva Berilli",
+        "Financiadora": "INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO ESPIRITO SANTO - Alegre",
+        "Data de início": "04/07/2023",
+        "Data de vigência": "04/07/2028",
+        "Data de encerramento": "04/09/2028",
+        "Tipo de Projeto": "Pesquisa e Extensão",
+        "Instituição executora": "INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO ESPIRITO SANTO - Alegre",
+        "Departamento": "",
+        "Processo e sub-processo": "23.149.001394-2023-39",
+        "Valor aprovado": "409.500,00",
+        "Objetivo/Objeto/Título": "Contratação da fundação de apoio para a gestão financeira e administrativa do projeto institucional para o desenvolvimento em pesquisa e extensão agrária capixaba com diretrizes definidas por parlamentar e pelo Ifes, através de recursos de emenda parlamentar federal:Solução tecnológica para aproveitamento de resíduos industriais na agricultura Coordenado pelo Prof. Sávio da Silva Berilli."
+      }
+    ],
+    "Projeto_239/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Bolsas",
+        "Aprovado": "340.800,00",
+        "Liberado": "0,00",
+        "Executado": "-183.100,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "300,00",
+        "Liberado": "0,00",
+        "Executado": "-55,97",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Diária Nacional",
+        "Aprovado": "6.970,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "20.998,92",
+        "Liberado": "0,00",
+        "Executado": "-16.918,46",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "40.000,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "347.600,96",
+        "Executado": "347.600,96",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "49.971,51",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_239/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/09/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "0,55"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/10/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "0,55"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/11/2023",
+        "Mês de Competência": "11/2023",
+        "Valor": "0,55"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "12/2023",
+        "Valor": "1,10"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/01/2024",
+        "Mês de Competência": "01/2024",
+        "Valor": "1,10"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/02/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "1,10"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "1,10"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/04/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "1,10"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "1,10"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "1,10"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "1,10"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "1,14"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/09/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "1,14"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/10/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "1,14"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "1,14"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/12/2024",
+        "Mês de Competência": "12/2024",
+        "Valor": "1,14"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "1,14"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "1,14"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "1,14"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "1,14"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "14/05/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "1,14"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "1,14"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "1,20"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "1,20"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1,20"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "1,20"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "4,12"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "7,04"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "7,04"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "17/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "7,04"
+      }
+    ],
+    "Projeto_239/Pagamento de pessoa física.csv": [
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.873.947-**",
+        "Nome do Favorecido": "Julio Cesar Fiorio Vettorazzi",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "11/2023",
+        "Valor": "2.100,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.873.947-**",
+        "Nome do Favorecido": "Julio Cesar Fiorio Vettorazzi",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/01/2024",
+        "Mês de Competência": "12/2023",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.873.947-**",
+        "Nome do Favorecido": "Julio Cesar Fiorio Vettorazzi",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/02/2024",
+        "Mês de Competência": "01/2024",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.873.947-**",
+        "Nome do Favorecido": "Julio Cesar Fiorio Vettorazzi",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.873.947-**",
+        "Nome do Favorecido": "Julio Cesar Fiorio Vettorazzi",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/04/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.873.947-**",
+        "Nome do Favorecido": "Julio Cesar Fiorio Vettorazzi",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.873.947-**",
+        "Nome do Favorecido": "Julio Cesar Fiorio Vettorazzi",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.873.947-**",
+        "Nome do Favorecido": "Julio Cesar Fiorio Vettorazzi",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.873.947-**",
+        "Nome do Favorecido": "Julio Cesar Fiorio Vettorazzi",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.873.947-**",
+        "Nome do Favorecido": "Julio Cesar Fiorio Vettorazzi",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/09/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.873.947-**",
+        "Nome do Favorecido": "Julio Cesar Fiorio Vettorazzi",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "04/10/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.873.947-**",
+        "Nome do Favorecido": "Julio Cesar Fiorio Vettorazzi",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/11/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.873.947-**",
+        "Nome do Favorecido": "Julio Cesar Fiorio Vettorazzi",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/12/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.873.947-**",
+        "Nome do Favorecido": "Julio Cesar Fiorio Vettorazzi",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.873.947-**",
+        "Nome do Favorecido": "Julio Cesar Fiorio Vettorazzi",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.873.947-**",
+        "Nome do Favorecido": "Julio Cesar Fiorio Vettorazzi",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.873.947-**",
+        "Nome do Favorecido": "Julio Cesar Fiorio Vettorazzi",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.002.417-**",
+        "Nome do Favorecido": "Poliany de Oliveira Barbosa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "14/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.002.417-**",
+        "Nome do Favorecido": "Poliany de Oliveira Barbosa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.002.417-**",
+        "Nome do Favorecido": "Poliany de Oliveira Barbosa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.002.417-**",
+        "Nome do Favorecido": "Poliany de Oliveira Barbosa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.002.417-**",
+        "Nome do Favorecido": "Poliany de Oliveira Barbosa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.002.417-**",
+        "Nome do Favorecido": "Poliany de Oliveira Barbosa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.002.417-**",
+        "Nome do Favorecido": "Poliany de Oliveira Barbosa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.980.607-**",
+        "Nome do Favorecido": "Ronan Bitencourt Machado ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.980.607-**",
+        "Nome do Favorecido": "Ronan Bitencourt Machado ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.980.607-**",
+        "Nome do Favorecido": "Ronan Bitencourt Machado ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.980.607-**",
+        "Nome do Favorecido": "Ronan Bitencourt Machado ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.485.417-**",
+        "Nome do Favorecido": "Thaís de Souza Pastor",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.485.417-**",
+        "Nome do Favorecido": "Thaís de Souza Pastor",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.485.417-**",
+        "Nome do Favorecido": "Thaís de Souza Pastor",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.485.417-**",
+        "Nome do Favorecido": "Thaís de Souza Pastor",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "1.000,00"
+      }
+    ],
+    "Projeto_239/Pagamento de servidores ou agentes públicos.csv": [
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.120.607-**",
+        "Nome do Favorecido": "Giovani Costa de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "800,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.120.607-**",
+        "Nome do Favorecido": "Giovani Costa de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "800,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.120.607-**",
+        "Nome do Favorecido": "Giovani Costa de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "800,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/10/2023",
+        "Mês de Competência": "07/2023",
+        "Valor": "2.600,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/10/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/10/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/11/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "11/2023",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/01/2024",
+        "Mês de Competência": "12/2023",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/02/2024",
+        "Mês de Competência": "01/2024",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/04/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/09/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "04/10/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/11/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/12/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "11/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "CPF": "***.081.777-**",
+        "Nome do Favorecido": "Sávio da Silva Berilli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "3.000,00"
+      }
+    ],
+    "Projeto_239/Equipe.csv": [
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Nome": "Giovani Costa de Oliveira",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "IFES - Campus de Alegre",
+        "Vínculo com a instituição": "Técnico Administraivo de Educação",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Nome": "Julio Cesar Fiorio Vettorazzi",
+        "Função": "Apoiador",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": "20 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Nome": "Poliany de Oliveira Barbosa",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": "20 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Nome": "Ronan Bitencourt Machado ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Nome": "Sávio da Silva Berilli",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "Instituto Federal do Espírito Santo - Ifes",
+        "Vínculo com a instituição": "Professor EBTT",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": "06 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Nome": "Sávio da Silva Berilli",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Federal do Espírito Santo - Ifes",
+        "Vínculo com a instituição": "Professor EBTT",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Nome": "Thaís de Souza Pastor",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      }
+    ],
+    "Projeto_239/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "GPO  Desenvolvimento Tecnológico Industrial",
+        "Justificativa": " ",
+        "Qtde aprovada": "60,00",
+        "Valor unitário": "3.000,00",
+        "Valor total aprovado": "180.000,00",
+        "Valor executado": "182.600,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "EXP - A - Extensão no País",
+        "Justificativa": " ",
+        "Qtde aprovada": "24,00",
+        "Valor unitário": "3.000,00",
+        "Valor total aprovado": "72.000,00",
+        "Valor executado": "68.100,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "EXT  D  Extensão Graduado  Apoio a gestão(compras)",
+        "Justificativa": " ",
+        "Qtde aprovada": "24,00",
+        "Valor unitário": "1.000,00",
+        "Valor total aprovado": "24.000,00",
+        "Valor executado": "19.200,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "EXT  D  Extensão Graduado  Apoio a gestão(operacionalização da usina)",
+        "Justificativa": " ",
+        "Qtde aprovada": "36,00",
+        "Valor unitário": "1.000,00",
+        "Valor total aprovado": "36.000,00",
+        "Valor executado": "24.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Colaborador externo - Graduado - CLE-G",
+        "Justificativa": " ",
+        "Qtde aprovada": "24,00",
+        "Valor unitário": "1.000,00",
+        "Valor total aprovado": "24.000,00",
+        "Valor executado": "24.000,00"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "300,00",
+        "Valor total aprovado": "300,00",
+        "Valor executado": "55,97"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesa Operacional",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "15.600,00",
+        "Valor total aprovado": "15.600,00",
+        "Valor executado": "16.918,46"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "DOA aditivo 2",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "5.398,92",
+        "Valor total aprovado": "5.398,92",
+        "Valor executado": "0,00"
+      }
+    ],
+    "Projeto_239/Documentos.csv": [
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Título do Arquivo": "CONTRATO Nº 20/2023",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Título do Arquivo": "Termo Aditivo Contrato Nº 20/2023",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Título do Arquivo": "239_Aditivo 1_LAI",
+        "Descrição": " "
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Título do Arquivo": "239_ Contrato _LAI",
+        "Descrição": "Contrato Nº20/2023 que entre si celebram o instituto do Espirito Santo - IFES, e a Fundação de Apoio ao Desenvolvimento da Ciência e Tecnologia - FACTO"
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Título do Arquivo": "P 239_Aditivo 2_",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      }
+    ],
+    "Projeto_239/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Título do Arquivo": "Certidão",
+        "Descrição": "CERTIDÃO DE DOCUMENTAÇÃO DE PROCEDIMENTO DE PRESTAÇÃO DE CONTAS AMPARADA PELO SIGILO EM RAZÃO DA LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS.",
+        "Data início": "04/07/2023 ",
+        "Data final": "30/04/2025 "
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Título do Arquivo": "Prestação de Conta Parcial _07/2023 a 04/2025",
+        "Descrição": "Prestar contas ao Ifes sempre que solicitado, e ao final do projeto no prazo de 60 (sessenta) dias, de todos os valores utilizados na execução do projeto.",
+        "Data início": "04/07/2023 ",
+        "Data final": "30/04/2025 "
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Título do Arquivo": "PrestacaodeContasParcial_maio a agosto_2025",
+        "Descrição": "PrestacaodeContasParcial_maio a agosto_2025",
+        "Data início": "01/05/2025 ",
+        "Data final": "31/08/2025 "
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Título do Arquivo": "PrestacaodeContasParcial_setembro_2025",
+        "Descrição": "PrestacaodeContasParcial_setembro_2025",
+        "Data início": "01/09/2025 ",
+        "Data final": "30/09/2025 "
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Título do Arquivo": "239_PC_PARCIAL_OUT_NOV_DEZ_2025",
+        "Descrição": "Prestação de contas parcial referente a 10/25, 11/25 e 12/25.",
+        "Data início": "01/10/2025 ",
+        "Data final": "31/12/2025 "
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Título do Arquivo": "239_PC_PARCIAL_JAN_2026",
+        "Descrição": "Prestação de contas parcial referente a janeiro de 2026.",
+        "Data início": "01/01/2026 ",
+        "Data final": "31/01/2026 "
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Título do Arquivo": "239_PC_PARCIAL_FEV_2026",
+        "Descrição": "Prestação de contas parcial referente ao mês de fevereiro de 2026.",
+        "Data início": "01/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Título do Arquivo": "239_PC_PARCIAL_MAR_2026",
+        "Descrição": "Prestação de contas parcial referente a março de 2026.",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      },
+      {
+        "Referência do projeto": "239 - Solução tecnológica para aproveitamento de resíduos industriais na agricultura - IFES",
+        "Título do Arquivo": "239_PC_PARCIAL_ABR_2026",
+        "Descrição": "Prestação de contas parcial referente a abril de 2026.",
+        "Data início": "01/04/2026 ",
+        "Data final": "30/04/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T12:16:19",
+  "_error": null
+}

@@ -29,6 +29,8 @@ class DetailScraper(AbstractScraper):
     ) -> list[ProjectDetailRecord]:
         records = []
         for i, item in enumerate(listing):
+            if i > 0:
+                portal_page.navigate_back_to_listing()
             scraped_at = datetime.datetime.now().isoformat(timespec="seconds")
             try:
                 portal_page.click_detail_icon(i)

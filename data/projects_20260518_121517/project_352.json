@@ -1,0 +1,458 @@
+{
+  "id": "352",
+  "name": "Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25 .",
+  "csv": {
+    "Projeto_352/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Coordenador": "Adonias Ribeiro Franco Junior",
+        "Financiadora": "Arcelormittal Brasil S.A",
+        "Data de início": "03/12/2025",
+        "Data de vigência": "03/10/2027",
+        "Data de encerramento": "03/12/2027",
+        "Tipo de Projeto": "Pesquisa, Desenvolvimento e Inovação",
+        "Instituição executora": "Instituto Federal De Educação Ciencia E Tecnologia Do Espirito Santo - Reitoria",
+        "Departamento": "",
+        "Processo e sub-processo": "Número de contrato Arcelor: 5700072713",
+        "Valor aprovado": "232.623,20",
+        "Objetivo/Objeto/Título": "Otimizar o processo de nitretação a plama em lâminas de corte, do aço AISI H13, mediante a utilização de novas composições gasosas (com foco na adição de argônio), visando oa umento da profundidade de camada nitretada e realziar o tratamento de nitretação a plasma nos açõs ferramentas VF800 e N2360M, visando aumento da resistência ao desgaste."
+      }
+    ],
+    "Projeto_352/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Bolsas",
+        "Aprovado": "160.200,00",
+        "Liberado": "0,00",
+        "Executado": "-26.700,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "250,00",
+        "Liberado": "0,00",
+        "Executado": "-12,96",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Diária Nacional",
+        "Aprovado": "10.200,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "17.723,20",
+        "Liberado": "0,00",
+        "Executado": "-10.374,67",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Aprovado": "12.800,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Passagens",
+        "Aprovado": "7.200,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "RCI - Ressarcimentos e Contrapartidas Institucionais Equipamento Nacional - Projetos",
+        "Aprovado": "6.000,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "18.500,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "148.735,95",
+        "Executado": "148.735,95",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "3.273,78",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_352/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "28/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "4,12"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "4,12"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "4,12"
+      }
+    ],
+    "Projeto_352/Pagamento de pessoa física.csv": [
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "CPF": "***.531.276-**",
+        "Nome do Favorecido": "Adonias Ribeiro Franco Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "4.500,00"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "CPF": "***.531.276-**",
+        "Nome do Favorecido": "Adonias Ribeiro Franco Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "4.500,00"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "CPF": "***.531.276-**",
+        "Nome do Favorecido": "Adonias Ribeiro Franco Junior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "4.500,00"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "CPF": "***.711.857-**",
+        "Nome do Favorecido": "André Caetano Melado",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "CPF": "***.711.857-**",
+        "Nome do Favorecido": "André Caetano Melado",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "CPF": "***.711.857-**",
+        "Nome do Favorecido": "André Caetano Melado",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "CPF": "***.163.317-**",
+        "Nome do Favorecido": "Gabriel Gonçalves Florêncio",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "CPF": "***.163.317-**",
+        "Nome do Favorecido": "Gabriel Gonçalves Florêncio",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "CPF": "***.163.317-**",
+        "Nome do Favorecido": "Gabriel Gonçalves Florêncio",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "1.400,00"
+      }
+    ],
+    "Projeto_352/Equipe.csv": [
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Nome": "Adonias Ribeiro Franco Junior",
+        "Função": "Coordenador",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Sim"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Nome": "Adonias Ribeiro Franco Junior",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Nome": "André Caetano Melado",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Nome": "Gabriel Gonçalves Florêncio",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "IFES",
+        "Vínculo com a instituição": "Estudante",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      }
+    ],
+    "Projeto_352/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador - CPO-A",
+        "Justificativa": " ",
+        "Qtde aprovada": "18,00",
+        "Valor unitário": "4.500,00",
+        "Valor total aprovado": "81.000,00",
+        "Valor executado": "40.500,00"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Pesquisador - PEQ-A",
+        "Justificativa": " ",
+        "Qtde aprovada": "18,00",
+        "Valor unitário": "3.000,00",
+        "Valor total aprovado": "54.000,00",
+        "Valor executado": "27.000,00"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Estudante - EST-G",
+        "Justificativa": " ",
+        "Qtde aprovada": "18,00",
+        "Valor unitário": "1.400,00",
+        "Valor total aprovado": "25.200,00",
+        "Valor executado": "12.600,00"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "250,00",
+        "Valor total aprovado": "250,00",
+        "Valor executado": "12,96"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Diária Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Diárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "24,00",
+        "Valor unitário": "425,00",
+        "Valor total aprovado": "10.200,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Insumos dos laboratórios do Ifes",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "12.800,00",
+        "Valor total aprovado": "12.800,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Passagens",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Passagens aéreas",
+        "Justificativa": " ",
+        "Qtde aprovada": "6,00",
+        "Valor unitário": "1.200,00",
+        "Valor total aprovado": "7.200,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Contratação de serviços",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "18.500,00",
+        "Valor total aprovado": "18.500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Operacionais e Administrativas",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "17.723,20",
+        "Valor total aprovado": "17.723,20",
+        "Valor executado": "10.374,67"
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Agrupamento": "",
+        "Rubrica": "RCI - Ressarcimentos e Contrapartidas Institucionais Equipamento Nacional - Projetos",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Ressarcimento ao Ifes pelo uso do patrimônio:",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "Transformador para o No-Break.",
+        "Agrupamento": " ",
+        "Rubrica": "1,00",
+        "Código": "6.000,00",
+        "Produto": "6.000,00",
+        "Descrição": "0,00",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      }
+    ],
+    "Projeto_352/Documentos.csv": [
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Título do Arquivo": "P 352 Acordo de parceria e PT LAI",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      }
+    ],
+    "Projeto_352/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestação de Contas Parcial - Dezembro e Janeiro",
+        "Data início": "03/12/2025 ",
+        "Data final": "31/01/2026 "
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestação de Contas Parcial - Fevereiro 2026",
+        "Data início": "01/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Título do Arquivo": "Certidão",
+        "Descrição": "CERTIDÃO DE DOCUMENTAÇÃO DE PROCEDIMENTO DE PRESTAÇÃO DE CONTAS AMPARADA PELO SIGILO EM RAZÃO DA LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS",
+        "Data início": "01/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "352 - Caracterização e ensaios de desgaste microabrasivo de lâminas de aço AISI H13 nitretadas a plasma em gaiola catódica - PLASMA25\t\t\t",
+        "Título do Arquivo": "Prestação de contas parcial ",
+        "Descrição": "Prestação de Contas Parcial Março 2026",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T12:18:26",
+  "_error": null
+}

@@ -1,0 +1,498 @@
+{
+  "id": "363",
+  "name": "CORRE SANKOFA.",
+  "csv": {
+    "Projeto_363/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Coordenador": "FRANCISCO DE DEUS FONSECA NETO",
+        "Financiadora": "Ministério da Igualdade Racial - MIR",
+        "Data de início": "09/01/2026",
+        "Data de vigência": "09/04/2026",
+        "Data de encerramento": "09/06/2026",
+        "Tipo de Projeto": "Extensão",
+        "Instituição executora": "INSTITUTO  FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO RIO DE JANEIRO - CAMPUS REALENGO",
+        "Departamento": "",
+        "Processo e sub-processo": "23273.000358/2025-94",
+        "Valor aprovado": "180.000,00",
+        "Objetivo/Objeto/Título": "Promover, por meio da corrida e de atividades educativas no Parque Realengo, a valorização da cultura afro-brasileira e a luta contra o racismo estrutural, utilizando o esporte como instrumento de inclusão, saúde e consciência social."
+      }
+    ],
+    "Projeto_363/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "500,00",
+        "Liberado": "0,00",
+        "Executado": "-0,60",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "19.563,23",
+        "Liberado": "0,00",
+        "Executado": "-19.563,12",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Aprovado": "62.520,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "97.416,77",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "180.000,00",
+        "Executado": "180.000,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "2.744,05",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_363/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "0,60"
+      }
+    ],
+    "Projeto_363/Equipe.csv": [
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Nome": "FRANCISCO JORGE CAMPOS DOS ANJOS",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "IFRJ - Campus Realengo",
+        "Vínculo com a instituição": "Assistente em administração",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Sim"
+      }
+    ],
+    "Projeto_363/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "500,00",
+        "Valor total aprovado": "500,00",
+        "Valor executado": "0,60"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Abri Fila/Fecha Fila Moto",
+        "Justificativa": " ",
+        "Qtde aprovada": "8,00",
+        "Valor unitário": "400,00",
+        "Valor total aprovado": "3.200,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Frutas",
+        "Justificativa": " ",
+        "Qtde aprovada": "30,00",
+        "Valor unitário": "84,00",
+        "Valor total aprovado": "2.520,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Gelo",
+        "Justificativa": " ",
+        "Qtde aprovada": "100,00",
+        "Valor unitário": "15,00",
+        "Valor total aprovado": "1.500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Container para gelo",
+        "Justificativa": " ",
+        "Qtde aprovada": "20,00",
+        "Valor unitário": "50,00",
+        "Valor total aprovado": "1.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Pórtico",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "3.000,00",
+        "Valor total aprovado": "3.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Mídia - foto e filmagem ",
+        "Justificativa": " ",
+        "Qtde aprovada": "3,00",
+        "Valor unitário": "1.500,00",
+        "Valor total aprovado": "4.500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Água",
+        "Justificativa": " ",
+        "Qtde aprovada": "3.000,00",
+        "Valor unitário": "1,50",
+        "Valor total aprovado": "4.500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bombeiro Civil",
+        "Justificativa": " ",
+        "Qtde aprovada": "10,00",
+        "Valor unitário": "180,00",
+        "Valor total aprovado": "1.800,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Ambulância ",
+        "Justificativa": " ",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "4.000,00",
+        "Valor total aprovado": "8.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Grades",
+        "Justificativa": " ",
+        "Qtde aprovada": "200,00",
+        "Valor unitário": "20,00",
+        "Valor total aprovado": "4.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Capas personalizadas das Grades",
+        "Justificativa": " ",
+        "Qtde aprovada": "40,00",
+        "Valor unitário": "25,00",
+        "Valor total aprovado": "1.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Tendas com Backdrop",
+        "Justificativa": " ",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "5.000,00",
+        "Valor total aprovado": "10.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Equipe Montagem - diária",
+        "Justificativa": " ",
+        "Qtde aprovada": "10,00",
+        "Valor unitário": "200,00",
+        "Valor total aprovado": "2.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Equipe Desmontagem - diária",
+        "Justificativa": " ",
+        "Qtde aprovada": "10,00",
+        "Valor unitário": "200,00",
+        "Valor total aprovado": "2.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Sacochila",
+        "Justificativa": " ",
+        "Qtde aprovada": "500,00",
+        "Valor unitário": "12,00",
+        "Valor total aprovado": "6.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Viseira",
+        "Justificativa": " ",
+        "Qtde aprovada": "500,00",
+        "Valor unitário": "12,00",
+        "Valor total aprovado": "6.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Garrafa",
+        "Justificativa": " ",
+        "Qtde aprovada": "500,00",
+        "Valor unitário": "15,00",
+        "Valor total aprovado": "7.500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Medalha",
+        "Justificativa": " ",
+        "Qtde aprovada": "500,00",
+        "Valor unitário": "15,00",
+        "Valor total aprovado": "7.500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Camisas",
+        "Justificativa": " ",
+        "Qtde aprovada": "500,00",
+        "Valor unitário": "30,00",
+        "Valor total aprovado": "15.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Operador Tráfego ",
+        "Justificativa": " ",
+        "Qtde aprovada": "30,00",
+        "Valor unitário": "240,00",
+        "Valor total aprovado": "7.200,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Banheiro Químico ",
+        "Justificativa": " ",
+        "Qtde aprovada": "30,00",
+        "Valor unitário": "200,00",
+        "Valor total aprovado": "6.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Wind Banner",
+        "Justificativa": " ",
+        "Qtde aprovada": "30,00",
+        "Valor unitário": "200,00",
+        "Valor total aprovado": "6.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Palco/som ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "3.000,00",
+        "Valor total aprovado": "3.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Divulgação",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "30.716,77",
+        "Valor total aprovado": "30.716,77",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Banners",
+        "Justificativa": " ",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "2.000,00",
+        "Valor total aprovado": "4.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Cronômetro - chip ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "8.000,00",
+        "Valor total aprovado": "8.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Equipe de apoio - diária",
+        "Justificativa": " ",
+        "Qtde aprovada": "20,00",
+        "Valor unitário": "200,00",
+        "Valor total aprovado": "4.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Operacionais e Administrativas",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "19.563,23",
+        "Valor total aprovado": "19.563,23",
+        "Valor executado": "19.563,12"
+      }
+    ],
+    "Projeto_363/Documentos.csv": [
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Título do Arquivo": "P 363 CONTRATO_LAI",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      }
+    ],
+    "Projeto_363/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "363 - CORRE SANKOFA",
+        "Título do Arquivo": "363_PC-PARCIAL-MAR-2026",
+        "Descrição": "Prestação de Contas Parcial referente a março de 2026. ",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T12:18:58",
+  "_error": null
+}

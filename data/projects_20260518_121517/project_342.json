@@ -1,0 +1,1927 @@
+{
+  "id": "342",
+  "name": "Sensor inteligente para determinação do estado de oxidação de biocombustíveis.",
+  "csv": {
+    "Projeto_342/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Coordenador": "Wanderson Romão",
+        "Financiadora": "Petróleo Brasileiro S.A. - PETROBRAS",
+        "Data de início": "03/09/2025",
+        "Data de vigência": "02/09/2028",
+        "Data de encerramento": "02/10/2028",
+        "Tipo de Projeto": "Pesquisa, Desenvolvimento e Inovação",
+        "Instituição executora": "Instituto Federal De Educacao Ciencia E Tecnologia Do Espirito Santo - Campus Vila Velha",
+        "Departamento": "Diretoria de Pesquisa, Pós-graduação e Extensão",
+        "Processo e sub-processo": "Termo de cooperação n 0050.0131956.25.9",
+        "Valor aprovado": "3.614.957,35",
+        "Objetivo/Objeto/Título": "Desenvolver um dispositivo portátil que usa ferramentas de machine learning aplicado a espectros obtidos por técnicas analíticas como: RMN-DT, FTIR, NIR e Raman, para a determinação rápida do estado de oxidação de biocombustíveis, fornecendo resultados qualitativos e quantitativos que permitam aplicação em ambientes industriais."
+      }
+    ],
+    "Projeto_342/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Bolsas",
+        "Aprovado": "2.442.591,12",
+        "Liberado": "0,00",
+        "Executado": "-297.014,36",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Acessórias de Importação",
+        "Aprovado": "58.133,10",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "3.500,00",
+        "Liberado": "0,00",
+        "Executado": "-93,28",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Diária Nacional",
+        "Aprovado": "67.296,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "157.236,83",
+        "Liberado": "0,00",
+        "Executado": "-102.676,64",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Aprovado": "282.809,66",
+        "Liberado": "0,00",
+        "Executado": "-255.244,18",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Aprovado": "129.000,00",
+        "Liberado": "0,00",
+        "Executado": "-70.721,90",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Aprovado": "94.270,64",
+        "Liberado": "0,00",
+        "Executado": "-14.556,20",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Passagens",
+        "Aprovado": "41.200,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "RCI - Ressarcimentos e Contrapartidas Institucionais Financeiras - Projetos",
+        "Aprovado": "250.000,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "92.420,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "2.360.599,59",
+        "Executado": "2.360.599,59",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "118.287,26",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_342/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "10/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "8,32"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "8,32"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "23/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "5,84"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "7,72"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "13/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "5,84"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "8,32"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "11/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "23/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "15,36"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "10/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "17/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "18,88"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "06.936.105/0001-33",
+        "Nome do Favorecido": "BIOVERA EQUIPAMENTOS E SERVICOS LTDA",
+        "Data do Pagamento": "04/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "12.948,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "53.600.234/0001-36",
+        "Nome do Favorecido": "BLUTECH RELAÇÕES EMPRESARIAIS LTDA",
+        "Data do Pagamento": "13/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "8.000,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "04.214.068/0001-24",
+        "Nome do Favorecido": "Laborvit Com. P. Instru. Laboratorios Ltda",
+        "Data do Pagamento": "23/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "1.283,50"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "51.462.471/0001-52",
+        "Nome do Favorecido": "Labsynth Produtos para Laboratórios Ltda ",
+        "Data do Pagamento": "23/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "5.829,90"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "39.401.682/0001-80",
+        "Nome do Favorecido": "Laderquímica Comercial Ltda-Mee",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.749,20"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "07.748.837/0001-62",
+        "Nome do Favorecido": "Metrohm Brasil Instrumentação Analítica Ltda",
+        "Data do Pagamento": "01/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "255.244,18"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "17.524.672/0001-07",
+        "Nome do Favorecido": "NETLAB EQUIPAMENTOS PARA LABORATORIOS LTDA",
+        "Data do Pagamento": "23/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "8.744,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "12.271.082/0001-98",
+        "Nome do Favorecido": "Quimivix Comercio de Produtos Cientificos Ltda",
+        "Data do Pagamento": "04/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "4.572,50"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "68.337.658/0001-27",
+        "Nome do Favorecido": "Sigma-Aldrich Brasil Ltda",
+        "Data do Pagamento": "23/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "1.395,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "68.337.658/0001-27",
+        "Nome do Favorecido": "Sigma-Aldrich Brasil Ltda",
+        "Data do Pagamento": "13/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2.766,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "68.337.658/0001-27",
+        "Nome do Favorecido": "Sigma-Aldrich Brasil Ltda",
+        "Data do Pagamento": "04/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.080,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "68.337.658/0001-27",
+        "Nome do Favorecido": "Sigma-Aldrich Brasil Ltda",
+        "Data do Pagamento": "17/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "1.710,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CNPJ": "91.295.105/0001-70",
+        "Nome do Favorecido": "TECNICONTROL EQUIPAMENTOS PARA COMPUTADORES LTDA",
+        "Data do Pagamento": "23/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "35.200,00"
+      }
+    ],
+    "Projeto_342/Pagamento de pessoa física.csv": [
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.506.767-**",
+        "Nome do Favorecido": "Adilson Ribeiro Prado",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "1.431,14"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.506.767-**",
+        "Nome do Favorecido": "Adilson Ribeiro Prado",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "1.431,14"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.506.767-**",
+        "Nome do Favorecido": "Adilson Ribeiro Prado",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "1.431,14"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.506.767-**",
+        "Nome do Favorecido": "Adilson Ribeiro Prado",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.431,14"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.506.767-**",
+        "Nome do Favorecido": "Adilson Ribeiro Prado",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.431,14"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.506.767-**",
+        "Nome do Favorecido": "Adilson Ribeiro Prado",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "1.431,14"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.960.297-**",
+        "Nome do Favorecido": "Bruna Falcone Cavalini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2.996,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.960.297-**",
+        "Nome do Favorecido": "Bruna Falcone Cavalini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2.996,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.116.977-**",
+        "Nome do Favorecido": "Bruno Carlos da Cunha Costa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2.146,72"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.442.228-**",
+        "Nome do Favorecido": "Carla Santana Francisco",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "09/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "10.318,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.442.228-**",
+        "Nome do Favorecido": "Carla Santana Francisco",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "10.318,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.442.228-**",
+        "Nome do Favorecido": "Carla Santana Francisco",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "10.318,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.515.646-**",
+        "Nome do Favorecido": "Mariane Olivier Brandão Arrieiro",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "10/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "10.318,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.515.646-**",
+        "Nome do Favorecido": "Mariane Olivier Brandão Arrieiro",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "10.318,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.325.177-**",
+        "Nome do Favorecido": "Nayara Araujo dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "10.318,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.325.177-**",
+        "Nome do Favorecido": "Nayara Araujo dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "10.318,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.325.177-**",
+        "Nome do Favorecido": "Nayara Araujo dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "10.318,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.325.177-**",
+        "Nome do Favorecido": "Nayara Araujo dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "10.318,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.325.177-**",
+        "Nome do Favorecido": "Nayara Araujo dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "10.318,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.325.177-**",
+        "Nome do Favorecido": "Nayara Araujo dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "10.318,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.851.317-**",
+        "Nome do Favorecido": "Rafael Antônio Souza de Lima",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "2.581,04"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.851.317-**",
+        "Nome do Favorecido": "Rafael Antônio Souza de Lima",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "2.581,04"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.851.317-**",
+        "Nome do Favorecido": "Rafael Antônio Souza de Lima",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2.581,04"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.851.317-**",
+        "Nome do Favorecido": "Rafael Antônio Souza de Lima",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2.581,04"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.851.317-**",
+        "Nome do Favorecido": "Rafael Antônio Souza de Lima",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2.581,04"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.851.317-**",
+        "Nome do Favorecido": "Rafael Antônio Souza de Lima",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2.581,04"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.195.348-**",
+        "Nome do Favorecido": "Valerio Garrone Barauna",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "20/02/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "2.690,29"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.195.348-**",
+        "Nome do Favorecido": "Valerio Garrone Barauna",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2.690,29"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.195.348-**",
+        "Nome do Favorecido": "Valerio Garrone Barauna",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2.690,29"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.195.348-**",
+        "Nome do Favorecido": "Valerio Garrone Barauna",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2.690,29"
+      }
+    ],
+    "Projeto_342/Pagamento de servidores ou agentes públicos.csv": [
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.665.977-**",
+        "Nome do Favorecido": "Jair Carlos Checon de Freitas",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "3.587,06"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.665.977-**",
+        "Nome do Favorecido": "Jair Carlos Checon de Freitas",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "3.587,06"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.665.977-**",
+        "Nome do Favorecido": "Jair Carlos Checon de Freitas",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "3.587,06"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.665.977-**",
+        "Nome do Favorecido": "Jair Carlos Checon de Freitas",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "3.587,06"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.665.977-**",
+        "Nome do Favorecido": "Jair Carlos Checon de Freitas",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "3.587,06"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.665.977-**",
+        "Nome do Favorecido": "Jair Carlos Checon de Freitas",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "3.587,06"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.544.878-**",
+        "Nome do Favorecido": "Joyce Rodrigues de Araujo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "1.793,53"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.544.878-**",
+        "Nome do Favorecido": "Joyce Rodrigues de Araujo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "1.793,53"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.544.878-**",
+        "Nome do Favorecido": "Joyce Rodrigues de Araujo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "1.793,53"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.544.878-**",
+        "Nome do Favorecido": "Joyce Rodrigues de Araujo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.793,53"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.544.878-**",
+        "Nome do Favorecido": "Joyce Rodrigues de Araujo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.793,53"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.544.878-**",
+        "Nome do Favorecido": "Joyce Rodrigues de Araujo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "1.793,53"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.866.127-**",
+        "Nome do Favorecido": "Paulo Roberto Filgueiras",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "3.587,06"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.866.127-**",
+        "Nome do Favorecido": "Paulo Roberto Filgueiras",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "3.587,06"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.866.127-**",
+        "Nome do Favorecido": "Paulo Roberto Filgueiras",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "3.587,06"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.866.127-**",
+        "Nome do Favorecido": "Paulo Roberto Filgueiras",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "3.587,06"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.866.127-**",
+        "Nome do Favorecido": "Paulo Roberto Filgueiras",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "3.587,06"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.866.127-**",
+        "Nome do Favorecido": "Paulo Roberto Filgueiras",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "3.587,06"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.963.317-**",
+        "Nome do Favorecido": "Rafael Oliari Muniz",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "10.318,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.963.317-**",
+        "Nome do Favorecido": "Rafael Oliari Muniz",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "10.318,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.176.377-**",
+        "Nome do Favorecido": "Renan Cosmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "2.227,50"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.176.377-**",
+        "Nome do Favorecido": "Renan Cosmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "2.227,50"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.176.377-**",
+        "Nome do Favorecido": "Renan Cosmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "09/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2.227,50"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.176.377-**",
+        "Nome do Favorecido": "Renan Cosmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "11/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2.227,50"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.176.377-**",
+        "Nome do Favorecido": "Renan Cosmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2.227,50"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.176.377-**",
+        "Nome do Favorecido": "Renan Cosmo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2.227,50"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.994.597-**",
+        "Nome do Favorecido": "Thalles Ramon Rosa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "2.146,72"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.994.597-**",
+        "Nome do Favorecido": "Thalles Ramon Rosa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "2.146,72"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.994.597-**",
+        "Nome do Favorecido": "Thalles Ramon Rosa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2.146,72"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.994.597-**",
+        "Nome do Favorecido": "Thalles Ramon Rosa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2.146,72"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.994.597-**",
+        "Nome do Favorecido": "Thalles Ramon Rosa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2.146,72"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.994.597-**",
+        "Nome do Favorecido": "Thalles Ramon Rosa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2.146,72"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.070.811-**",
+        "Nome do Favorecido": "Valdemar Lacerda Júnior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "2.690,29"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.070.811-**",
+        "Nome do Favorecido": "Valdemar Lacerda Júnior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "2.690,29"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.070.811-**",
+        "Nome do Favorecido": "Valdemar Lacerda Júnior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2.690,29"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.070.811-**",
+        "Nome do Favorecido": "Valdemar Lacerda Júnior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2.690,29"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.070.811-**",
+        "Nome do Favorecido": "Valdemar Lacerda Júnior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2.690,29"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.070.811-**",
+        "Nome do Favorecido": "Valdemar Lacerda Júnior",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2.690,29"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.018.057-**",
+        "Nome do Favorecido": "Wanderson Romão",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "3.587,06"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.018.057-**",
+        "Nome do Favorecido": "Wanderson Romão",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "3.587,06"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.018.057-**",
+        "Nome do Favorecido": "Wanderson Romão",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "3.587,06"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.018.057-**",
+        "Nome do Favorecido": "Wanderson Romão",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "3.587,06"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.018.057-**",
+        "Nome do Favorecido": "Wanderson Romão",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "4.683,10"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "CPF": "***.018.057-**",
+        "Nome do Favorecido": "Wanderson Romão",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "4.683,10"
+      }
+    ],
+    "Projeto_342/Equipe.csv": [
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Nome": "Adilson Ribeiro Prado",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Nome": "Amanda Eiriz Feu",
+        "Função": "Apoiadora",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": "Pós-doc",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Nome": "Bruna Falcone Cavalini",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Federal do Espírito Santo",
+        "Vínculo com a instituição": "Aluna",
+        "Grau de instrução": "Educação Superior completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Nome": "Bruno Carlos da Cunha Costa",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Federal do Rio de Janeiro (IFRJ)",
+        "Vínculo com a instituição": "Professor EBTT DE",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Nome": "Carla Santana Francisco",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo - IFES",
+        "Vínculo com a instituição": "Pós-doutoradando",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Nome": "Jair Carlos Checon de Freitas",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Universidade Federal do Espírito Santo",
+        "Vínculo com a instituição": "Professor Titular",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Nome": "Joyce Rodrigues de Araujo",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Nacional de Metrologia, Qualidade e Tecnologia",
+        "Vínculo com a instituição": "Pesquisador Tecnologista em Metrologia e Qualidade",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Nome": "Mariane Olivier Brandão Arrieiro",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "IFES",
+        "Vínculo com a instituição": "Estudante",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Nome": "Nayara Araujo dos Santos",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Federal do Espírito Santo",
+        "Vínculo com a instituição": "Pesquisadora",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Nome": "Paulo Roberto Filgueiras",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Universidade Federal do Espírito Santo",
+        "Vínculo com a instituição": "Professor do magistério superior",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Nome": "Rafael Antônio Souza de Lima",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Ifes",
+        "Vínculo com a instituição": "Enhenheiro-area:civil",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Nome": "Rafael Oliari Muniz",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Univesidade Federal do Espírito Santo",
+        "Vínculo com a instituição": "Servidor Público Federal",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Nome": "Renan Cosmo",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Ifes",
+        "Vínculo com a instituição": "Servidor",
+        "Grau de instrução": "Educação Superior completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Nome": "Thalles Ramon Rosa",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Federal do Espírito Santo - Aracruz",
+        "Vínculo com a instituição": "Professor EBTT",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Nome": "Valdemar Lacerda Júnior",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Universidade Federal do Espírito Santo ",
+        "Vínculo com a instituição": "Professor",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Nome": "Valerio Garrone Barauna",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Universidade Federal do Espírito Santo",
+        "Vínculo com a instituição": "Professor",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Nome": "Wanderson Romão",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "Instituto Federal do Espírito Santo ",
+        "Vínculo com a instituição": "Professor",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Sim"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Nome": "Wanderson Romão",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Federal do Espírito Santo ",
+        "Vínculo com a instituição": "Professor",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      }
+    ],
+    "Projeto_342/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Doutor II",
+        "Justificativa": " ",
+        "Qtde aprovada": "36,00",
+        "Valor unitário": "3.587,06",
+        "Valor total aprovado": "129.134,16",
+        "Valor executado": "64.567,08"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Doutor I",
+        "Justificativa": " ",
+        "Qtde aprovada": "30,00",
+        "Valor unitário": "1.431,14",
+        "Valor total aprovado": "42.934,20",
+        "Valor executado": "25.760,52"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Mestre I",
+        "Justificativa": " ",
+        "Qtde aprovada": "30,00",
+        "Valor unitário": "2.581,04",
+        "Valor total aprovado": "77.431,20",
+        "Valor executado": "46.458,72"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Profissional Júnior",
+        "Justificativa": " ",
+        "Qtde aprovada": "36,00",
+        "Valor unitário": "2.227,50",
+        "Valor total aprovado": "80.190,00",
+        "Valor executado": "40.095,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Doutor I",
+        "Justificativa": " ",
+        "Qtde aprovada": "36,00",
+        "Valor unitário": "2.146,72",
+        "Valor total aprovado": "77.281,92",
+        "Valor executado": "38.640,96"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa graduando",
+        "Justificativa": " ",
+        "Qtde aprovada": "24,00",
+        "Valor unitário": "1.092,00",
+        "Valor total aprovado": "26.208,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa graduando",
+        "Justificativa": " ",
+        "Qtde aprovada": "24,00",
+        "Valor unitário": "1.092,00",
+        "Valor total aprovado": "26.208,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa graduando",
+        "Justificativa": " ",
+        "Qtde aprovada": "24,00",
+        "Valor unitário": "1.092,00",
+        "Valor total aprovado": "26.208,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa graduando",
+        "Justificativa": " ",
+        "Qtde aprovada": "24,00",
+        "Valor unitário": "1.092,00",
+        "Valor total aprovado": "26.208,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Doutor II",
+        "Justificativa": " ",
+        "Qtde aprovada": "36,00",
+        "Valor unitário": "3.587,06",
+        "Valor total aprovado": "129.134,16",
+        "Valor executado": "68.154,14"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Doutor II",
+        "Justificativa": " ",
+        "Qtde aprovada": "36,00",
+        "Valor unitário": "4.483,82",
+        "Valor total aprovado": "161.417,52",
+        "Valor executado": "145.275,82"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Doutor II",
+        "Justificativa": " ",
+        "Qtde aprovada": "36,00",
+        "Valor unitário": "2.690,29",
+        "Valor total aprovado": "96.850,44",
+        "Valor executado": "48.425,22"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Doutor II",
+        "Justificativa": " ",
+        "Qtde aprovada": "36,00",
+        "Valor unitário": "2.690,29",
+        "Valor total aprovado": "96.850,44",
+        "Valor executado": "48.425,22"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Doutor II",
+        "Justificativa": " ",
+        "Qtde aprovada": "36,00",
+        "Valor unitário": "1.793,53",
+        "Valor total aprovado": "64.567,08",
+        "Valor executado": "32.283,54"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Pós-doutorando",
+        "Justificativa": " ",
+        "Qtde aprovada": "30,00",
+        "Valor unitário": "10.318,00",
+        "Valor total aprovado": "309.540,00",
+        "Valor executado": "185.724,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Pós-doutorando",
+        "Justificativa": " ",
+        "Qtde aprovada": "30,00",
+        "Valor unitário": "10.318,00",
+        "Valor total aprovado": "309.540,00",
+        "Valor executado": "206.360,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Pós-doutorando",
+        "Justificativa": " ",
+        "Qtde aprovada": "30,00",
+        "Valor unitário": "10.318,00",
+        "Valor total aprovado": "309.540,00",
+        "Valor executado": "185.724,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Pós-doutorando",
+        "Justificativa": " ",
+        "Qtde aprovada": "12,00",
+        "Valor unitário": "10.318,00",
+        "Valor total aprovado": "123.816,00",
+        "Valor executado": "103.180,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa",
+        "Justificativa": " ",
+        "Qtde aprovada": "24,00",
+        "Valor unitário": "2.996,00",
+        "Valor total aprovado": "71.904,00",
+        "Valor executado": "53.928,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Membro de equipe não definido - 24",
+        "Justificativa": " ",
+        "Qtde aprovada": "18,00",
+        "Valor unitário": "10.318,00",
+        "Valor total aprovado": "185.724,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Doutor I",
+        "Justificativa": " ",
+        "Qtde aprovada": "30,00",
+        "Valor unitário": "2.146,72",
+        "Valor total aprovado": "64.401,60",
+        "Valor executado": "38.640,96"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Acessórias de Importação",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas acessórias de importação",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "58.133,10",
+        "Valor total aprovado": "58.133,10",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "3.500,00",
+        "Valor total aprovado": "3.500,00",
+        "Valor executado": "93,28"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Diária Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Diária nacional",
+        "Justificativa": " ",
+        "Qtde aprovada": "20,00",
+        "Valor unitário": "500,00",
+        "Valor total aprovado": "10.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Diária Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Diária internacional",
+        "Justificativa": " ",
+        "Qtde aprovada": "6,00",
+        "Valor unitário": "1.774,66",
+        "Valor total aprovado": "10.647,96",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Diária Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Ajuda de custo",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "24.000,00",
+        "Valor total aprovado": "24.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Diária Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Diária nacional",
+        "Justificativa": " ",
+        "Qtde aprovada": "4,00",
+        "Valor unitário": "500,01",
+        "Valor total aprovado": "2.000,04",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Diária Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Diária nacional",
+        "Justificativa": " ",
+        "Qtde aprovada": "4,00",
+        "Valor unitário": "500,00",
+        "Valor total aprovado": "2.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Diária Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Diária internacional",
+        "Justificativa": " ",
+        "Qtde aprovada": "10,00",
+        "Valor unitário": "1.864,80",
+        "Valor total aprovado": "18.648,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Padrões",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "15.000,00",
+        "Valor total aprovado": "15.000,00",
+        "Valor executado": "5.483,50"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Vidrarias e consumíveis",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "15.281,92",
+        "Valor total aprovado": "15.281,92",
+        "Valor executado": "4.756,90"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Solventes e Reagentes",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "13.940,00",
+        "Valor total aprovado": "13.940,00",
+        "Valor executado": "3.545,80"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Óleo mineral para bombas de vácuo",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "27.502,40",
+        "Valor total aprovado": "27.502,40",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Peças para manutenção de equipamentos",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "30.048,72",
+        "Valor total aprovado": "30.048,72",
+        "Valor executado": "26.436,82"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Rancimat",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "282.809,66",
+        "Valor total aprovado": "282.809,66",
+        "Valor executado": "255.244,18"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Desumidificador de ar",
+        "Justificativa": " ",
+        "Qtde aprovada": "4,00",
+        "Valor unitário": "4.856,52",
+        "Valor total aprovado": "19.426,08",
+        "Valor executado": "12.948,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Notebook",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "8.000,00",
+        "Valor total aprovado": "8.000,00",
+        "Valor executado": "8.000,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Desktop Computador Dell XPS",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "15.000,02",
+        "Valor total aprovado": "15.000,02",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Agitador magnético com aquecimento",
+        "Justificativa": " ",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "2.914,95",
+        "Valor total aprovado": "5.829,90",
+        "Valor executado": "5.829,90"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Homogeneizador Turrax",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "8.744,00",
+        "Valor total aprovado": "8.744,00",
+        "Valor executado": "8.744,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Nobreak",
+        "Justificativa": " ",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "36.000,00",
+        "Valor total aprovado": "72.000,00",
+        "Valor executado": "35.200,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Passagens",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Passagens nacionais",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "3.000,00",
+        "Valor total aprovado": "3.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Passagens",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Passagens internacionais",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "20.000,00",
+        "Valor total aprovado": "20.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Passagens",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Passagens internacionais",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "17.000,00",
+        "Valor total aprovado": "17.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Passagens",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Passagens nacionais para reunião no Cenpes",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.200,00",
+        "Valor total aprovado": "1.200,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Licença de software - Matlab",
+        "Justificativa": " ",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "5.000,00",
+        "Valor total aprovado": "10.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Emissão de licença de software CONTIN para Minispec",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "33.420,00",
+        "Valor total aprovado": "33.420,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Serviço Técnico Especializado",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "49.000,00",
+        "Valor total aprovado": "49.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Operacionais e Administrativas",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "157.236,83",
+        "Valor total aprovado": "157.236,83",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Agrupamento": "",
+        "Rubrica": "RCI - Ressarcimentos e Contrapartidas Institucionais Financeiras - Projetos",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Ressarcimento de custos indiretos ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "250.000,00",
+        "Valor total aprovado": "250.000,00",
+        "Valor executado": "0,00"
+      }
+    ],
+    "Projeto_342/Documentos.csv": [
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Título do Arquivo": "P 342_TERMO DE COOPERAÇÃO_LAI",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      }
+    ],
+    "Projeto_342/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Título do Arquivo": "Prestação de contas parcial - Início a Dezembro 2025",
+        "Descrição": "Prestação de contas parcial - Início a Dezembro 2025",
+        "Data início": "03/09/2025 ",
+        "Data final": "31/12/2025 "
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Título do Arquivo": "342_PC_PARCIAL_JAN_2026",
+        "Descrição": "Prestação de contas parcial referente a janeiro de 2026.",
+        "Data início": "01/01/2026 ",
+        "Data final": "31/01/2026 "
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Título do Arquivo": "342_PC_PARCIAL_FEV_2026",
+        "Descrição": "Prestação de contas parcial referente ao mês de fevereiro de 2026.",
+        "Data início": "01/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "342 - Sensor inteligente para determinação do estado de oxidação de biocombustíveis",
+        "Título do Arquivo": "342_PC_PARCIAL_MAR_2026",
+        "Descrição": "Prestação de contas parcial referente a março de 2026.",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T12:18:12",
+  "_error": null
+}

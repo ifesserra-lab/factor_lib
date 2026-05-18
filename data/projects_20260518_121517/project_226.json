@@ -1,0 +1,674 @@
+{
+  "id": "226",
+  "name": "Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR.",
+  "csv": {
+    "Projeto_226/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Coordenador": "Volnei Luiz Meneghetti",
+        "Financiadora": "ZAMPRONIO INDÚSTRIA DE CLASSIFICADORES DE SEMENTES LTDA",
+        "Data de início": "04/10/2022",
+        "Data de vigência": "04/08/2026",
+        "Data de encerramento": "04/10/2026",
+        "Tipo de Projeto": "Inovação",
+        "Instituição executora": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA FARROUPILHA",
+        "Departamento": "",
+        "Processo e sub-processo": "23240.0001444/2022-59",
+        "Valor aprovado": "112.694,74",
+        "Objetivo/Objeto/Título": "O objeto do presente instrumento é a contratação de serviços técnicos especializados para desenvolver o projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0, que serão prestados nas condições estabelecidas no PLANO DE TRABALHO."
+      }
+    ],
+    "Projeto_226/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "ADM - Despesas Bancárias",
+        "Aprovado": "41,18",
+        "Liberado": "0,00",
+        "Executado": "-41,18",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Bolsas",
+        "Aprovado": "96.855,00",
+        "Liberado": "0,00",
+        "Executado": "-51.333,16",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "100,00",
+        "Liberado": "0,00",
+        "Executado": "-2,92",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "10.205,00",
+        "Liberado": "0,00",
+        "Executado": "-5.045,69",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Aprovado": "5.694,74",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "55.720,00",
+        "Executado": "55.720,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "740,30",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_226/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/05/2023",
+        "Mês de Competência": "05/2023",
+        "Valor": "15,65"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "12/2023",
+        "Valor": "8,59"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "3,23"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "3,23"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "0,55"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "3,23"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "16/05/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "3,35"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "2,92"
+      }
+    ],
+    "Projeto_226/Pagamento de servidores ou agentes públicos.csv": [
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.327.510-**",
+        "Nome do Favorecido": "Marcelo Bataglin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/05/2023",
+        "Mês de Competência": "10/2022",
+        "Valor": "1.452,83"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.327.510-**",
+        "Nome do Favorecido": "Marcelo Bataglin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/05/2023",
+        "Mês de Competência": "11/2022",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.327.510-**",
+        "Nome do Favorecido": "Marcelo Bataglin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/05/2023",
+        "Mês de Competência": "12/2022",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.327.510-**",
+        "Nome do Favorecido": "Marcelo Bataglin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/05/2023",
+        "Mês de Competência": "01/2023",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.327.510-**",
+        "Nome do Favorecido": "Marcelo Bataglin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/05/2023",
+        "Mês de Competência": "02/2023",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.327.510-**",
+        "Nome do Favorecido": "Marcelo Bataglin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "03/2023",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.327.510-**",
+        "Nome do Favorecido": "Marcelo Bataglin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "04/2023",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.327.510-**",
+        "Nome do Favorecido": "Marcelo Bataglin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "05/2023",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.327.510-**",
+        "Nome do Favorecido": "Marcelo Bataglin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "06/2023",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.327.510-**",
+        "Nome do Favorecido": "Marcelo Bataglin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "07/2023",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.327.510-**",
+        "Nome do Favorecido": "Marcelo Bataglin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "08/2023",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.327.510-**",
+        "Nome do Favorecido": "Marcelo Bataglin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "09/2023",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.327.510-**",
+        "Nome do Favorecido": "Marcelo Bataglin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "10/2023",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.327.510-**",
+        "Nome do Favorecido": "Marcelo Bataglin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "11/2023",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.327.510-**",
+        "Nome do Favorecido": "Marcelo Bataglin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "12/2023",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.327.510-**",
+        "Nome do Favorecido": "Marcelo Bataglin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.327.510-**",
+        "Nome do Favorecido": "Marcelo Bataglin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.933.450-**",
+        "Nome do Favorecido": "Volnei Luiz Meneghetti",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/05/2023",
+        "Mês de Competência": "10/2022",
+        "Valor": "1.452,83"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.933.450-**",
+        "Nome do Favorecido": "Volnei Luiz Meneghetti",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/05/2023",
+        "Mês de Competência": "11/2022",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.933.450-**",
+        "Nome do Favorecido": "Volnei Luiz Meneghetti",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/05/2023",
+        "Mês de Competência": "12/2022",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.933.450-**",
+        "Nome do Favorecido": "Volnei Luiz Meneghetti",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/05/2023",
+        "Mês de Competência": "01/2023",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.933.450-**",
+        "Nome do Favorecido": "Volnei Luiz Meneghetti",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/05/2023",
+        "Mês de Competência": "02/2023",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.933.450-**",
+        "Nome do Favorecido": "Volnei Luiz Meneghetti",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "03/2023",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.933.450-**",
+        "Nome do Favorecido": "Volnei Luiz Meneghetti",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "04/2023",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.933.450-**",
+        "Nome do Favorecido": "Volnei Luiz Meneghetti",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "05/2023",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.933.450-**",
+        "Nome do Favorecido": "Volnei Luiz Meneghetti",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "06/2023",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.933.450-**",
+        "Nome do Favorecido": "Volnei Luiz Meneghetti",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "07/2023",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.933.450-**",
+        "Nome do Favorecido": "Volnei Luiz Meneghetti",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "08/2023",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.933.450-**",
+        "Nome do Favorecido": "Volnei Luiz Meneghetti",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "09/2023",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.933.450-**",
+        "Nome do Favorecido": "Volnei Luiz Meneghetti",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "10/2023",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.933.450-**",
+        "Nome do Favorecido": "Volnei Luiz Meneghetti",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "11/2023",
+        "Valor": "1.614,25"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "CPF": "***.933.450-**",
+        "Nome do Favorecido": "Volnei Luiz Meneghetti",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "12/2023",
+        "Valor": "1.614,25"
+      }
+    ],
+    "Projeto_226/Equipe.csv": [
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Nome": "Marcelo Bataglin",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "INSTITUTO FEDERAL FARROUPILHA CAMPUS PANAMBI",
+        "Vínculo com a instituição": "PROFESSOR EBTT",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": "4 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Nome": "Volnei Luiz Meneghetti",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "Instituto Federal de Ciência e Tecnologia Farroupilha",
+        "Vínculo com a instituição": "Docente",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": "4 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      }
+    ],
+    "Projeto_226/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador/Pesquisador",
+        "Justificativa": " ",
+        "Qtde aprovada": "30,00",
+        "Valor unitário": "1.614,25",
+        "Valor total aprovado": "48.427,50",
+        "Valor executado": "24.052,33"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador/Pesquisador",
+        "Justificativa": " ",
+        "Qtde aprovada": "30,00",
+        "Valor unitário": "1.614,25",
+        "Valor total aprovado": "48.427,50",
+        "Valor executado": "27.280,83"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "despesas",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "0,00",
+        "Valor total aprovado": "0,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Contraprestação econômica (Doação de Materiais/Equipamentos)",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "5.634,74",
+        "Valor total aprovado": "5.634,74",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "ADM - Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "TARIFAS BANCÁRIAS",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "200,00",
+        "Valor total aprovado": "200,00",
+        "Valor executado": "44,10"
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "DOA FACTO",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "10.205,00",
+        "Valor total aprovado": "10.205,00",
+        "Valor executado": "5.045,69"
+      }
+    ],
+    "Projeto_226/Documentos.csv": [
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Título do Arquivo": "Contrato de Bolsa - VOLNEI LUIZ MENEGHETTI",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Título do Arquivo": "Contrato de Bolsa - MARCELO BATAGLIN",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Título do Arquivo": "226_Contrato_LAI",
+        "Descrição": "CONTRATO DE PRESTAÇÃO DE SERVIÇOS, QUECELEBRAM ENTRE SI O INSTITUTO FEDERAL DEEDUCAÇÃO, CIÊNCIA E TECNOLOGIA FARROUPILHA -IFFAR E A ZAMPRONIO INDÚSTRIA DECLASSIFICADORES DE SEMENTES LTDA, COMINTERVENIÊNCIA DA FUNDAÇÃO DE APOIO AODESENVOLVIMENTO DA C"
+      }
+    ],
+    "Projeto_226/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Título do Arquivo": "Certidão",
+        "Descrição": "CERTIDÃO DE DOCUMENTAÇÃO DE PROCEDIMENTO DE RESTAÇÃO DE CONTAS AMPARADA PELO SIGILO EM RAZÃO DA LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS",
+        "Data início": "04/10/2022 ",
+        "Data final": "31/05/2025 "
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Título do Arquivo": "Prestação de contas ",
+        "Descrição": "Prestação de contas de 04.10.2022 a 31.05.2025",
+        "Data início": "04/10/2022 ",
+        "Data final": "31/05/2025 "
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestação de Contas 01.06.2025 a 30.06.2025",
+        "Data início": "01/06/2025 ",
+        "Data final": "30/06/2025 "
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestação de contas Parcial",
+        "Data início": "01/07/2025 ",
+        "Data final": "31/07/2025 "
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestação de Contas 01.08.2025 a 31.08.2025",
+        "Data início": "01/08/2025 ",
+        "Data final": "31/08/2025 "
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestação_Parcial_01.09.2025_A_30.09.2025_P 226",
+        "Data início": "01/09/2025 ",
+        "Data final": "30/09/2025 "
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestação_Parcial_01.10.2025_A_31.10.2025_P 226",
+        "Data início": "01/10/2025 ",
+        "Data final": "03/11/2025 "
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestação_Parcial_01.11.2025_A_30.11.2025_P 226",
+        "Data início": "01/11/2025 ",
+        "Data final": "30/11/2025 "
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestação_Parcial_01.12.2025_A_31.12.2025_P 226",
+        "Data início": "01/12/2025 ",
+        "Data final": "31/12/2025 "
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestação de contas Janeiro 2026",
+        "Data início": "01/01/2026 ",
+        "Data final": "31/01/2026 "
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Título do Arquivo": "Prestação de contas Parcial",
+        "Descrição": "Prestação de contas Fevereiro 2026",
+        "Data início": "01/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Título do Arquivo": "Prestação de contas parcial ",
+        "Descrição": "Prestação de contas Março 2026",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      },
+      {
+        "Referência do projeto": "226 - Projeto UNIDADE AUTOMÁTICA DE PRODUÇÃO DE RAÇÕES HIDROPÔNICAS COM GESTÃO 4.0 - IFFAR",
+        "Título do Arquivo": "Prestação de Contas Março/2026",
+        "Descrição": "Prestação de Contas Março/2026",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T12:16:07",
+  "_error": null
+}

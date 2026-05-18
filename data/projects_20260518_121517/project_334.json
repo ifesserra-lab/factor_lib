@@ -1,0 +1,1212 @@
+{
+  "id": "334",
+  "name": "Produção de hidrogênio verde a partir de eletrocatalisadores metálicos.",
+  "csv": {
+    "Projeto_334/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Coordenador": "Pedro Vitor Morbach Dixini",
+        "Financiadora": "Banco do Nordeste do Brasil S/A",
+        "Data de início": "20/06/2025",
+        "Data de vigência": "20/06/2028",
+        "Data de encerramento": "20/08/2028",
+        "Tipo de Projeto": "Pesquisa",
+        "Instituição executora": "INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO ESPIRITO SANTO - CAMPUS ARACRUZ",
+        "Departamento": "",
+        "Processo e sub-processo": "",
+        "Valor aprovado": "998.766,35",
+        "Objetivo/Objeto/Título": "Desenvolver eletrocatalisadores nanoestruturados de baixo custo, utilizando metais não nobres em diferentes composições nominais suportados em diferentes materiaiscarbonosos, para a produção de gás H2 com menor custo energético"
+      }
+    ],
+    "Projeto_334/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Bolsas",
+        "Aprovado": "448.800,00",
+        "Liberado": "0,00",
+        "Executado": "-65.820,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "300,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "92.939,76",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Aprovado": "233.343,07",
+        "Liberado": "0,00",
+        "Executado": "-233.343,07",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Aprovado": "97.274,00",
+        "Liberado": "0,00",
+        "Executado": "-17.066,60",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "20.000,00",
+        "Liberado": "0,00",
+        "Executado": "-11.400,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "494.886,99",
+        "Executado": "494.886,99",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "15.048,40",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_334/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "CNPJ": "03.290.250/0006-06",
+        "Nome do Favorecido": "AGILENT TECHNOLOGIES BRASIL LTDA",
+        "Data do Pagamento": "19/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "233.343,07"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "CNPJ": "60.853.165/0001-38",
+        "Nome do Favorecido": "Analion Aparelhos e Sensores Indústrias e Comércio Ltda.",
+        "Data do Pagamento": "05/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "10.000,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "CNPJ": "48.869.087/0001-64",
+        "Nome do Favorecido": "COMLABOR CIENTIFICA SOLUCOES PARA LABORATORIOS LTDA",
+        "Data do Pagamento": "30/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "11.400,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "CNPJ": "53.543.047/0001-68",
+        "Nome do Favorecido": "CONTEMP INDUSTRIA COMERCIO E SERVICOS LTDA",
+        "Data do Pagamento": "25/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "941,41"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "CNPJ": "50.276.065/0001-32",
+        "Nome do Favorecido": "SAO CARLOS QUIMICA LTDA",
+        "Data do Pagamento": "13/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "1.715,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "CNPJ": "68.337.658/0001-27",
+        "Nome do Favorecido": "Sigma-Aldrich Brasil Ltda",
+        "Data do Pagamento": "24/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "3.435,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "CNPJ": "35.820.448/0001-36",
+        "Nome do Favorecido": "White Martins Gases Industriais Ltda ",
+        "Data do Pagamento": "24/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "975,19"
+      }
+    ],
+    "Projeto_334/Pagamento de pessoa física.csv": [
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "CPF": "***.681.647-**",
+        "Nome do Favorecido": "Ana Paula Loureiro Lima",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "12/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "1.400,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "CPF": "***.681.647-**",
+        "Nome do Favorecido": "Ana Paula Loureiro Lima",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "3.100,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "CPF": "***.681.647-**",
+        "Nome do Favorecido": "Ana Paula Loureiro Lima",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "3.100,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "CPF": "***.681.647-**",
+        "Nome do Favorecido": "Ana Paula Loureiro Lima",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "3.100,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "CPF": "***.681.647-**",
+        "Nome do Favorecido": "Ana Paula Loureiro Lima",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "3.100,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "CPF": "***.681.647-**",
+        "Nome do Favorecido": "Ana Paula Loureiro Lima",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "3.100,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "CPF": "***.681.647-**",
+        "Nome do Favorecido": "Ana Paula Loureiro Lima",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "3.100,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "CPF": "***.681.647-**",
+        "Nome do Favorecido": "Ana Paula Loureiro Lima",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "3.100,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "CPF": "***.681.647-**",
+        "Nome do Favorecido": "Ana Paula Loureiro Lima",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "3.100,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "CPF": "***.672.587-**",
+        "Nome do Favorecido": "Caroline Matias Bolonini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.120,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "CPF": "***.672.587-**",
+        "Nome do Favorecido": "Caroline Matias Bolonini",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2.100,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "CPF": "***.961.887-**",
+        "Nome do Favorecido": "Yonis Fornazier Filho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "5.200,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "CPF": "***.961.887-**",
+        "Nome do Favorecido": "Yonis Fornazier Filho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "5.200,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "CPF": "***.961.887-**",
+        "Nome do Favorecido": "Yonis Fornazier Filho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "5.200,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "CPF": "***.961.887-**",
+        "Nome do Favorecido": "Yonis Fornazier Filho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "5.200,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "CPF": "***.961.887-**",
+        "Nome do Favorecido": "Yonis Fornazier Filho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "5.200,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "CPF": "***.961.887-**",
+        "Nome do Favorecido": "Yonis Fornazier Filho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "5.200,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "CPF": "***.961.887-**",
+        "Nome do Favorecido": "Yonis Fornazier Filho",
+        "Tipo de Pagamento": "Pagamento de Bolsa Pesquisa",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "5.200,00"
+      }
+    ],
+    "Projeto_334/Equipe.csv": [
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Nome": "Ana Paula Loureiro Lima",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Nome": "Caroline Matias Bolonini",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Universidade Federal do Espírito Santo (UFES)",
+        "Vínculo com a instituição": "Aluna de mestrado",
+        "Grau de instrução": "Educação Superior completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Nome": "Pedro Vitor Morbach Dixini",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "Ifes - Campus Vitória",
+        "Vínculo com a instituição": "Professor",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Sim"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Nome": "Yonis Fornazier Filho",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      }
+    ],
+    "Projeto_334/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "300,00",
+        "Valor total aprovado": "300,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Operacionais e Administrativas",
+        "Justificativa": " ",
+        "Qtde aprovada": "3,00",
+        "Valor unitário": "30.979,92",
+        "Valor total aprovado": "92.939,76",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa Pós Doutorado",
+        "Justificativa": "1 bolsista",
+        "Qtde aprovada": " 12 meses",
+        "Valor unitário": "12,00",
+        "Valor total aprovado": "5.200,00",
+        "Valor executado": "62.400,00",
+        "null": [
+          "62.400,00"
+        ]
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa de Doutorado",
+        "Justificativa": "2 bolsistas ",
+        "Qtde aprovada": " 12 meses",
+        "Valor unitário": "1,00",
+        "Valor total aprovado": "62.400,00",
+        "Valor executado": "62.400,00",
+        "null": [
+          "39.768,89"
+        ]
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa de Mestrado",
+        "Justificativa": "1 bolsista ",
+        "Qtde aprovada": " 12 meses",
+        "Valor unitário": "12,00",
+        "Valor total aprovado": "2.100,00",
+        "Valor executado": "25.200,00",
+        "null": [
+          "25.200,00"
+        ]
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Ácido Sulfúrico pureza 99,99 ",
+        "Justificativa": "Litro",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "400,00",
+        "Valor total aprovado": "800,00",
+        "Valor executado": "279,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Cloreto de Paládio (II) ",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "1.288,00",
+        "Valor total aprovado": "2.576,00",
+        "Valor executado": "2.079,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Eletrodo de Ag/AgCl saturado ",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "2.780,00",
+        "Valor total aprovado": "2.780,00",
+        "Valor executado": "2.000,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Eletrodo de calomelano saturado (eletrodo dereferência) ",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "2.780,00",
+        "Valor total aprovado": "2.780,00",
+        "Valor executado": "2.000,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Eletrodo de trabalho de carbono vítreo ",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "5,00",
+        "Valor unitário": "1.500,00",
+        "Valor total aprovado": "7.500,00",
+        "Valor executado": "6.000,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Etóxido de Tântalo(V) ",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.660,00",
+        "Valor total aprovado": "1.660,00",
+        "Valor executado": "1.660,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Gás Argônio pureza 99,999",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "2.000,00",
+        "Valor total aprovado": "4.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Gás Hélio pureza 99,999",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "3,00",
+        "Valor unitário": "3.000,00",
+        "Valor total aprovado": "9.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Gás Nitrogênio pureza 99,999",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "2.000,00",
+        "Valor total aprovado": "4.000,00",
+        "Valor executado": "975,19"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Hexacloroplatinato(IV) de hidrogênio",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "3.500,00",
+        "Valor total aprovado": "7.000,00",
+        "Valor executado": "2.237,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Isopropóxido de titânio(IV)",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "262,00",
+        "Valor total aprovado": "262,00",
+        "Valor executado": "262,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Reagente Cloreto de rutênio(III)",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.732,00",
+        "Valor total aprovado": "1.732,00",
+        "Valor executado": "1.070,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Reagente Etanol P.A.",
+        "Justificativa": "Litro",
+        "Qtde aprovada": "3,00",
+        "Valor unitário": "278,00",
+        "Valor total aprovado": "834,00",
+        "Valor executado": "809,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Termômetro Químico Escala Interna Mercúrio (HG)",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "135,00",
+        "Valor total aprovado": "270,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bequer Graduado forma baixa cap. 250 mL",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "10,00",
+        "Valor unitário": "9,08",
+        "Valor total aprovado": "90,80",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bequer Graduado forma baixa cap. 50 mL",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "10,00",
+        "Valor unitário": "5,92",
+        "Valor total aprovado": "59,20",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bequer Graduado forma baixa cap.100 mL",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "10,00",
+        "Valor unitário": "6,36",
+        "Valor total aprovado": "63,60",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Cadinhos 50 mL de porcelana",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "10,00",
+        "Valor unitário": "50,22",
+        "Valor total aprovado": "502,20",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Controlador de temperatura para Forno Mufla",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.700,00",
+        "Valor total aprovado": "1.700,00",
+        "Valor executado": "941,41"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Eletrodo de referência Hg/HgO (Corpo Plástico)",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "2.780,00",
+        "Valor total aprovado": "2.780,00",
+        "Valor executado": "1.715,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Microtubo plástico tipo eppendorf 2 MlK6-0200 Microtubo De Centrifugação 2,0 Ml. Transparente.500un/Pct",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "93,70",
+        "Valor total aprovado": "93,70",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Microtubo plástico tipo eppendorf 5 mLK6-5000 Microtubo De Centrifugação 5 Ml. Graduado.Transparente. 250 Un/Pct",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "450,44",
+        "Valor total aprovado": "450,44",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "ponteiras sem Filtro 1000 lPonteira Tipo Gilson 1000UL, PP, Não Estéril, pacote com500 unidades",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "24,62",
+        "Valor total aprovado": "24,62",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Gás ar sintético pureza grau zero",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "1.178,69",
+        "Valor total aprovado": "2.357,38",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Gás Hidrogênio Pureza 99,999%",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "1.654,00",
+        "Valor total aprovado": "3.308,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Etóxido de Tântalo(V) ",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "138,00",
+        "Valor total aprovado": "138,00",
+        "Valor executado": "138,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Isopropóxido de titânio(IV)",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "62,00",
+        "Valor total aprovado": "62,00",
+        "Valor executado": "62,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Cromatografo a Gás Agilent modelo 8860, detectores FID/TCD",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "233.343,07",
+        "Valor total aprovado": "233.343,07",
+        "Valor executado": "233.343,07"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Cilindro de gás - Ar sintético",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.600,00",
+        "Valor total aprovado": "1.600,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Cilindro de gás - Hidrogênio",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "2.234,62",
+        "Valor total aprovado": "2.234,62",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_1a Etapa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Instalação do sistema de gases para a operação do cromatógrafo gasoso",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "28.500,00",
+        "Valor total aprovado": "28.500,00",
+        "Valor executado": "28.500,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_2a Etapa",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa pós doutorado",
+        "Justificativa": "1 bolsista ",
+        "Qtde aprovada": " 12 meses",
+        "Valor unitário": "12,00",
+        "Valor total aprovado": "5.200,00",
+        "Valor executado": "62.400,00",
+        "null": [
+          "62.400,00"
+        ]
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_2a Etapa",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa Doutorado",
+        "Justificativa": "2 bolsistas ",
+        "Qtde aprovada": " 12 meses",
+        "Valor unitário": "24,00",
+        "Valor total aprovado": "3.100,00",
+        "Valor executado": "74.400,00",
+        "null": [
+          "35.798,78"
+        ]
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_2a Etapa",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa Mestrado",
+        "Justificativa": "2 bolsistas ",
+        "Qtde aprovada": " 12 meses",
+        "Valor unitário": "24,00",
+        "Valor total aprovado": "2.100,00",
+        "Valor executado": "50.400,00",
+        "null": [
+          "23.310,00"
+        ]
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_2a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Ácido Sulfúrico pureza 99,99",
+        "Justificativa": "Litro",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "400,00",
+        "Valor total aprovado": "400,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_2a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Cartucho para coluna trocadora de íons/tratamento deágua",
+        "Justificativa": "unidade",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "2.500,00",
+        "Valor total aprovado": "5.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_2a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Eletrodo de Ag/AgCl saturado",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "1.000,00",
+        "Valor total aprovado": "2.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_2a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Eletrodo de calomelano saturado (eletrodo dereferência",
+        "Justificativa": "unidade",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "1.000,00",
+        "Valor total aprovado": "2.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_2a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Gás Argônio pureza 99,999",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "2.000,00",
+        "Valor total aprovado": "2.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_2a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Gás Hélio pureza 99,999",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "3.000,00",
+        "Valor total aprovado": "6.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_2a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Hexacloroplatinato(IV) de hidrogênio",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "3.500,00",
+        "Valor total aprovado": "3.500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_2a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Lâmpada UV para o sistema de tratamento de águaultrapura",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "2.400,00",
+        "Valor total aprovado": "2.400,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_2a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Reagente Etanol P.A.",
+        "Justificativa": "Litro",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "278,00",
+        "Valor total aprovado": "556,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_3a Etapa",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa Doutorado",
+        "Justificativa": "2 bolsistas ",
+        "Qtde aprovada": " 12 meses",
+        "Valor unitário": "24,00",
+        "Valor total aprovado": "3.100,00",
+        "Valor executado": "74.400,00",
+        "null": [
+          "29.832,32"
+        ]
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_3a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Cartucho para coluna trocadora de íons/tratamento deágua",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "2.500,00",
+        "Valor total aprovado": "5.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_3a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Cloreto de paládio(II)",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "1.288,00",
+        "Valor total aprovado": "2.576,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_3a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Eletrodo de Ag/AgCl saturado",
+        "Justificativa": "unidade",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.000,00",
+        "Valor total aprovado": "1.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_3a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Eletrodo de calomelano saturado (eletrodo dereferência)",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "1.000,00",
+        "Valor total aprovado": "2.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_3a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Gás Hélio pureza 99,999",
+        "Justificativa": "unidade",
+        "Qtde aprovada": "3,00",
+        "Valor unitário": "3.000,00",
+        "Valor total aprovado": "9.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_3a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Hexacloroplatinato(IV) de hidrogênio",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "3.500,00",
+        "Valor total aprovado": "7.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_3a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Lâmpada UV para o sistema de tratamento de águaultrapura",
+        "Justificativa": "Unidade",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "2.400,00",
+        "Valor total aprovado": "2.400,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_3a Etapa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Reagente Etanol P.A.",
+        "Justificativa": "Litro",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "278,00",
+        "Valor total aprovado": "278,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Agrupamento": "00_3a Etapa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Taxa de publicação de artigos científicos",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "12.405,44",
+        "Valor total aprovado": "12.405,44",
+        "Valor executado": "0,00"
+      }
+    ],
+    "Projeto_334/Documentos.csv": [
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Título do Arquivo": "P 334_LAI",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      }
+    ],
+    "Projeto_334/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Título do Arquivo": "334 - Prestação_de_contas_parcial_Agosto_ 2025",
+        "Descrição": "334 - Prestação_de_contas_parcial_Agosto_ 2025",
+        "Data início": "01/07/2025 ",
+        "Data final": "31/08/2025 "
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Título do Arquivo": "Prestação de contas parcial setembro",
+        "Descrição": "Prestação de contas parcial setembro",
+        "Data início": "01/09/2025 ",
+        "Data final": "30/09/2025 "
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Título do Arquivo": "prestação de contas parcial outubro",
+        "Descrição": "prestação de contas parcial outubro",
+        "Data início": "01/10/2025 ",
+        "Data final": "31/10/2025 "
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Título do Arquivo": "Prestação de contas parcial - Novembro",
+        "Descrição": "Prestação de contas parcial - Novembro",
+        "Data início": "01/11/2025 ",
+        "Data final": "30/11/2025 "
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Título do Arquivo": "Prestação de contas parcial - Dezembro",
+        "Descrição": "Prestação de contas parcial - Dezembro",
+        "Data início": "01/12/2025 ",
+        "Data final": "31/12/2025 "
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Título do Arquivo": "Prestação de contas parcial - Janeiro",
+        "Descrição": "Prestação de contas parcial - Janeiro",
+        "Data início": "01/01/2026 ",
+        "Data final": "31/01/2026 "
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Título do Arquivo": "Prestação de contas parcial - Fevereiro",
+        "Descrição": "Prestação de contas parcial - Fevereiro",
+        "Data início": "01/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Título do Arquivo": "Prestação de contas parcial - Março",
+        "Descrição": "Prestação de contas parcial - Março",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      },
+      {
+        "Referência do projeto": "334 - Produção de hidrogênio verde a partir de eletrocatalisadores metálicos",
+        "Título do Arquivo": "Prestação de contas parcial - Abril",
+        "Descrição": "Prestação de contas parcial - Abril",
+        "Data início": "01/04/2026 ",
+        "Data final": "30/04/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T12:18:00",
+  "_error": null
+}

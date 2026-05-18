@@ -1,0 +1,437 @@
+{
+  "id": "380",
+  "name": "Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca.",
+  "csv": {
+    "Projeto_380/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Coordenador": "Flávia Nascimento Ribeiro",
+        "Financiadora": "MINISTÉRIO DO DESENVOLVIMENTO E ASSISTÊNCIA SOCIAL, FAMÍLIA E COMBATE A FOME",
+        "Data de início": "30/04/2026",
+        "Data de vigência": "30/04/2027",
+        "Data de encerramento": "30/06/2027",
+        "Tipo de Projeto": "Extensão",
+        "Instituição executora": "Instituto Federal De Educação Ciencia E Tecnologia Do Espirito Santo - Reitoria",
+        "Departamento": "",
+        "Processo e sub-processo": " 23147.000050/2026-75",
+        "Valor aprovado": "217.950,54",
+        "Objetivo/Objeto/Título": "Apoio ao acesso, à permanência e à qualificação das discentes em cursos de qualificação profissional no âmbito do projeto Mulheres Mil + Cuidados, a partir da implementação de espaços de cuidados, denominados Cuidotecas e aquisições de bens e insumos para aulas práticas."
+      }
+    ],
+    "Projeto_380/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Bolsas",
+        "Aprovado": "12.980,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "500,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Diária Nacional",
+        "Aprovado": "3.014,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "23.950,54",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Aprovado": "41.293,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Aprovado": "11.931,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Física",
+        "Aprovado": "76.032,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "48.750,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_380/Equipe.csv": [
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Nome": "Flávia Nascimento Ribeiro",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "Instituto Federal do Espírito Santo - Ifes",
+        "Vínculo com a instituição": "Professora EBTT",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Sim"
+      }
+    ],
+    "Projeto_380/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador",
+        "Justificativa": " ",
+        "Qtde aprovada": "295,00",
+        "Valor unitário": "44,00",
+        "Valor total aprovado": "12.980,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "500,00",
+        "Valor total aprovado": "500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Agrupamento": "",
+        "Rubrica": "Diária Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Diárias para ações presenciais",
+        "Justificativa": " ",
+        "Qtde aprovada": "8,00",
+        "Valor unitário": "376,75",
+        "Valor total aprovado": "3.014,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Itens de papelaria, contendo: papéis diversos,",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "pincéis, borracha, cola branca, lápis grafite,",
+        "Agrupamento": "",
+        "Rubrica": "",
+        "Código": "",
+        "Produto": "",
+        "Descrição": "",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "tesoura, cadernos, tinta guache, materiais de",
+        "Agrupamento": "",
+        "Rubrica": "",
+        "Código": "",
+        "Produto": "",
+        "Descrição": "",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "EVA, entre outros. (1 kit por cuidoteca)",
+        "Agrupamento": " ",
+        "Rubrica": "4,00",
+        "Código": "1.168,75",
+        "Produto": "4.675,00",
+        "Descrição": "0,00",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Itens de limpeza",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "",
+        "Agrupamento": " ",
+        "Rubrica": "4,00",
+        "Código": "179,00",
+        "Produto": "716,00",
+        "Descrição": "0,00",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Itens de saúde, cuidados, higiene pessoal e kitde primeiro socorros par o curso de Cuidador deIdoso por Cuidotec",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "6.540,00",
+        "Valor total aprovado": "6.540,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Itens de organização e mobiliário plástico (1 kit",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "por cuidoteca)",
+        "Agrupamento": " ",
+        "Rubrica": "4,00",
+        "Código": "2.900,00",
+        "Produto": "11.600,00",
+        "Descrição": "0,00",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Brinquedos, jogos e livros infantis (1 kit porcuidoteca) ",
+        "Justificativa": " ",
+        "Qtde aprovada": "4,00",
+        "Valor unitário": "2.765,00",
+        "Valor total aprovado": "11.060,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Caixa de som Bluetooth",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "",
+        "Agrupamento": " ",
+        "Rubrica": "3,00",
+        "Código": "400,00",
+        "Produto": "1.200,00",
+        "Descrição": "0,00",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Boneco simulador clínico",
+        "Justificativa": " ",
+        "Qtde aprovada": "3,00",
+        "Valor unitário": "2.500,00",
+        "Valor total aprovado": "7.500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Manequim de reanimação cardiopulmonar",
+        "Justificativa": " ",
+        "Qtde aprovada": "3,00",
+        "Valor unitário": "1.350,00",
+        "Valor total aprovado": "4.050,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Cadeira de Banho",
+        "Justificativa": " ",
+        "Qtde aprovada": "3,00",
+        "Valor unitário": "500,00",
+        "Valor total aprovado": "1.500,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Cadeira de rodas ",
+        "Justificativa": " ",
+        "Qtde aprovada": "3,00",
+        "Valor unitário": "1.461,00",
+        "Valor total aprovado": "4.383,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Física",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Remuneração dos Profissionais - Cuidotecas",
+        "Justificativa": " ",
+        "Qtde aprovada": "1.760,00",
+        "Valor unitário": "36,00",
+        "Valor total aprovado": "63.360,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Física",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Encargos dos Profissionais (20%)",
+        "Justificativa": " ",
+        "Qtde aprovada": "1.760,00",
+        "Valor unitário": "7,20",
+        "Valor total aprovado": "12.672,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Contratação de Serviço de fornecimento delanche saudável infantil por meio de kit lanche,contendo, por exemplo, sanduíche, biscoitos,proteínas e suco",
+        "Justificativa": " ",
+        "Qtde aprovada": "3.250,00",
+        "Valor unitário": "15,00",
+        "Valor total aprovado": "48.750,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Operacionais e Administrativas",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "23.950,54",
+        "Valor total aprovado": "23.950,54",
+        "Valor executado": "0,00"
+      }
+    ],
+    "Projeto_380/Documentos.csv": [
+      {
+        "Referência do projeto": "380 - Programa Mulheres Mil - Ciclo 5 + Cuidados - Cuidoteca",
+        "Título do Arquivo": "P 380 Contrato - Publicação",
+        "Descrição": "Contrato do Projeto 380 - Publicação"
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T12:19:19",
+  "_error": null
+}

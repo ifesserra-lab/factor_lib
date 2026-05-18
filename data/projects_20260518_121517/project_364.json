@@ -1,0 +1,1406 @@
+{
+  "id": "364",
+  "name": "Comunica Jovem.",
+  "csv": {
+    "Projeto_364/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Coordenador": "André Rocha Pimenta",
+        "Financiadora": "Ministério da Igualdade Racial - MIR",
+        "Data de início": "16/01/2026",
+        "Data de vigência": "16/01/2027",
+        "Data de encerramento": "16/03/2027",
+        "Tipo de Projeto": "Extensão",
+        "Instituição executora": "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO RIO DE JANEIRO - CAMPUS PARACAMBI",
+        "Departamento": "",
+        "Processo e sub-processo": "23278.000945/2025-33 (SIPAC IFRJ)",
+        "Valor aprovado": "640.800,00",
+        "Objetivo/Objeto/Título": "Capacitar 50 jovens autodeclarados negros, pardos e indígenas de Paracambi e Japeri, entre 15 e 29 anos, no campo do audiovisual."
+      }
+    ],
+    "Projeto_364/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Bolsas",
+        "Aprovado": "439.600,00",
+        "Liberado": "0,00",
+        "Executado": "-16.013,80",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "3.000,00",
+        "Liberado": "0,00",
+        "Executado": "-140,08",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "47.047,40",
+        "Liberado": "0,00",
+        "Executado": "-23.456,10",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Aprovado": "125.000,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "RCI - Ressarcimentos e Contrapartidas Institucionais ",
+        "Aprovado": "8.207,15",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "17.945,45",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "319.300,00",
+        "Executado": "319.300,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "6.586,90",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_364/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "13/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "3,52"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "135,96"
+      }
+    ],
+    "Projeto_364/Pagamento de pessoa física.csv": [
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.566.417-**",
+        "Nome do Favorecido": "Agatha De paula",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.846.217-**",
+        "Nome do Favorecido": "Albert Ezequiel Joaquim Martins ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.722.017-**",
+        "Nome do Favorecido": "Alef Dener Rodrigues de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.546,66"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.722.017-**",
+        "Nome do Favorecido": "Alef Dener Rodrigues de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2.900,00"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.087.607-**",
+        "Nome do Favorecido": "Ana Beatriz Fialho do Amaral Pereira ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.719.837-**",
+        "Nome do Favorecido": "Ana Carolina da Silva Carvalho ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "354,83"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.192.737-**",
+        "Nome do Favorecido": "Ana Gabriella da Silva Braga",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.850.067-**",
+        "Nome do Favorecido": "Ana Laura de Souza Marques sobral ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.214.087-**",
+        "Nome do Favorecido": "ANA LUIZA DE FATIMA LOPES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.990.767-**",
+        "Nome do Favorecido": "Arthur Manoel Ramos ds Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.091.687-**",
+        "Nome do Favorecido": "Beatriz Pinheiro dos Anjos de Jesus",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "709,67"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.540.477-**",
+        "Nome do Favorecido": "Cauã Lins Tolentino",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.437.597-**",
+        "Nome do Favorecido": "CLARICE LUISA DA CONCEICAO BARBOZA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.293.327-**",
+        "Nome do Favorecido": "Débora dos Santos Crisóstomo Barreto ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.753.847-**",
+        "Nome do Favorecido": "Diego do Nascimento de Assis",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.696.607-**",
+        "Nome do Favorecido": "elisiane santos da silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.199.087-**",
+        "Nome do Favorecido": "GABRIELA DUARTE CESAR RIBEIRO",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.685.537-**",
+        "Nome do Favorecido": "Guilherme Pereira Dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.177.917-**",
+        "Nome do Favorecido": "Isabela Bezerril Schiavo",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.734.597-**",
+        "Nome do Favorecido": "Isabelly Helena nascimento Gomes da Silva ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,65"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.917.417-**",
+        "Nome do Favorecido": "Jamilly Silva Cruz da Rocha ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.735.137-**",
+        "Nome do Favorecido": "Jenyfer da Silva Santos Oliveira ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.665.287-**",
+        "Nome do Favorecido": "João Pedro Vicente De Souza",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.280.817-**",
+        "Nome do Favorecido": "Júlia Oliveira Bento ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.768.927-**",
+        "Nome do Favorecido": "Kauã Gonçalves Ramos Duarte",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.814.077-**",
+        "Nome do Favorecido": "Letícia Teles da Silva Souza",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.028.697-**",
+        "Nome do Favorecido": "LILIANE SILVA DOS SANTOS",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.041.147-**",
+        "Nome do Favorecido": "Lucas Mayson Serafim Ferraz",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.050.817-**",
+        "Nome do Favorecido": "Maria Eduarda Carvalho Maia ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.846.457-**",
+        "Nome do Favorecido": "Maria Eduarda Rodrigues da Silva ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.330.097-**",
+        "Nome do Favorecido": "Maria Eduarda Santos de Souza ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.624.777-**",
+        "Nome do Favorecido": "Marya Fernanda Santiago lopes pereira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.610.697-**",
+        "Nome do Favorecido": "Miguel Alves Felizardo ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.063.517-**",
+        "Nome do Favorecido": "Natã Araujo Cassiano da Silva ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "487,75"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.333.267-**",
+        "Nome do Favorecido": "Nycolas Porto Sarmento da Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.572.877-**",
+        "Nome do Favorecido": "Olga Caldas de Oliveira e Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "1.546,66"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.572.877-**",
+        "Nome do Favorecido": "Olga Caldas de Oliveira e Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2.900,00"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.359.427-**",
+        "Nome do Favorecido": "Rebeca dos Santos Pedrosa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.500.117-**",
+        "Nome do Favorecido": "Rodrigo Santos Silva Rodrigues ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.102.847-**",
+        "Nome do Favorecido": "Samuel Paulino do Nascimento",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.175.647-**",
+        "Nome do Favorecido": "SIMONE FERREIRA TEODORO DE OLIVEIRA",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "1.200,00"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.444.387-**",
+        "Nome do Favorecido": "Sophia Barros dos Santos ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.335.927-**",
+        "Nome do Favorecido": "Stefane da Silva Geraldo dos Santos",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.494.627-**",
+        "Nome do Favorecido": "Talles Maia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.035.407-**",
+        "Nome do Favorecido": "Thayris Santana de Siqueira ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.965.997-**",
+        "Nome do Favorecido": "Vinícius Freitas Tomás",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "733,33"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.005.787-**",
+        "Nome do Favorecido": "Vitor Israel Moreira Rosa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.327.687-**",
+        "Nome do Favorecido": "Wellinton Miranda Maia ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.753.357-**",
+        "Nome do Favorecido": "Withalo Gabriel Soares Tavares ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.647.397-**",
+        "Nome do Favorecido": "YASMIN BARBOSA AGUIAR",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "600,00"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.189.037-**",
+        "Nome do Favorecido": "Yasmin Beatriz De Oliveira Ferreira ",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      }
+    ],
+    "Projeto_364/Pagamento de servidores ou agentes públicos.csv": [
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "CPF": "***.362.067-**",
+        "Nome do Favorecido": "Arthur Dos Santos Pereira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "72,25"
+      }
+    ],
+    "Projeto_364/Equipe.csv": [
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Agatha De paula",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "0000000",
+        "Vínculo com a instituição": "00000000",
+        "Grau de instrução": "Ensino Médio completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Albert Ezequiel Joaquim Martins ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Não se Aplica ",
+        "Vínculo com a instituição": "Não se Aplica",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Alef Dener Rodrigues de Oliveira",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "XXX",
+        "Vínculo com a instituição": "XXX",
+        "Grau de instrução": "Educação Superior completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Ana Beatriz Fialho do Amaral Pereira ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Estudante ",
+        "Vínculo com a instituição": "Estudante",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Ana Carolina da Silva Carvalho ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Ana Gabriella da Silva Braga",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Não se aplica",
+        "Vínculo com a instituição": "Não se aplica",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Ana Laura de Souza Marques sobral ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Comunica jovem ",
+        "Vínculo com a instituição": "Comunica jovem",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "ANA LUIZA DE FATIMA LOPES",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Tô",
+        "Vínculo com a instituição": "Dgt",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "André Rocha Pimenta",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "Instituto Federal do Rio de Janeiro",
+        "Vínculo com a instituição": "Professor",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Sim"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Arthur Dos Santos Pereira",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Escola ",
+        "Vínculo com a instituição": "Instituto federal do Rio de Janeiro campus Paracambi",
+        "Grau de instrução": "Ensino Fundamental Completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Arthur Manoel Ramos ds Silva",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Nenhuma",
+        "Vínculo com a instituição": "Nenhuma",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Beatriz Pinheiro dos Anjos de Jesus",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Educação Superior completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Cauã Lins Tolentino",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Não tem",
+        "Vínculo com a instituição": "Não tem",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "CLARICE LUISA DA CONCEICAO BARBOZA",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Xxxxxx",
+        "Vínculo com a instituição": "Xxxxxx",
+        "Grau de instrução": "Ensino Médio completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Débora dos Santos Crisóstomo Barreto ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "000",
+        "Vínculo com a instituição": "000",
+        "Grau de instrução": "Ensino Médio completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Diego do Nascimento de Assis",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Não se aplica",
+        "Vínculo com a instituição": "Não se aplica",
+        "Grau de instrução": "Ensino Médio completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "elisiane santos da silva",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "ministério do trabalho e emprego",
+        "Vínculo com a instituição": "carteira de trabalho",
+        "Grau de instrução": "Ensino Médio completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "FILIPE ANASTACIO ALMEIDA",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Não possuo",
+        "Vínculo com a instituição": "Não possuo",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "GABRIELA DUARTE CESAR RIBEIRO",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Xxxx",
+        "Vínculo com a instituição": "Xxxx",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Guilherme Pereira Dos Santos",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Nenhuma",
+        "Vínculo com a instituição": "Sem vínculo",
+        "Grau de instrução": "Ensino Médio completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Isabela Bezerril Schiavo",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Nenhum ",
+        "Vínculo com a instituição": "Nenhum",
+        "Grau de instrução": "Ensino Médio completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Isabelly Helena nascimento Gomes da Silva ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Não se aplica ",
+        "Vínculo com a instituição": "Não se aplica",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Jamilly Silva Cruz da Rocha ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "XXX",
+        "Vínculo com a instituição": "XXX",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Jenyfer da Silva Santos Oliveira ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Nenhum ",
+        "Vínculo com a instituição": "Nenhum",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "João Pedro Vicente De Souza",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Inss",
+        "Vínculo com a instituição": "Pesionista",
+        "Grau de instrução": "Ensino Médio completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Júlia Oliveira Bento ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "XXX",
+        "Vínculo com a instituição": "XXX",
+        "Grau de instrução": "Ensino Fundamental Completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Júlia Ramos Rodrigues ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Não possuo",
+        "Vínculo com a instituição": "Não possuo",
+        "Grau de instrução": "Ensino Médio completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Kamily Vitória dos Santos Pereira",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "não se aplica a mim",
+        "Vínculo com a instituição": "não se aplica a mim",
+        "Grau de instrução": "Ensino Médio completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Karina Cristina Marcos Carneiro",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Xxxxxx",
+        "Vínculo com a instituição": "Xxxxxx",
+        "Grau de instrução": "Ensino Médio completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Kauã Gonçalves Ramos Duarte",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "não tenho",
+        "Vínculo com a instituição": "não tenho",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Letícia Teles da Silva Souza",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "XXX",
+        "Vínculo com a instituição": "XXX",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "LILIANE SILVA DOS SANTOS",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "0000000000000",
+        "Vínculo com a instituição": "0000000000000",
+        "Grau de instrução": "Ensino Médio completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Lucas Mayson Serafim Ferraz",
+        "Função": "Bolsista",
+        "Instituição de trabalho": ".",
+        "Vínculo com a instituição": ".",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Maria Eduarda Carvalho Maia ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "XXX",
+        "Vínculo com a instituição": "XXX",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Maria Eduarda Rodrigues da Silva ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Isento ",
+        "Vínculo com a instituição": "Isento",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Maria Eduarda Santos de Souza ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Nao se aplica ",
+        "Vínculo com a instituição": "Não se aplica",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Marya Fernanda Santiago lopes pereira",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Xxxxx ",
+        "Vínculo com a instituição": "Xxxxxx",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Maysa neves de oliveira ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "00000000000",
+        "Vínculo com a instituição": "00000000000",
+        "Grau de instrução": "Ensino Médio completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Miguel Alves Felizardo ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Xxxxxxxx",
+        "Vínculo com a instituição": "Xxxxxxx",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Mycaella Silva",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "XXX",
+        "Vínculo com a instituição": "XXX",
+        "Grau de instrução": "Ensino Fundamental Completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Natã Araujo Cassiano da Silva ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Comunica jovem ",
+        "Vínculo com a instituição": "Estudo",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Nycolas Porto Sarmento da Silva",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "XXX",
+        "Vínculo com a instituição": "XXX",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Olga Caldas de Oliveira e Silva",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "xxxxxx",
+        "Vínculo com a instituição": "xxxxxx",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Rebeca dos Santos Pedrosa",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "IFRJ",
+        "Vínculo com a instituição": "Estudante",
+        "Grau de instrução": "Ensino Médio completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Rodrigo Santos Silva Rodrigues ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Nenhum",
+        "Vínculo com a instituição": "Nenhum",
+        "Grau de instrução": "Ensino Médio completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Samuel Paulino do Nascimento",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Xxx",
+        "Vínculo com a instituição": "Xxx",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "SIMONE FERREIRA TEODORO DE OLIVEIRA",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Prefeitura de Seropédica",
+        "Vínculo com a instituição": "Contrato",
+        "Grau de instrução": "Pós-Graduação completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Sophia Barros dos Santos ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Xxxxxxxxxxx",
+        "Vínculo com a instituição": "Xxxxxxxxxxxxxx",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Stefane da Silva Geraldo dos Santos",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Desempregada",
+        "Vínculo com a instituição": "Não se aplica",
+        "Grau de instrução": "Ensino Médio completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Talles Maia",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "XXX",
+        "Vínculo com a instituição": "XXX",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Thallyta Vitória Mendes Tomás do Rosário ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Não trabalho ",
+        "Vínculo com a instituição": "Não trabalho",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Thayris Santana de Siqueira ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Estudante",
+        "Vínculo com a instituição": "Estudante",
+        "Grau de instrução": "Ensino Médio completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Vinícius Freitas Tomás",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Educação Superior completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Vitor Israel Moreira Rosa",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "XXX",
+        "Vínculo com a instituição": "XXX",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Wellinton Miranda Maia ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "0",
+        "Vínculo com a instituição": "0",
+        "Grau de instrução": "Ensino Médio incompleto",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Withalo Gabriel Soares Tavares ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Panco ",
+        "Vínculo com a instituição": "Tenho",
+        "Grau de instrução": "Ensino Médio completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "YASMIN BARBOSA AGUIAR",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "IFRJ Campus Paracambi",
+        "Vínculo com a instituição": "Monitor",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Nome": "Yasmin Beatriz De Oliveira Ferreira ",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Nenhuma",
+        "Vínculo com a instituição": "Aluno do comunica jovem",
+        "Grau de instrução": "Educação Superior incompleta",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      }
+    ],
+    "Projeto_364/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Apoio Pedagógico",
+        "Justificativa": "Colaborador externo - Graduado - CLE-G ",
+        "Qtde aprovada": "12,00",
+        "Valor unitário": "2.900,00",
+        "Valor total aprovado": "34.800,00",
+        "Valor executado": "17.400,00"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Comunicação social",
+        "Justificativa": "Colaborador externo - Graduado - CLE-G ",
+        "Qtde aprovada": "12,00",
+        "Valor unitário": "2.900,00",
+        "Valor total aprovado": "34.800,00",
+        "Valor executado": "17.400,00"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Fotografia",
+        "Justificativa": "Colaborador externo - Graduado - CLE-G ",
+        "Qtde aprovada": "10,00",
+        "Valor unitário": "2.000,00",
+        "Valor total aprovado": "20.000,00",
+        "Valor executado": "6.000,00"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Produção Textual",
+        "Justificativa": "Colaborador externo - Graduado - CLE-G ",
+        "Qtde aprovada": "10,00",
+        "Valor unitário": "2.000,00",
+        "Valor total aprovado": "20.000,00",
+        "Valor executado": "6.000,00"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Comunicação",
+        "Justificativa": "Colaborador externo - Graduado - CLE-G ",
+        "Qtde aprovada": "10,00",
+        "Valor unitário": "2.000,00",
+        "Valor total aprovado": "20.000,00",
+        "Valor executado": "6.000,00"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Alunos Monitores",
+        "Justificativa": " Estudante de Graduação - EST-G ",
+        "Qtde aprovada": "30,00",
+        "Valor unitário": "1.000,00",
+        "Valor total aprovado": "30.000,00",
+        "Valor executado": "6.000,00"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Alunos selecionados / nível médio (auxílio) concluído ou cursando fora do IF",
+        "Justificativa": " Estudante de Graduação - EST-G ",
+        "Qtde aprovada": "500,00",
+        "Valor unitário": "560,00",
+        "Valor total aprovado": "280.000,00",
+        "Valor executado": "78.671,00"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "3.000,00",
+        "Valor total aprovado": "3.000,00",
+        "Valor executado": "140,08"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "EQUIPAMENTOS DE TIC - TELEFONIA",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "",
+        "Agrupamento": " ",
+        "Rubrica": "50,00",
+        "Código": "2.500,00",
+        "Produto": "125.000,00",
+        "Descrição": "99.950,00",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Fornecimento de alimentação",
+        "Justificativa": " ",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "4.500,00",
+        "Valor total aprovado": "9.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Confecção de uniformes, bandeiras e flâmulas",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "8.945,45",
+        "Valor total aprovado": "8.945,45",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Operacionais e Administrativas",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "47.047,40",
+        "Valor total aprovado": "47.047,40",
+        "Valor executado": "23.456,10"
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Agrupamento": "",
+        "Rubrica": "RCI - Ressarcimentos e Contrapartidas Institucionais ",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Ressarcimento ao IFRJ via GRU",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "",
+        "Agrupamento": " ",
+        "Rubrica": "1,00",
+        "Código": "8.207,15",
+        "Produto": "8.207,15",
+        "Descrição": "0,00",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      }
+    ],
+    "Projeto_364/Documentos.csv": [
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Título do Arquivo": "P 364_Contrato_LAI",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      }
+    ],
+    "Projeto_364/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Título do Arquivo": "Prestação de contas parcial - Fevereiro",
+        "Descrição": "Prestação de contas parcial - Fevereiro",
+        "Data início": "01/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Título do Arquivo": "Prestação de contas parcial - Março",
+        "Descrição": "Prestação de contas parcial - Março",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      },
+      {
+        "Referência do projeto": "364 - Comunica Jovem",
+        "Título do Arquivo": "Prestação de Contas - Abril 2026",
+        "Descrição": "Prestação de Contas Parcial - Abril/2026",
+        "Data início": "01/04/2026 ",
+        "Data final": "30/04/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T12:18:58",
+  "_error": null
+}

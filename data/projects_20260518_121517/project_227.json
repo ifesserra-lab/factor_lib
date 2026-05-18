@@ -1,0 +1,1597 @@
+{
+  "id": "227",
+  "name": "Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES.",
+  "csv": {
+    "Projeto_227/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Coordenador": "Aldemar Polonini Moreli",
+        "Financiadora": "VIOLA AGROPECUÁRIA LTDA",
+        "Data de início": "02/02/2023",
+        "Data de vigência": "02/02/2028",
+        "Data de encerramento": "02/04/2028",
+        "Tipo de Projeto": "Pesquisa, Desenvolvimento e Inovação",
+        "Instituição executora": "Instituto Federal De Educação Ciencia E Tecnologia Do Espirito Santo - Reitoria",
+        "Departamento": "",
+        "Processo e sub-processo": "23186.000097/2022-49",
+        "Valor aprovado": "484.700,00",
+        "Objetivo/Objeto/Título": "Desenvolvimento de processos visando aplicar diferentes inóculos para proteção, manutenção e estímulo de cultivo de café de forma mais sustentável, bem como, envolver agentes microbianos nos processos de fermentação induzida, com foco na melhoria da qualidade do café e aplicar processos de educação e estruturação dos protocolos de pós-colheita para a Viola Agropecuária."
+      }
+    ],
+    "Projeto_227/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "ADM - Despesas Bancárias",
+        "Aprovado": "800,00",
+        "Liberado": "0,00",
+        "Executado": "-314,65",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Bolsas",
+        "Aprovado": "467.640,00",
+        "Liberado": "0,00",
+        "Executado": "-186.613,66",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "485,35",
+        "Liberado": "0,00",
+        "Executado": "-20,44",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "16.260,00",
+        "Liberado": "0,00",
+        "Executado": "-16.260,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "218.442,30",
+        "Executado": "218.442,30",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "9.885,98",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_227/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/04/2023",
+        "Mês de Competência": "04/2023",
+        "Valor": "5,20"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/05/2023",
+        "Mês de Competência": "05/2023",
+        "Valor": "5,73"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/06/2023",
+        "Mês de Competência": "06/2023",
+        "Valor": "9,39"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/07/2023",
+        "Mês de Competência": "07/2023",
+        "Valor": "15,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/08/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "9,14"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/09/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "9,14"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/10/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "9,14"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/11/2023",
+        "Mês de Competência": "11/2023",
+        "Valor": "9,14"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "12/2023",
+        "Valor": "9,14"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/01/2024",
+        "Mês de Competência": "01/2024",
+        "Valor": "9,14"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/02/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "9,14"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "9,14"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/04/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "9,14"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "9,14"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "6,46"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "02/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "65,30"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "5,91"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "02/08/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "67,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/09/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "20/09/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/10/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/11/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/12/2024",
+        "Mês de Competência": "12/2024",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "3,35"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CNPJ": "00.394.460/0058-87",
+        "Nome do Favorecido": "Secretaria da Receita Federal do Brasil",
+        "Data do Pagamento": "30/09/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "34,79"
+      }
+    ],
+    "Projeto_227/Pagamento de pessoa física.csv": [
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/04/2023",
+        "Mês de Competência": "03/2023",
+        "Valor": "1.666,67"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/05/2023",
+        "Mês de Competência": "04/2023",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/06/2023",
+        "Mês de Competência": "05/2023",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/07/2023",
+        "Mês de Competência": "06/2023",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/08/2023",
+        "Mês de Competência": "07/2023",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/09/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/10/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/11/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "11/2023",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/01/2024",
+        "Mês de Competência": "12/2023",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/02/2024",
+        "Mês de Competência": "01/2024",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/04/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/08/2024",
+        "Mês de Competência": "07/2024",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/09/2024",
+        "Mês de Competência": "08/2024",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/10/2024",
+        "Mês de Competência": "09/2024",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/11/2024",
+        "Mês de Competência": "10/2024",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/12/2024",
+        "Mês de Competência": "11/2024",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/01/2025",
+        "Mês de Competência": "12/2024",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/03/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/01/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/02/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.703.097-**",
+        "Nome do Favorecido": "Aldemar Polonini Moreli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.571.756-**",
+        "Nome do Favorecido": "BRUNA LOPES CAON",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/04/2023",
+        "Mês de Competência": "03/2023",
+        "Valor": "1.250,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.571.756-**",
+        "Nome do Favorecido": "BRUNA LOPES CAON",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/05/2023",
+        "Mês de Competência": "04/2023",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.571.756-**",
+        "Nome do Favorecido": "BRUNA LOPES CAON",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/06/2023",
+        "Mês de Competência": "05/2023",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.571.756-**",
+        "Nome do Favorecido": "BRUNA LOPES CAON",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/07/2023",
+        "Mês de Competência": "06/2023",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.571.756-**",
+        "Nome do Favorecido": "BRUNA LOPES CAON",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/08/2023",
+        "Mês de Competência": "07/2023",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.571.756-**",
+        "Nome do Favorecido": "BRUNA LOPES CAON",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/09/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "1.500,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.571.756-**",
+        "Nome do Favorecido": "BRUNA LOPES CAON",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/10/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.571.756-**",
+        "Nome do Favorecido": "BRUNA LOPES CAON",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/11/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.571.756-**",
+        "Nome do Favorecido": "BRUNA LOPES CAON",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "11/2023",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.571.756-**",
+        "Nome do Favorecido": "BRUNA LOPES CAON",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/01/2024",
+        "Mês de Competência": "12/2023",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.571.756-**",
+        "Nome do Favorecido": "BRUNA LOPES CAON",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/02/2024",
+        "Mês de Competência": "01/2024",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.571.756-**",
+        "Nome do Favorecido": "BRUNA LOPES CAON",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.571.756-**",
+        "Nome do Favorecido": "BRUNA LOPES CAON",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/04/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.571.756-**",
+        "Nome do Favorecido": "BRUNA LOPES CAON",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.571.756-**",
+        "Nome do Favorecido": "BRUNA LOPES CAON",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.571.756-**",
+        "Nome do Favorecido": "BRUNA LOPES CAON",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "466,66"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.579.187-**",
+        "Nome do Favorecido": "ROGÉRIO CARVALHO GUARÇONI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/06/2023",
+        "Mês de Competência": "05/2023",
+        "Valor": "1.125,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.579.187-**",
+        "Nome do Favorecido": "ROGÉRIO CARVALHO GUARÇONI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/07/2023",
+        "Mês de Competência": "06/2023",
+        "Valor": "1.250,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.579.187-**",
+        "Nome do Favorecido": "ROGÉRIO CARVALHO GUARÇONI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/08/2023",
+        "Mês de Competência": "07/2023",
+        "Valor": "1.250,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.579.187-**",
+        "Nome do Favorecido": "ROGÉRIO CARVALHO GUARÇONI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/09/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "1.250,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.579.187-**",
+        "Nome do Favorecido": "ROGÉRIO CARVALHO GUARÇONI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/10/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "1.250,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.579.187-**",
+        "Nome do Favorecido": "ROGÉRIO CARVALHO GUARÇONI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/11/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "1.250,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.579.187-**",
+        "Nome do Favorecido": "ROGÉRIO CARVALHO GUARÇONI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "11/2023",
+        "Valor": "1.250,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.579.187-**",
+        "Nome do Favorecido": "ROGÉRIO CARVALHO GUARÇONI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/01/2024",
+        "Mês de Competência": "12/2023",
+        "Valor": "1.250,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.579.187-**",
+        "Nome do Favorecido": "ROGÉRIO CARVALHO GUARÇONI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/02/2024",
+        "Mês de Competência": "01/2024",
+        "Valor": "1.250,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.579.187-**",
+        "Nome do Favorecido": "ROGÉRIO CARVALHO GUARÇONI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "1.250,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.579.187-**",
+        "Nome do Favorecido": "ROGÉRIO CARVALHO GUARÇONI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/04/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "1.250,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.579.187-**",
+        "Nome do Favorecido": "ROGÉRIO CARVALHO GUARÇONI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "1.250,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.579.187-**",
+        "Nome do Favorecido": "ROGÉRIO CARVALHO GUARÇONI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "1.250,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.579.187-**",
+        "Nome do Favorecido": "ROGÉRIO CARVALHO GUARÇONI",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/07/2024",
+        "Mês de Competência": "06/2024",
+        "Valor": "166,66"
+      }
+    ],
+    "Projeto_227/Pagamento de servidores ou agentes públicos.csv": [
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.667.517-**",
+        "Nome do Favorecido": "Lucas Louzada Pereira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/04/2023",
+        "Mês de Competência": "03/2023",
+        "Valor": "1.666,67"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.667.517-**",
+        "Nome do Favorecido": "Lucas Louzada Pereira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/05/2023",
+        "Mês de Competência": "04/2023",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.667.517-**",
+        "Nome do Favorecido": "Lucas Louzada Pereira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/06/2023",
+        "Mês de Competência": "05/2023",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.667.517-**",
+        "Nome do Favorecido": "Lucas Louzada Pereira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/07/2023",
+        "Mês de Competência": "06/2023",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.667.517-**",
+        "Nome do Favorecido": "Lucas Louzada Pereira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/08/2023",
+        "Mês de Competência": "07/2023",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.667.517-**",
+        "Nome do Favorecido": "Lucas Louzada Pereira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/09/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "2.000,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.667.517-**",
+        "Nome do Favorecido": "Lucas Louzada Pereira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/10/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.667.517-**",
+        "Nome do Favorecido": "Lucas Louzada Pereira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/11/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.667.517-**",
+        "Nome do Favorecido": "Lucas Louzada Pereira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "11/2023",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.667.517-**",
+        "Nome do Favorecido": "Lucas Louzada Pereira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/01/2024",
+        "Mês de Competência": "12/2023",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.667.517-**",
+        "Nome do Favorecido": "Lucas Louzada Pereira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/02/2024",
+        "Mês de Competência": "01/2024",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.667.517-**",
+        "Nome do Favorecido": "Lucas Louzada Pereira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.667.517-**",
+        "Nome do Favorecido": "Lucas Louzada Pereira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/04/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.667.517-**",
+        "Nome do Favorecido": "Lucas Louzada Pereira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "2.181,80"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.978.436-**",
+        "Nome do Favorecido": "Maria Catarina Megumi Kasuya",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/06/2023",
+        "Mês de Competência": "05/2023",
+        "Valor": "2.500,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.978.436-**",
+        "Nome do Favorecido": "Maria Catarina Megumi Kasuya",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/07/2023",
+        "Mês de Competência": "06/2023",
+        "Valor": "2.500,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.978.436-**",
+        "Nome do Favorecido": "Maria Catarina Megumi Kasuya",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "04/08/2023",
+        "Mês de Competência": "07/2023",
+        "Valor": "2.500,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.978.436-**",
+        "Nome do Favorecido": "Maria Catarina Megumi Kasuya",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/09/2023",
+        "Mês de Competência": "08/2023",
+        "Valor": "2.500,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.978.436-**",
+        "Nome do Favorecido": "Maria Catarina Megumi Kasuya",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/10/2023",
+        "Mês de Competência": "09/2023",
+        "Valor": "2.500,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.978.436-**",
+        "Nome do Favorecido": "Maria Catarina Megumi Kasuya",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/11/2023",
+        "Mês de Competência": "10/2023",
+        "Valor": "2.500,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.978.436-**",
+        "Nome do Favorecido": "Maria Catarina Megumi Kasuya",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/12/2023",
+        "Mês de Competência": "11/2023",
+        "Valor": "2.500,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.978.436-**",
+        "Nome do Favorecido": "Maria Catarina Megumi Kasuya",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/01/2024",
+        "Mês de Competência": "12/2023",
+        "Valor": "2.500,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.978.436-**",
+        "Nome do Favorecido": "Maria Catarina Megumi Kasuya",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/02/2024",
+        "Mês de Competência": "01/2024",
+        "Valor": "2.500,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.978.436-**",
+        "Nome do Favorecido": "Maria Catarina Megumi Kasuya",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "06/03/2024",
+        "Mês de Competência": "02/2024",
+        "Valor": "2.500,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.978.436-**",
+        "Nome do Favorecido": "Maria Catarina Megumi Kasuya",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "05/04/2024",
+        "Mês de Competência": "03/2024",
+        "Valor": "2.500,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.978.436-**",
+        "Nome do Favorecido": "Maria Catarina Megumi Kasuya",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "08/05/2024",
+        "Mês de Competência": "04/2024",
+        "Valor": "2.500,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "CPF": "***.978.436-**",
+        "Nome do Favorecido": "Maria Catarina Megumi Kasuya",
+        "Tipo de Pagamento": "Pagamento de Bolsa Estímulo à Inovação",
+        "Data do Pagamento": "07/06/2024",
+        "Mês de Competência": "05/2024",
+        "Valor": "2.500,00"
+      }
+    ],
+    "Projeto_227/Equipe.csv": [
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Nome": "Aldemar Polonini Moreli",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": "2 horas semanais",
+        "Vinculada à inst. executora": "Sim"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Nome": "BRUNA LOPES CAON",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Pós-Graduação completa",
+        "Carga horária": "5 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Nome": "Lucas Louzada Pereira",
+        "Função": "Coordenador",
+        "Instituição de trabalho": "Instituto Federal do Espírito Santo",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": "2 horas semanais",
+        "Vinculada à inst. executora": "Sim"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Nome": "Maria Catarina Megumi Kasuya",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Universidade Federal de Viçosa",
+        "Vínculo com a instituição": "Professor titular",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": "5 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Nome": "ROGÉRIO CARVALHO GUARÇONI",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Capixaba de Pesquisa, Assistência Técnica e Extensão Rural",
+        "Vínculo com a instituição": "Servidor Público",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": "05 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      }
+    ],
+    "Projeto_227/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador de Pesquisa e do Projeto - Gestão de Projeto",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "107.712,26",
+        "Valor total aprovado": "107.712,26",
+        "Valor executado": "69.817,60"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa de Pesquisa  Extensão Tecnológica - Pesquisador",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "11.666,67",
+        "Valor total aprovado": "11.666,67",
+        "Valor executado": "11.666,67"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa de DTI-A  retenção de talento.",
+        "Justificativa": "ok",
+        "Qtde aprovada": "15,00",
+        "Valor unitário": "1.250,00",
+        "Valor total aprovado": "18.750,00",
+        "Valor executado": "16.291,66"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa de DTI-B  retenção de talento",
+        "Justificativa": "ok",
+        "Qtde aprovada": "15,00",
+        "Valor unitário": "2.500,00",
+        "Valor total aprovado": "37.500,00",
+        "Valor executado": "32.500,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa de DTI-B  retenção de talento",
+        "Justificativa": "ok",
+        "Qtde aprovada": "15,00",
+        "Valor unitário": "2.000,00",
+        "Valor total aprovado": "30.000,00",
+        "Valor executado": "27.216,66"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador de Pesquisa e do Projeto - Gestão de Projeto",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "29.121,07",
+        "Valor total aprovado": "29.121,07",
+        "Valor executado": "29.121,07"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsa de DTI-B  retenção de talento",
+        "Justificativa": "ok",
+        "Qtde aprovada": "3,00",
+        "Valor unitário": "1.100,00",
+        "Valor total aprovado": "3.300,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "DOA FACTO",
+        "Justificativa": " ",
+        "Qtde aprovada": "3,00",
+        "Valor unitário": "5.420,00",
+        "Valor total aprovado": "16.260,00",
+        "Valor executado": "16.260,00"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Agrupamento": "0_ Despesas Bancárias",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Tarifas bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "314,65",
+        "Valor total aprovado": "314,65",
+        "Valor executado": "314,65"
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Agrupamento": "0_ Despesas Bancárias",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "185,35",
+        "Valor total aprovado": "185,35",
+        "Valor executado": "20,44"
+      }
+    ],
+    "Projeto_227/Documentos.csv": [
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Título do Arquivo": "Contrato de bolsa - Lucas Louzada Pereira",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Título do Arquivo": "Contrato de bolsa - Aldemar Polonini Moreli",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Título do Arquivo": "Contrato de bolsa - BRUNA LOPES CAON",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Título do Arquivo": "Contrato de Bolsa - MARIA CATARINA MEGUMI KASUYA",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Título do Arquivo": "Contrato de Bolsa - ROGÉRIO CARVALHO GUARÇONI",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Título do Arquivo": "Contrato de Bolsa - ROGÉRIO CARVALHO GUARÇONI",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Título do Arquivo": "Convênio Nº 01/2023",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação."
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Título do Arquivo": "227_Convênio  assinado_LAI",
+        "Descrição": "CONVÊNIO Nº01/2023 DE EDUCAÇÃO,CIÊNCIA, TECNOLOGIA E INOVAÇÃO QUEENTRE SI CELEBRAM O INSTITUTOFEDERAL DO ESPÍRITO SANTO - IFES, VIOLA AGROPECUÁRIA LTDA E A FUNDAÇÃO DE APOIO AODESENVOLVIMENTO DA CIÊNCIA ETECNOLOGIA - FACTO, NOS TERMOSADIANTE ALINH"
+      }
+    ],
+    "Projeto_227/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Título do Arquivo": "Prestação de contas parcial",
+        "Descrição": "Prestação de contas parcial",
+        "Data início": "02/02/2023 ",
+        "Data final": "31/05/2025 "
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Título do Arquivo": "Certidão LGPD",
+        "Descrição": "CERTIDÃO DE DOCUMENTAÇÃO DE PROCEDIMENTO DE PRESTAÇÃO DE CONTAS AMPARADA PELO SIGILO EM RAZÃO DA LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS",
+        "Data início": "02/02/2023 ",
+        "Data final": "31/05/2025 "
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Título do Arquivo": "Prestação de Contas Parcial 01.06 a 30.06.25",
+        "Descrição": "Prestação de Contas Parcial",
+        "Data início": "01/06/2025 ",
+        "Data final": "30/06/2025 "
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Título do Arquivo": "Prestação de Contas Parcial 01.07 a 31.07.25",
+        "Descrição": "Prestação de contas parcial",
+        "Data início": "01/07/2025 ",
+        "Data final": "31/07/2025 "
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Título do Arquivo": "227 - Prestação_de_contas_parcial_Agosto_ 2025",
+        "Descrição": "Prestação de contas parcial",
+        "Data início": "01/08/2025 ",
+        "Data final": "31/08/2025 "
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Título do Arquivo": "Prestação de contas parcial setembro",
+        "Descrição": "Prestação de contas parcial setembro",
+        "Data início": "01/09/2025 ",
+        "Data final": "30/09/2025 "
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Título do Arquivo": "Prestação de contas parcial outubro",
+        "Descrição": "Prestação de contas parcial outubro",
+        "Data início": "01/10/2025 ",
+        "Data final": "31/10/2025 "
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Título do Arquivo": "Prestação de contas parcial - Novembro",
+        "Descrição": "Prestação de contas parcial - Novembro",
+        "Data início": "01/11/2025 ",
+        "Data final": "30/11/2025 "
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Título do Arquivo": "Prestação de contas parcial - Dezembro",
+        "Descrição": "Prestação de contas parcial - Dezembro",
+        "Data início": "01/12/2025 ",
+        "Data final": "31/12/2025 "
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Título do Arquivo": "Prestação de contas parcial - Janeiro",
+        "Descrição": "Prestação de contas parcial - Janeiro",
+        "Data início": "01/01/2026 ",
+        "Data final": "31/01/2026 "
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Título do Arquivo": "Prestação de contas parcial - Fevereiro",
+        "Descrição": "Prestação de contas parcial - Fevereiro",
+        "Data início": "01/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Título do Arquivo": "Prestação de contas parcial - Março",
+        "Descrição": "Prestação de contas parcial - Março",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      },
+      {
+        "Referência do projeto": "227 - Projeto de execução do Programa de Pesquisa & Desenvolvimento Sustainable Coffee Forest - IFES",
+        "Título do Arquivo": "Prestação de contas parcial - Abril",
+        "Descrição": "Prestação de contas parcial - Abril",
+        "Data início": "01/04/2026 ",
+        "Data final": "30/04/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T12:16:13",
+  "_error": null
+}

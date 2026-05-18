@@ -9,7 +9,7 @@ from factor_lib.pages.base_page import BasePage
 
 CONSULTAR_SEL = "#ctl00_ContentPlaceHolder1_ProjetosUserControl1_lnkConsultarProjetos"
 LUPA_SEL = "[title='Visualizar']"
-LISTING_HIDDEN_SEL = "#ctl00_upgMain2"
+LISTING_PANEL_SEL = "#ctl00_upgMain2"
 DETAIL_READY_JS = (
     "() => { const el = document.getElementById('pnlProjetoInfo');"
     " return el && el.offsetParent !== null; }"
@@ -43,7 +43,12 @@ class TransparencyPortalPage(BasePage):
             text = lupa.inner_text().strip()
             m = _ID_RE.search(text)
             proj_id = m.group(1) if m else str(i)
-            rows.append({"id": proj_id, "name": text, "raw": text})
+            # Strip "Visualizar os detalhes do projeto N - " prefix to get clean name
+            if m:
+                name = text[m.end():].lstrip(" -").strip()
+            else:
+                name = text
+            rows.append({"id": proj_id, "name": name, "raw": text})
         return rows
 
     # ------------------------------------------------------------------ detail
@@ -53,7 +58,14 @@ class TransparencyPortalPage(BasePage):
         lupas = self.page.locator(LUPA_SEL)
         lupas.nth(row_index).click(timeout=self.default_timeout)
         self.page.wait_for_load_state("networkidle", timeout=60_000)
-        self.page.wait_for_function(DETAIL_READY_JS, timeout=30_000)
+        # Confirm detail view: listing panel must be hidden
+        self.page.wait_for_selector(LISTING_PANEL_SEL, state="hidden", timeout=15_000)
+        # Wait for pnlProjetoInfo to be rendered (confirms content is ready).
+        # Some project types don't have this panel — silently continue if timeout.
+        try:
+            self.page.wait_for_function(DETAIL_READY_JS, timeout=10_000)
+        except Exception:
+            pass
 
     def get_detail_fields(self) -> dict[str, str]:
         """Extract all label-value pairs from the visible detail panels."""
@@ -115,6 +127,6 @@ class TransparencyPortalPage(BasePage):
         return text
 
     def navigate_back_to_listing(self) -> None:
-        """Return to the project listing (click Consultar again)."""
-        self.page.go_back()
-        self.wait_for_network_idle()
+        """Return to the project listing by re-navigating and clicking Consultar."""
+        self.navigate()
+        self.click_consultar()

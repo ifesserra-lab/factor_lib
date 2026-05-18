@@ -1,0 +1,1644 @@
+{
+  "id": "310",
+  "name": "Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025.",
+  "csv": {
+    "Projeto_310/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Coordenador": "Michel Bruno Taffner",
+        "Financiadora": "Vale S.A.",
+        "Data de início": "01/03/2025",
+        "Data de vigência": "31/12/2025",
+        "Data de encerramento": "03/02/2026",
+        "Tipo de Projeto": "Inovação",
+        "Instituição executora": "Instituto Federal de Educação Ciência e Tecnologia do Espirito Santo - Campus Cariacica",
+        "Departamento": "",
+        "Processo e sub-processo": "",
+        "Valor aprovado": "179.004,43",
+        "Objetivo/Objeto/Título": "Promover a difusão da Cultura Maker, com ênfase na Manufatura Aditiva (Impressão 3D), nas escolas municipais de ensino fundamental de Cariacica. Isso inclui palestras e oficinas, utilização de tablets e impressoras 3D e abertura do Espaço Maker do IFES Cariacica como um centro de referência em prototipagem rápida e impressão 3D."
+      }
+    ],
+    "Projeto_310/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Bolsas",
+        "Aprovado": "107.000,00",
+        "Liberado": "0,00",
+        "Executado": "-107.000,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Contas Transitorias entre contas correntes - Projetos",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "-322.563,38",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "300,00",
+        "Liberado": "0,00",
+        "Executado": "-190,31",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "10.647,97",
+        "Liberado": "0,00",
+        "Executado": "-10.647,97",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Aprovado": "41.649,00",
+        "Liberado": "0,00",
+        "Executado": "-45.068,17",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Material de Consumo Nacional",
+        "Aprovado": "17.551,79",
+        "Liberado": "0,00",
+        "Executado": "-16.209,97",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "12.647,97",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "432.563,38",
+        "Executado": "501.567,81",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "10.032,34",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_310/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "22.435.496/0001-69",
+        "Nome do Favorecido": "3DX FILAMENTOS LTDA",
+        "Data do Pagamento": "17/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "830,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "13.024.667/0001-76",
+        "Nome do Favorecido": "ALBA ELETRONICOS LTDA",
+        "Data do Pagamento": "14/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "610,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "17.048.568/0001-85",
+        "Nome do Favorecido": "AMERICA COMERCIO DE FERRAMENTAS LTDA",
+        "Data do Pagamento": "05/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "777,50"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "40.224.243/0001-28",
+        "Nome do Favorecido": "BACKUP MANUTENÇÃO E DISTRIBUIÇÃO DE PRODUTOS DE INFORMÁTICA EIRELI",
+        "Data do Pagamento": "01/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "6.996,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "29/01/2025",
+        "Mês de Competência": "01/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/02/2025",
+        "Mês de Competência": "02/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "19/03/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "0,57"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "16/04/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "8,91"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "11,69"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "14/05/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "5,56"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "14,47"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "14,47"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "11/07/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "2,78"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "15,20"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "18,12"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "12,64"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "17/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "24/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "01/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "18,12"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "10/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "15,20"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "07/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "14/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "3,52"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "15,20"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "16/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "2,92"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "13/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "9,36"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "68.866.227/0001-58",
+        "Nome do Favorecido": "BIG AMERICAN COMERCIO E INDUSTRIA LTDA",
+        "Data do Pagamento": "05/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "1.451,49"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "68.866.227/0001-58",
+        "Nome do Favorecido": "BIG AMERICAN COMERCIO E INDUSTRIA LTDA",
+        "Data do Pagamento": "03/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1.451,48"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "31.785.660/0001-59",
+        "Nome do Favorecido": "Bridi Madeiras Ltda",
+        "Data do Pagamento": "24/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "946,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "03.569.794/0001-05",
+        "Nome do Favorecido": "COMERCIAL PAVAN LTDA",
+        "Data do Pagamento": "05/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "1.980,50"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "54.494.997/0001-02",
+        "Nome do Favorecido": "COMERCIAL SAMPAIO LTDA",
+        "Data do Pagamento": "16/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "4.000,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "02.585.515/0001-26",
+        "Nome do Favorecido": "D.M.I. INDUSTRIA E COMERCIO DE ACRILICOS LTDA",
+        "Data do Pagamento": "14/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "2.275,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "53.179.555/0001-09",
+        "Nome do Favorecido": "HYDRA COMERCIO DE ELETRONICOS LTDA",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "338,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "53.179.555/0001-09",
+        "Nome do Favorecido": "HYDRA COMERCIO DE ELETRONICOS LTDA",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "5.140,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "53.179.555/0001-09",
+        "Nome do Favorecido": "HYDRA COMERCIO DE ELETRONICOS LTDA",
+        "Data do Pagamento": "10/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1.180,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "07.275.920/0001-61",
+        "Nome do Favorecido": "LENOVO TECNOLOGIA (BRASIL) LIMITADA  ",
+        "Data do Pagamento": "03/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "15.682,92"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CNPJ": "04.567.265/0001-27",
+        "Nome do Favorecido": "SCORPION INFORMATICA EIRELI",
+        "Data do Pagamento": "24/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "17.619,25"
+      }
+    ],
+    "Projeto_310/Pagamento de pessoa física.csv": [
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.709.467-**",
+        "Nome do Favorecido": "Maria Eduarda Amaral da Costa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "14/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.709.467-**",
+        "Nome do Favorecido": "Maria Eduarda Amaral da Costa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.709.467-**",
+        "Nome do Favorecido": "Maria Eduarda Amaral da Costa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.709.467-**",
+        "Nome do Favorecido": "Maria Eduarda Amaral da Costa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.709.467-**",
+        "Nome do Favorecido": "Maria Eduarda Amaral da Costa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.709.467-**",
+        "Nome do Favorecido": "Maria Eduarda Amaral da Costa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.709.467-**",
+        "Nome do Favorecido": "Maria Eduarda Amaral da Costa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.709.467-**",
+        "Nome do Favorecido": "Maria Eduarda Amaral da Costa",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.976.187-**",
+        "Nome do Favorecido": "Thiago Bonaparte Louback",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "14/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.976.187-**",
+        "Nome do Favorecido": "Thiago Bonaparte Louback",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.976.187-**",
+        "Nome do Favorecido": "Thiago Bonaparte Louback",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "11/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.976.187-**",
+        "Nome do Favorecido": "Thiago Bonaparte Louback",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.976.187-**",
+        "Nome do Favorecido": "Thiago Bonaparte Louback",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.976.187-**",
+        "Nome do Favorecido": "Thiago Bonaparte Louback",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.976.187-**",
+        "Nome do Favorecido": "Thiago Bonaparte Louback",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.976.187-**",
+        "Nome do Favorecido": "Thiago Bonaparte Louback",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "750,00"
+      }
+    ],
+    "Projeto_310/Pagamento de servidores ou agentes públicos.csv": [
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.666.857-**",
+        "Nome do Favorecido": "Danieli Soares de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "16/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "1.750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.666.857-**",
+        "Nome do Favorecido": "Danieli Soares de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "1.750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.666.857-**",
+        "Nome do Favorecido": "Danieli Soares de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "1.750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.666.857-**",
+        "Nome do Favorecido": "Danieli Soares de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "1.750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.666.857-**",
+        "Nome do Favorecido": "Danieli Soares de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "1.750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.666.857-**",
+        "Nome do Favorecido": "Danieli Soares de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "1.750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.666.857-**",
+        "Nome do Favorecido": "Danieli Soares de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "1.750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.666.857-**",
+        "Nome do Favorecido": "Danieli Soares de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1.750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.666.857-**",
+        "Nome do Favorecido": "Danieli Soares de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "1.750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.666.857-**",
+        "Nome do Favorecido": "Danieli Soares de Oliveira",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "13/02/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "1.750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.934.146-**",
+        "Nome do Favorecido": "Flávio Parreiras Marques",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "16/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.934.146-**",
+        "Nome do Favorecido": "Flávio Parreiras Marques",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.934.146-**",
+        "Nome do Favorecido": "Flávio Parreiras Marques",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.934.146-**",
+        "Nome do Favorecido": "Flávio Parreiras Marques",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.934.146-**",
+        "Nome do Favorecido": "Flávio Parreiras Marques",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.934.146-**",
+        "Nome do Favorecido": "Flávio Parreiras Marques",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.934.146-**",
+        "Nome do Favorecido": "Flávio Parreiras Marques",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.934.146-**",
+        "Nome do Favorecido": "Flávio Parreiras Marques",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.934.146-**",
+        "Nome do Favorecido": "Flávio Parreiras Marques",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.934.146-**",
+        "Nome do Favorecido": "Flávio Parreiras Marques",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "13/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.061.397-**",
+        "Nome do Favorecido": "Michel Bruno Taffner",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "16/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.061.397-**",
+        "Nome do Favorecido": "Michel Bruno Taffner",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.061.397-**",
+        "Nome do Favorecido": "Michel Bruno Taffner",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.061.397-**",
+        "Nome do Favorecido": "Michel Bruno Taffner",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.061.397-**",
+        "Nome do Favorecido": "Michel Bruno Taffner",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.061.397-**",
+        "Nome do Favorecido": "Michel Bruno Taffner",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.061.397-**",
+        "Nome do Favorecido": "Michel Bruno Taffner",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.061.397-**",
+        "Nome do Favorecido": "Michel Bruno Taffner",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.061.397-**",
+        "Nome do Favorecido": "Michel Bruno Taffner",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.061.397-**",
+        "Nome do Favorecido": "Michel Bruno Taffner",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "13/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "3.000,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.236.197-**",
+        "Nome do Favorecido": "RENATA CÓ E GOMES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "16/04/2025",
+        "Mês de Competência": "03/2025",
+        "Valor": "1.750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.236.197-**",
+        "Nome do Favorecido": "RENATA CÓ E GOMES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "07/05/2025",
+        "Mês de Competência": "04/2025",
+        "Valor": "1.750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.236.197-**",
+        "Nome do Favorecido": "RENATA CÓ E GOMES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "04/06/2025",
+        "Mês de Competência": "05/2025",
+        "Valor": "1.750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.236.197-**",
+        "Nome do Favorecido": "RENATA CÓ E GOMES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "09/07/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "1.750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.236.197-**",
+        "Nome do Favorecido": "RENATA CÓ E GOMES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "06/08/2025",
+        "Mês de Competência": "07/2025",
+        "Valor": "1.750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.236.197-**",
+        "Nome do Favorecido": "RENATA CÓ E GOMES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/09/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "1.750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.236.197-**",
+        "Nome do Favorecido": "RENATA CÓ E GOMES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/10/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "1.750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.236.197-**",
+        "Nome do Favorecido": "RENATA CÓ E GOMES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "05/11/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "1.750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.236.197-**",
+        "Nome do Favorecido": "RENATA CÓ E GOMES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "03/12/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "1.750,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "CPF": "***.236.197-**",
+        "Nome do Favorecido": "RENATA CÓ E GOMES",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "13/02/2026",
+        "Mês de Competência": "12/2025",
+        "Valor": "1.750,00"
+      }
+    ],
+    "Projeto_310/Equipe.csv": [
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Nome": "Danieli Soares de Oliveira",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "IFES",
+        "Vínculo com a instituição": "DOCENTE",
+        "Grau de instrução": " ",
+        "Carga horária": "10 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Nome": "Flávio Parreiras Marques",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "IFES - CARIACICA",
+        "Vínculo com a instituição": "PROFESSOR EBTT",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": "10 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Nome": "Maria Eduarda Amaral da Costa",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": "20 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Nome": "Michel Bruno Taffner",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Educação Superior completa",
+        "Carga horária": "10 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Nome": "RENATA CÓ E GOMES",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "IFES ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": "10 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Nome": "Thiago Bonaparte Louback",
+        "Função": "Bolsista",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": "20 horas semanais",
+        "Vinculada à inst. executora": "Não"
+      }
+    ],
+    "Projeto_310/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Taxa bancária",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "300,00",
+        "Valor total aprovado": "300,00",
+        "Valor executado": "190,31"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Filamento PLA 1,75mm para impressora 3D - Branco",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.100,00",
+        "Valor total aprovado": "1.100,00",
+        "Valor executado": "1.100,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Filamento ABS 1,75mm para impressora 3D - BrancoFilamento ASA 1,75mm para impressora 3D - BrancoFilamento PA 1,75mm para impressora 3D - Branco",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.280,00",
+        "Valor total aprovado": "1.280,00",
+        "Valor executado": "1.280,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Filamento PETG 1,75mm para impressora 3D - Branco",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "550,00",
+        "Valor total aprovado": "550,00",
+        "Valor executado": "550,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Filamento PP 1,75mm para impressora 3D - Branco",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "210,00",
+        "Valor total aprovado": "210,00",
+        "Valor executado": "210,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Filamento PA 1,75mm para impressora 3D - Branco",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "270,00",
+        "Valor total aprovado": "270,00",
+        "Valor executado": "270,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Filamento ASA 1,75mm para impressora 3D - Branco",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "170,00",
+        "Valor total aprovado": "170,00",
+        "Valor executado": "170,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Placa MDF cru 3mm/",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "550,00",
+        "Valor total aprovado": "550,00",
+        "Valor executado": "550,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Placa MDF cru 6mm",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "396,00",
+        "Valor total aprovado": "396,00",
+        "Valor executado": "396,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Placa de acrílico - 3mm /Placa MDF Branco 3mm",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "1.575,00",
+        "Valor total aprovado": "1.575,00",
+        "Valor executado": "1.575,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Placa de acrílico - 4mm",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "700,00",
+        "Valor total aprovado": "700,00",
+        "Valor executado": "700,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Resina Líquida para impressora 3D",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "2.390,00",
+        "Valor total aprovado": "2.390,00",
+        "Valor executado": "2.390,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Mangueira para exaustor - acessório do coletor de pó",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "610,00",
+        "Valor total aprovado": "610,00",
+        "Valor executado": "610,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Tubo TPFE para impressoras 3D",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "210,00",
+        "Valor total aprovado": "210,00",
+        "Valor executado": "210,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Tubo Laser CO2 para cortadora a laser",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "2.902,97",
+        "Valor total aprovado": "2.902,97",
+        "Valor executado": "2.902,97"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Tinta spray",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "337,50",
+        "Valor total aprovado": "337,50",
+        "Valor executado": "337,50"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Cola adesiva instantânea",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "108,00",
+        "Valor total aprovado": "108,00",
+        "Valor executado": "108,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Cola para acrílico",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "338,00",
+        "Valor total aprovado": "338,00",
+        "Valor executado": "338,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Lixa ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "175,00",
+        "Valor total aprovado": "175,00",
+        "Valor executado": "175,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Pincel para pintura",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "100,00",
+        "Valor total aprovado": "100,00",
+        "Valor executado": "100,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Rolo para pintura",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "32,50",
+        "Valor total aprovado": "32,50",
+        "Valor executado": "32,50"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Pregos ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "22,00",
+        "Valor total aprovado": "22,00",
+        "Valor executado": "22,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Parafusos",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "124,00",
+        "Valor total aprovado": "124,00",
+        "Valor executado": "124,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Grampo para madeira",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "420,00",
+        "Valor total aprovado": "420,00",
+        "Valor executado": "420,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Cinta de lixa para lixadeira",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "100,00",
+        "Valor total aprovado": "100,00",
+        "Valor executado": "100,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Verniz a base d'água",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "165,00",
+        "Valor total aprovado": "165,00",
+        "Valor executado": "165,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Cola para madeira",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "80,00",
+        "Valor total aprovado": "80,00",
+        "Valor executado": "80,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Lâmina para serra Tico-Tico manual /\tLâmina para serra Tico-Tico de bancada",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "105,00",
+        "Valor total aprovado": "105,00",
+        "Valor executado": "105,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Fonte para impressora Ender 3 /  Tubo de cola quente",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "970,00",
+        "Valor total aprovado": "970,00",
+        "Valor executado": "970,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Disco de lixa esmeriladeira/lixadeira - grão 80 - 115mm - kit / Disco para escultura em Madeira - Esmarilhadeira / \tDisco de lixa flap 4 1/2 - 115 - G80 - 72 haletas Kit",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "105,00",
+        "Valor total aprovado": "105,00",
+        "Valor executado": "105,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Disco corte fino 4 1/2 x 1,0mm Inox 100 - kit",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "40,00",
+        "Valor total aprovado": "40,00",
+        "Valor executado": "40,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Martelo de unha grande profissional",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "74,00",
+        "Valor total aprovado": "74,00",
+        "Valor executado": "74,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Material de Consumo Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "SALDO NA RUBRICA DE CONSUMO DISPONIVEL ",
+        "Justificativa": " ",
+        "Qtde aprovada": "0,00",
+        "Valor unitário": "0,00",
+        "Valor total aprovado": "0,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Tablet",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "17.619,25",
+        "Valor total aprovado": "17.619,25",
+        "Valor executado": "17.619,25"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Impressoras 3D",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "6.996,00",
+        "Valor total aprovado": "6.996,00",
+        "Valor executado": "6.996,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Lixadeira Orbital 1/4 de Lixa",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "400,00",
+        "Valor total aprovado": "400,00",
+        "Valor executado": "400,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Pistola de Pintura Pulverizadora HVLP Eletrica 600W ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "370,00",
+        "Valor total aprovado": "370,00",
+        "Valor executado": "370,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Impressora 3D de Alta Velocidade AbertaPedido cancelado no valor de R$6.600,00",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "0,00",
+        "Valor total aprovado": "0,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Notebook alto desempenho",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "15.682,92",
+        "Valor total aprovado": "15.682,92",
+        "Valor executado": "15.682,92"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Impressora 3D",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "5.207,60",
+        "Valor total aprovado": "5.207,60",
+        "Valor executado": "4.000,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Serviços de terceiros PJ",
+        "Justificativa": " ",
+        "Qtde aprovada": "0,00",
+        "Valor unitário": "0,00",
+        "Valor total aprovado": "0,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesa Operacional Administrativa",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "10.647,97",
+        "Valor total aprovado": "10.647,97",
+        "Valor executado": "10.647,97"
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "Bolsas - vigência 03/2025 a 12/2025",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Extensionista  Doutor ",
+        "Justificativa": " EXT - A",
+        "Qtde aprovada": " ",
+        "Valor unitário": "20,00",
+        "Valor total aprovado": "1.750,00",
+        "Valor executado": "35.000,00",
+        "null": [
+          "33.250,00"
+        ]
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "Bolsas - vigência 03/2025 a 12/2025",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenador de Projetos ",
+        "Justificativa": " CPO",
+        "Qtde aprovada": " ",
+        "Valor unitário": "10,00",
+        "Valor total aprovado": "3.000,00",
+        "Valor executado": "30.000,00",
+        "null": [
+          "31.750,00"
+        ]
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "Bolsas - vigência 03/2025 a 12/2025",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Extensionista  Doutor ",
+        "Justificativa": " EXT - A",
+        "Qtde aprovada": " ",
+        "Valor unitário": "10,00",
+        "Valor total aprovado": "3.000,00",
+        "Valor executado": "30.000,00",
+        "null": [
+          "30.000,00"
+        ]
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "Bolsas - vigência 04/2025 a 11/2025",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Estudante de Curso de Graduação ",
+        "Justificativa": " ETG",
+        "Qtde aprovada": " ",
+        "Valor unitário": "8,00",
+        "Valor total aprovado": "750,00",
+        "Valor executado": "6.000,00",
+        "null": [
+          "6.000,00"
+        ]
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Agrupamento": "Bolsas - vigência 04/2025 a 12/2025",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Estudante de Curso de Graduação ",
+        "Justificativa": " ETG",
+        "Qtde aprovada": " ",
+        "Valor unitário": "8,00",
+        "Valor total aprovado": "750,00",
+        "Valor executado": "6.000,00",
+        "null": [
+          "6.000,00"
+        ]
+      }
+    ],
+    "Projeto_310/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Título do Arquivo": "Certidão LGPD",
+        "Descrição": "CERTIDÃO DE DOCUMENTAÇÃO DE PROCEDIMENTO DE PRESTAÇÃO DE CONTAS AMPARADA PELO SIGILO EM RAZÃO DA LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS.",
+        "Data início": "16/12/2024 ",
+        "Data final": "31/10/2025 "
+      },
+      {
+        "Referência do projeto": "310 - Cultura Maker em Cariacica: uma proposta de difusão - Ano 2025",
+        "Título do Arquivo": "Prestação de Contas Parcial",
+        "Descrição": "Prestação de Contas - Outubro - 2025",
+        "Data início": "16/12/2024 ",
+        "Data final": "31/10/2025 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T12:17:25",
+  "_error": null
+}

@@ -1,0 +1,200 @@
+{
+  "generated_at": "20260518_121517",
+  "total": 110,
+  "success_count": 78,
+  "error_count": 32,
+  "errors": [
+    {
+      "id": "24",
+      "name": "Plano de pesquisa e capacitação em Operação e Manutenção Logística - IFES.",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "88",
+      "name": "Processos Tecnológicos Para Otimização da Fermentação com Culturas de Arranque DETERMINANTES DA QUALIDADE DO CAFÉ DO ESPÍRITO SANTO - IFES.",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "120",
+      "name": "Apoio e Fortalecimento do Mestrado Profissional em Educação Profissional e Tecnológica em Rede Nacional II.",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "146",
+      "name": "Desenvolvimento de modelos computacionais para simulação dinâmica de carros de passageiros da EFVM e EFC - IFSP - VALE.",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "173",
+      "name": "Projeto EAD CEFOR - IFES .",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "175",
+      "name": "Reestruturação dos Processos Institucionais Integrados de Incubação - Agifes - IFES.",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "178",
+      "name": "PROJETO TESTE.",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "185",
+      "name": "Execução Financeira do Apoio às Coordenações de Cursos e Núcleo UAB Cefor - Efan VI - IFES.",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "195",
+      "name": "Formação de Educadores em Educação Ambiental nas Escolas Capixabas do Rio Doce Programa RioDoceEscolar - IFES.",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "205",
+      "name": "Fortalecimento Agricultura Capixaba - IFES.",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "278",
+      "name": "Estudos da fluidodinâmica dos processos de aciaria da ArcelorMittal Tubarão.",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "281",
+      "name": "PLANEJAMENTO E EXECUÇÃO DA 4° CONFERÊNCIA NACIONAL DE JUVENTUDE E MOBILIZAÇÃO PARA A REALIZAÇÃO DAS CONFERÊNCIAS MUNICIPAIS E ESTADUAIS.",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "282",
+      "name": "Conilon - Origem Singular II.",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "284",
+      "name": "Desenvolvimento de um Sistema Inteligente para o Controle de Eletrodos de Fornos de Ferroligas para Aplicações Multicliente SCNE24.",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "285",
+      "name": "PS TÉCNICO 2025.",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "287",
+      "name": "PROFEPT 2024.",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "288",
+      "name": "Estabelecimento de cooperação técnica por meio de pesquisa aplicada, desenvolvimento pesquisa aplicada à realização de cursos com itinerários informativos na área de agricultura, pecuária, inovação, empreendedorismo e tecnologia (EMBRAPRO).",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "325",
+      "name": "Pesquisa aplicada para desenvolver uma cadeia produtiva sustentável que aproveite integralmente as cascas de ostras e mariscos, implementando uma indústria piloto de beneficiamento (EMBRAPRO).",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "326",
+      "name": "Pesquisa aplicada para desenvolver tecnologias e processos sustentáveis para o aproveitamento integral de peixes produzidos em tanques-rede, evoluindo para a criação de produtos e coprodutos de valor agregado (EMBRAPRO).",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "327",
+      "name": "Avaliar e identificar a influência de componentes do petróleo sobre a tensão limite de escoamento.",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "328",
+      "name": "Pesquisa aplicada, desenvolvimento tecnológico e realização de serviços de apoio à pesquisa visando a execução da gestão fundiária e ambiental para o desenvolvimento de projetos de assentamento participantes do PNRA (EMBRAPRO).",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "329",
+      "name": "Fortalecimento do ensino em agroindústria utilizando metodologias ativas na produção de lácteos, embutidos, fermentados e destilados.",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "331",
+      "name": "Desenvolvimento e implementação de pesquisa científica e aplicada para elaboração de processos de compras de energia, usinas fotovoltáicas e mobilidade elétrica.",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "332",
+      "name": "Apoiar a implementação do Plano Nacional de Abastecimento Alimentar (PLANAB), como foco no desenvolvimento, estruturação, execução e sistematização das iniciativas de comercialização da agricultura familia na Região Sudeste.",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "353",
+      "name": "Projeto Implantação de Espaço Maker no Complexo Penitenciário do Xuri.",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "354",
+      "name": "Recuperação de conhecimento em documentos com conteúdo textual e visual para o SUFRAMA-GPT25.",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "355",
+      "name": "PROFEPT 2025.",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "356",
+      "name": "Otimização e Inovação na Gestão de Instrumentos de Repasse, visando a modernização e o aprimoramento dos procedimentos de análise, bem como, celebração de instrumentos de repasse e congêneres.",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "357",
+      "name": "Cultura Maker em Cariacica: uma proposta de difusão - Ano 5.",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "358",
+      "name": "6° Teia Nacional - Pontos de Cultura pela Justiça Climática.",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "359",
+      "name": "Abordagens metabolômicas e quimiométricas para autenticação e controle de qualidade de cafés arábica do Noroeste Fluminense e Caparaó.",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    },
+    {
+      "id": "360",
+      "name": "PS SISU 2026.",
+      "error": "download stage failed: CSV export link not found on current page (project may be restricted)",
+      "source_url": "https://facto.conveniar.com.br/portaltransparencia/"
+    }
+  ]
+}

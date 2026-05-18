@@ -1,0 +1,559 @@
+{
+  "id": "314",
+  "name": "Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital, Manufatura e Sustentabilidade.",
+  "csv": {
+    "Projeto_314/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Coordenador": "Danilo de Paula e Silva",
+        "Financiadora": "Financiadora de Estudos e Projetos - Finep",
+        "Data de início": "23/12/2024",
+        "Data de vigência": "23/12/2027",
+        "Data de encerramento": "21/02/2028",
+        "Tipo de Projeto": "Pesquisa",
+        "Instituição executora": "Instituto Federal De Educação Ciencia E Tecnologia Do Espirito Santo - Reitoria",
+        "Departamento": "",
+        "Processo e sub-processo": "01.24.0689.00",
+        "Valor aprovado": "6.814.929,06",
+        "Objetivo/Objeto/Título": "CHAMADA PÚBLICA MCTI/FINEP/FNDCT   INFRAESTRUTURA DE PESQUISA - PROINFRA 2023Transformar laboratórios multiusuários em centros de excelência do IFES para contribuir com o desenvolvimento estadual e nacional nas áreas de gestão energética e siderurgia que contemplem transformação digital, transição energética, descarbonização e sustentabilidade."
+      }
+    ],
+    "Projeto_314/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "2.000,00",
+        "Liberado": "0,00",
+        "Executado": "0,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "324.520,43",
+        "Liberado": "0,00",
+        "Executado": "-324.520,43",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Aprovado": "2.478.789,46",
+        "Liberado": "0,00",
+        "Executado": "-2.398.872,14",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Aprovado": "2.929.110,16",
+        "Liberado": "0,00",
+        "Executado": "-1.188.389,85",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Aprovado": "1.082.509,01",
+        "Liberado": "0,00",
+        "Executado": "-256.000,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "6.814.929,06",
+        "Executado": "6.814.929,06",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "456.456,65",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_314/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "CNPJ": " ",
+        "Nome do Favorecido": "Dynamic Systems Inc.",
+        "Data do Pagamento": "20/08/2025",
+        "Mês de Competência": "08/2025",
+        "Valor": "2.398.872,14"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "CNPJ": "30.084.190/0001-33",
+        "Nome do Favorecido": "Hion Solucoes e Tecnologia LTDA",
+        "Data do Pagamento": "02/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "450.000,00"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "CNPJ": "53.179.555/0001-09",
+        "Nome do Favorecido": "HYDRA COMERCIO DE ELETRONICOS LTDA",
+        "Data do Pagamento": "26/09/2025",
+        "Mês de Competência": "09/2025",
+        "Valor": "1.079,00"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "CNPJ": "10.729.765/0001-10",
+        "Nome do Favorecido": "MECNEW-USINAGEM INDUSTRIAL LTDA",
+        "Data do Pagamento": "19/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "9.000,00"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "CNPJ": "10.729.765/0001-10",
+        "Nome do Favorecido": "MECNEW-USINAGEM INDUSTRIAL LTDA",
+        "Data do Pagamento": "12/12/2025",
+        "Mês de Competência": "12/2025",
+        "Valor": "9.000,00"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "CNPJ": "27.142.058/0001-26",
+        "Nome do Favorecido": "Prefeitura Municipal da Serra",
+        "Data do Pagamento": "24/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "2.700,00"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "CNPJ": "27.142.058/0001-26",
+        "Nome do Favorecido": "Prefeitura Municipal de Vitoria",
+        "Data do Pagamento": "19/11/2025",
+        "Mês de Competência": "11/2025",
+        "Valor": "457,20"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "CNPJ": "36.322.121/0001-05",
+        "Nome do Favorecido": "SINGER ENGENHARIA LTDA",
+        "Data do Pagamento": "06/06/2025",
+        "Mês de Competência": "06/2025",
+        "Valor": "148.000,00"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "CNPJ": "36.322.121/0001-05",
+        "Nome do Favorecido": "SINGER ENGENHARIA LTDA",
+        "Data do Pagamento": "22/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "87.300,00"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "CNPJ": "36.322.121/0001-05",
+        "Nome do Favorecido": "SINGER ENGENHARIA LTDA",
+        "Data do Pagamento": "24/10/2025",
+        "Mês de Competência": "10/2025",
+        "Valor": "2.700,00"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "CNPJ": "07.047.349/0001-28",
+        "Nome do Favorecido": "SUPPLIER INDÚSTRIA E COMÉRCIO DE ELETROELETRÔNICOS LTDA",
+        "Data do Pagamento": "16/01/2026",
+        "Mês de Competência": "01/2026",
+        "Valor": "737.310,85"
+      }
+    ],
+    "Projeto_314/Equipe.csv": [
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Nome": "JOSE ROBERTO DE OLIVEIRA",
+        "Função": "Coordenador Adjunta do Projeto",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      }
+    ],
+    "Projeto_314/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "2.000,00",
+        "Valor total aprovado": "2.000,00",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Agrupamento": "META 1",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Workstation - HighEnd-240227",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "79.917,32",
+        "Valor total aprovado": "79.917,32",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Agrupamento": "META 1",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Banco de Baterias Inteligente",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "900.000,00",
+        "Valor total aprovado": "900.000,00",
+        "Valor executado": "900.000,00"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Agrupamento": "META 1",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Carga Eletrônica CA - CECAT 6000-22- 15- PFC45403000",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "213.510,20",
+        "Valor total aprovado": "213.510,20",
+        "Valor executado": "118.616,78"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Agrupamento": "META 1",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Conversor B2B CA Droop SPCAT 3000-22-06-PFC45503040",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "320.071,05",
+        "Valor total aprovado": "320.071,05",
+        "Valor executado": "177.817,25"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Agrupamento": "META 1",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "conversor CC Bidirecional para banco de baterias 216 kWh.SPCAT 4500-22- 15-nB54511040",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "427.589,98",
+        "Valor total aprovado": "427.589,98",
+        "Valor executado": "237.549,99"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Agrupamento": "META 1",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "QDG-01 - Quadro de distribuição geral da microrrede CA 630A 220VCA",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "12.946,70",
+        "Valor total aprovado": "12.946,70",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Agrupamento": "META 1",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Chave Seccionadoras inteligente CHE- 01",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "281.764,46",
+        "Valor total aprovado": "281.764,46",
+        "Valor executado": "156.535,81"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Agrupamento": "META 1",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Fechadura Eletrônica Digital",
+        "Justificativa": " ",
+        "Qtde aprovada": "2,00",
+        "Valor unitário": "1.719,80",
+        "Valor total aprovado": "3.439,60",
+        "Valor executado": "3.169,00"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Agrupamento": "META 1",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Sistema de Controle e Automação",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "231.686,00",
+        "Valor total aprovado": "231.686,00",
+        "Valor executado": "244.557,45"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Agrupamento": "META 1",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Obras e Instalações ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "181.665,46",
+        "Valor total aprovado": "181.665,46",
+        "Valor executado": "90.000,00"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Agrupamento": "META 1",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Outros Serviços PJ - Despesas Acessórias de Importação",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "15.983,46",
+        "Valor total aprovado": "15.983,46",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Agrupamento": "META 1",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Outros Serviços PJ - Outros Serviços",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "152.165,23",
+        "Valor total aprovado": "152.165,23",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Agrupamento": "META 1",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "DOA",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "141.036,97",
+        "Valor total aprovado": "141.036,97",
+        "Valor executado": "141.036,97"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Agrupamento": "META 2",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Gleeble 563 ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "2.398.847,29",
+        "Valor total aprovado": "2.398.847,29",
+        "Valor executado": "2.398.847,29"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Agrupamento": "META 2",
+        "Rubrica": "Equipamentos e Material Permanente - Importado",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Acerto de Cambio compra Geeble",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "24,85",
+        "Valor total aprovado": "24,85",
+        "Valor executado": "24,85"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Agrupamento": "META 2",
+        "Rubrica": "Equipamentos e Material Permanente - Nacional",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Forno Tubular - Redutibilidade de Minérios e Óxidos",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "538.102,17",
+        "Valor total aprovado": "538.102,17",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Agrupamento": "META 2",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Obras e Instalações ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "300.000,00",
+        "Valor total aprovado": "300.000,00",
+        "Valor executado": "163.200,00"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Agrupamento": "META 2",
+        "Rubrica": "Serviços de Terceiros Pessoa Jurídica",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Outros Serviços PJ - Despesas Acessórias de Importação",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "432.694,86",
+        "Valor total aprovado": "432.694,86",
+        "Valor executado": "0,00"
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Agrupamento": "META 2",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "DOA",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "183.483,46",
+        "Valor total aprovado": "183.483,46",
+        "Valor executado": "183.483,46"
+      }
+    ],
+    "Projeto_314/Documentos.csv": [
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Título do Arquivo": "314 _Plano de trabalho_LAI",
+        "Descrição": "Segue em anexo o Plano de Trabalho referente ao projeto 0628/24 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital, Manufatura e Sustentabilidade."
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Título do Arquivo": "314_Convenio_LAI",
+        "Descrição": "Segue  em anexo, a Chamada Pública MCTI/FINEP/FNDCT  INFRAESTRUTURA DE PESQUISA  PROINFRA 2023, referente à seleção pública de propostas para apoio financeiro à expansão e desenvolvimento de infraestrutura de pesquisa."
+      }
+    ],
+    "Projeto_314/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Título do Arquivo": "Certidão LGPD",
+        "Descrição": "CERTIDÃO DE DOCUMENTAÇÃO DE PROCEDIMENTO DE PRESTAÇÃO DE CONTAS AMPARADA PELO SIGILO EM RAZÃO DA LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS",
+        "Data início": "23/12/2024 ",
+        "Data final": "31/05/2025 "
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Título do Arquivo": "Prestação de Contas Parcial - Início até 31.05.25",
+        "Descrição": "Prestação de contas parcial",
+        "Data início": "23/12/2024 ",
+        "Data final": "31/05/2025 "
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Título do Arquivo": "Prestação de Contas Parcial 01.06 a 30.06.25",
+        "Descrição": "Prestação de Contas Parcial",
+        "Data início": "01/06/2025 ",
+        "Data final": "30/06/2025 "
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Título do Arquivo": "Prestação de contas parcial - 01.06 a 31.07.2025",
+        "Descrição": "Prestação de contas parcial",
+        "Data início": "01/07/2025 ",
+        "Data final": "31/07/2025 "
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Título do Arquivo": "314 - Prestação_de_contas_parcial_Agosto_ 2025",
+        "Descrição": "314 - Prestação_de_contas_parcial_Agosto_ 2025",
+        "Data início": "01/08/2025 ",
+        "Data final": "31/08/2025 "
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Título do Arquivo": "Prestação de contas parcial setembro",
+        "Descrição": "Prestação de contas parcial setembro",
+        "Data início": "01/09/2025 ",
+        "Data final": "30/09/2025 "
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Título do Arquivo": "prestação de contas parcial outubro",
+        "Descrição": "prestação de contas parcial outubro",
+        "Data início": "01/10/2025 ",
+        "Data final": "31/10/2025 "
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Título do Arquivo": "Prestação de contas parcial - novembro",
+        "Descrição": "Prestação de contas parcial - novembro",
+        "Data início": "01/11/2025 ",
+        "Data final": "30/11/2025 "
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Título do Arquivo": "Prestação de contas parcial - Dezembro",
+        "Descrição": "Prestação de contas parcial - Dezembro",
+        "Data início": "01/12/2025 ",
+        "Data final": "31/12/2025 "
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Título do Arquivo": "Prestação de contas parcial - Janeiro",
+        "Descrição": "Prestação de contas parcial - Janeiro",
+        "Data início": "01/01/2026 ",
+        "Data final": "31/01/2026 "
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Título do Arquivo": "Prestação de contas parcial - Fevereiro",
+        "Descrição": "Prestação de contas parcial - Fevereiro",
+        "Data início": "01/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Título do Arquivo": "Prestação de contas parcial - Março",
+        "Descrição": "Prestação de contas parcial - Março",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      },
+      {
+        "Referência do projeto": "314 - Centros de Excelência na Gestão Energética e na Siderurgia: Integrando Transformação Digital,  Manufatura e Sustentabilidade",
+        "Título do Arquivo": "Prestação de contas parcial - Abril",
+        "Descrição": "Prestação de contas parcial - Abril",
+        "Data início": "01/04/2026 ",
+        "Data final": "30/04/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T12:17:30",
+  "_error": null
+}

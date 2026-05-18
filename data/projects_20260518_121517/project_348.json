@@ -1,0 +1,598 @@
+{
+  "id": "348",
+  "name": "Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos.",
+  "csv": {
+    "Projeto_348/Informaçoes do projeto.csv": [
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Coordenador": "Marcos Aloízio França da Fonseca",
+        "Financiadora": "Porto Central Complexo Industrial Portuário AS",
+        "Data de início": "24/11/2025",
+        "Data de vigência": "24/05/2026",
+        "Data de encerramento": "24/07/2026",
+        "Tipo de Projeto": "Pesquisa, Desenvolvimento e Inovação",
+        "Instituição executora": "Instituto Federal do Espírito Santo (IFES) - campus Presidente Kennedy",
+        "Departamento": "",
+        "Processo e sub-processo": "231470062542025-39",
+        "Valor aprovado": "48.000,00",
+        "Objetivo/Objeto/Título": "Desenvolvimento de metodologias pedagógicas para capacitação de indústrias de base; pesquisa sobre eficácia dos métodos de capacitação aplicados ao acompanhamento de egressos; oferta do módulo teórico de capacitação para 50 trabalhadores da comunidade, incluindo os que atuam nas obras do Porto Central."
+      }
+    ],
+    "Projeto_348/Recursos por rubrica receita separada.csv": [
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Bolsas",
+        "Aprovado": "43.220,20",
+        "Liberado": "0,00",
+        "Executado": "-31.694,75",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "Despesas Bancárias",
+        "Aprovado": "500,00",
+        "Liberado": "0,00",
+        "Executado": "-49,80",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Tipo da Rubrica": "Despesa",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Aprovado": "4.779,80",
+        "Liberado": "0,00",
+        "Executado": "-4.779,80",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Receitas ",
+        "Aprovado": "0,00",
+        "Liberado": "48.000,00",
+        "Executado": "48.000,00",
+        "Moeda": "Real"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Tipo da Rubrica": "Receita",
+        "Rubrica": "Rendimentos de Aplicações Financeiras",
+        "Aprovado": "0,00",
+        "Liberado": "0,00",
+        "Executado": "1.422,61",
+        "Moeda": "Real"
+      }
+    ],
+    "Projeto_348/Pagamento de pessoa jurídica.csv": [
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "25/02/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "0,60"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "20/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "12,28"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "27/03/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "4,12"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "16,40"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome do Favorecido": "Banco do Brasil SA",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "05/2026",
+        "Valor": "16,40"
+      }
+    ],
+    "Projeto_348/Pagamento de servidores ou agentes públicos.csv": [
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CPF": "***.438.337-**",
+        "Nome do Favorecido": "Daniel Carmo Terin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "20/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "117,05"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CPF": "***.438.337-**",
+        "Nome do Favorecido": "Daniel Carmo Terin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "585,27"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CPF": "***.438.337-**",
+        "Nome do Favorecido": "Daniel Carmo Terin",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "585,27"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CPF": "***.885.077-**",
+        "Nome do Favorecido": "Elisa Prado Có",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "20/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "459,21"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CPF": "***.885.077-**",
+        "Nome do Favorecido": "Elisa Prado Có",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2.296,07"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CPF": "***.885.077-**",
+        "Nome do Favorecido": "Elisa Prado Có",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2.296,07"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CPF": "***.436.984-**",
+        "Nome do Favorecido": "Flávia Ferreira Batista",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "27/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "459,22"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CPF": "***.436.984-**",
+        "Nome do Favorecido": "Flávia Ferreira Batista",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2.296,07"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CPF": "***.436.984-**",
+        "Nome do Favorecido": "Flávia Ferreira Batista",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2.296,07"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CPF": "***.824.217-**",
+        "Nome do Favorecido": "José Alexandre de Souza Gadioli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "20/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "459,21"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CPF": "***.824.217-**",
+        "Nome do Favorecido": "José Alexandre de Souza Gadioli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2.296,07"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CPF": "***.824.217-**",
+        "Nome do Favorecido": "José Alexandre de Souza Gadioli",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2.296,07"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CPF": "***.653.657-**",
+        "Nome do Favorecido": "Leonardo Carretta da Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "20/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "117,05"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CPF": "***.653.657-**",
+        "Nome do Favorecido": "Leonardo Carretta da Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "585,27"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CPF": "***.653.657-**",
+        "Nome do Favorecido": "Leonardo Carretta da Silva",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "585,27"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CPF": "***.483.837-**",
+        "Nome do Favorecido": "Luís Alberto Miranda Goveia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "27/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "459,22"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CPF": "***.483.837-**",
+        "Nome do Favorecido": "Luís Alberto Miranda Goveia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "2.296,07"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CPF": "***.483.837-**",
+        "Nome do Favorecido": "Luís Alberto Miranda Goveia",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "2.296,07"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CPF": "***.927.857-**",
+        "Nome do Favorecido": "Marcos Aloízio França da Fonseca",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "20/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "693,32"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CPF": "***.927.857-**",
+        "Nome do Favorecido": "Marcos Aloízio França da Fonseca",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "3.466,62"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CPF": "***.927.857-**",
+        "Nome do Favorecido": "Marcos Aloízio França da Fonseca",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "3.466,62"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CPF": "***.848.872-**",
+        "Nome do Favorecido": "Maria da Penha Nóbrega Uchôa Cordeiro",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "27/03/2026",
+        "Mês de Competência": "02/2026",
+        "Valor": "117,05"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CPF": "***.848.872-**",
+        "Nome do Favorecido": "Maria da Penha Nóbrega Uchôa Cordeiro",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/04/2026",
+        "Mês de Competência": "03/2026",
+        "Valor": "585,27"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "CPF": "***.848.872-**",
+        "Nome do Favorecido": "Maria da Penha Nóbrega Uchôa Cordeiro",
+        "Tipo de Pagamento": "Pagamento de Bolsa Extensão",
+        "Data do Pagamento": "08/05/2026",
+        "Mês de Competência": "04/2026",
+        "Valor": "585,27"
+      }
+    ],
+    "Projeto_348/Equipe.csv": [
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Nome": "Daniel Carmo Terin",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "IFES",
+        "Vínculo com a instituição": "TAE",
+        "Grau de instrução": "Pós-Graduação completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Nome": "Elisa Prado Có",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Federal do Espírito Santo - campus Presidente Kennedy",
+        "Vínculo com a instituição": "Servidor público federal - cargo efetivo",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Nome": "Flávia Ferreira Batista",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Instituto Federal do Espírito Santo ",
+        "Vínculo com a instituição": "Professor EBTT",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Nome": "José Alexandre de Souza Gadioli",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "ifes",
+        "Vínculo com a instituição": "campus presidente kennedy",
+        "Grau de instrução": "Doutorado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Nome": "Leonardo Carretta da Silva",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Ifes",
+        "Vínculo com a instituição": "Funcionário",
+        "Grau de instrução": "Pós-Graduação completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Nome": "Luís Alberto Miranda Goveia",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "INSTITUTO FEDERAL DO ESPÍRITO SANTO",
+        "Vínculo com a instituição": "ESTATUTÁRIO 40H DEDICAÇÃO EXCLUSIVA",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Nome": "Marcos Aloízio França da Fonseca",
+        "Função": "Coordenador",
+        "Instituição de trabalho": " ",
+        "Vínculo com a instituição": " ",
+        "Grau de instrução": " ",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Sim"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Nome": "Marcos Aloízio França da Fonseca",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Ifes",
+        "Vínculo com a instituição": "Professor EBTT - Administração",
+        "Grau de instrução": "Mestrado completo",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Nome": "Maria da Penha Nóbrega Uchôa Cordeiro",
+        "Função": "Bolsista",
+        "Instituição de trabalho": "Ex. TER/RO-SEPLAD/PVH.",
+        "Vínculo com a instituição": "IFES",
+        "Grau de instrução": "Pós-Graduação completa",
+        "Carga horária": " ",
+        "Vinculada à inst. executora": "Não"
+      }
+    ],
+    "Projeto_348/Plano de trabalho.csv": [
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Bolsas do projeto",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "5.267,46",
+        "Valor total aprovado": "5.267,46",
+        "Valor executado": "5.969,75"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Professores",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "especialistas",
+        "Agrupamento": " ",
+        "Rubrica": "1,00",
+        "Código": "6.888,22",
+        "Produto": "6.888,22",
+        "Descrição": "6.888,21",
+        "Justificativa": "",
+        "Qtde aprovada": "",
+        "Valor unitário": "",
+        "Valor total aprovado": "",
+        "Valor executado": ""
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Professoresespecialistas",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "6.888,22",
+        "Valor total aprovado": "6.888,22",
+        "Valor executado": "6.888,21"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Professoresespecialistas",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "6.888,22",
+        "Valor total aprovado": "6.888,22",
+        "Valor executado": "6.888,21"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Professoresespecialistas",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "6.888,22",
+        "Valor total aprovado": "6.888,22",
+        "Valor executado": "6.888,21"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Agrupamento": "",
+        "Rubrica": "Bolsas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Coordenadordo Projeto ",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "10.399,86",
+        "Valor total aprovado": "10.399,86",
+        "Valor executado": "10.399,86"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Agrupamento": "",
+        "Rubrica": "Despesas Bancárias",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas bancárias",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "500,00",
+        "Valor total aprovado": "500,00",
+        "Valor executado": "49,80"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "Despesas Operacionais e Administrativas",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "4.181,94",
+        "Valor total aprovado": "4.181,94",
+        "Valor executado": "4.181,94"
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Agrupamento": "",
+        "Rubrica": "DOA - Despesas Operacionais e Administrativas",
+        "Código": " ",
+        "Produto": " ",
+        "Descrição": "DOA Aditivo 1",
+        "Justificativa": " ",
+        "Qtde aprovada": "1,00",
+        "Valor unitário": "597,86",
+        "Valor total aprovado": "597,86",
+        "Valor executado": "597,86"
+      }
+    ],
+    "Projeto_348/Documentos.csv": [
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Título do Arquivo": "P 348 Acordo de cooperacao_LAI",
+        "Descrição": " "
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Título do Arquivo": "P 348_Aditivo 1_LAI",
+        "Descrição": "Arquivo com dados restritos conforme a LAI  Lei de Acesso à Informação. "
+      }
+    ],
+    "Projeto_348/Prestaçao de contas.csv": [
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Título do Arquivo": "Prestação de contas parcial - Início a Dezembro 2025",
+        "Descrição": "Prestação de contas parcial - Início a Dezembro 2025",
+        "Data início": "24/11/2025 ",
+        "Data final": "31/12/2025 "
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Título do Arquivo": "348_PC_PARCIAL_JAN_2026",
+        "Descrição": "Prestação de contas parcial referente a janeiro de 2026.",
+        "Data início": "01/01/2026 ",
+        "Data final": "31/01/2026 "
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Título do Arquivo": "348_PC_PARCIAL_FEV_2026",
+        "Descrição": "Prestação de contas parcial referente ao mês de fevereiro de 2026.",
+        "Data início": "01/02/2026 ",
+        "Data final": "28/02/2026 "
+      },
+      {
+        "Referência do projeto": "348 - Capacitação Profissional Introdução à Implantação de Indústrias de Base e Construção de Infraestrutura Física visando a implantação do Porto Central (Módulo Teórico): Eficácia e Acompanhamento de Egressos",
+        "Título do Arquivo": "348_PC_PARCIAL_MAR_2026",
+        "Descrição": "Prestação de contas parcial referente a março de 2026.",
+        "Data início": "01/03/2026 ",
+        "Data final": "31/03/2026 "
+      }
+    ]
+  },
+  "_source_url": "https://facto.conveniar.com.br/portaltransparencia/",
+  "_scraped_at": "2026-05-18T12:18:22",
+  "_error": null
+}

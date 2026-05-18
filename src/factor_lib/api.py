@@ -11,6 +11,7 @@ from factor_lib.models.result import ScrapeResult
 from factor_lib.pages.portal_page import TransparencyPortalPage
 from factor_lib.scrapers.detail_scraper import DetailScraper
 from factor_lib.scrapers.listing_scraper import ListingScraper
+from factor_lib.scrapers.parallel_detail_scraper import ParallelDetailScraper
 from factor_lib.serializers import save_to_json
 
 _DEFAULT_URL = "https://facto.conveniar.com.br/portaltransparencia/"
@@ -39,21 +40,37 @@ def scrape_all_projects(
     *,
     headless: bool = True,
     timeout: int = 30_000,
+    workers: int = 1,
 ) -> ScrapeResult:
-    """List all projects then scrape details for each; return ScrapeResult."""
+    """List all projects then scrape details for each; return ScrapeResult.
+
+    Args:
+        workers: Number of parallel browser workers (1 = sequential, >1 = parallel).
+    """
     started_at = datetime.datetime.now().isoformat(timespec="seconds")
 
+    # Phase 1: fetch listing (single browser, fast)
     with BrowserFactory(headless=headless, timeout=timeout) as factory:
         page = factory.new_page()
         portal = TransparencyPortalPage(page, url=url, default_timeout=timeout)
-
         try:
             portal.navigate()
             listing = ListingScraper().scrape(portal)
         except Exception as exc:
             raise PortalNavigationError(str(exc)) from exc
 
-        detail_records = DetailScraper(source_url=url).scrape(portal, listing)
+    # Phase 2: scrape details — parallel or sequential
+    if workers > 1:
+        detail_records = ParallelDetailScraper(
+            source_url=url, workers=workers, headless=headless, timeout=timeout
+        ).scrape(None, listing)
+    else:
+        with BrowserFactory(headless=headless, timeout=timeout) as factory:
+            page = factory.new_page()
+            portal = TransparencyPortalPage(page, url=url, default_timeout=timeout)
+            portal.navigate()
+            portal.click_consultar()
+            detail_records = DetailScraper(source_url=url).scrape(portal, listing)
 
     completed_at = datetime.datetime.now().isoformat(timespec="seconds")
     success_count = sum(1 for r in detail_records if r._error is None)
@@ -75,10 +92,11 @@ def scrape_and_save(
     *,
     headless: bool = True,
     timeout: int = 30_000,
+    workers: int = 1,
     indent: int = 2,
 ) -> ScrapeResult:
     """Full flow: scrape all projects and save to JSON. Returns ScrapeResult."""
-    result = scrape_all_projects(url=url, headless=headless, timeout=timeout)
+    result = scrape_all_projects(url=url, headless=headless, timeout=timeout, workers=workers)
     _save_result_to_json(result, output_path, indent=indent)
     return result
 
