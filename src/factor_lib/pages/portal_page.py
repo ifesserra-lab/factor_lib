@@ -5,6 +5,7 @@ import re
 
 from playwright.sync_api import Page
 
+from factor_lib.export.downloader import EXPORT_CSV_SEL
 from factor_lib.pages.base_page import BasePage
 
 CONSULTAR_SEL = "#ctl00_ContentPlaceHolder1_ProjetosUserControl1_lnkConsultarProjetos"
@@ -125,6 +126,36 @@ class TransparencyPortalPage(BasePage):
             panel_selector,
         )
         return text
+
+    def has_export_button(self) -> bool:
+        """Return True if the CSV export button is present on the current page."""
+        return self.page.locator(EXPORT_CSV_SEL).count() > 0
+
+    def get_visible_text_fields(self) -> dict[str, str]:
+        """Best-effort extraction of any label/value pairs visible on the page.
+
+        Used as fallback when detail panels (pnl*) are absent.  Scrapes all
+        <li> elements with a <label> child that are currently visible.
+        """
+        result: dict[str, str] = self.page.evaluate(
+            """() => {
+                const out = {};
+                document.querySelectorAll('li').forEach(li => {
+                    const label = li.querySelector('label');
+                    if (!label) return;
+                    const key = label.textContent.trim().replace(/:$/, '');
+                    if (!key) return;
+                    const span = li.querySelector('span');
+                    const inp = li.querySelector('input[type=text]');
+                    const value = span
+                        ? span.textContent.trim()
+                        : (inp ? inp.value.trim() : '');
+                    if (value) out[key] = value;
+                });
+                return out;
+            }"""
+        )
+        return dict(result)
 
     def navigate_back_to_listing(self) -> None:
         """Return to the project listing by re-navigating and clicking Consultar."""

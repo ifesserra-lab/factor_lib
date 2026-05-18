@@ -23,3 +23,4 @@ class ProjectDetailRecord:
     _source_url: str
     _scraped_at: str
     _error: str | None = None
+    _partial: bool = False  # True when CSV unavailable but page fields were extracted

@@ -10,6 +10,7 @@ from typing import TYPE_CHECKING
 from factor_lib.browser import BrowserFactory
 from factor_lib.export.csv_parser import parse_zip_csv
 from factor_lib.export.downloader import download_csv_export
+from factor_lib.export.exceptions import ButtonNotFoundError
 from factor_lib.models.project import ProjectDetailRecord, ProjectListingRecord
 from factor_lib.pages.portal_page import TransparencyPortalPage
 from factor_lib.scrapers.base_scraper import AbstractScraper
@@ -39,7 +40,13 @@ def _scrape_one(
             portal.click_consultar()
             portal.click_detail_icon(row_index)
 
-            # Download and parse CSV export — primary data source
+            # Primary path: download and parse CSV export
+            if not portal.has_export_button():
+                raise ButtonNotFoundError(
+                    stage="download",
+                    reason="CSV export link not found on current page (project may be restricted)",
+                )
+
             zip_bytes = download_csv_export(page, timeout=timeout)
             csv_records = parse_zip_csv(zip_bytes)
 
@@ -58,6 +65,46 @@ def _scrape_one(
             _source_url=url,
             _scraped_at=scraped_at,
         )
+
+    except ButtonNotFoundError:
+        # Fallback: extract whatever label/value fields the page exposes
+        logger.info(
+            "No CSV export for project %s — attempting field extraction fallback", item.id
+        )
+        try:
+            with BrowserFactory(headless=headless, timeout=timeout) as factory:
+                page = factory.new_page()
+                portal = TransparencyPortalPage(page, url=url, default_timeout=timeout)
+                portal.navigate()
+                portal.click_consultar()
+                portal.click_detail_icon(row_index)
+                fields = portal.get_detail_fields()
+                if not fields:
+                    fields = portal.get_visible_text_fields()
+            if fields:
+                logger.info(
+                    "Fallback succeeded for project %s — %d fields extracted", item.id, len(fields)
+                )
+                return ProjectDetailRecord(
+                    id=item.id,
+                    name=item.name,
+                    fields=fields,
+                    _source_url=url,
+                    _scraped_at=scraped_at,
+                    _partial=True,
+                )
+        except Exception as fallback_exc:
+            logger.warning("Fallback also failed for project %s: %s", item.id, fallback_exc)
+
+        return ProjectDetailRecord(
+            id=item.id,
+            name=item.name,
+            fields={},
+            _source_url=url,
+            _scraped_at=scraped_at,
+            _error="csv_unavailable: no export button on detail page",
+        )
+
     except Exception as exc:
         logger.warning("Detail scraping failed for project %s: %s", item.id, exc)
         return ProjectDetailRecord(

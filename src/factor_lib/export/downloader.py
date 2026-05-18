@@ -10,7 +10,8 @@ from playwright.sync_api import TimeoutError as PlaywrightTimeoutError
 from factor_lib.export.exceptions import ButtonNotFoundError, DownloadTimeoutError
 
 # Stable element ID for the CSV export link on the detail page
-_EXPORT_CSV_SEL = "#ctl00_ContentPlaceHolder1_ProjetosUserControl1_InformacoesProjetoUserControl_lnkExportarProjetoCsv"
+EXPORT_CSV_SEL = "#ctl00_ContentPlaceHolder1_ProjetosUserControl1_InformacoesProjetoUserControl_lnkExportarProjetoCsv"
+_EXPORT_CSV_SEL = EXPORT_CSV_SEL  # backward-compat alias
 
 
 def download_csv_export(page: Page, *, timeout: int = 60_000) -> bytes:
