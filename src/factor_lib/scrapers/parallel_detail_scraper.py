@@ -50,6 +50,21 @@ def _scrape_one(
             zip_bytes = download_csv_export(page, timeout=timeout)
             csv_records = parse_zip_csv(zip_bytes)
 
+        # Defensive: some export ZIPs bundle neighbouring projects' folders.
+        # Keep only this project's own "Projeto_<id>/" rows when more than one
+        # project folder is present and our own folder is among them.
+        own_dir = f"Projeto_{item.id}"
+        dirs = {r.source_file.split("/")[0] for r in csv_records if "/" in r.source_file}
+        if own_dir in dirs and len(dirs) > 1:
+            before = len(csv_records)
+            csv_records = [
+                r for r in csv_records if r.source_file.startswith(own_dir + "/")
+            ]
+            logger.warning(
+                "Project %s export bundled foreign folders %s — dropped %d foreign row(s)",
+                item.id, sorted(dirs - {own_dir}), before - len(csv_records),
+            )
+
         # Group rows by source CSV file → store as JSON strings per section
         sections: dict[str, str] = {}
         groups: dict[str, list[dict[str, str]]] = {}

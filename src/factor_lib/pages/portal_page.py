@@ -9,6 +9,9 @@ from factor_lib.export.downloader import EXPORT_CSV_SEL
 from factor_lib.pages.base_page import BasePage
 
 CONSULTAR_SEL = "#ctl00_ContentPlaceHolder1_ProjetosUserControl1_lnkConsultarProjetos"
+# "Situação do projeto" dropdown — default is "Vigentes" (10); "Todos" = -1
+STATUS_SEL = "#ctl00_ContentPlaceHolder1_ProjetosUserControl1_ddlCodStatusConvenio"
+STATUS_TODOS_VALUE = "-1"
 LUPA_SEL = "[title='Visualizar']"
 LISTING_PANEL_SEL = "#ctl00_upgMain2"
 DETAIL_READY_JS = (
@@ -31,8 +34,14 @@ class TransparencyPortalPage(BasePage):
 
     # ------------------------------------------------------------------ listing
 
+    def select_status_todos(self) -> None:
+        """Set the 'Situação do projeto' filter to 'Todos' (all projects)."""
+        self.wait_for(STATUS_SEL)
+        self.page.select_option(STATUS_SEL, value=STATUS_TODOS_VALUE)
+
     def click_consultar(self) -> None:
         self.wait_for(CONSULTAR_SEL)
+        self.select_status_todos()
         self.page.click(CONSULTAR_SEL)
         self.wait_for_network_idle()
 
