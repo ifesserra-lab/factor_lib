@@ -1,0 +1,928 @@
+<title>Projetos FACTO</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Bricolage+Grotesque:wght@600;700&display=swap">
+<style>
+:root {
+  --bg: #f7f7f4;
+  --surface: #fdfdfb;
+  --ink: #14140f;
+  --ink-2: #54534d;
+  --ink-3: #8a887f;
+  --hairline: #e3e2da;
+  --ring: rgba(20,20,15,0.10);
+  --accent: #2a78d6;
+  --accent-ink: #1c5cab;
+  --bar: #2a78d6;
+  --bar-soft: #cde2fb;
+  --grid: #e1e0d9;
+  --good: #006300;
+  --good-chip-bg: rgba(12,163,12,0.10);
+  --chip-bg: #efeee9;
+  --focus: #2a78d6;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #131311;
+    --surface: #1c1c1a;
+    --ink: #f4f3ee;
+    --ink-2: #c3c2b7;
+    --ink-3: #898781;
+    --hairline: #2c2c2a;
+    --ring: rgba(255,255,255,0.10);
+    --accent: #3987e5;
+    --accent-ink: #6da7ec;
+    --bar: #3987e5;
+    --bar-soft: #184f95;
+    --grid: #2c2c2a;
+    --good: #0ca30c;
+    --good-chip-bg: rgba(12,163,12,0.16);
+    --chip-bg: #262623;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #131311;
+  --surface: #1c1c1a;
+  --ink: #f4f3ee;
+  --ink-2: #c3c2b7;
+  --ink-3: #898781;
+  --hairline: #2c2c2a;
+  --ring: rgba(255,255,255,0.10);
+  --accent: #3987e5;
+  --accent-ink: #6da7ec;
+  --bar: #3987e5;
+  --bar-soft: #184f95;
+  --grid: #2c2c2a;
+  --good: #0ca30c;
+  --good-chip-bg: rgba(12,163,12,0.16);
+  --chip-bg: #262623;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "Archivo", system-ui, -apple-system, "Segoe UI", sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+}
+.wrap { max-width: 1180px; margin: 0 auto; padding: 32px 24px 80px; }
+
+header.top { display: flex; flex-wrap: wrap; align-items: baseline; gap: 10px 18px; margin-bottom: 6px; }
+.eyebrow { font-size: 11.5px; letter-spacing: 0.09em; text-transform: uppercase; color: var(--ink-3); font-weight: 500; margin-bottom: 4px; }
+h1 {
+  font-family: "Bricolage Grotesque", "Archivo", system-ui, sans-serif;
+  font-weight: 700; font-size: 30px; letter-spacing: -0.01em;
+  margin: 0; text-wrap: balance;
+}
+.subtitle { color: var(--ink-2); font-size: 14px; margin: 0 0 26px; max-width: 68ch; }
+.subtitle a { color: var(--accent-ink); text-decoration: none; }
+.subtitle a:hover { text-decoration: underline; }
+
+/* ---- KPI row ---- */
+.kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 12px; margin-bottom: 22px; }
+.kpi {
+  background: var(--surface); border: 1px solid var(--ring); border-radius: 8px;
+  padding: 14px 16px 12px;
+}
+.kpi .label { font-size: 12px; letter-spacing: 0.04em; text-transform: uppercase; color: var(--ink-3); font-weight: 500; }
+.kpi .value { font-size: 30px; font-weight: 600; line-height: 1.15; margin-top: 2px; }
+.kpi .note { font-size: 12.5px; color: var(--ink-2); margin-top: 2px; }
+
+/* ---- filter row ---- */
+.filters {
+  display: flex; flex-wrap: wrap; gap: 10px; align-items: center;
+  padding: 12px 0 14px; border-bottom: 1px solid var(--hairline); margin-bottom: 24px;
+  position: sticky; top: 0; z-index: 30; background: var(--bg);
+}
+.filters input[type="search"], .filters select {
+  font: inherit; font-size: 14px; color: var(--ink);
+  background: var(--surface); border: 1px solid var(--hairline); border-radius: 6px;
+  padding: 8px 10px;
+}
+.filters input[type="search"] { flex: 1 1 260px; min-width: 220px; }
+.filters input[type="search"]::placeholder { color: var(--ink-3); }
+.filters select { max-width: 230px; }
+.filters input:focus-visible, .filters select:focus-visible, .row:focus-visible, button:focus-visible {
+  outline: 2px solid var(--focus); outline-offset: 1px;
+}
+.count { font-size: 13px; color: var(--ink-2); margin-left: auto; white-space: nowrap; }
+.count strong { color: var(--ink); }
+button.clear {
+  font: inherit; font-size: 13px; color: var(--ink-2); background: none;
+  border: 1px solid var(--hairline); border-radius: 6px; padding: 7px 11px; cursor: pointer;
+}
+button.clear:hover { color: var(--ink); border-color: var(--ink-3); }
+
+/* ---- charts ---- */
+.charts { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 12px; margin-bottom: 30px; }
+.card {
+  background: var(--surface); border: 1px solid var(--ring); border-radius: 8px;
+  padding: 16px 18px 14px; min-width: 0;
+}
+.card h2 { font-size: 14px; font-weight: 600; margin: 0 0 12px; }
+.hbar-row { display: grid; grid-template-columns: minmax(110px, 38%) 1fr; align-items: center; gap: 8px; margin-bottom: 7px; }
+.hbar-row .lbl { font-size: 12.5px; color: var(--ink-2); text-align: right; line-height: 1.25; overflow-wrap: anywhere; }
+.hbar-track { position: relative; height: 18px; }
+.hbar {
+  position: absolute; left: 0; top: 0; bottom: 0;
+  background: var(--bar); border-radius: 0 4px 4px 0;
+  min-width: 2px; transition: width .25s ease;
+}
+.hbar-val {
+  position: absolute; top: 50%; transform: translateY(-50%);
+  font-size: 12px; color: var(--ink-2); white-space: nowrap;
+  font-variant-numeric: tabular-nums; padding-left: 6px;
+}
+.hbar-row:hover .hbar { background: var(--accent-ink); }
+
+.cols { display: flex; align-items: flex-end; gap: 6px; height: 130px; padding-top: 6px; }
+.col-slot { flex: 1 1 0; display: flex; flex-direction: column; align-items: center; justify-content: flex-end; height: 100%; min-width: 0; position: relative; }
+.col-bar { width: 100%; max-width: 24px; background: var(--bar); border-radius: 4px 4px 0 0; min-height: 2px; transition: height .25s ease; }
+.col-slot:hover .col-bar { background: var(--accent-ink); }
+.col-x { font-size: 10.5px; color: var(--ink-3); margin-top: 4px; font-variant-numeric: tabular-nums; }
+.col-v { font-size: 10.5px; color: var(--ink-2); margin-bottom: 3px; font-variant-numeric: tabular-nums; }
+.chart-baseline { border-top: 1px solid var(--grid); }
+.empty-chart { color: var(--ink-3); font-size: 13px; padding: 24px 0; }
+
+/* tooltip */
+#tip {
+  position: fixed; z-index: 50; pointer-events: none; display: none;
+  background: var(--surface); border: 1px solid var(--hairline); border-radius: 6px;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.14);
+  padding: 7px 10px; font-size: 12.5px; max-width: 300px;
+}
+#tip .t-val { font-weight: 600; font-size: 13.5px; }
+#tip .t-lbl { color: var(--ink-2); }
+
+/* ---- results list ---- */
+.list-head { display: flex; align-items: baseline; gap: 14px; margin-bottom: 10px; }
+.list-head h2 { font-size: 16px; font-weight: 600; margin: 0; }
+.list-head select { font: inherit; font-size: 13px; color: var(--ink-2); background: var(--surface); border: 1px solid var(--hairline); border-radius: 6px; padding: 5px 8px; margin-left: auto; }
+details.export { position: relative; }
+details.export summary {
+  list-style: none; cursor: pointer; font-size: 13px; color: var(--ink-2);
+  background: var(--surface); border: 1px solid var(--hairline); border-radius: 6px;
+  padding: 5px 10px; white-space: nowrap;
+}
+details.export summary::-webkit-details-marker { display: none; }
+details.export summary:hover { color: var(--ink); border-color: var(--ink-3); }
+details.export[open] summary { color: var(--ink); }
+.export-menu {
+  position: absolute; right: 0; top: calc(100% + 4px); z-index: 40;
+  background: var(--surface); border: 1px solid var(--hairline); border-radius: 8px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.14);
+  padding: 6px; min-width: 240px; display: flex; flex-direction: column;
+}
+.export-menu button {
+  font: inherit; font-size: 13px; text-align: left; color: var(--ink);
+  background: none; border: none; border-radius: 5px; padding: 7px 9px; cursor: pointer;
+}
+.export-menu button:hover { background: var(--chip-bg); }
+.export-menu .hint { font-size: 11.5px; color: var(--ink-3); padding: 4px 9px 6px; border-top: 1px solid var(--hairline); margin-top: 4px; }
+.row {
+  background: var(--surface); border: 1px solid var(--ring); border-radius: 8px;
+  margin-bottom: 8px; cursor: pointer;
+  transition: border-color .15s ease, box-shadow .15s ease;
+}
+.row:hover {
+  border-color: var(--accent);
+  box-shadow: 0 2px 10px rgba(0,0,0,0.07);
+}
+.row:hover .row-title .plink { text-decoration: underline; }
+.row-main { display: grid; grid-template-columns: 1fr auto; gap: 4px 18px; padding: 13px 16px; }
+.row-title { grid-column: 1; grid-row: 1; font-weight: 600; font-size: 14.5px; line-height: 1.35; }
+.row-title .pid { color: var(--ink-3); font-weight: 500; margin-right: 6px; font-variant-numeric: tabular-nums; }
+.row-sub { grid-column: 1; grid-row: 2; color: var(--ink-2); font-size: 13px; display: flex; flex-wrap: wrap; gap: 4px 14px; }
+.row-right { grid-column: 2; grid-row: 1 / span 2; text-align: right; display: flex; flex-direction: column; align-items: flex-end; gap: 5px; }
+.row-val { font-weight: 600; font-size: 15px; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.chip {
+  display: inline-flex; align-items: center; gap: 5px;
+  font-size: 11.5px; font-weight: 500; letter-spacing: 0.02em;
+  padding: 2px 9px; border-radius: 99px; background: var(--chip-bg); color: var(--ink-2);
+  white-space: nowrap;
+}
+.chip.vigente { background: var(--good-chip-bg); color: var(--good); }
+.chip .dot { width: 6px; height: 6px; border-radius: 50%; background: currentColor; }
+.tag { font-size: 12px; color: var(--ink-3); }
+
+.row-detail { display: none; border-top: 1px solid var(--hairline); padding: 16px; }
+.row.open .row-detail { display: block; }
+.detail-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 10px 22px; margin-bottom: 14px; }
+.dfield .dl { font-size: 11px; letter-spacing: 0.05em; text-transform: uppercase; color: var(--ink-3); font-weight: 500; }
+.dfield .dv { font-size: 13.5px; }
+.objetivo { font-size: 13.5px; color: var(--ink-2); max-width: 90ch; margin: 0 0 14px; }
+details.sec { border: 1px solid var(--hairline); border-radius: 6px; margin-bottom: 8px; background: var(--bg); }
+details.sec summary { cursor: pointer; padding: 9px 12px; font-size: 13px; font-weight: 600; color: var(--ink-2); }
+details.sec[open] summary { border-bottom: 1px solid var(--hairline); color: var(--ink); }
+.sec-body { overflow-x: auto; padding: 4px 12px 12px; }
+table.blob { border-collapse: collapse; font-size: 12.5px; width: 100%; }
+table.blob th { text-align: left; font-weight: 600; color: var(--ink-2); border-bottom: 1px solid var(--hairline); padding: 6px 14px 6px 0; white-space: nowrap; }
+table.blob td { border-bottom: 1px solid var(--grid); padding: 5px 14px 5px 0; vertical-align: top; font-variant-numeric: tabular-nums; }
+table.blob tr.group td { font-weight: 600; color: var(--ink-3); border-bottom: none; padding-top: 10px; text-transform: uppercase; font-size: 11px; letter-spacing: 0.05em; }
+.no-results { text-align: center; color: var(--ink-2); padding: 48px 0; }
+
+/* ---- project page ---- */
+#pageProjeto { display: none; }
+body.route-projeto #pageProjeto { display: block; }
+body.route-projeto #pageHome { display: none; }
+.back {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: 13.5px; color: var(--accent-ink); text-decoration: none;
+  margin-bottom: 18px;
+}
+.back:hover { text-decoration: underline; }
+.pp-head { margin-bottom: 6px; }
+.pp-eyebrow { font-size: 12px; letter-spacing: 0.05em; text-transform: uppercase; color: var(--ink-3); font-weight: 500; }
+.pp-title {
+  font-family: "Bricolage Grotesque", "Archivo", system-ui, sans-serif;
+  font-weight: 700; font-size: 24px; line-height: 1.25; letter-spacing: -0.005em;
+  margin: 2px 0 10px; text-wrap: balance; max-width: 60ch;
+}
+.pp-chips { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 22px; }
+.pp-facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 12px; margin-bottom: 22px; }
+.pp-obj-label { font-size: 12px; letter-spacing: 0.04em; text-transform: uppercase; color: var(--ink-3); font-weight: 500; margin-bottom: 4px; }
+.pp-obj { font-size: 14.5px; color: var(--ink-2); max-width: 82ch; margin: 0 0 24px; }
+.pp-section { margin-bottom: 26px; }
+.pp-src { font-size: 12.5px; color: var(--ink-3); margin-top: 30px; }
+.pp-src a { color: var(--accent-ink); text-decoration: none; }
+.pp-src a:hover { text-decoration: underline; }
+#pageProjeto .detail-grid { margin-bottom: 24px; }
+#pageProjeto details.sec { background: var(--surface); }
+#pageProjeto details.sec summary { font-size: 13.5px; }
+.row-title a.plink { color: inherit; text-decoration: none; }
+.row-title a.plink:hover { text-decoration: underline; }
+mark { background: var(--bar-soft); color: inherit; border-radius: 2px; padding: 0 1px; }
+
+@media (prefers-reduced-motion: reduce) {
+  .hbar, .col-bar { transition: none; }
+}
+@media (max-width: 640px) {
+  .row-main { grid-template-columns: 1fr; }
+  .row-right { grid-column: 1; grid-row: 3; flex-direction: row; align-items: center; }
+  .hbar-row { grid-template-columns: minmax(90px, 34%) 1fr; }
+}
+</style>
+
+<div class="wrap">
+<div id="pageHome">
+  <header class="top">
+    <div>
+      <div class="eyebrow">Portal da Transparência · FACTO</div>
+      <h1>Projetos FACTO</h1>
+    </div>
+  </header>
+  <p class="subtitle">
+    Projetos da Fundação de Apoio ao Desenvolvimento da Ciência e Tecnologia (FACTO), extraídos do
+    <a href="https://facto.conveniar.com.br/portaltransparencia/" rel="noopener">Portal da Transparência</a>
+    em <span id="scrapeDate"></span>. Busque por título, coordenador, financiadora, equipe ou qualquer palavra-chave.
+  </p>
+
+  <section class="kpis" id="kpis" aria-label="Indicadores"></section>
+
+  <section class="filters" aria-label="Filtros">
+    <input type="search" id="q" placeholder="Buscar por palavra-chave — ex.: mestrado, fluidodinâmica, coordenador…" aria-label="Buscar projetos">
+    <select id="fTipo" aria-label="Tipo de projeto"><option value="">Tipo: todos</option></select>
+    <select id="fCat" aria-label="Categoria"><option value="">Categoria: todas</option></select>
+    <select id="fInstr" aria-label="Instrumento jurídico"><option value="">Instrumento: todos</option></select>
+    <select id="fSit" aria-label="Situação">
+      <option value="">Situação: todas</option>
+      <option value="vigente">Vigentes</option>
+      <option value="encerrado">Encerrados</option>
+    </select>
+    <button class="clear" id="clear" type="button">Limpar</button>
+    <span class="count" id="count"></span>
+  </section>
+
+  <section class="charts" aria-label="Gráficos">
+    <div class="card"><h2>Projetos por tipo</h2><div id="chartTipo"></div></div>
+    <div class="card"><h2>Projetos por ano de início</h2><div id="chartAno"></div></div>
+    <div class="card" style="grid-column: 1 / -1;"><h2>Maiores financiadoras por valor aprovado</h2><div id="chartFin"></div></div>
+  </section>
+
+  <section aria-label="Lista de projetos">
+    <div class="list-head">
+      <h2>Projetos</h2>
+      <select id="sort" aria-label="Ordenar por">
+        <option value="valor">Maior valor aprovado</option>
+        <option value="inicio">Início mais recente</option>
+        <option value="nome">Ordem alfabética</option>
+      </select>
+      <details class="export" id="exportMenu">
+        <summary>⬇ Exportar CSV</summary>
+        <div class="export-menu" id="exportOptions"></div>
+      </details>
+    </div>
+    <div id="rows"></div>
+  </section>
+</div>
+<div id="pageProjeto"></div>
+</div>
+
+<div id="tip" role="tooltip"></div>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+"use strict";
+const RAW = JSON.parse(document.getElementById("data").textContent);
+const TODAY = new Date();
+
+/* ---------- parsing helpers ---------- */
+function parseMoney(s) {
+  if (!s) return 0;
+  const n = parseFloat(String(s).replace(/\./g, "").replace(",", "."));
+  return isNaN(n) ? 0 : n;
+}
+function parseDate(s) {
+  const m = /^(\d{2})\/(\d{2})\/(\d{4})$/.exec((s || "").trim());
+  return m ? new Date(+m[3], +m[2] - 1, +m[1]) : null;
+}
+function norm(s) {
+  return (s || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+}
+const fmtBRL = new Intl.NumberFormat("pt-BR", { style: "currency", currency: "BRL", maximumFractionDigits: 0 });
+function compactBRL(v) {
+  if (v >= 1e6) return "R$ " + (v / 1e6).toLocaleString("pt-BR", { maximumFractionDigits: 1 }) + " mi";
+  if (v >= 1e3) return "R$ " + (v / 1e3).toLocaleString("pt-BR", { maximumFractionDigits: 0 }) + " mil";
+  return fmtBRL.format(v);
+}
+function cleanCell(s) { return (s || "").replace(/ /g, "").trim(); }
+
+const TABLE_FIELDS = ["Recursos por rubrica", "Pagamento pessoa jurídica", "Pagamento pessoa física", "Equipe", "Plano de trabalho", "Documentos"];
+
+const projects = RAW.map(d => {
+  const ref = d["Referência do projeto"] || "";
+  const title = ref.replace(/^\d+\s*-\s*/, "") || ref;
+  const vig = parseDate(d["Data de vigência"]);
+  const ini = parseDate(d["Data de início"]);
+  const vigente = vig ? vig >= TODAY : false;
+  const searchable = norm(Object.keys(d)
+    .filter(k => !k.startsWith("_"))
+    .map(k => d[k]).join("\n"));
+  return {
+    d, id: d.id, title, ref,
+    coordenador: d["Coordenador"] || "",
+    financiadora: d["Financiadora"] || "",
+    tipo: d["Tipo de Projeto"] || "(sem tipo)",
+    categoria: d["Categoria de Projeto"] || "(sem categoria)",
+    instrumento: d["Instrumento Jurídico"] || "(sem instrumento)",
+    valor: parseMoney(d["Valor aprovado"]),
+    ini, vig, vigente,
+    anoIni: ini ? ini.getFullYear() : null,
+    searchable
+  };
+});
+
+document.getElementById("scrapeDate").textContent =
+  (RAW[0] && RAW[0]._scraped_at ? RAW[0]._scraped_at.slice(0, 10).split("-").reverse().join("/") : "");
+
+/* ---------- filter state ---------- */
+const els = {
+  q: document.getElementById("q"),
+  tipo: document.getElementById("fTipo"),
+  cat: document.getElementById("fCat"),
+  instr: document.getElementById("fInstr"),
+  sit: document.getElementById("fSit"),
+  sort: document.getElementById("sort"),
+  count: document.getElementById("count"),
+  rows: document.getElementById("rows"),
+  kpis: document.getElementById("kpis"),
+  tip: document.getElementById("tip")
+};
+
+function fillSelect(sel, values) {
+  [...new Set(values)].sort((a, b) => a.localeCompare(b, "pt-BR")).forEach(v => {
+    const o = document.createElement("option");
+    o.value = v; o.textContent = v;
+    sel.appendChild(o);
+  });
+}
+fillSelect(els.tipo, projects.map(p => p.tipo));
+fillSelect(els.cat, projects.map(p => p.categoria));
+fillSelect(els.instr, projects.map(p => p.instrumento));
+
+function filtered() {
+  const terms = norm(els.q.value).split(/\s+/).filter(Boolean);
+  return projects.filter(p => {
+    if (els.tipo.value && p.tipo !== els.tipo.value) return false;
+    if (els.cat.value && p.categoria !== els.cat.value) return false;
+    if (els.instr.value && p.instrumento !== els.instr.value) return false;
+    if (els.sit.value === "vigente" && !p.vigente) return false;
+    if (els.sit.value === "encerrado" && p.vigente) return false;
+    return terms.every(t => p.searchable.includes(t));
+  });
+}
+
+/* ---------- KPIs ---------- */
+function kpi(label, value, note) {
+  const div = document.createElement("div");
+  div.className = "kpi";
+  const l = document.createElement("div"); l.className = "label"; l.textContent = label;
+  const v = document.createElement("div"); v.className = "value"; v.textContent = value;
+  div.append(l, v);
+  if (note) { const n = document.createElement("div"); n.className = "note"; n.textContent = note; div.append(n); }
+  return div;
+}
+function renderKpis(list) {
+  els.kpis.textContent = "";
+  const total = list.reduce((s, p) => s + p.valor, 0);
+  const vigentes = list.filter(p => p.vigente).length;
+  const fins = new Set(list.map(p => p.financiadora).filter(Boolean)).size;
+  els.kpis.append(
+    kpi("Projetos", String(list.length), "no recorte atual"),
+    kpi("Valor aprovado", compactBRL(total), fmtBRL.format(total)),
+    kpi("Vigentes hoje", String(vigentes), list.length ? Math.round(100 * vigentes / list.length) + "% do recorte" : ""),
+    kpi("Financiadoras", String(fins), "distintas")
+  );
+}
+
+/* ---------- tooltip ---------- */
+function showTip(ev, valText, lblText) {
+  const t = els.tip;
+  t.textContent = "";
+  const v = document.createElement("div"); v.className = "t-val"; v.textContent = valText;
+  const l = document.createElement("div"); l.className = "t-lbl"; l.textContent = lblText;
+  t.append(v, l);
+  t.style.display = "block";
+  const pad = 12;
+  let x = ev.clientX + pad, y = ev.clientY + pad;
+  const r = t.getBoundingClientRect();
+  if (x + r.width > innerWidth - 8) x = ev.clientX - r.width - pad;
+  if (y + r.height > innerHeight - 8) y = ev.clientY - r.height - pad;
+  t.style.left = x + "px"; t.style.top = y + "px";
+}
+function hideTip() { els.tip.style.display = "none"; }
+
+/* ---------- charts ---------- */
+function hbarChart(container, entries, fmt, tipLabel) {
+  container.textContent = "";
+  if (!entries.length) {
+    const e = document.createElement("div"); e.className = "empty-chart";
+    e.textContent = "Sem dados no recorte atual."; container.append(e); return;
+  }
+  const max = Math.max(...entries.map(e => e[1]));
+  entries.forEach(([label, value]) => {
+    const row = document.createElement("div"); row.className = "hbar-row"; row.tabIndex = 0;
+    const l = document.createElement("div"); l.className = "lbl"; l.textContent = label;
+    const track = document.createElement("div"); track.className = "hbar-track";
+    const bar = document.createElement("div"); bar.className = "hbar";
+    const pct = max ? (value / max) * 100 : 0;
+    bar.style.width = Math.max(pct, 0.8) + "%";
+    const val = document.createElement("span"); val.className = "hbar-val";
+    val.textContent = fmt(value);
+    val.style.left = Math.max(pct, 0.8) + "%";
+    track.append(bar, val);
+    row.append(l, track);
+    const tt = ev => showTip(ev, fmt(value), label + " — " + tipLabel);
+    row.addEventListener("pointermove", tt);
+    row.addEventListener("pointerleave", hideTip);
+    row.addEventListener("focus", ev => { const r = row.getBoundingClientRect(); showTip({ clientX: r.left + 120, clientY: r.top }, fmt(value), label + " — " + tipLabel); });
+    row.addEventListener("blur", hideTip);
+    container.append(row);
+  });
+}
+function colChart(container, entries, tipLabel) {
+  container.textContent = "";
+  if (!entries.length) {
+    const e = document.createElement("div"); e.className = "empty-chart";
+    e.textContent = "Sem dados no recorte atual."; container.append(e); return;
+  }
+  const cols = document.createElement("div"); cols.className = "cols chart-baseline";
+  const max = Math.max(...entries.map(e => e[1]));
+  entries.forEach(([label, value]) => {
+    const slot = document.createElement("div"); slot.className = "col-slot"; slot.tabIndex = 0;
+    const v = document.createElement("div"); v.className = "col-v"; v.textContent = value;
+    const bar = document.createElement("div"); bar.className = "col-bar";
+    bar.style.height = Math.max(max ? (value / max) * 100 : 0, 2) + "%";
+    slot.append(v, bar);
+    const tt = ev => showTip(ev, value + " projeto" + (value === 1 ? "" : "s"), label + " — " + tipLabel);
+    slot.addEventListener("pointermove", tt);
+    slot.addEventListener("pointerleave", hideTip);
+    slot.addEventListener("focus", ev => { const r = slot.getBoundingClientRect(); showTip({ clientX: r.left, clientY: r.top }, value + " projetos", label); });
+    slot.addEventListener("blur", hideTip);
+    cols.append(slot);
+  });
+  container.append(cols);
+  const xs = document.createElement("div"); xs.className = "cols"; xs.style.height = "auto";
+  entries.forEach(([label]) => {
+    const slot = document.createElement("div"); slot.className = "col-slot";
+    const x = document.createElement("div"); x.className = "col-x"; x.textContent = label;
+    slot.append(x); xs.append(slot);
+  });
+  container.append(xs);
+}
+
+function renderCharts(list) {
+  const byTipo = new Map();
+  list.forEach(p => byTipo.set(p.tipo, (byTipo.get(p.tipo) || 0) + 1));
+  hbarChart(document.getElementById("chartTipo"),
+    [...byTipo.entries()].sort((a, b) => b[1] - a[1]),
+    v => String(v), "projetos");
+
+  const byAno = new Map();
+  list.forEach(p => { if (p.anoIni) byAno.set(p.anoIni, (byAno.get(p.anoIni) || 0) + 1); });
+  const anos = [...byAno.keys()];
+  const entries = [];
+  if (anos.length) {
+    const min = Math.min(...anos), max = Math.max(...anos);
+    for (let y = min; y <= max; y++) entries.push([String(y), byAno.get(y) || 0]);
+  }
+  colChart(document.getElementById("chartAno"), entries, "início");
+
+  const byFin = new Map();
+  list.forEach(p => {
+    const f = p.financiadora || "(sem financiadora)";
+    byFin.set(f, (byFin.get(f) || 0) + p.valor);
+  });
+  hbarChart(document.getElementById("chartFin"),
+    [...byFin.entries()].sort((a, b) => b[1] - a[1]).slice(0, 8),
+    compactBRL, "valor aprovado");
+}
+
+/* ---------- results list ---------- */
+function highlight(el, text, terms) {
+  if (!terms.length) { el.textContent = text; return; }
+  const nText = norm(text);
+  const ranges = [];
+  terms.forEach(t => {
+    let i = 0;
+    while (t && (i = nText.indexOf(t, i)) !== -1) { ranges.push([i, i + t.length]); i += t.length; }
+  });
+  if (!ranges.length) { el.textContent = text; return; }
+  ranges.sort((a, b) => a[0] - b[0]);
+  const merged = [ranges[0]];
+  ranges.slice(1).forEach(r => {
+    const last = merged[merged.length - 1];
+    if (r[0] <= last[1]) last[1] = Math.max(last[1], r[1]); else merged.push(r);
+  });
+  let pos = 0;
+  merged.forEach(([a, b]) => {
+    el.append(text.slice(pos, a));
+    const m = document.createElement("mark"); m.textContent = text.slice(a, b); el.append(m);
+    pos = b;
+  });
+  el.append(text.slice(pos));
+}
+
+function blobTable(raw) {
+  const lines = raw.split("\n").map(l => l.trimEnd()).filter(l => l.trim() !== "");
+  if (lines.length < 2) return null;
+  const rows = lines.slice(1).map(l => l.split("\t").map(cleanCell));
+  const table = document.createElement("table"); table.className = "blob";
+  const thead = document.createElement("thead");
+  const trh = document.createElement("tr");
+  const header = rows[0];
+  header.forEach(h => { const th = document.createElement("th"); th.textContent = h; trh.append(th); });
+  thead.append(trh); table.append(thead);
+  const tbody = document.createElement("tbody");
+  rows.slice(1).forEach(cells => {
+    const tr = document.createElement("tr");
+    if (cells.length === 1 && header.length > 1) {
+      tr.className = "group";
+      const td = document.createElement("td"); td.colSpan = header.length; td.textContent = cells[0];
+      tr.append(td);
+    } else {
+      cells.forEach(c => { const td = document.createElement("td"); td.textContent = c; tr.append(td); });
+    }
+    tbody.append(tr);
+  });
+  table.append(tbody);
+  return table;
+}
+
+function detailField(label, value) {
+  const div = document.createElement("div"); div.className = "dfield";
+  const l = document.createElement("div"); l.className = "dl"; l.textContent = label;
+  const v = document.createElement("div"); v.className = "dv"; v.textContent = value || "—";
+  div.append(l, v);
+  return div;
+}
+
+function buildDetail(p) {
+  const wrap = document.createElement("div"); wrap.className = "row-detail";
+  const obj = (p.d["Objetivo / Objeto / Título"] || "").trim();
+  if (obj) { const o = document.createElement("p"); o.className = "objetivo"; o.textContent = obj; wrap.append(o); }
+  const grid = document.createElement("div"); grid.className = "detail-grid";
+  grid.append(
+    detailField("Coordenador", p.coordenador),
+    detailField("Financiadora", p.financiadora),
+    detailField("Instituição executora", p.d["Instituição executora"]),
+    detailField("Departamento", p.d["Departamento"]),
+    detailField("Tipo", p.d["Tipo de Projeto"]),
+    detailField("Categoria", p.d["Categoria de Projeto"]),
+    detailField("Instrumento jurídico", p.d["Instrumento Jurídico"]),
+    detailField("Emenda parlamentar", p.d["Emenda Parlamentar"]),
+    detailField("Início", p.d["Data de início"]),
+    detailField("Vigência", p.d["Data de vigência"]),
+    detailField("Encerramento", p.d["Data de encerramento"]),
+    detailField("Valor aprovado", p.valor ? fmtBRL.format(p.valor) : p.d["Valor aprovado"]),
+    detailField("Processo", p.d["Processo e sub-processo"])
+  );
+  wrap.append(grid);
+  TABLE_FIELDS.forEach(f => {
+    const raw = p.d[f];
+    if (!raw || !raw.trim()) return;
+    const table = blobTable(raw);
+    if (!table || !table.tBodies[0].rows.length) return;
+    const sec = document.createElement("details"); sec.className = "sec";
+    const sum = document.createElement("summary");
+    sum.textContent = f + " (" + table.tBodies[0].querySelectorAll("tr:not(.group)").length + ")";
+    const body = document.createElement("div"); body.className = "sec-body";
+    body.append(table);
+    sec.append(sum, body);
+    wrap.append(sec);
+  });
+  return wrap;
+}
+
+function renderRows(list, terms) {
+  els.rows.textContent = "";
+  if (!list.length) {
+    const e = document.createElement("div"); e.className = "no-results";
+    e.textContent = "Nenhum projeto corresponde à busca. Tente outra palavra-chave ou limpe os filtros.";
+    els.rows.append(e);
+    return;
+  }
+  list.forEach(p => {
+    const row = document.createElement("article"); row.className = "row"; row.tabIndex = 0;
+    const main = document.createElement("div"); main.className = "row-main";
+
+    const title = document.createElement("div"); title.className = "row-title";
+    const pid = document.createElement("span"); pid.className = "pid"; pid.textContent = p.id;
+    title.append(pid);
+    const tlink = document.createElement("a");
+    tlink.className = "plink";
+    tlink.href = "#/projeto/" + encodeURIComponent(p.id);
+    highlight(tlink, p.title, terms);
+    title.append(tlink);
+
+    const sub = document.createElement("div"); sub.className = "row-sub";
+    const coord = document.createElement("span");
+    highlight(coord, p.coordenador || "Sem coordenador", terms);
+    const fin = document.createElement("span");
+    highlight(fin, p.financiadora ? p.financiadora.slice(0, 70) + (p.financiadora.length > 70 ? "…" : "") : "Sem financiadora", terms);
+    const per = document.createElement("span"); per.className = "tag";
+    per.textContent = (p.d["Data de início"] || "?") + " → " + (p.d["Data de vigência"] || "?");
+    sub.append(coord, fin, per);
+
+    const right = document.createElement("div"); right.className = "row-right";
+    const val = document.createElement("div"); val.className = "row-val";
+    val.textContent = p.valor ? compactBRL(p.valor) : "—";
+    const chip = document.createElement("span"); chip.className = "chip" + (p.vigente ? " vigente" : "");
+    const dot = document.createElement("span"); dot.className = "dot";
+    chip.append(dot, document.createTextNode(p.vigente ? "Vigente" : "Encerrado"));
+    const tipoTag = document.createElement("span"); tipoTag.className = "tag"; tipoTag.textContent = p.tipo;
+    right.append(val, chip, tipoTag);
+
+    main.append(title, sub, right);
+    row.append(main);
+
+    function goTo() { location.hash = "#/projeto/" + encodeURIComponent(p.id); }
+    main.addEventListener("click", ev => { if (!ev.target.closest("a")) goTo(); });
+    row.addEventListener("keydown", ev => {
+      if ((ev.key === "Enter" || ev.key === " ") && ev.target === row) { ev.preventDefault(); goTo(); }
+    });
+    els.rows.append(row);
+  });
+}
+
+/* ---------- orchestration ---------- */
+const sorters = {
+  valor: (a, b) => b.valor - a.valor,
+  inicio: (a, b) => (b.ini ? b.ini.getTime() : 0) - (a.ini ? a.ini.getTime() : 0),
+  nome: (a, b) => a.title.localeCompare(b.title, "pt-BR")
+};
+
+function update() {
+  const list = filtered();
+  const terms = norm(els.q.value).split(/\s+/).filter(Boolean);
+  els.count.textContent = "";
+  const strong = document.createElement("strong");
+  strong.textContent = String(list.length);
+  els.count.append(strong, document.createTextNode(" de " + projects.length + " projetos"));
+  renderKpis(list);
+  renderCharts(list);
+  renderRows([...list].sort(sorters[els.sort.value]), terms);
+}
+
+let debounce;
+els.q.addEventListener("input", () => { clearTimeout(debounce); debounce = setTimeout(update, 120); });
+document.addEventListener("keydown", ev => {
+  if (ev.key === "/" && !/^(INPUT|SELECT|TEXTAREA)$/.test(document.activeElement.tagName)) {
+    ev.preventDefault();
+    if (document.body.classList.contains("route-projeto")) location.hash = "#/";
+    els.q.focus();
+  }
+});
+els.q.title = "Atalho: tecle / em qualquer lugar para buscar";
+[els.tipo, els.cat, els.instr, els.sit, els.sort].forEach(el => el.addEventListener("change", update));
+document.getElementById("clear").addEventListener("click", () => {
+  els.q.value = ""; els.tipo.value = ""; els.cat.value = ""; els.instr.value = ""; els.sit.value = "";
+  update();
+});
+
+update();
+
+/* ---------- CSV export ---------- */
+const SCALAR_FIELDS = [
+  "Referência do projeto", "Coordenador", "Financiadora",
+  "Data de início", "Data de vigência", "Data de encerramento",
+  "Tipo de Projeto", "Categoria de Projeto", "Instrumento Jurídico",
+  "Emenda Parlamentar", "Instituição executora", "Departamento",
+  "Processo e sub-processo", "Valor aprovado", "Objetivo / Objeto / Título"
+];
+function csvEscape(v) {
+  v = String(v == null ? "" : v);
+  return /[";\n\r]/.test(v) ? '"' + v.replace(/"/g, '""') + '"' : v;
+}
+function toCsv(header, rows) {
+  return "﻿" + [header].concat(rows).map(r => r.map(csvEscape).join(";")).join("\r\n");
+}
+async function downloadCsv(name, text) {
+  // Inside the claude.ai artifact viewer, plain blob downloads are inert;
+  // the mediated `downloads` capability is the only save path there.
+  const dls = window.claude ? await claude.use("downloads") : null;
+  if (dls) {
+    try {
+      await dls.save({ filename: name, data: text });
+    } catch (e) {
+      if (e && e.code === "extension_not_enabled") {
+        try { await dls.save({ filename: name + ".txt", data: text }); } catch (_) { /* declined */ }
+      }
+      // declined / rate_limited: viewer's choice; nothing to do
+    }
+    return;
+  }
+  const blob = new Blob([text], { type: "text/csv;charset=utf-8" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = name;
+  document.body.append(a);
+  a.click();
+  a.remove();
+  setTimeout(() => URL.revokeObjectURL(a.href), 5000);
+}
+function exportProjetos(list) {
+  const rows = list.map(p =>
+    [p.id].concat(SCALAR_FIELDS.map(k => cleanCell(p.d[k]))).concat([p.d._scraped_at || ""]));
+  downloadCsv("projetos.csv", toCsv(["id"].concat(SCALAR_FIELDS, ["_scraped_at"]), rows));
+}
+function exportTable(field, fname, list) {
+  let header = null;
+  const rows = [];
+  list.forEach(p => {
+    const raw = p.d[field] || "";
+    const lines = raw.split("\n").filter(l => l.trim() !== "");
+    if (lines.length < 3) return;
+    const cols = lines[1].split("\t").map(cleanCell);
+    if (!header) header = cols;
+    let group = "";
+    lines.slice(2).forEach(l => {
+      const cells = l.split("\t").map(cleanCell);
+      if (cells.length === 1 && cols.length > 1) { group = cells[0]; return; }
+      if (cells[0] && cells[0].replace(/:$/, "").toLowerCase() === "total") return;
+      while (cells.length < cols.length) cells.push("");
+      rows.push([p.id, group].concat(cells.slice(0, cols.length)));
+    });
+  });
+  if (!header) { alert("Sem dados de “" + field + "” no recorte atual."); return; }
+  downloadCsv(fname, toCsv(["projeto_id", "grupo"].concat(header), rows));
+}
+const EXPORTS = [
+  ["Projetos (recorte atual)", () => exportProjetos(filtered())],
+  ["Recursos por rubrica", () => exportTable("Recursos por rubrica", "recursos_rubrica.csv", filtered())],
+  ["Pagamentos pessoa jurídica", () => exportTable("Pagamento pessoa jurídica", "pagamentos_pj.csv", filtered())],
+  ["Pagamentos pessoa física", () => exportTable("Pagamento pessoa física", "pagamentos_pf.csv", filtered())],
+  ["Equipe", () => exportTable("Equipe", "equipe.csv", filtered())],
+  ["Plano de trabalho", () => exportTable("Plano de trabalho", "plano_trabalho.csv", filtered())],
+  ["Documentos", () => exportTable("Documentos", "documentos.csv", filtered())]
+];
+const exportMenu = document.getElementById("exportMenu");
+const exportOptions = document.getElementById("exportOptions");
+EXPORTS.forEach(([label, fn]) => {
+  const b = document.createElement("button");
+  b.type = "button"; b.textContent = label;
+  b.addEventListener("click", () => { fn(); exportMenu.open = false; });
+  exportOptions.append(b);
+});
+const hint = document.createElement("div"); hint.className = "hint";
+hint.textContent = "Exporta apenas os projetos do recorte atual (busca e filtros aplicados). CSV separado por “;”, compatível com Excel.";
+exportOptions.append(hint);
+document.addEventListener("click", ev => {
+  if (exportMenu.open && !exportMenu.contains(ev.target)) exportMenu.open = false;
+});
+
+/* ---------- project page & router ---------- */
+function ppChip(text, vigente) {
+  const chip = document.createElement("span");
+  chip.className = "chip" + (vigente ? " vigente" : "");
+  if (vigente !== undefined) {
+    const dot = document.createElement("span"); dot.className = "dot"; chip.append(dot);
+  }
+  chip.append(document.createTextNode(text));
+  return chip;
+}
+
+function renderProjectPage(id) {
+  const page = document.getElementById("pageProjeto");
+  page.textContent = "";
+
+  const back = document.createElement("a");
+  back.className = "back"; back.href = "#/";
+  back.textContent = "← Todos os projetos";
+  page.append(back);
+
+  const p = projects.find(x => x.id === id);
+  if (!p) {
+    const e = document.createElement("div"); e.className = "no-results";
+    e.textContent = "Projeto " + id + " não encontrado.";
+    page.append(e);
+    return;
+  }
+
+  const head = document.createElement("div"); head.className = "pp-head";
+  const eye = document.createElement("div"); eye.className = "pp-eyebrow";
+  eye.textContent = "Projeto " + p.id;
+  const h = document.createElement("h1"); h.className = "pp-title"; h.textContent = p.title;
+  head.append(eye, h);
+  page.append(head);
+
+  const chips = document.createElement("div"); chips.className = "pp-chips";
+  chips.append(ppChip(p.vigente ? "Vigente" : "Encerrado", p.vigente));
+  if (p.d["Tipo de Projeto"]) chips.append(ppChip(p.d["Tipo de Projeto"]));
+  if (p.d["Categoria de Projeto"]) chips.append(ppChip(p.d["Categoria de Projeto"]));
+  if (p.d["Instrumento Jurídico"]) chips.append(ppChip(p.d["Instrumento Jurídico"]));
+  page.append(chips);
+
+  const facts = document.createElement("div"); facts.className = "pp-facts";
+  facts.append(
+    kpi("Valor aprovado", p.valor ? compactBRL(p.valor) : "—", p.valor ? fmtBRL.format(p.valor) : ""),
+    kpi("Início", p.d["Data de início"] || "—"),
+    kpi("Vigência", p.d["Data de vigência"] || "—"),
+    kpi("Encerramento", p.d["Data de encerramento"] || "—")
+  );
+  page.append(facts);
+
+  const obj = (p.d["Objetivo / Objeto / Título"] || "").trim();
+  if (obj) {
+    const ol = document.createElement("div"); ol.className = "pp-obj-label";
+    ol.textContent = "Objetivo / objeto";
+    const o = document.createElement("p"); o.className = "pp-obj"; o.textContent = obj;
+    page.append(ol, o);
+  }
+
+  const grid = document.createElement("div"); grid.className = "detail-grid";
+  grid.append(
+    detailField("Coordenador", p.coordenador),
+    detailField("Financiadora", p.financiadora),
+    detailField("Instituição executora", p.d["Instituição executora"]),
+    detailField("Departamento", p.d["Departamento"]),
+    detailField("Emenda parlamentar", p.d["Emenda Parlamentar"]),
+    detailField("Processo", p.d["Processo e sub-processo"])
+  );
+  page.append(grid);
+
+  const secWrap = document.createElement("div"); secWrap.className = "pp-section";
+  TABLE_FIELDS.forEach(f => {
+    const raw = p.d[f];
+    if (!raw || !raw.trim()) return;
+    const table = blobTable(raw);
+    if (!table || !table.tBodies[0].rows.length) return;
+    const sec = document.createElement("details"); sec.className = "sec"; sec.open = true;
+    const sum = document.createElement("summary");
+    sum.textContent = f + " (" + table.tBodies[0].querySelectorAll("tr:not(.group)").length + ")";
+    const body = document.createElement("div"); body.className = "sec-body";
+    body.append(table);
+    sec.append(sum, body);
+    secWrap.append(sec);
+  });
+  page.append(secWrap);
+
+  const src = document.createElement("p"); src.className = "pp-src";
+  src.append(document.createTextNode("Fonte: "));
+  const a = document.createElement("a");
+  a.href = "https://facto.conveniar.com.br/portaltransparencia/";
+  a.rel = "noopener"; a.textContent = "Portal da Transparência FACTO";
+  src.append(a);
+  if (p.d._scraped_at) {
+    src.append(document.createTextNode(" · extraído em " + p.d._scraped_at.slice(0, 10).split("-").reverse().join("/")));
+  }
+  page.append(src);
+}
+
+function route() {
+  const m = /^#\/projeto\/(.+)$/.exec(location.hash);
+  if (m) {
+    const id = decodeURIComponent(m[1]);
+    document.body.classList.add("route-projeto");
+    renderProjectPage(id);
+    const p = projects.find(x => x.id === id);
+    document.title = p ? "Projeto " + p.id + " · " + p.title.slice(0, 60) : "Projetos FACTO";
+  } else {
+    document.body.classList.remove("route-projeto");
+    document.title = "Projetos FACTO";
+  }
+  window.scrollTo(0, 0);
+}
+window.addEventListener("hashchange", route);
+route();
+</script>

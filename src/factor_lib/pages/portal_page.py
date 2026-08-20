@@ -8,6 +8,7 @@ from playwright.sync_api import Page
 from factor_lib.pages.base_page import BasePage
 
 CONSULTAR_SEL = "#ctl00_ContentPlaceHolder1_ProjetosUserControl1_lnkConsultarProjetos"
+SEARCH_INPUT_SEL = "#ctl00_ContentPlaceHolder1_ProjetosUserControl1_txtNomeProjeto"
 LUPA_SEL = "[title='Visualizar']"
 LISTING_HIDDEN_SEL = "#ctl00_upgMain2"
 DETAIL_READY_JS = (
@@ -52,6 +53,35 @@ class TransparencyPortalPage(BasePage):
         """Click the lupa icon at the given row index and wait for detail view."""
         lupas = self.page.locator(LUPA_SEL)
         lupas.nth(row_index).click(timeout=self.default_timeout)
+        self._wait_detail_ready()
+
+    def open_project_detail(self, project_id: str, name_filter: str = "") -> None:
+        """Open a project's detail view by filtering the listing first.
+
+        Clicking a lupa deep inside the full 115-row grid is silently ignored
+        by the portal's postback handling, so narrow the grid down with the
+        name filter before clicking. The row is matched by project id because
+        different projects can share the same title.
+        """
+        self.navigate()
+        self.wait_for(SEARCH_INPUT_SEL)
+        self.page.fill(SEARCH_INPUT_SEL, name_filter)
+        self.click_consultar()
+
+        lupas = self.page.locator(LUPA_SEL)
+        needle = f"projeto {project_id} -".lower()
+        count = lupas.count()
+        for i in range(count):
+            if needle in lupas.nth(i).inner_text().lower():
+                lupas.nth(i).click(timeout=self.default_timeout)
+                self._wait_detail_ready()
+                return
+        raise ValueError(
+            f"Project {project_id!r} not found in filtered listing "
+            f"(filter={name_filter!r}, rows={count})"
+        )
+
+    def _wait_detail_ready(self) -> None:
         self.page.wait_for_load_state("networkidle", timeout=60_000)
         self.page.wait_for_function(DETAIL_READY_JS, timeout=30_000)
 
@@ -115,6 +145,12 @@ class TransparencyPortalPage(BasePage):
         return text
 
     def navigate_back_to_listing(self) -> None:
-        """Return to the project listing (click Consultar again)."""
-        self.page.go_back()
-        self.wait_for_network_idle()
+        """Return to the project listing.
+
+        The detail view is rendered by an ASP.NET UpdatePanel postback (the URL
+        never changes), so browser history cannot restore the listing. Reload
+        the portal and click Consultar again.
+        """
+        self.navigate()
+        self.click_consultar()
+        self.wait_for(LUPA_SEL)

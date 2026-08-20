@@ -19,3 +19,5 @@ output/
 .DS_Store
 .idea/
 .vscode/
+site/
+.deploy/

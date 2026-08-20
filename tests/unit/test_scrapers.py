@@ -95,7 +95,7 @@ class TestDetailScraper:
         from factor_lib.scrapers.detail_scraper import DetailScraper
 
         mock_portal_page = MagicMock()
-        mock_portal_page.click_detail_icon.return_value = None
+        mock_portal_page.open_project_detail.return_value = None
         mock_portal_page.get_detail_fields.return_value = {"Coordenador": "João"}
 
         listing = [self._make_listing_record(0), self._make_listing_record(1)]
@@ -151,7 +151,7 @@ class TestDetailScraperErrorTolerance:
         from factor_lib.scrapers.detail_scraper import DetailScraper
 
         mock_portal_page = MagicMock()
-        mock_portal_page.click_detail_icon.side_effect = [
+        mock_portal_page.open_project_detail.side_effect = [
             Exception("lupa not clickable"),
             None,
         ]
@@ -173,10 +173,50 @@ class TestDetailScraperErrorTolerance:
         from factor_lib.scrapers.detail_scraper import DetailScraper
 
         mock_portal_page = MagicMock()
-        mock_portal_page.click_detail_icon.side_effect = Exception("timeout")
+        mock_portal_page.open_project_detail.side_effect = Exception("timeout")
 
         listing = [ProjectListingRecord(id="0", name="P0", raw_row={})]
         scraper = DetailScraper()
         result = scraper.scrape(mock_portal_page, listing)
 
         assert result[0].fields == {}
+
+
+class TestDetailScraperNameFilter:
+    def test_open_project_detail_receives_id_and_extracted_title(self) -> None:
+        from factor_lib.scrapers.detail_scraper import DetailScraper
+
+        mock_portal_page = MagicMock()
+        mock_portal_page.get_detail_fields.return_value = {}
+
+        listing = [
+            ProjectListingRecord(
+                id="278",
+                name=(
+                    "Visualizar os detalhes do projeto 278 - Estudos da "
+                    "fluidodinâmica dos processos industriais."
+                ),
+                raw_row={},
+            )
+        ]
+        DetailScraper().scrape(mock_portal_page, listing)
+
+        args, kwargs = mock_portal_page.open_project_detail.call_args
+        assert args[0] == "278"
+        name_filter = kwargs.get("name_filter", args[1] if len(args) > 1 else "")
+        assert name_filter.startswith("Estudos da fluidodinâmica")
+        assert "Visualizar" not in name_filter
+
+    def test_name_without_title_pattern_falls_back_to_empty_filter(self) -> None:
+        from factor_lib.scrapers.detail_scraper import DetailScraper
+
+        mock_portal_page = MagicMock()
+        mock_portal_page.get_detail_fields.return_value = {}
+
+        listing = [ProjectListingRecord(id="7", name="nome fora do padrão", raw_row={})]
+        DetailScraper().scrape(mock_portal_page, listing)
+
+        args, kwargs = mock_portal_page.open_project_detail.call_args
+        assert args[0] == "7"
+        name_filter = kwargs.get("name_filter", args[1] if len(args) > 1 else "")
+        assert name_filter == ""
