@@ -102,6 +102,20 @@ h1 {
 .filters input[type="search"] { flex: 1 1 260px; min-width: 220px; }
 .filters input[type="text"] { width: 200px; }
 .filters input::placeholder { color: var(--ink-3); }
+.combo { position: relative; }
+.combo-list {
+  position: absolute; left: 0; top: calc(100% + 4px); z-index: 45;
+  min-width: 100%; width: max-content; max-width: 320px; max-height: 260px; overflow-y: auto;
+  background: var(--surface); border: 1px solid var(--hairline); border-radius: 8px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.14); padding: 4px;
+}
+.combo-list button {
+  display: block; width: 100%; text-align: left; font: inherit; font-size: 13px;
+  color: var(--ink); background: none; border: none; border-radius: 5px;
+  padding: 6px 9px; cursor: pointer;
+}
+.combo-list button:hover, .combo-list button:focus-visible { background: var(--chip-bg); outline: none; }
+.combo-list .combo-count { font-size: 11.5px; color: var(--ink-3); padding: 4px 9px 5px; }
 .filters select { max-width: 230px; }
 .filters input:focus-visible, .filters select:focus-visible, .row:focus-visible, button:focus-visible {
   outline: 2px solid var(--focus); outline-offset: 1px;
@@ -337,10 +351,15 @@ mark { background: var(--bar-soft); color: inherit; border-radius: 2px; padding:
     <select id="fTipo" aria-label="Tipo de projeto"><option value="">Tipo: todos</option></select>
     <select id="fCat" aria-label="Categoria"><option value="">Categoria: todas</option></select>
     <select id="fInstr" aria-label="Instrumento jurídico"><option value="">Instrumento: todos</option></select>
-    <select id="fCoord" aria-label="Coordenador"><option value="">Coordenador: todos</option></select>
     <select id="fCampus" aria-label="Campus"><option value="">Campus: todos</option></select>
-    <input type="text" id="fMembro" list="membrosList" placeholder="Membro da equipe" aria-label="Membro da equipe" autocomplete="off">
-    <datalist id="membrosList"></datalist>
+    <div class="combo">
+      <input type="text" id="fCoord" placeholder="Coordenador" aria-label="Buscar coordenador" autocomplete="off">
+      <div class="combo-list" hidden></div>
+    </div>
+    <div class="combo">
+      <input type="text" id="fMembro" placeholder="Membro da equipe" aria-label="Buscar membro da equipe" autocomplete="off">
+      <div class="combo-list" hidden></div>
+    </div>
     <select id="fSit" aria-label="Situação">
       <option value="">Situação: todas</option>
       <option value="vigente">Vigentes</option>
@@ -490,18 +509,64 @@ function fillSelect(sel, values) {
 fillSelect(els.tipo, projects.map(p => p.tipo));
 fillSelect(els.cat, projects.map(p => p.categoria));
 fillSelect(els.instr, projects.map(p => p.instrumento));
-fillSelect(els.coord, projects.map(p => p.coordenador || "(sem coordenador)"));
 fillSelect(els.campus, projects.map(p => p.campus));
-{
-  const dl = document.getElementById("membrosList");
-  [...new Set(projects.flatMap(p => p.equipe))]
-    .sort((a, b) => a.localeCompare(b, "pt-BR"))
-    .forEach(n => {
-      const o = document.createElement("option");
-      o.value = n;
-      dl.append(o);
+
+/* searchable combobox: filters options accent-insensitively as the user types */
+const COORD_NAMES = [...new Set(projects.map(p => p.coordenador).filter(Boolean))]
+  .sort((a, b) => a.localeCompare(b, "pt-BR"));
+const MEMBRO_NAMES = [...new Set(projects.flatMap(p => p.equipe))]
+  .sort((a, b) => a.localeCompare(b, "pt-BR"));
+
+function makeCombo(input, names) {
+  const list = input.parentElement.querySelector(".combo-list");
+  function select(value) {
+    input.value = value;
+    list.hidden = true;
+    update();
+  }
+  function render() {
+    const q = norm(input.value.trim());
+    const opts = names.filter(n => !q || norm(n).includes(q));
+    list.textContent = "";
+    if (!opts.length || (opts.length === 1 && norm(opts[0]) === q)) { list.hidden = true; return; }
+    opts.slice(0, 40).forEach(n => {
+      const b = document.createElement("button");
+      b.type = "button";
+      b.textContent = n;
+      b.addEventListener("mousedown", ev => ev.preventDefault());
+      b.addEventListener("click", () => select(n));
+      list.append(b);
     });
+    if (opts.length > 40) {
+      const c = document.createElement("div");
+      c.className = "combo-count";
+      c.textContent = "+" + (opts.length - 40) + " nomes — continue digitando para refinar";
+      list.append(c);
+    }
+    list.hidden = false;
+  }
+  input.addEventListener("input", render);
+  input.addEventListener("focus", render);
+  input.addEventListener("blur", () => setTimeout(() => { list.hidden = true; }, 150));
+  input.addEventListener("keydown", ev => {
+    if (ev.key === "Escape") list.hidden = true;
+    else if (ev.key === "Enter") { ev.preventDefault(); list.hidden = true; }
+    else if (ev.key === "ArrowDown") {
+      ev.preventDefault();
+      const b = list.querySelector("button");
+      if (b) b.focus();
+    }
+  });
+  list.addEventListener("keydown", ev => {
+    const items = [...list.querySelectorAll("button")];
+    const i = items.indexOf(document.activeElement);
+    if (ev.key === "ArrowDown") { ev.preventDefault(); (items[i + 1] || items[0]).focus(); }
+    else if (ev.key === "ArrowUp") { ev.preventDefault(); if (i <= 0) input.focus(); else items[i - 1].focus(); }
+    else if (ev.key === "Escape") { list.hidden = true; input.focus(); }
+  });
 }
+makeCombo(els.coord, COORD_NAMES);
+makeCombo(els.membro, MEMBRO_NAMES);
 
 function filtered() {
   const terms = norm(els.q.value).split(/\s+/).filter(Boolean);
@@ -509,7 +574,8 @@ function filtered() {
     if (els.tipo.value && p.tipo !== els.tipo.value) return false;
     if (els.cat.value && p.categoria !== els.cat.value) return false;
     if (els.instr.value && p.instrumento !== els.instr.value) return false;
-    if (els.coord.value && (p.coordenador || "(sem coordenador)") !== els.coord.value) return false;
+    const coordQ = norm(els.coord.value.trim());
+    if (coordQ && !norm(p.coordenador).includes(coordQ)) return false;
     if (els.campus.value && p.campus !== els.campus.value) return false;
     const membro = norm(els.membro.value.trim());
     if (membro && !p.equipeNorm.includes(membro)) return false;
@@ -821,8 +887,9 @@ document.addEventListener("keydown", ev => {
   }
 });
 els.q.title = "Atalho: tecle / em qualquer lugar para buscar";
-[els.tipo, els.cat, els.instr, els.coord, els.campus, els.sit, els.sort].forEach(el => el.addEventListener("change", update));
-els.membro.addEventListener("input", () => { clearTimeout(debounce); debounce = setTimeout(update, 120); });
+[els.tipo, els.cat, els.instr, els.campus, els.sit, els.sort].forEach(el => el.addEventListener("change", update));
+[els.coord, els.membro].forEach(el =>
+  el.addEventListener("input", () => { clearTimeout(debounce); debounce = setTimeout(update, 120); }));
 document.getElementById("clear").addEventListener("click", () => {
   els.q.value = ""; els.tipo.value = ""; els.cat.value = ""; els.instr.value = "";
   els.coord.value = ""; els.campus.value = ""; els.membro.value = ""; els.sit.value = "";
