@@ -94,13 +94,14 @@ h1 {
   padding: 12px 0 14px; border-bottom: 1px solid var(--hairline); margin-bottom: 24px;
   position: sticky; top: 0; z-index: 30; background: var(--bg);
 }
-.filters input[type="search"], .filters select {
+.filters input[type="search"], .filters input[type="text"], .filters select {
   font: inherit; font-size: 14px; color: var(--ink);
   background: var(--surface); border: 1px solid var(--hairline); border-radius: 6px;
   padding: 8px 10px;
 }
 .filters input[type="search"] { flex: 1 1 260px; min-width: 220px; }
-.filters input[type="search"]::placeholder { color: var(--ink-3); }
+.filters input[type="text"] { width: 200px; }
+.filters input::placeholder { color: var(--ink-3); }
 .filters select { max-width: 230px; }
 .filters input:focus-visible, .filters select:focus-visible, .row:focus-visible, button:focus-visible {
   outline: 2px solid var(--focus); outline-offset: 1px;
@@ -225,6 +226,57 @@ table.blob tr.group td { font-weight: 600; color: var(--ink-3); border-bottom: n
 #pageProjeto { display: none; }
 body.route-projeto #pageProjeto { display: block; }
 body.route-projeto #pageHome { display: none; }
+
+/* ---- report page ---- */
+#pageRelatorio { display: none; }
+body.route-relatorio #pageRelatorio { display: block; }
+body.route-relatorio #pageHome { display: none; }
+.report-link { margin: -14px 0 26px; font-size: 14px; }
+.report-link a { color: var(--accent-ink); text-decoration: none; font-weight: 500; }
+.report-link a:hover { text-decoration: underline; }
+.rep-head { display: flex; flex-wrap: wrap; align-items: flex-start; gap: 12px 24px; margin-bottom: 8px; }
+.rep-head h1 {
+  font-family: "Bricolage Grotesque", "Archivo", system-ui, sans-serif;
+  font-weight: 700; font-size: 26px; letter-spacing: -0.01em; line-height: 1.2;
+  margin: 0; text-wrap: balance; flex: 1 1 380px;
+}
+button.export-main {
+  font: inherit; font-size: 14px; font-weight: 600; color: #fff;
+  background: var(--accent); border: none; border-radius: 7px;
+  padding: 10px 16px; cursor: pointer; white-space: nowrap; margin-top: 2px;
+}
+button.export-main:hover { background: var(--accent-ink); }
+button.export-main:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+.rep-lede { color: var(--ink-2); font-size: 14px; max-width: 72ch; margin: 8px 0 30px; }
+.rep-sec { margin-bottom: 38px; }
+.rep-sec h2 {
+  font-size: 18px; font-weight: 700; margin: 0 0 4px;
+  font-family: "Bricolage Grotesque", "Archivo", system-ui, sans-serif;
+}
+.rep-sum { color: var(--ink-2); font-size: 13.5px; margin: 0 0 12px; max-width: 74ch; }
+.rep-sum strong { color: var(--ink); }
+.tbl-scroll { overflow-x: auto; border: 1px solid var(--ring); border-radius: 8px; background: var(--surface); }
+table.rel { border-collapse: collapse; width: 100%; font-size: 13px; min-width: 760px; }
+table.rel th {
+  text-align: left; font-size: 11px; letter-spacing: 0.05em; text-transform: uppercase;
+  color: var(--ink-3); font-weight: 600; padding: 9px 13px; border-bottom: 1px solid var(--hairline);
+  white-space: nowrap;
+}
+table.rel td { padding: 10px 13px; border-bottom: 1px solid var(--hairline); vertical-align: top; }
+table.rel tr:last-child td { border-bottom: none; }
+table.rel td.valor, table.rel th.valor { text-align: right; }
+table.rel td.valor { font-variant-numeric: tabular-nums; white-space: nowrap; font-weight: 600; }
+table.rel td.proj a { color: inherit; font-weight: 600; text-decoration: none; }
+table.rel td.proj a:hover { color: var(--accent-ink); text-decoration: underline; }
+table.rel td.proj .pid { color: var(--ink-3); font-weight: 500; margin-right: 6px; font-variant-numeric: tabular-nums; }
+table.rel td.why { color: var(--ink-2); }
+.chip.direto { background: var(--good-chip-bg); color: var(--good); }
+.rep-note {
+  background: var(--chip-bg); border-left: 3px solid var(--hairline); border-radius: 0 6px 6px 0;
+  padding: 9px 13px; font-size: 13px; color: var(--ink-2); margin-top: 12px; max-width: 76ch;
+}
+.rep-metodo { font-size: 13px; color: var(--ink-2); max-width: 76ch; }
+.rep-metodo ol { padding-left: 20px; margin: 6px 0; }
 .back {
   display: inline-flex; align-items: center; gap: 6px;
   font-size: 13.5px; color: var(--accent-ink); text-decoration: none;
@@ -276,6 +328,7 @@ mark { background: var(--bar-soft); color: inherit; border-radius: 2px; padding:
     <a href="https://facto.conveniar.com.br/portaltransparencia/" rel="noopener">Portal da Transparência</a>
     em <span id="scrapeDate"></span>. Busque por título, coordenador, financiadora, equipe ou qualquer palavra-chave.
   </p>
+  <p class="report-link"><a href="#/relatorio">🌱 Relatório temático: Reflorestamento, Água e Áreas Atingidas →</a></p>
 
   <section class="kpis" id="kpis" aria-label="Indicadores"></section>
 
@@ -284,6 +337,10 @@ mark { background: var(--bar-soft); color: inherit; border-radius: 2px; padding:
     <select id="fTipo" aria-label="Tipo de projeto"><option value="">Tipo: todos</option></select>
     <select id="fCat" aria-label="Categoria"><option value="">Categoria: todas</option></select>
     <select id="fInstr" aria-label="Instrumento jurídico"><option value="">Instrumento: todos</option></select>
+    <select id="fCoord" aria-label="Coordenador"><option value="">Coordenador: todos</option></select>
+    <select id="fCampus" aria-label="Campus"><option value="">Campus: todos</option></select>
+    <input type="text" id="fMembro" list="membrosList" placeholder="Membro da equipe" aria-label="Membro da equipe" autocomplete="off">
+    <datalist id="membrosList"></datalist>
     <select id="fSit" aria-label="Situação">
       <option value="">Situação: todas</option>
       <option value="vigente">Vigentes</option>
@@ -316,6 +373,7 @@ mark { background: var(--bar-soft); color: inherit; border-radius: 2px; padding:
   </section>
 </div>
 <div id="pageProjeto"></div>
+<div id="pageRelatorio"></div>
 </div>
 
 <div id="tip" role="tooltip"></div>
@@ -349,9 +407,36 @@ function cleanCell(s) { return (s || "").replace(/ /g, "").trim(); }
 
 const TABLE_FIELDS = ["Recursos por rubrica", "Pagamento pessoa jurídica", "Pagamento pessoa física", "Equipe", "Plano de trabalho", "Documentos"];
 
+const _MINOR_WORDS = ["de", "da", "do", "dos", "das", "e"];
+function extractCampus(inst) {
+  const n = inst || "";
+  const m = /campus\s+(.+)$/i.exec(n);
+  if (m) {
+    const name = m[1].trim().replace(/[.\s]+$/, "").toLowerCase()
+      .split(/\s+/)
+      .map((w, i) => (i > 0 && _MINOR_WORDS.includes(w)) ? w : w.charAt(0).toUpperCase() + w.slice(1))
+      .join(" ");
+    return "Campus " + name;
+  }
+  if (/reitoria/i.test(n)) return "Reitoria";
+  return "(sem campus informado)";
+}
+
+function parseEquipeNames(raw) {
+  const lines = (raw || "").split("\n").filter(l => l.trim());
+  const names = [];
+  lines.slice(2).forEach(l => {
+    const cells = l.split("\t");
+    const n = cells[0].replace(/\u00a0/g, "").trim();
+    if (n && cells.length > 1 && !/^total/i.test(n)) names.push(n);
+  });
+  return names;
+}
+
 const projects = RAW.map(d => {
   const ref = d["Referência do projeto"] || "";
   const title = ref.replace(/^\d+\s*-\s*/, "") || ref;
+  const equipe = parseEquipeNames(d["Equipe"]);
   const vig = parseDate(d["Data de vigência"]);
   const ini = parseDate(d["Data de início"]);
   const vigente = vig ? vig >= TODAY : false;
@@ -365,6 +450,9 @@ const projects = RAW.map(d => {
     tipo: d["Tipo de Projeto"] || "(sem tipo)",
     categoria: d["Categoria de Projeto"] || "(sem categoria)",
     instrumento: d["Instrumento Jurídico"] || "(sem instrumento)",
+    campus: extractCampus(d["Instituição executora"]),
+    equipe,
+    equipeNorm: norm(equipe.join("\n")),
     valor: parseMoney(d["Valor aprovado"]),
     ini, vig, vigente,
     anoIni: ini ? ini.getFullYear() : null,
@@ -381,6 +469,9 @@ const els = {
   tipo: document.getElementById("fTipo"),
   cat: document.getElementById("fCat"),
   instr: document.getElementById("fInstr"),
+  coord: document.getElementById("fCoord"),
+  campus: document.getElementById("fCampus"),
+  membro: document.getElementById("fMembro"),
   sit: document.getElementById("fSit"),
   sort: document.getElementById("sort"),
   count: document.getElementById("count"),
@@ -399,6 +490,18 @@ function fillSelect(sel, values) {
 fillSelect(els.tipo, projects.map(p => p.tipo));
 fillSelect(els.cat, projects.map(p => p.categoria));
 fillSelect(els.instr, projects.map(p => p.instrumento));
+fillSelect(els.coord, projects.map(p => p.coordenador || "(sem coordenador)"));
+fillSelect(els.campus, projects.map(p => p.campus));
+{
+  const dl = document.getElementById("membrosList");
+  [...new Set(projects.flatMap(p => p.equipe))]
+    .sort((a, b) => a.localeCompare(b, "pt-BR"))
+    .forEach(n => {
+      const o = document.createElement("option");
+      o.value = n;
+      dl.append(o);
+    });
+}
 
 function filtered() {
   const terms = norm(els.q.value).split(/\s+/).filter(Boolean);
@@ -406,6 +509,10 @@ function filtered() {
     if (els.tipo.value && p.tipo !== els.tipo.value) return false;
     if (els.cat.value && p.categoria !== els.cat.value) return false;
     if (els.instr.value && p.instrumento !== els.instr.value) return false;
+    if (els.coord.value && (p.coordenador || "(sem coordenador)") !== els.coord.value) return false;
+    if (els.campus.value && p.campus !== els.campus.value) return false;
+    const membro = norm(els.membro.value.trim());
+    if (membro && !p.equipeNorm.includes(membro)) return false;
     if (els.sit.value === "vigente" && !p.vigente) return false;
     if (els.sit.value === "encerrado" && p.vigente) return false;
     return terms.every(t => p.searchable.includes(t));
@@ -714,9 +821,11 @@ document.addEventListener("keydown", ev => {
   }
 });
 els.q.title = "Atalho: tecle / em qualquer lugar para buscar";
-[els.tipo, els.cat, els.instr, els.sit, els.sort].forEach(el => el.addEventListener("change", update));
+[els.tipo, els.cat, els.instr, els.coord, els.campus, els.sit, els.sort].forEach(el => el.addEventListener("change", update));
+els.membro.addEventListener("input", () => { clearTimeout(debounce); debounce = setTimeout(update, 120); });
 document.getElementById("clear").addEventListener("click", () => {
-  els.q.value = ""; els.tipo.value = ""; els.cat.value = ""; els.instr.value = ""; els.sit.value = "";
+  els.q.value = ""; els.tipo.value = ""; els.cat.value = ""; els.instr.value = "";
+  els.coord.value = ""; els.campus.value = ""; els.membro.value = ""; els.sit.value = "";
   update();
 });
 
@@ -811,6 +920,223 @@ document.addEventListener("click", ev => {
   if (exportMenu.open && !exportMenu.contains(ev.target)) exportMenu.open = false;
 });
 
+/* ---------- thematic report page ---------- */
+// Classificação curada em 20/08/2026: busca por grupos de termos com contexto
+// validado manualmente (falsos positivos descartados). Dados do projeto
+// (título, valores, datas) vêm do JSON embutido — atualizam com o re-scrape.
+const REPORT = {
+  updated: "20/08/2026",
+  lede: "Levantamento dos projetos ligados a reflorestamento, recursos hídricos e reparação de áreas atingidas por desastres. Cada ocorrência de palavra-chave teve o contexto validado manualmente — falsos positivos (água mineral em rubrica de compra, \"caneta hidrográfica\", remanejamento de verba) foram descartados.",
+  groups: [
+    {
+      title: "1. Áreas atingidas / reparação de desastres",
+      summary: "4 projetos diretos somando R$ 41,4 milhões, mais 2 relacionados indiretos.",
+      note: "\"Remanejo\" literal só aparece nos dados como remanejamento de verba entre rubricas orçamentárias — nenhum projeto trata de reassentamento físico de populações atingidas.",
+      items: [
+        { id: "195", rel: "Direto", why: "Reparação do desastre da Samarco na bacia do Rio Doce (Fundação Renova)" },
+        { id: "372", rel: "Direto", why: "Políticas públicas de reparação socioambiental — povos Tupiniquim e Guarani (ES) e Puri (MG)" },
+        { id: "300", rel: "Direto", why: "Desastre das enchentes no Rio Grande do Sul" },
+        { id: "368", rel: "Direto", why: "Comunidades tradicionais afetadas pelo crime da Samarco no baixo Rio Doce e biomas da Mata Atlântica" },
+        { id: "338", rel: "Indireto", why: "Capacitação financiada pela Samarco na região; inclui disciplina de tratamento de águas e resíduos" },
+        { id: "385", rel: "Indireto", why: "Cria o Living Lab Rio Doce — centro de prototipagem e experimentação de tecnologias" }
+      ]
+    },
+    {
+      title: "2. Reflorestamento / restauração florestal",
+      summary: "Nenhum projeto direto — nenhum dos 115 tem reflorestamento ou restauração florestal como objeto; os listados são os mais próximos do tema.",
+      items: [
+        { id: "229", rel: "Adjacente", why: "Sistemas agroflorestais (SAF)" },
+        { id: "362", rel: "Adjacente", why: "Bioeconomia e saberes tradicionais da Mata Atlântica" },
+        { id: "368", rel: "Adjacente", why: "Biomas associados da Mata Atlântica" }
+      ]
+    },
+    {
+      title: "3. Água / recursos hídricos",
+      summary: "Nenhum projeto direto — toda ocorrência de \"água\" nos dados é item de compra (purificadores, mangueiras, água mineral) ou processo industrial; os listados são adjacentes ao tema.",
+      items: [
+        { id: "195", rel: "Adjacente", why: "Educação ambiental na bacia do Rio Doce" },
+        { id: "337", rel: "Adjacente", why: "Educação ambiental no litoral sul do ES — maior valor aprovado do portal" },
+        { id: "369", rel: "Adjacente", why: "Laboratório de análises e tecnologias ambientais" },
+        { id: "338", rel: "Adjacente", why: "Disciplina de tratamento de águas e resíduos" }
+      ]
+    },
+    {
+      title: "4. Restauração Produtiva",
+      summary: "1 projeto direto (R$ 46,8 mil) e 2 adjacentes. \"Restauração\" nos demais projetos aparece como justiça restaurativa ou restaurante (falsos positivos descartados).",
+      items: [
+        { id: "229", rel: "Direto", why: "Implantação de sistemas agroflorestais (SAF) com avaliação econômica e ambiental" },
+        { id: "300", rel: "Adjacente", why: "Plano de trabalho inclui oficina e produção de plano de restauração pós-desastre no RS" },
+        { id: "390", rel: "Adjacente", why: "Transição do sistema alimentar para base agroecológica (PNAPO)" }
+      ]
+    },
+    {
+      title: "5. Agroecologia e ATER",
+      summary: "9 projetos diretos somando R$ 62,6 milhões — maior bloco temático do portal, ancorado no MDA/INCRA (guarda-chuva EMBRAPRO) — mais 2 adjacentes.",
+      note: "Projetos cujo único vínculo era o nome do financiador (ex.: \"Modernização Administrativa\" financiada pelo INCRA) ou \"assistência técnica\" fora do contexto rural (ASSISTEC empreendedorismo, assistência técnica de patrimônio no Convento da Penha) foram descartados.",
+      items: [
+        { id: "390", rel: "Direto", why: "Implementação da Política Nacional de Agroecologia e Produção Orgânica (PNAPO)" },
+        { id: "323", rel: "Direto", why: "Produção de bioinsumos on farm para cooperativas da agricultura familiar" },
+        { id: "205", rel: "Direto", why: "Fortalecimento institucional da agricultura capixaba" },
+        { id: "259", rel: "Direto", why: "Gestão fundiária e ambiental do Programa Nacional de Reforma Agrária (PNRA)" },
+        { id: "328", rel: "Direto", why: "Regularização de ocupantes, titulação de beneficiários e georreferenciamento (INCRA)" },
+        { id: "350", rel: "Direto", why: "Desenvolvimento rural sustentável e valorização dos saberes do campo" },
+        { id: "383", rel: "Direto", why: "Operacionalização regional do Programa Nacional de Reforma Agrária" },
+        { id: "384", rel: "Direto", why: "Plano Nacional de Abastecimento Alimentar (PLANAB 2) — agricultura familiar" },
+        { id: "332", rel: "Direto", why: "Implementação do PLANAB na Região Sudeste — comercialização da agricultura familiar" },
+        { id: "366", rel: "Adjacente", why: "Programa Solo Vivo — manejo e saúde de solos agrícolas" },
+        { id: "377", rel: "Adjacente", why: "Esporte e cultura em comunidades do campo" }
+      ]
+    },
+    {
+      title: "6. Aderência Direta ao Território (Rio Doce e Reparação)",
+      summary: "3 projetos diretos somando R$ 30,5 milhões, mais 2 indiretos — mesmo núcleo da seção 1, recortado ao território do Rio Doce e ao sistema de reparação Samarco/Renova.",
+      items: [
+        { id: "195", rel: "Direto", why: "Programa RioDoceEscolar — educação ambiental nas escolas da bacia do Rio Doce (Fundação Renova)" },
+        { id: "372", rel: "Direto", why: "Reparação socioambiental — povos Tupiniquim e Guarani (ES) e Puri (MG)" },
+        { id: "368", rel: "Direto", why: "Comunidades afetadas pelo crime da Samarco no baixo Rio Doce" },
+        { id: "338", rel: "Indireto", why: "Capacitação técnica financiada pela Samarco na região" },
+        { id: "385", rel: "Indireto", why: "Living Lab Rio Doce — prototipagem e experimentação de tecnologias" }
+      ]
+    },
+    {
+      title: "7. Gestão Ambiental e Biodiversidade (Peso Institucional)",
+      summary: "3 projetos diretos somando R$ 15,9 milhões — dois deles com o ICMBio como financiador — mais 1 adjacente.",
+      items: [
+        { id: "258", rel: "Direto", why: "Sistemas de gestão de dados sobre biodiversidade do ICMBio" },
+        { id: "300", rel: "Direto", why: "Avaliação dos efeitos de desastre climático na fauna silvestre (ICMBio)" },
+        { id: "362", rel: "Direto", why: "Gestão integrada de saberes e territórios — biodiversidade da Mata Atlântica" },
+        { id: "369", rel: "Adjacente", why: "Laboratório multiusuário de tecnologias ambientais" }
+      ]
+    },
+    {
+      title: "8. Cota de Ecossistemas Costeiros (Região 4)",
+      summary: "5 projetos diretos somando R$ 22,8 milhões — pesca oceânica, cadeias produtivas pesqueiras e ambiente marinho-costeiro — mais 1 adjacente.",
+      items: [
+        { id: "256", rel: "Direto", why: "Cadeia produtiva da pesca oceânica do Espírito Santo" },
+        { id: "257", rel: "Direto", why: "Requisitos higiênico-sanitários para embarcações pesqueiras" },
+        { id: "325", rel: "Direto", why: "Cadeia produtiva sustentável da pesca (Ministério da Pesca e Aquicultura)" },
+        { id: "326", rel: "Direto", why: "Tecnologias e processos sustentáveis para aproveitamento pesqueiro" },
+        { id: "368", rel: "Direto", why: "Ambiente marinho-costeiro do baixo Rio Doce e Mata Atlântica" },
+        { id: "337", rel: "Adjacente", why: "Educação ambiental no território costeiro do Eixo Litoral Sul — ES" }
+      ]
+    }
+  ]
+};
+
+function reportRows() {
+  const rows = [];
+  REPORT.groups.forEach(g => g.items.forEach(it => {
+    const p = projects.find(x => x.id === it.id);
+    if (p) rows.push({ g, it, p });
+  }));
+  return rows;
+}
+
+function exportReportCsv() {
+  const header = ["categoria", "relacao", "projeto_id", "titulo", "coordenacao", "financiadora",
+    "valor_aprovado", "vigencia", "ligacao_com_o_tema"];
+  const rows = reportRows().map(({ g, it, p }) => [
+    g.title.replace(/^\d+\.\s*/, ""), it.rel, p.id, p.title, p.coordenador,
+    p.financiadora || "(não declarada)",
+    p.valor ? p.valor.toFixed(2).replace(".", ",") : "",
+    p.d["Data de vigência"] || "", it.why
+  ]);
+  downloadCsv("projetos_tematicos_facto.csv", toCsv(header, rows));
+}
+
+function renderReportPage() {
+  const page = document.getElementById("pageRelatorio");
+  page.textContent = "";
+
+  const back = document.createElement("a");
+  back.className = "back"; back.href = "#/";
+  back.textContent = "← Todos os projetos";
+  page.append(back);
+
+  const head = document.createElement("div"); head.className = "rep-head";
+  const h = document.createElement("h1");
+  h.textContent = "Reflorestamento, Água e Áreas Atingidas";
+  const btn = document.createElement("button");
+  btn.className = "export-main"; btn.type = "button";
+  btn.textContent = "⬇ Exportar CSV";
+  btn.addEventListener("click", exportReportCsv);
+  head.append(h, btn);
+  page.append(head);
+
+  const lede = document.createElement("p"); lede.className = "rep-lede";
+  lede.textContent = REPORT.lede + " Classificação de " + REPORT.updated + ".";
+  page.append(lede);
+
+  REPORT.groups.forEach(g => {
+    const sec = document.createElement("section"); sec.className = "rep-sec";
+    const h2 = document.createElement("h2"); h2.textContent = g.title;
+    const sum = document.createElement("p"); sum.className = "rep-sum"; sum.textContent = g.summary;
+    sec.append(h2, sum);
+
+    const scroll = document.createElement("div"); scroll.className = "tbl-scroll";
+    const table = document.createElement("table"); table.className = "rel";
+    const thead = document.createElement("thead");
+    const trh = document.createElement("tr");
+    ["Projeto", "Relação", "Coordenação", "Financiadora", "Valor aprovado", "Vigência", "Ligação com o tema"].forEach(hh => {
+      const th = document.createElement("th");
+      th.textContent = hh;
+      if (hh === "Valor aprovado") th.className = "valor";
+      trh.append(th);
+    });
+    thead.append(trh); table.append(thead);
+    const tbody = document.createElement("tbody");
+    g.items.forEach(it => {
+      const p = projects.find(x => x.id === it.id);
+      if (!p) return;
+      const tr = document.createElement("tr");
+
+      const tdP = document.createElement("td"); tdP.className = "proj";
+      const a = document.createElement("a");
+      a.href = "#/projeto/" + encodeURIComponent(p.id);
+      const pid = document.createElement("span"); pid.className = "pid"; pid.textContent = p.id;
+      a.append(pid, document.createTextNode(p.title));
+      tdP.append(a);
+
+      const tdR = document.createElement("td");
+      const chip = document.createElement("span");
+      chip.className = "chip" + (it.rel === "Direto" ? " direto" : "");
+      chip.textContent = it.rel;
+      tdR.append(chip);
+
+      const tdC = document.createElement("td"); tdC.textContent = p.coordenador;
+      const tdF = document.createElement("td"); tdF.textContent = p.financiadora || "(não declarada)";
+      const tdV = document.createElement("td"); tdV.className = "valor";
+      tdV.textContent = p.valor ? fmtBRL.format(p.valor) : "—";
+      const tdVig = document.createElement("td");
+      tdVig.textContent = p.d["Data de vigência"] ? "até " + p.d["Data de vigência"] : "—";
+      tdVig.style.whiteSpace = "nowrap";
+      const tdW = document.createElement("td"); tdW.className = "why"; tdW.textContent = it.why;
+
+      tr.append(tdP, tdR, tdC, tdF, tdV, tdVig, tdW);
+      tbody.append(tr);
+    });
+    table.append(tbody);
+    scroll.append(table);
+    sec.append(scroll);
+    if (g.note) {
+      const note = document.createElement("p"); note.className = "rep-note"; note.textContent = g.note;
+      sec.append(note);
+    }
+    page.append(sec);
+  });
+
+  const met = document.createElement("section"); met.className = "rep-sec rep-metodo";
+  const mh = document.createElement("h2"); mh.textContent = "Método";
+  const ol = document.createElement("ol");
+  [
+    "Fonte: dados deste dashboard (scraper factor_lib, 115/115 projetos, zero erros).",
+    "Normalização de acentos e caixa; busca em título, objetivo e plano de trabalho por grupos de termos com variações (reflorest, restauração, mata atlântica, agroflorest; água, hídric, saneamento, nascente; atingid, remanej, desastre, barragem, rio doce, renova, reparação, rejeito).",
+    "Inspeção do contexto de cada ocorrência para descartar falsos positivos antes da classificação."
+  ].forEach(t => { const li = document.createElement("li"); li.textContent = t; ol.append(li); });
+  met.append(mh, ol);
+  page.append(met);
+}
+
 /* ---------- project page & router ---------- */
 function ppChip(text, vigente) {
   const chip = document.createElement("span");
@@ -875,6 +1201,7 @@ function renderProjectPage(id) {
     detailField("Coordenador", p.coordenador),
     detailField("Financiadora", p.financiadora),
     detailField("Instituição executora", p.d["Instituição executora"]),
+    detailField("Campus", p.campus),
     detailField("Departamento", p.d["Departamento"]),
     detailField("Emenda parlamentar", p.d["Emenda Parlamentar"]),
     detailField("Processo", p.d["Processo e sub-processo"])
@@ -911,14 +1238,18 @@ function renderProjectPage(id) {
 
 function route() {
   const m = /^#\/projeto\/(.+)$/.exec(location.hash);
+  document.body.classList.remove("route-projeto", "route-relatorio");
   if (m) {
     const id = decodeURIComponent(m[1]);
     document.body.classList.add("route-projeto");
     renderProjectPage(id);
     const p = projects.find(x => x.id === id);
     document.title = p ? "Projeto " + p.id + " · " + p.title.slice(0, 60) : "Projetos FACTO";
+  } else if (location.hash === "#/relatorio") {
+    document.body.classList.add("route-relatorio");
+    renderReportPage();
+    document.title = "Reflorestamento, Água e Áreas Atingidas · FACTO";
   } else {
-    document.body.classList.remove("route-projeto");
     document.title = "Projetos FACTO";
   }
   window.scrollTo(0, 0);
