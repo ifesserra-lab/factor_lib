@@ -336,6 +336,8 @@ mark { background: var(--bar-soft); color: inherit; border-radius: 2px; padding:
     <select id="fTipo" aria-label="Tipo de projeto"><option value="">Tipo: todos</option></select>
     <select id="fCat" aria-label="Categoria"><option value="">Categoria: todas</option></select>
     <select id="fInstr" aria-label="Instrumento jurídico"><option value="">Instrumento: todos</option></select>
+    <select id="fCoord" aria-label="Coordenador"><option value="">Coordenador: todos</option></select>
+    <select id="fCampus" aria-label="Campus"><option value="">Campus: todos</option></select>
     <select id="fSit" aria-label="Situação">
       <option value="">Situação: todas</option>
       <option value="vigente">Vigentes</option>
@@ -402,6 +404,21 @@ function cleanCell(s) { return (s || "").replace(/ /g, "").trim(); }
 
 const TABLE_FIELDS = ["Recursos por rubrica", "Pagamento pessoa jurídica", "Pagamento pessoa física", "Equipe", "Plano de trabalho", "Documentos"];
 
+const _MINOR_WORDS = ["de", "da", "do", "dos", "das", "e"];
+function extractCampus(inst) {
+  const n = inst || "";
+  const m = /campus\s+(.+)$/i.exec(n);
+  if (m) {
+    const name = m[1].trim().replace(/[.\s]+$/, "").toLowerCase()
+      .split(/\s+/)
+      .map((w, i) => (i > 0 && _MINOR_WORDS.includes(w)) ? w : w.charAt(0).toUpperCase() + w.slice(1))
+      .join(" ");
+    return "Campus " + name;
+  }
+  if (/reitoria/i.test(n)) return "Reitoria";
+  return "(sem campus informado)";
+}
+
 const projects = RAW.map(d => {
   const ref = d["Referência do projeto"] || "";
   const title = ref.replace(/^\d+\s*-\s*/, "") || ref;
@@ -418,6 +435,7 @@ const projects = RAW.map(d => {
     tipo: d["Tipo de Projeto"] || "(sem tipo)",
     categoria: d["Categoria de Projeto"] || "(sem categoria)",
     instrumento: d["Instrumento Jurídico"] || "(sem instrumento)",
+    campus: extractCampus(d["Instituição executora"]),
     valor: parseMoney(d["Valor aprovado"]),
     ini, vig, vigente,
     anoIni: ini ? ini.getFullYear() : null,
@@ -434,6 +452,8 @@ const els = {
   tipo: document.getElementById("fTipo"),
   cat: document.getElementById("fCat"),
   instr: document.getElementById("fInstr"),
+  coord: document.getElementById("fCoord"),
+  campus: document.getElementById("fCampus"),
   sit: document.getElementById("fSit"),
   sort: document.getElementById("sort"),
   count: document.getElementById("count"),
@@ -452,6 +472,8 @@ function fillSelect(sel, values) {
 fillSelect(els.tipo, projects.map(p => p.tipo));
 fillSelect(els.cat, projects.map(p => p.categoria));
 fillSelect(els.instr, projects.map(p => p.instrumento));
+fillSelect(els.coord, projects.map(p => p.coordenador || "(sem coordenador)"));
+fillSelect(els.campus, projects.map(p => p.campus));
 
 function filtered() {
   const terms = norm(els.q.value).split(/\s+/).filter(Boolean);
@@ -459,6 +481,8 @@ function filtered() {
     if (els.tipo.value && p.tipo !== els.tipo.value) return false;
     if (els.cat.value && p.categoria !== els.cat.value) return false;
     if (els.instr.value && p.instrumento !== els.instr.value) return false;
+    if (els.coord.value && (p.coordenador || "(sem coordenador)") !== els.coord.value) return false;
+    if (els.campus.value && p.campus !== els.campus.value) return false;
     if (els.sit.value === "vigente" && !p.vigente) return false;
     if (els.sit.value === "encerrado" && p.vigente) return false;
     return terms.every(t => p.searchable.includes(t));
@@ -767,9 +791,10 @@ document.addEventListener("keydown", ev => {
   }
 });
 els.q.title = "Atalho: tecle / em qualquer lugar para buscar";
-[els.tipo, els.cat, els.instr, els.sit, els.sort].forEach(el => el.addEventListener("change", update));
+[els.tipo, els.cat, els.instr, els.coord, els.campus, els.sit, els.sort].forEach(el => el.addEventListener("change", update));
 document.getElementById("clear").addEventListener("click", () => {
-  els.q.value = ""; els.tipo.value = ""; els.cat.value = ""; els.instr.value = ""; els.sit.value = "";
+  els.q.value = ""; els.tipo.value = ""; els.cat.value = ""; els.instr.value = "";
+  els.coord.value = ""; els.campus.value = ""; els.sit.value = "";
   update();
 });
 
@@ -1145,6 +1170,7 @@ function renderProjectPage(id) {
     detailField("Coordenador", p.coordenador),
     detailField("Financiadora", p.financiadora),
     detailField("Instituição executora", p.d["Instituição executora"]),
+    detailField("Campus", p.campus),
     detailField("Departamento", p.d["Departamento"]),
     detailField("Emenda parlamentar", p.d["Emenda Parlamentar"]),
     detailField("Processo", p.d["Processo e sub-processo"])
