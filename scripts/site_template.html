@@ -102,6 +102,20 @@ h1 {
 .filters input[type="search"] { flex: 1 1 260px; min-width: 220px; }
 .filters input[type="text"] { width: 200px; }
 .filters input::placeholder { color: var(--ink-3); }
+.combo { position: relative; }
+.combo-list {
+  position: absolute; left: 0; top: calc(100% + 4px); z-index: 45;
+  min-width: 100%; width: max-content; max-width: 320px; max-height: 260px; overflow-y: auto;
+  background: var(--surface); border: 1px solid var(--hairline); border-radius: 8px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.14); padding: 4px;
+}
+.combo-list button {
+  display: block; width: 100%; text-align: left; font: inherit; font-size: 13px;
+  color: var(--ink); background: none; border: none; border-radius: 5px;
+  padding: 6px 9px; cursor: pointer;
+}
+.combo-list button:hover, .combo-list button:focus-visible { background: var(--chip-bg); outline: none; }
+.combo-list .combo-count { font-size: 11.5px; color: var(--ink-3); padding: 4px 9px 5px; }
 .filters select { max-width: 230px; }
 .filters input:focus-visible, .filters select:focus-visible, .row:focus-visible, button:focus-visible {
   outline: 2px solid var(--focus); outline-offset: 1px;
@@ -231,6 +245,40 @@ body.route-projeto #pageHome { display: none; }
 #pageRelatorio { display: none; }
 body.route-relatorio #pageRelatorio { display: block; }
 body.route-relatorio #pageHome { display: none; }
+
+/* ---- people pages ---- */
+#pagePessoas, #pagePessoa { display: none; }
+body.route-pessoas #pagePessoas { display: block; }
+body.route-pessoas #pageHome { display: none; }
+body.route-pessoa #pagePessoa { display: block; }
+body.route-pessoa #pageHome { display: none; }
+.people-search { width: 100%; max-width: 420px; font: inherit; font-size: 14px; color: var(--ink);
+  background: var(--surface); border: 1px solid var(--hairline); border-radius: 6px; padding: 9px 11px; margin: 4px 0 18px; }
+.people-search::placeholder { color: var(--ink-3); }
+.person-row {
+  display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 14px;
+  background: var(--surface); border: 1px solid var(--ring); border-radius: 8px;
+  padding: 11px 15px; margin-bottom: 7px; cursor: pointer; text-decoration: none; color: inherit;
+  transition: border-color .15s ease;
+}
+.person-row:hover { border-color: var(--accent); }
+.person-row .pname { font-weight: 600; font-size: 14px; }
+.person-row .pmeta { font-size: 12.5px; color: var(--ink-2); }
+.people-more { font-size: 13px; color: var(--ink-3); padding: 10px 2px; }
+.pp-role-list { margin-bottom: 26px; }
+.pp-role-list h2 { font-size: 16px; font-weight: 700; margin: 0 0 10px;
+  font-family: "Bricolage Grotesque", "Archivo", system-ui, sans-serif; }
+.proj-line {
+  display: grid; grid-template-columns: 1fr auto; gap: 3px 16px;
+  background: var(--surface); border: 1px solid var(--ring); border-radius: 8px;
+  padding: 11px 15px; margin-bottom: 7px; text-decoration: none; color: inherit;
+  transition: border-color .15s ease;
+}
+.proj-line:hover { border-color: var(--accent); }
+.proj-line .pl-title { font-weight: 600; font-size: 13.5px; }
+.proj-line .pl-title .pid { color: var(--ink-3); font-weight: 500; margin-right: 6px; font-variant-numeric: tabular-nums; }
+.proj-line .pl-sub { grid-column: 1; font-size: 12.5px; color: var(--ink-2); }
+.proj-line .pl-right { grid-row: 1 / span 2; grid-column: 2; display: flex; flex-direction: column; align-items: flex-end; gap: 5px; }
 .report-link { margin: -14px 0 26px; font-size: 14px; }
 .report-link a { color: var(--accent-ink); text-decoration: none; font-weight: 500; }
 .report-link a:hover { text-decoration: underline; }
@@ -328,7 +376,11 @@ mark { background: var(--bar-soft); color: inherit; border-radius: 2px; padding:
     <a href="https://facto.conveniar.com.br/portaltransparencia/" rel="noopener">Portal da Transparência</a>
     em <span id="scrapeDate"></span>. Busque por título, coordenador, financiadora, equipe ou qualquer palavra-chave.
   </p>
-  <p class="report-link"><a href="#/relatorio">🌱 Relatório temático: Reflorestamento, Água e Áreas Atingidas →</a></p>
+  <p class="report-link">
+    <a href="#/relatorio">🌱 Relatório temático: Reflorestamento, Água e Áreas Atingidas →</a>
+    &nbsp;·&nbsp;
+    <a href="#/pessoas">👥 Pessoas: participação em projetos →</a>
+  </p>
 
   <section class="kpis" id="kpis" aria-label="Indicadores"></section>
 
@@ -337,10 +389,15 @@ mark { background: var(--bar-soft); color: inherit; border-radius: 2px; padding:
     <select id="fTipo" aria-label="Tipo de projeto"><option value="">Tipo: todos</option></select>
     <select id="fCat" aria-label="Categoria"><option value="">Categoria: todas</option></select>
     <select id="fInstr" aria-label="Instrumento jurídico"><option value="">Instrumento: todos</option></select>
-    <select id="fCoord" aria-label="Coordenador"><option value="">Coordenador: todos</option></select>
     <select id="fCampus" aria-label="Campus"><option value="">Campus: todos</option></select>
-    <input type="text" id="fMembro" list="membrosList" placeholder="Membro da equipe" aria-label="Membro da equipe" autocomplete="off">
-    <datalist id="membrosList"></datalist>
+    <div class="combo">
+      <input type="text" id="fCoord" placeholder="Coordenador" aria-label="Buscar coordenador" autocomplete="off">
+      <div class="combo-list" hidden></div>
+    </div>
+    <div class="combo">
+      <input type="text" id="fMembro" placeholder="Membro da equipe" aria-label="Buscar membro da equipe" autocomplete="off">
+      <div class="combo-list" hidden></div>
+    </div>
     <select id="fSit" aria-label="Situação">
       <option value="">Situação: todas</option>
       <option value="vigente">Vigentes</option>
@@ -374,6 +431,8 @@ mark { background: var(--bar-soft); color: inherit; border-radius: 2px; padding:
 </div>
 <div id="pageProjeto"></div>
 <div id="pageRelatorio"></div>
+<div id="pagePessoas"></div>
+<div id="pagePessoa"></div>
 </div>
 
 <div id="tip" role="tooltip"></div>
@@ -422,21 +481,24 @@ function extractCampus(inst) {
   return "(sem campus informado)";
 }
 
-function parseEquipeNames(raw) {
+function parseEquipeRows(raw) {
   const lines = (raw || "").split("\n").filter(l => l.trim());
-  const names = [];
+  const rows = [];
   lines.slice(2).forEach(l => {
-    const cells = l.split("\t");
-    const n = cells[0].replace(/\u00a0/g, "").trim();
-    if (n && cells.length > 1 && !/^total/i.test(n)) names.push(n);
+    const cells = l.split("\t").map(c => c.replace(/\u00a0/g, "").trim());
+    const n = cells[0];
+    if (n && cells.length > 1 && !/^total/i.test(n)) {
+      rows.push({ nome: n, funcao: cells[1] || "" });
+    }
   });
-  return names;
+  return rows;
 }
 
 const projects = RAW.map(d => {
   const ref = d["Referência do projeto"] || "";
   const title = ref.replace(/^\d+\s*-\s*/, "") || ref;
-  const equipe = parseEquipeNames(d["Equipe"]);
+  const equipeRows = parseEquipeRows(d["Equipe"]);
+  const equipe = equipeRows.map(r => r.nome);
   const vig = parseDate(d["Data de vigência"]);
   const ini = parseDate(d["Data de início"]);
   const vigente = vig ? vig >= TODAY : false;
@@ -452,6 +514,7 @@ const projects = RAW.map(d => {
     instrumento: d["Instrumento Jurídico"] || "(sem instrumento)",
     campus: extractCampus(d["Instituição executora"]),
     equipe,
+    equipeRows,
     equipeNorm: norm(equipe.join("\n")),
     valor: parseMoney(d["Valor aprovado"]),
     ini, vig, vigente,
@@ -490,18 +553,64 @@ function fillSelect(sel, values) {
 fillSelect(els.tipo, projects.map(p => p.tipo));
 fillSelect(els.cat, projects.map(p => p.categoria));
 fillSelect(els.instr, projects.map(p => p.instrumento));
-fillSelect(els.coord, projects.map(p => p.coordenador || "(sem coordenador)"));
 fillSelect(els.campus, projects.map(p => p.campus));
-{
-  const dl = document.getElementById("membrosList");
-  [...new Set(projects.flatMap(p => p.equipe))]
-    .sort((a, b) => a.localeCompare(b, "pt-BR"))
-    .forEach(n => {
-      const o = document.createElement("option");
-      o.value = n;
-      dl.append(o);
+
+/* searchable combobox: filters options accent-insensitively as the user types */
+const COORD_NAMES = [...new Set(projects.map(p => p.coordenador).filter(Boolean))]
+  .sort((a, b) => a.localeCompare(b, "pt-BR"));
+const MEMBRO_NAMES = [...new Set(projects.flatMap(p => p.equipe))]
+  .sort((a, b) => a.localeCompare(b, "pt-BR"));
+
+function makeCombo(input, names) {
+  const list = input.parentElement.querySelector(".combo-list");
+  function select(value) {
+    input.value = value;
+    list.hidden = true;
+    update();
+  }
+  function render() {
+    const q = norm(input.value.trim());
+    const opts = names.filter(n => !q || norm(n).includes(q));
+    list.textContent = "";
+    if (!opts.length || (opts.length === 1 && norm(opts[0]) === q)) { list.hidden = true; return; }
+    opts.slice(0, 40).forEach(n => {
+      const b = document.createElement("button");
+      b.type = "button";
+      b.textContent = n;
+      b.addEventListener("mousedown", ev => ev.preventDefault());
+      b.addEventListener("click", () => select(n));
+      list.append(b);
     });
+    if (opts.length > 40) {
+      const c = document.createElement("div");
+      c.className = "combo-count";
+      c.textContent = "+" + (opts.length - 40) + " nomes — continue digitando para refinar";
+      list.append(c);
+    }
+    list.hidden = false;
+  }
+  input.addEventListener("input", render);
+  input.addEventListener("focus", render);
+  input.addEventListener("blur", () => setTimeout(() => { list.hidden = true; }, 150));
+  input.addEventListener("keydown", ev => {
+    if (ev.key === "Escape") list.hidden = true;
+    else if (ev.key === "Enter") { ev.preventDefault(); list.hidden = true; }
+    else if (ev.key === "ArrowDown") {
+      ev.preventDefault();
+      const b = list.querySelector("button");
+      if (b) b.focus();
+    }
+  });
+  list.addEventListener("keydown", ev => {
+    const items = [...list.querySelectorAll("button")];
+    const i = items.indexOf(document.activeElement);
+    if (ev.key === "ArrowDown") { ev.preventDefault(); (items[i + 1] || items[0]).focus(); }
+    else if (ev.key === "ArrowUp") { ev.preventDefault(); if (i <= 0) input.focus(); else items[i - 1].focus(); }
+    else if (ev.key === "Escape") { list.hidden = true; input.focus(); }
+  });
 }
+makeCombo(els.coord, COORD_NAMES);
+makeCombo(els.membro, MEMBRO_NAMES);
 
 function filtered() {
   const terms = norm(els.q.value).split(/\s+/).filter(Boolean);
@@ -509,7 +618,8 @@ function filtered() {
     if (els.tipo.value && p.tipo !== els.tipo.value) return false;
     if (els.cat.value && p.categoria !== els.cat.value) return false;
     if (els.instr.value && p.instrumento !== els.instr.value) return false;
-    if (els.coord.value && (p.coordenador || "(sem coordenador)") !== els.coord.value) return false;
+    const coordQ = norm(els.coord.value.trim());
+    if (coordQ && !norm(p.coordenador).includes(coordQ)) return false;
     if (els.campus.value && p.campus !== els.campus.value) return false;
     const membro = norm(els.membro.value.trim());
     if (membro && !p.equipeNorm.includes(membro)) return false;
@@ -821,8 +931,9 @@ document.addEventListener("keydown", ev => {
   }
 });
 els.q.title = "Atalho: tecle / em qualquer lugar para buscar";
-[els.tipo, els.cat, els.instr, els.coord, els.campus, els.sit, els.sort].forEach(el => el.addEventListener("change", update));
-els.membro.addEventListener("input", () => { clearTimeout(debounce); debounce = setTimeout(update, 120); });
+[els.tipo, els.cat, els.instr, els.campus, els.sit, els.sort].forEach(el => el.addEventListener("change", update));
+[els.coord, els.membro].forEach(el =>
+  el.addEventListener("input", () => { clearTimeout(debounce); debounce = setTimeout(update, 120); }));
 document.getElementById("clear").addEventListener("click", () => {
   els.q.value = ""; els.tipo.value = ""; els.cat.value = ""; els.instr.value = "";
   els.coord.value = ""; els.campus.value = ""; els.membro.value = ""; els.sit.value = "";
@@ -1137,6 +1248,164 @@ function renderReportPage() {
   page.append(met);
 }
 
+/* ---------- people index & pages ---------- */
+const people = new Map(); // key: normalized name
+function personEntry(name) {
+  const k = norm(name);
+  let e = people.get(k);
+  if (!e) { e = { key: k, name, coord: [], member: new Map() }; people.set(k, e); }
+  // prefer a mixed-case display variant over ALL CAPS
+  if (e.name === e.name.toUpperCase() && name !== name.toUpperCase()) e.name = name;
+  return e;
+}
+projects.forEach(p => {
+  if (p.coordenador) personEntry(p.coordenador).coord.push(p.id);
+  p.equipeRows.forEach(r => {
+    const e = personEntry(r.nome);
+    const funcs = e.member.get(p.id) || new Set();
+    if (r.funcao) funcs.add(r.funcao);
+    e.member.set(p.id, funcs);
+  });
+});
+const PEOPLE = [...people.values()].map(e => ({
+  key: e.key,
+  name: e.name,
+  coord: e.coord,
+  member: [...e.member.entries()].map(([id, funcs]) => ({ id, funcoes: [...funcs] })),
+  total: new Set([...e.coord, ...e.member.keys()]).size
+})).sort((a, b) => b.total - a.total || a.name.localeCompare(b.name, "pt-BR"));
+
+function projLine(p, subText) {
+  const a = document.createElement("a");
+  a.className = "proj-line";
+  a.href = "#/projeto/" + encodeURIComponent(p.id);
+  const t = document.createElement("div"); t.className = "pl-title";
+  const pid = document.createElement("span"); pid.className = "pid"; pid.textContent = p.id;
+  t.append(pid, document.createTextNode(p.title));
+  const sub = document.createElement("div"); sub.className = "pl-sub";
+  sub.textContent = subText;
+  const right = document.createElement("div"); right.className = "pl-right";
+  const chip = document.createElement("span"); chip.className = "chip" + (p.vigente ? " vigente" : "");
+  const dot = document.createElement("span"); dot.className = "dot";
+  chip.append(dot, document.createTextNode(p.vigente ? "Vigente" : "Encerrado"));
+  const val = document.createElement("span"); val.className = "tag";
+  val.textContent = p.valor ? compactBRL(p.valor) : "";
+  right.append(chip, val);
+  a.append(t, sub, right);
+  return a;
+}
+
+function renderPessoasPage() {
+  const page = document.getElementById("pagePessoas");
+  page.textContent = "";
+  const back = document.createElement("a"); back.className = "back"; back.href = "#/";
+  back.textContent = "← Todos os projetos";
+  page.append(back);
+
+  const h = document.createElement("h1"); h.className = "pp-title";
+  h.textContent = "Pessoas nos projetos";
+  page.append(h);
+  const lede = document.createElement("p"); lede.className = "rep-lede";
+  lede.textContent = PEOPLE.length + " pessoas entre coordenadores e equipes dos 115 projetos. Busque um nome para ver em quais projetos a pessoa participou ou está participando.";
+  page.append(lede);
+
+  const input = document.createElement("input");
+  input.type = "search"; input.className = "people-search";
+  input.placeholder = "Buscar pessoa por nome…";
+  input.setAttribute("aria-label", "Buscar pessoa");
+  page.append(input);
+
+  const listEl = document.createElement("div");
+  page.append(listEl);
+
+  function renderList() {
+    const q = norm(input.value.trim());
+    const matches = q ? PEOPLE.filter(pe => pe.key.includes(q)) : PEOPLE;
+    listEl.textContent = "";
+    matches.slice(0, 60).forEach(pe => {
+      const a = document.createElement("a");
+      a.className = "person-row";
+      a.href = "#/pessoa/" + encodeURIComponent(pe.key);
+      const n = document.createElement("span"); n.className = "pname"; n.textContent = pe.name;
+      const m = document.createElement("span"); m.className = "pmeta";
+      const parts = [];
+      if (pe.coord.length) parts.push(pe.coord.length + " como coordenador(a)");
+      if (pe.member.length) parts.push(pe.member.length + " na equipe");
+      m.textContent = pe.total + " projeto" + (pe.total === 1 ? "" : "s") + " — " + parts.join(" · ");
+      a.append(n, m);
+      listEl.append(a);
+    });
+    if (matches.length > 60) {
+      const more = document.createElement("div"); more.className = "people-more";
+      more.textContent = "+" + (matches.length - 60) + " pessoas — refine a busca para encontrar quem procura.";
+      listEl.append(more);
+    }
+    if (!matches.length) {
+      const none = document.createElement("div"); none.className = "no-results";
+      none.textContent = "Nenhuma pessoa encontrada com esse nome.";
+      listEl.append(none);
+    }
+  }
+  let t;
+  input.addEventListener("input", () => { clearTimeout(t); t = setTimeout(renderList, 120); });
+  renderList();
+}
+
+function renderPessoaPage(key) {
+  const page = document.getElementById("pagePessoa");
+  page.textContent = "";
+  const back = document.createElement("a"); back.className = "back"; back.href = "#/pessoas";
+  back.textContent = "← Todas as pessoas";
+  page.append(back);
+
+  const pe = PEOPLE.find(x => x.key === key);
+  if (!pe) {
+    const e = document.createElement("div"); e.className = "no-results";
+    e.textContent = "Pessoa não encontrada.";
+    page.append(e);
+    return;
+  }
+
+  const eye = document.createElement("div"); eye.className = "pp-eyebrow"; eye.textContent = "Pessoa";
+  const h = document.createElement("h1"); h.className = "pp-title"; h.textContent = pe.name;
+  page.append(eye, h);
+
+  const ids = new Set([...pe.coord, ...pe.member.map(m => m.id)]);
+  const projs = projects.filter(p => ids.has(p.id));
+  const vigentes = projs.filter(p => p.vigente).length;
+  const chips = document.createElement("div"); chips.className = "pp-chips";
+  chips.append(ppChip(ids.size + " projeto" + (ids.size === 1 ? "" : "s")));
+  chips.append(ppChip(vigentes + " vigente" + (vigentes === 1 ? "" : "s") + " (participando agora)", vigentes > 0 ? true : undefined));
+  page.append(chips);
+
+  if (pe.coord.length) {
+    const sec = document.createElement("div"); sec.className = "pp-role-list";
+    const h2 = document.createElement("h2"); h2.textContent = "Como coordenador(a) — " + pe.coord.length;
+    sec.append(h2);
+    pe.coord
+      .map(id => projects.find(p => p.id === id))
+      .filter(Boolean)
+      .sort((a, b) => b.valor - a.valor)
+      .forEach(p => sec.append(projLine(p, (p.d["Data de início"] || "?") + " → " + (p.d["Data de vigência"] || "?") + " · " + (p.financiadora || "sem financiadora"))));
+    page.append(sec);
+  }
+
+  if (pe.member.length) {
+    const sec = document.createElement("div"); sec.className = "pp-role-list";
+    const h2 = document.createElement("h2"); h2.textContent = "Na equipe — " + pe.member.length;
+    sec.append(h2);
+    pe.member
+      .map(m => ({ m, p: projects.find(p => p.id === m.id) }))
+      .filter(x => x.p)
+      .sort((a, b) => b.p.valor - a.p.valor)
+      .forEach(({ m, p }) => {
+        const funcao = m.funcoes.length ? m.funcoes.join(", ") : "função não informada";
+        sec.append(projLine(p, funcao + " · " + (p.d["Data de início"] || "?") + " → " + (p.d["Data de vigência"] || "?")));
+      });
+    page.append(sec);
+  }
+}
+
 /* ---------- project page & router ---------- */
 function ppChip(text, vigente) {
   const chip = document.createElement("span");
@@ -1238,13 +1507,24 @@ function renderProjectPage(id) {
 
 function route() {
   const m = /^#\/projeto\/(.+)$/.exec(location.hash);
-  document.body.classList.remove("route-projeto", "route-relatorio");
+  const mp = /^#\/pessoa\/(.+)$/.exec(location.hash);
+  document.body.classList.remove("route-projeto", "route-relatorio", "route-pessoas", "route-pessoa");
   if (m) {
     const id = decodeURIComponent(m[1]);
     document.body.classList.add("route-projeto");
     renderProjectPage(id);
     const p = projects.find(x => x.id === id);
     document.title = p ? "Projeto " + p.id + " · " + p.title.slice(0, 60) : "Projetos FACTO";
+  } else if (mp) {
+    const key = decodeURIComponent(mp[1]);
+    document.body.classList.add("route-pessoa");
+    renderPessoaPage(key);
+    const pe = PEOPLE.find(x => x.key === key);
+    document.title = pe ? pe.name + " · Projetos FACTO" : "Projetos FACTO";
+  } else if (location.hash === "#/pessoas") {
+    document.body.classList.add("route-pessoas");
+    renderPessoasPage();
+    document.title = "Pessoas · Projetos FACTO";
   } else if (location.hash === "#/relatorio") {
     document.body.classList.add("route-relatorio");
     renderReportPage();
