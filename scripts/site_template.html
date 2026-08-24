@@ -94,13 +94,14 @@ h1 {
   padding: 12px 0 14px; border-bottom: 1px solid var(--hairline); margin-bottom: 24px;
   position: sticky; top: 0; z-index: 30; background: var(--bg);
 }
-.filters input[type="search"], .filters select {
+.filters input[type="search"], .filters input[type="text"], .filters select {
   font: inherit; font-size: 14px; color: var(--ink);
   background: var(--surface); border: 1px solid var(--hairline); border-radius: 6px;
   padding: 8px 10px;
 }
 .filters input[type="search"] { flex: 1 1 260px; min-width: 220px; }
-.filters input[type="search"]::placeholder { color: var(--ink-3); }
+.filters input[type="text"] { width: 200px; }
+.filters input::placeholder { color: var(--ink-3); }
 .filters select { max-width: 230px; }
 .filters input:focus-visible, .filters select:focus-visible, .row:focus-visible, button:focus-visible {
   outline: 2px solid var(--focus); outline-offset: 1px;
@@ -338,6 +339,8 @@ mark { background: var(--bar-soft); color: inherit; border-radius: 2px; padding:
     <select id="fInstr" aria-label="Instrumento jurídico"><option value="">Instrumento: todos</option></select>
     <select id="fCoord" aria-label="Coordenador"><option value="">Coordenador: todos</option></select>
     <select id="fCampus" aria-label="Campus"><option value="">Campus: todos</option></select>
+    <input type="text" id="fMembro" list="membrosList" placeholder="Membro da equipe" aria-label="Membro da equipe" autocomplete="off">
+    <datalist id="membrosList"></datalist>
     <select id="fSit" aria-label="Situação">
       <option value="">Situação: todas</option>
       <option value="vigente">Vigentes</option>
@@ -419,9 +422,21 @@ function extractCampus(inst) {
   return "(sem campus informado)";
 }
 
+function parseEquipeNames(raw) {
+  const lines = (raw || "").split("\n").filter(l => l.trim());
+  const names = [];
+  lines.slice(2).forEach(l => {
+    const cells = l.split("\t");
+    const n = cells[0].replace(/\u00a0/g, "").trim();
+    if (n && cells.length > 1 && !/^total/i.test(n)) names.push(n);
+  });
+  return names;
+}
+
 const projects = RAW.map(d => {
   const ref = d["Referência do projeto"] || "";
   const title = ref.replace(/^\d+\s*-\s*/, "") || ref;
+  const equipe = parseEquipeNames(d["Equipe"]);
   const vig = parseDate(d["Data de vigência"]);
   const ini = parseDate(d["Data de início"]);
   const vigente = vig ? vig >= TODAY : false;
@@ -436,6 +451,8 @@ const projects = RAW.map(d => {
     categoria: d["Categoria de Projeto"] || "(sem categoria)",
     instrumento: d["Instrumento Jurídico"] || "(sem instrumento)",
     campus: extractCampus(d["Instituição executora"]),
+    equipe,
+    equipeNorm: norm(equipe.join("\n")),
     valor: parseMoney(d["Valor aprovado"]),
     ini, vig, vigente,
     anoIni: ini ? ini.getFullYear() : null,
@@ -454,6 +471,7 @@ const els = {
   instr: document.getElementById("fInstr"),
   coord: document.getElementById("fCoord"),
   campus: document.getElementById("fCampus"),
+  membro: document.getElementById("fMembro"),
   sit: document.getElementById("fSit"),
   sort: document.getElementById("sort"),
   count: document.getElementById("count"),
@@ -474,6 +492,16 @@ fillSelect(els.cat, projects.map(p => p.categoria));
 fillSelect(els.instr, projects.map(p => p.instrumento));
 fillSelect(els.coord, projects.map(p => p.coordenador || "(sem coordenador)"));
 fillSelect(els.campus, projects.map(p => p.campus));
+{
+  const dl = document.getElementById("membrosList");
+  [...new Set(projects.flatMap(p => p.equipe))]
+    .sort((a, b) => a.localeCompare(b, "pt-BR"))
+    .forEach(n => {
+      const o = document.createElement("option");
+      o.value = n;
+      dl.append(o);
+    });
+}
 
 function filtered() {
   const terms = norm(els.q.value).split(/\s+/).filter(Boolean);
@@ -483,6 +511,8 @@ function filtered() {
     if (els.instr.value && p.instrumento !== els.instr.value) return false;
     if (els.coord.value && (p.coordenador || "(sem coordenador)") !== els.coord.value) return false;
     if (els.campus.value && p.campus !== els.campus.value) return false;
+    const membro = norm(els.membro.value.trim());
+    if (membro && !p.equipeNorm.includes(membro)) return false;
     if (els.sit.value === "vigente" && !p.vigente) return false;
     if (els.sit.value === "encerrado" && p.vigente) return false;
     return terms.every(t => p.searchable.includes(t));
@@ -792,9 +822,10 @@ document.addEventListener("keydown", ev => {
 });
 els.q.title = "Atalho: tecle / em qualquer lugar para buscar";
 [els.tipo, els.cat, els.instr, els.coord, els.campus, els.sit, els.sort].forEach(el => el.addEventListener("change", update));
+els.membro.addEventListener("input", () => { clearTimeout(debounce); debounce = setTimeout(update, 120); });
 document.getElementById("clear").addEventListener("click", () => {
   els.q.value = ""; els.tipo.value = ""; els.cat.value = ""; els.instr.value = "";
-  els.coord.value = ""; els.campus.value = ""; els.sit.value = "";
+  els.coord.value = ""; els.campus.value = ""; els.membro.value = ""; els.sit.value = "";
   update();
 });
 
