@@ -76,7 +76,16 @@ class TestScrapeAllProjectsE2E:
 
         from factor_lib.api import scrape_all_projects
 
-        with patch("factor_lib.api.BrowserFactory") as mock_factory_cls:
+        # The mocked detail page never contains the requested project, so every
+        # project falls through all filter candidates; keep one attempt each to
+        # bound the test's runtime (the fallback itself is unit-tested).
+        with (
+            patch("factor_lib.api.BrowserFactory") as mock_factory_cls,
+            patch(
+                "factor_lib.pages.portal_page.filter_candidates",
+                side_effect=lambda f: [f],
+            ),
+        ):
             mock_factory_cls.return_value.__enter__.return_value.new_page.return_value = page
             result = scrape_all_projects(url=PORTAL_URL)
 

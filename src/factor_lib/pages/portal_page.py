@@ -17,6 +17,18 @@ DETAIL_READY_JS = (
 )
 
 _ID_RE = re.compile(r"projeto\s+(\d+)", re.IGNORECASE)
+_PREFIX_WORDS = (4, 2, 1)
+
+
+def filter_candidates(name_filter: str) -> list[str]:
+    """Search filters to try, from the full filter to shorter word prefixes.
+
+    "A B C D E" → ["A B C D E", "A B C D", "A B", "A"]. An empty filter yields
+    [""] (no filtering). Duplicates are dropped, order is preserved.
+    """
+    words = name_filter.split()
+    candidates = [name_filter.strip()] + [" ".join(words[:n]) for n in _PREFIX_WORDS]
+    return list(dict.fromkeys(c for c in candidates if c)) or [""]
 
 
 class TransparencyPortalPage(BasePage):
@@ -62,6 +74,27 @@ class TransparencyPortalPage(BasePage):
         by the portal's postback handling, so narrow the grid down with the
         name filter before clicking. The row is matched by project id because
         different projects can share the same title.
+
+        The portal's text search is not a plain substring match on the
+        displayed title (stored titles may differ in whitespace/accents), so a
+        long filter can return zero rows. When the project is not found, retry
+        with progressively shorter word prefixes of the filter.
+        """
+        tried: list[str] = []
+        for candidate in filter_candidates(name_filter):
+            miss = self._try_open(project_id, candidate)
+            if miss is None:
+                return
+            tried.append(f"{candidate!r}: {miss}")
+        raise ValueError(
+            f"Project {project_id!r} not found in filtered listing "
+            f"(tried: {', '.join(tried)})"
+        )
+
+    def _try_open(self, project_id: str, name_filter: str) -> str | None:
+        """Filter the listing and click the lupa whose text has the exact id.
+
+        Returns None on success, otherwise a short diagnostic ("N rows").
         """
         self.navigate()
         self.wait_for(SEARCH_INPUT_SEL)
@@ -75,11 +108,8 @@ class TransparencyPortalPage(BasePage):
             if needle in lupas.nth(i).inner_text().lower():
                 lupas.nth(i).click(timeout=self.default_timeout)
                 self._wait_detail_ready()
-                return
-        raise ValueError(
-            f"Project {project_id!r} not found in filtered listing "
-            f"(filter={name_filter!r}, rows={count})"
-        )
+                return None
+        return f"{count} rows"
 
     def _wait_detail_ready(self) -> None:
         self.page.wait_for_load_state("networkidle", timeout=60_000)
