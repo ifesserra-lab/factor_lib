@@ -34,6 +34,25 @@ def _name_filter(listing_name: str) -> str:
     return title[:_MAX_FILTER_LEN].strip()
 
 
+_REF_ID_RE = re.compile(r"^\s*(\d+)\s*-")
+
+
+def _reference_mismatch(project_id: str, fields: dict[str, str]) -> str | None:
+    """Describe a mismatch when the detail view belongs to another project.
+
+    The portal sometimes opens a different record from a project's lupa (e.g.
+    project 259 shows "393 - Fundo rescisório ... (259)"). The fields are kept,
+    but the record is flagged so consumers do not take them as project_id's.
+    """
+    m = _REF_ID_RE.match(fields.get("Referência do projeto", ""))
+    if m and m.group(1) != project_id:
+        return (
+            f"Portal returned project {m.group(1)} for project {project_id} "
+            f"(Referência: {fields['Referência do projeto'][:120]!r})"
+        )
+    return None
+
+
 class DetailScraper(AbstractScraper):
     """Scrapes the detail view for each project by clicking its lupa icon."""
 
@@ -51,6 +70,9 @@ class DetailScraper(AbstractScraper):
             try:
                 portal_page.open_project_detail(item.id, name_filter=_name_filter(item.name))
                 fields = portal_page.get_detail_fields()
+                mismatch = _reference_mismatch(item.id, fields)
+                if mismatch:
+                    logger.warning("Project %s: %s", item.id, mismatch)
                 records.append(
                     ProjectDetailRecord(
                         id=item.id,
@@ -58,6 +80,7 @@ class DetailScraper(AbstractScraper):
                         fields=fields,
                         _source_url=self.source_url,
                         _scraped_at=scraped_at,
+                        _error=mismatch,
                     )
                 )
             except Exception as exc:

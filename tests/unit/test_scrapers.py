@@ -220,3 +220,53 @@ class TestDetailScraperNameFilter:
         assert args[0] == "7"
         name_filter = kwargs.get("name_filter", args[1] if len(args) > 1 else "")
         assert name_filter == ""
+
+
+class TestFilterCandidates:
+    def test_full_filter_first_then_shorter_word_prefixes(self) -> None:
+        from factor_lib.pages.portal_page import filter_candidates
+
+        assert filter_candidates("REQUISITOS HIGIÊNICOS SANITÁRIOS PARA EM") == [
+            "REQUISITOS HIGIÊNICOS SANITÁRIOS PARA EM",
+            "REQUISITOS HIGIÊNICOS SANITÁRIOS PARA",
+            "REQUISITOS HIGIÊNICOS",
+            "REQUISITOS",
+        ]
+
+    def test_short_filter_has_no_duplicates(self) -> None:
+        from factor_lib.pages.portal_page import filter_candidates
+
+        assert filter_candidates("Fundo rescisório") == ["Fundo rescisório", "Fundo"]
+
+    def test_empty_filter_means_no_filter(self) -> None:
+        from factor_lib.pages.portal_page import filter_candidates
+
+        assert filter_candidates("") == [""]
+
+
+class TestDetailScraperReferenceMismatch:
+    def _scrape(self, project_id: str, fields: dict[str, str]) -> ProjectDetailRecord:
+        from factor_lib.scrapers.detail_scraper import DetailScraper
+
+        mock_portal_page = MagicMock()
+        mock_portal_page.get_detail_fields.return_value = fields
+        listing = [ProjectListingRecord(id=project_id, name="P", raw_row={})]
+        return DetailScraper().scrape(mock_portal_page, listing)[0]
+
+    def test_flags_record_when_portal_returns_another_project(self) -> None:
+        fields = {"Referência do projeto": "393 - Fundo rescisório - PNRA Nacional (259)"}
+        record = self._scrape("259", fields)
+
+        assert record._error is not None
+        assert "393" in record._error and "259" in record._error
+        assert record.fields == fields
+
+    def test_matching_reference_has_no_error(self) -> None:
+        record = self._scrape("259", {"Referência do projeto": "259 - Execução PNRA"})
+
+        assert record._error is None
+
+    def test_missing_reference_has_no_error(self) -> None:
+        record = self._scrape("259", {"Coordenador": "Ana"})
+
+        assert record._error is None
